@@ -15,7 +15,7 @@ yaml = set()
 pattern = re.compile("^[a-z']+$")
 kmandarin_8105.load()
 custom_dict = {
-    '一': [['heng2','yi1']], # 横
+    '一': [['heng2']], # 横
     '丨': [['shu4']], # 竖
     '丿': [['pie3']], # 撇
     '乁': [['na4']], # 捺
