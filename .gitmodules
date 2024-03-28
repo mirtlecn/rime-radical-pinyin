@@ -1,0 +1,3 @@
+[submodule "dict"]
+	path = dict
+	url = https://github.com/mirtlecn/chaizi-re.git
