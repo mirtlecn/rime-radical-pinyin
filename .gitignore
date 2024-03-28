@@ -1,0 +1,6 @@
+.DS_Store
+gen/*
+.vscode
+radical.txt
+__pycache__
+dict
