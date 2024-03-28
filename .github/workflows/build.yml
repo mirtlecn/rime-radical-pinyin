@@ -84,7 +84,7 @@ jobs:
 
       - name: Create Nightly release
         if: ${{ ! startsWith(github.ref, 'refs/tags/') }}
-        uses: 'softprops/action-gh-release@v2.0.2'
+        uses: 'softprops/action-gh-release@v2.0.4'
         with:
           body: |
             ## Note
@@ -93,6 +93,7 @@ jobs:
             - `extra.zip`：辅码反查 lua 和带声调的 build 文件
           tag_name: nightly
           name: "nightly build"
+          make_latest: true
           prerelease: true
           generate_release_notes: true
           fail_on_unmatched_files: true
@@ -101,7 +102,7 @@ jobs:
 
       - name: Create Stable release
         if: startsWith(github.ref, 'refs/tags/')
-        uses: 'softprops/action-gh-release@v2.0.2'
+        uses: 'softprops/action-gh-release@v2.0.4'
         with:
           body: |
             ## Note
@@ -111,6 +112,7 @@ jobs:
           generate_release_notes: true
           draft: true
           prerelease: false
+          make_latest: true
           fail_on_unmatched_files: true
           files: |
             gen/*.zip
