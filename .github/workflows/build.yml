@@ -1,0 +1,122 @@
+name: Build and Release
+
+on:
+  push:
+    branches:
+      - build
+    tags:
+      - '[0-9]+.*'
+    paths:
+      - 'dict/radical.yaml'
+      - 'add.yaml'
+      - 'info.yaml'
+      - '*.schema.yaml'
+  workflow_dispatch:
+  repository_dispatch:
+    types: [chaizi_update]
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.TOKEN }}
+          ref: 'build'
+          fetch-depth: '0'
+          submodules: true
+
+      - name: Set up git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Update submodule
+        if: github.event_name == 'repository_dispatch'
+        run: |
+          cd dict
+          git checkout master
+          git pull
+          cd ..
+          $Status = git status --porcelain
+          if ( $Status ) {
+          "Update submodule"
+          git add --all
+          git commit -m "update submodule" && git push origin build
+          }
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+
+      - name: Build
+        run: |
+          make
+
+      - name: Update
+        run: |
+          $ErrorActionPreference = 'Break'
+          $CommitInfo = Get-Date -UFormat %s
+
+          git checkout master
+          cp gen/radical_pinyin.dict.yaml. , gen/radical_pinyin.schema.yaml
+          $Status = git status --porcelain
+          if ( $Status ) {
+          "Push to master branch"
+          git add --all
+          git commit -m "gen: $CommitInfo" && git push origin master
+          }
+          Compress-Archive "*.dict.yaml","*.schema.yaml" "gen/radical_pinyin.zip"
+
+          git checkout flypy
+          cp gen/radical_flypy.dict.yaml, gen/radical.schema.yaml
+          $Status = git status --porcelain
+          if ( $Status ) {
+          "Push to flypy branch"
+          git add --all
+          git commit -m "gen: $CommitInfo" && git push origin flypy
+          }
+          Compress-Archive "*.dict.yaml","*.schema.yaml" "gen/radical_flypy.zip"
+
+      - name: Create Nightly release
+        if: ${{ github.ref == 'refs/heads/build' }}
+        uses: 'softprops/action-gh-release@v2.0.2'
+        with:
+          body: |
+            ## Note
+            - `radical_pinyin.zip` : 包含全拼双拼的方案和词库
+            - `radical_flypy.zip`：仅适用于小鹤双拼的方案和词库
+            - `extra.zip`：辅码反查 lua 和带声调的 build 文件
+          tag_name: nightly
+          name: "nightly build"
+          prerelease: true
+          target_commitish: "gen"
+          generate_release_notes: true
+          fail_on_unmatched_files: true
+          files: |
+            gen/*.zip
+
+      - name: Create Stable release
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: 'softprops/action-gh-release@v2.0.2'
+        with:
+          body: |
+            ## Note
+            - `radical_pinyin.zip` : 包含全拼双拼的方案和词库
+            - `radical_flypy.zip`：仅适用于小鹤双拼的方案和词库
+            - `extra.zip`：辅码反查 lua 和带声调的 build 文件
+          generate_release_notes: true
+          target_commitish: "gen"
+          draft: true
+          prerelease: false
+          fail_on_unmatched_files: true
+          files: |
+            gen/*.zip
+
+      - name: Error Handling
+        if: ${{ failure() }}
+        run: exit 1
