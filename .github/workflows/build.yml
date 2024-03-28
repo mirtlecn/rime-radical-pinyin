@@ -94,7 +94,6 @@ jobs:
           tag_name: nightly
           name: "nightly build"
           prerelease: true
-          target_commitish: "gen"
           generate_release_notes: true
           fail_on_unmatched_files: true
           files: |
@@ -110,7 +109,6 @@ jobs:
             - `radical_flypy.zip`：仅适用于小鹤双拼的方案和词库
             - `extra.zip`：辅码反查 lua 和带声调的 build 文件
           generate_release_notes: true
-          target_commitish: "gen"
           draft: true
           prerelease: false
           fail_on_unmatched_files: true
