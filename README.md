@@ -35,7 +35,7 @@
 
 ![image](res/reverse.gif)
 
-可以用作辅助码，快速找到候选字词（`镓锗砷锡溴氪铷锶钇锆->钅钅石钅氵气钅钅钅钅`）（使用请参考 [search.lua](https://github.com/mirtlecn/rime-radical-pinyin/blob/extra/search.lua.md)）：
+可以用作辅助码，快速找到候选字词（`镓锗砷锡溴氪铷锶钇锆->钅钅石钅氵气钅钅钅钅`）（使用请参考 [search.lua](search.lua.md)）：
 
 ![image](res/fuma.gif)
 
@@ -178,7 +178,7 @@ recognizer:
 
 可以自行生成带辅码的词典，亦或者借助 lua。
 
-本库提供了一个辅助码 lua 可供尝试，请参考 [search.lua](https://github.com/mirtlecn/rime-radical-pinyin/blob/extra/search.lua.md)。
+本库提供了一个辅助码 lua 可供尝试，请参考 [search.lua](search.lua.md)。
 
 ## 注音
 
@@ -225,7 +225,7 @@ radical_reverse_lookup:
 
 开启用户词典后，双拼状态下，会产生未被算法转化的含引号全拼编码，出现一些意外候选。简单的解决办法是设定 enable_user_dict 为 false（已经在本方案设定，仍需在主方案中设定）。
 
-也可以自行将词典直接转化为双拼编码，如 `flypy` 分支所示，`build` 分支下有示例脚本，Release 界面有生成的词典。
+也可以自行将词典直接转化为双拼编码，`build` 分支下有示例脚本，Release 界面有生成的词典。
 
 ## Credit
 
