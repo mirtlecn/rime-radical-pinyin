@@ -28,7 +28,7 @@ engine:
     - uniquifier
 
 key_binder:
-  import_preset: default
+  __include: default:/key_binder?
 
 speller:
   alphabet: "abcdefghijklmnopqrstuvwxyz"
