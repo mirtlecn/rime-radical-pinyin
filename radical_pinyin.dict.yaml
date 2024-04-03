@@ -19983,6 +19983,7 @@ sort: original
 箰	xun'zi
 箰	sun'zi
 箯	zhu'bian
+箮	zhu'xuan
 箭	zhu'qian
 箬	zhu'ruo
 箫	zhu'su
@@ -20057,8 +20058,10 @@ sort: original
 筿	zhu'tiao
 签	zhu'ren'heng'xiao'heng
 签	zhu'qian
+筽	zhu'wu
 筼	zhu'yuan
 筻	zhu'geng
+筺	zhu'qu
 筹	zhu'shou
 筸	zhu'han
 筷	zhu'kuai
@@ -20129,10 +20132,12 @@ sort: original
 筀	zhu'gui
 笿	zhu'ge
 笾	zhu'bian
+笽	zhu'min
 笼	zhu'long
 笻	zhu'qiong
 笺	zhu'jian
 笺	zhu'ge'heng
+笹	zhu'shi
 笸	zhu'po
 笷	zhu'mao
 笶	zhu'shi
@@ -20200,6 +20205,7 @@ sort: original
 笅	zhu'yao
 笄	zhu'kai
 笃	zhu'ma
+笂	zhu'wan
 笁	zhu'gong
 笀	zhu'wang
 竿	zhu'gan
@@ -22960,6 +22966,7 @@ sort: original
 甇	huo'huo'bao'wa
 甆	zi'wa
 甆	ci'wa
+甅	wa'li
 甄	yin'wa
 甄	xi'tu'wa
 甃	qiu'wa
@@ -22972,15 +22979,20 @@ sort: original
 瓽	xiao'mi'kou'wa
 瓽	xiao'bao'kou'wa
 瓽	shang'wa
+瓼	wa'li
 瓻	xi'wa
 瓺	chang'wa
 瓹	yuan'wa
 瓹	kou'yue'wa
+瓸	wa'bai
 瓷	ci'wa
 瓶	bing'wa
 瓵	tai'wa
 瓴	ling'wa
 瓳	gu'wa
+瓲	wa'tun
+瓱	wa'mao
+瓰	wa'fen
 瓯	qu'wa
 瓮	gong'wa
 瓭	you'wa
@@ -22990,7 +23002,9 @@ sort: original
 瓬	fang'wa
 瓫	fen'wa
 瓪	wa'fan
+瓩	wa'qian
 瓨	gong'wa
+瓧	wa'shi
 瓦	heng'gou'yi'na
 瓦	heng'gou'yi'dian
 瓥	gua'shi'chong'chong
@@ -23137,6 +23151,7 @@ sort: original
 璶	wang'jin
 璵	yu'yu
 璵	wang'yu
+璴	wang'chu
 璳	yu'zhu'bei
 璳	wang'zhu'bei
 璲	yu'sui
@@ -23194,6 +23209,7 @@ sort: original
 璦	wang'ai
 璥	yu'jing
 璥	wang'jing
+璤	wang'hui
 璣	yu'qi
 璣	yu'ji
 璣	wang'qi
@@ -23487,6 +23503,7 @@ sort: original
 琽	wang'zhe
 琼	yu'jing
 琼	wang'jing
+琻	wang'jin
 琺	yu'fa
 琺	wang'fa
 琹	yu'yu'mu
@@ -23582,6 +23599,9 @@ sort: original
 琔	wang'ding
 琓	yu'wan
 琓	wang'wan
+琒	wang'pang
+琒	wang'feng
+琑	wang'xiao
 琐	yu'xiao'bei
 琐	wang'xiao'bei
 琏	yu'lian
@@ -24996,9 +25016,11 @@ sort: original
 炡	huo'zheng
 炠	huo'jia
 炟	huo'dan
+炞	huo'bian
 炝	huo'cang
 炜	huo'wei
 炛	huo'hua
+炚	ri'huo
 炙	yue'huo
 炙	rou'huo
 炘	huo'jin
@@ -25047,6 +25069,7 @@ sort: original
 灶	huo'tu
 灵	shan'huo
 灴	huo'gong
+灳	bao'huo
 灲	huo'dao
 灱	huo'dao
 灰	heng'pie'huo
@@ -39833,8 +39856,8 @@ sort: original
 丹	tong'dian'heng
 丹	jiong'na'heng
 丹	jiong'dian'heng
-丸	na'jiu
-丸	dian'jiu
+丸	jiu'na
+丸	jiu'dian
 丷	na'pie
 丷	na'na
 丷	na'dian
