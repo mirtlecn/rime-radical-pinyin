@@ -1,0 +1,8 @@
+---
+recipe:
+  Rx: flypy
+  description: >-
+    flypy
+install_files: >-
+  radical.schema.yaml
+  radical_flypy.dict.yaml

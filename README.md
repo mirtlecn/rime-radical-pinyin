@@ -66,7 +66,7 @@ rime_dir='D:/RIME' bash rime-install stroke
 
 ```bash
 # 全拼
-bash rime-install mirtlecn/rime-radical-pinyin@master
+bash rime-install mirtlecn/rime-radical-pinyin
 
 # 双拼
 # 请将命令末尾（schema=?）替换为你想要安装的双拼名称，支持
@@ -85,7 +85,7 @@ bash rime-install mirtlecn/rime-radical-pinyin@master::schema=flypy
 <summary>只使用小鹤双拼 --></summary>
 
 ```bash
-bash rime-install mirtlecn/rime-radical-pinyin@flypy
+bash rime-install mirtlecn/rime-radical-pinyin:flypy
 ```
 
 </details>
@@ -203,7 +203,7 @@ recognizer:
 plum 安装:
 
 ```bash
-bash rime-install mirtlecn/rime-radical-pinyin@extra
+bash rime-install mirtlecn/rime-radical-pinyin:extra
 ```
 
 若要手动安装，请前往 Release 界面下载 extra.zip，解压后，在其中的 build 文件夹内有以下三个文件：

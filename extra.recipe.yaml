@@ -1,0 +1,8 @@
+---
+recipe:
+  Rx: extra
+  description: >-
+    extra things of radical pinyin.
+install_files: >-
+  build/*
+  lua/*
