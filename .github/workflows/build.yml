@@ -63,24 +63,17 @@ jobs:
           $CommitInfo = Get-Date -UFormat %s
 
           git checkout master
-          cp gen/radical_pinyin.dict.yaml. , gen/radical_pinyin.schema.yaml
+          cp gen/radical_pinyin.dict.yaml , gen/radical_pinyin.schema.yaml
+          cp gen/radical_flypy.dict.yaml, gen/radical.schema.yaml
           $Status = git status --porcelain
           if ( $Status ) {
           "Push to master branch"
           git add --all
           git commit -m "gen: $CommitInfo" && git push origin master
           }
-          Compress-Archive "*.dict.yaml","*.schema.yaml" "gen/radical_pinyin.zip"
-
-          git checkout flypy
-          cp gen/radical_flypy.dict.yaml, gen/radical.schema.yaml
-          $Status = git status --porcelain
-          if ( $Status ) {
-          "Push to flypy branch"
-          git add --all
-          git commit -m "gen: $CommitInfo" && git push origin flypy
-          }
-          Compress-Archive "*.dict.yaml","*.schema.yaml" "gen/radical_flypy.zip"
+          Compress-Archive "radical_pinyin.schema.yaml","radical_pinyin.dict.yaml" "gen/radical_pinyin.zip"
+          Compress-Archive "radical_flypy.dict.yaml","radical.schema.yaml" "gen/radical_flypy.zip"
+          Compress-Archive "lua", "build" "gen/extra.zip"
 
       - name: Create Nightly release
         if: ${{ ! startsWith(github.ref, 'refs/tags/') }}
