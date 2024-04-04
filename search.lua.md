@@ -1,6 +1,6 @@
-# RIME 辅助码滤镜 search.lua
+# RIME 辅助码反查滤镜 search.lua
 
-使用此 lua ，你可以使用多个方案提供的编码查找候选。
+使用此 lua ，你可以使用其他方案提供的编码反查候选。
 
 其效果类似某些输入法提供的候选内笔画、部件反查。
 
@@ -133,9 +133,9 @@ key_binder:
 search:
   tags:
     - abc # 检索特定 tag 的候选，默认为 abc
-  key: '`' # 辅码引导键，优先级低于 key_binder/search 设置，此按键需要加入 speller/alphabet 中。
+  # key: '`' # 辅码引导键，优先级低于 key_binder/search 设置，此按键需要加入 speller/alphabet 中。
   show_other_cands: false # 候选不匹配辅助码时，仅将其置后，而非隐藏。
-  schema: radical_pinyin # 方案反查，支持经过算法转换后的编码，检索大码表时慢
+  schema: radical_pinyin # 方案反查，支持经过算法转换后的编码，检索大码表时较慢
   schema_search_limit: 500 # 方案反查单词检索的数量限制，不设置时为 1000，设置为 0 则无限制。大码表（如五笔画 stroke）请设置合理的数值以保证不卡顿。
   wildcard: '~' # db 反查的通配符。此符号需要加入 speller/alphabet 表中。
   db: # db 反查，速度快，仅支持编入字典的硬编码。指定一个或多个 build 目录下的 reverse.bin 文件的文件名。

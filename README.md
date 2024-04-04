@@ -2,7 +2,7 @@
 
 配方：℞ rime-radical-pinyin
 
-码表：[汉字拆字字典](https://github.com/kfcd/chaizi)
+码表：[汉字拆字字典](https://github.com/mirtlecn/chaizi-re)
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![GitHub Release](https://img.shields.io/github/v/release/mirtlecn/rime-radical-pinyin)](https://github.com/mirtlecn/rime-radical-pinyin/releases/latest)
@@ -229,6 +229,6 @@ radical_reverse_lookup:
 
 ## Credit
 
-字典由 [汉字拆字字典](https://github.com/kfcd/chaizi)（@开放词典 CC BY 3.0）修订，转换而成。
+字典由 [汉字拆字字典](https://github.com/mirtlecn/chaizi-re)（@開放詞典 / henrysting / Mirtle CC BY-SA 4.0），转换而成。
 
 除在文件内另行注明的，本仓库文件均发布在 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可协议下。
