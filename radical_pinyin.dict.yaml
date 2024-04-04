@@ -1602,6 +1602,7 @@ sort: original
 𠙶	kan'le
 𠘻	fan'fan
 𠘬	ji'ji
+𠗦	bing'ma
 𠔻	xing'xing'xing'xing
 𠔻	xing'xing'xing'xin
 𠔻	xing'xing'xin'xing
@@ -14355,6 +14356,7 @@ sort: original
 螫	she'chong
 螪	chong'shang
 螨	chong'cao'liang
+螦	chong'su
 螥	chong'chuang
 螥	chong'cang
 螤	wen'yu
@@ -14408,6 +14410,7 @@ sort: original
 螄	chong'shi
 螃	chong'pang
 螂	chong'lang
+螁	chong'tui
 螀	jiang'chong
 蝿	chong'yue'dian
 蝿	chong'tian'dian
@@ -14502,6 +14505,7 @@ sort: original
 蝍	chong'ji
 蝌	chong'ke
 蝋	chong'shu
+蝊	chong'ding
 蝉	chong'dan
 蝈	chong'guo
 蝇	chong'wei'dian
@@ -14632,6 +14636,7 @@ sort: original
 蛲	chong'yao
 蛱	chong'jia
 蛰	zhi'chong
+蛯	chong'lao
 蛮	yi'chong
 蛭	chong'zhi
 蛬	gong'chong
@@ -14779,6 +14784,8 @@ sort: original
 虴	chong'tuo
 虴	chong'pie'qi
 虳	chong'shao
+虲	chong'bu
+虲	chong'bo
 虱	yi'pie'chong
 虱	yi'chong
 虰	chong'ding
@@ -17165,6 +17172,9 @@ sort: original
 脎	rou'sha
 脍	yue'hui
 脍	rou'hui
+脌	yue'nian
+脋	li'yue
+脋	dao'dao'dao'yue
 脊	yue'ren'er'er
 脊	rou'ren'er'er
 脉	yue'yong
@@ -17201,6 +17211,7 @@ sort: original
 脁	rou'zhao
 脀	cheng'yue
 脀	cheng'rou
+胿	yue'gui
 胾	zai'rou
 胾	tu'ge'rou
 胾	shi'ge'rou
@@ -17522,6 +17533,7 @@ sort: original
 聻	qian'er
 聻	jian'er
 聻	chan'er
+聺	er'cha
 聹	er'ning
 聸	er'zhan
 職	er'zhi
@@ -17552,6 +17564,9 @@ sort: original
 聦	er'cong
 聥	er'yu
 聤	er'ting
+聣	er'ni
+聣	er'er
+聢	er'ding
 聡	er'gong'xin
 聡	er'cong
 聠	er'bing
@@ -17578,6 +17593,7 @@ sort: original
 聖	er'kou'wang
 聕	er'gao
 联	er'guan
+聓	gong'er
 聒	er'she
 聑	er'er
 聐	er'ji
@@ -17596,6 +17612,7 @@ sort: original
 聄	er'ren'san
 聃	er'ran
 聂	er'you'you
+聁	er'fen
 聀	er'ge
 耿	er'huo
 耾	er'hong
@@ -17834,6 +17851,7 @@ sort: original
 羭	yang'yu
 羬	yang'xian
 羫	yang'kong
+羪	yang'liang
 義	yang'wo
 羨	yang'shui'qian
 羧	yang'si'ba'wen
@@ -18285,6 +18303,7 @@ sort: original
 纡	si'yu
 纠	si'zhe'shu
 纠	si'jiu
+纟	yao'heng
 纞	si'lian
 纞	mi'lian
 纝	si'lei
@@ -19485,6 +19504,18 @@ sort: original
 系	pie'mi
 糺	si'gou
 糺	mi'gou
+糹	yao'pie'na'na
+糹	yao'pie'na'dian
+糹	yao'pie'dian'na
+糹	yao'pie'dian'dian
+糹	yao'na'na'na
+糹	yao'na'na'dian
+糹	yao'na'dian'na
+糹	yao'na'dian'dian
+糹	yao'dian'na'na
+糹	yao'dian'na'dian
+糹	yao'dian'dian'na
+糹	yao'dian'dian'dian
 糸	yao'xiao
 糷	mi'lan
 糶	tiao'yu'zhui
