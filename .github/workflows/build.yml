@@ -39,7 +39,15 @@ jobs:
           cd dict
           git checkout master
           git pull
-          cd ..
+
+      - name: Update tag
+        if: startsWith(github.ref, 'refs/tags/')
+        run: |
+          $Date = Get-Date -Format yyyy.MM.dd
+          "# v${{ github.ref }} -> $Date" >> 'info.yaml'
+
+      - name: Update build branch
+        run: |
           $Status = git status --porcelain
           if ( $Status ) {
           "Update submodule"
