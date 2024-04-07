@@ -65,10 +65,10 @@ rime_dir='D:/RIME' bash rime-install stroke
 </details>
 
 ```bash
-# 全拼
+# 安装词典文件
 bash rime-install mirtlecn/rime-radical-pinyin
 
-# 双拼
+# 双拼请额外执行
 # 请将命令末尾（schema=?）替换为你想要安装的双拼名称，支持
 #   - flypy（小鹤双拼）
 #   - double_pinyin（自然码双拼）
@@ -77,7 +77,7 @@ bash rime-install mirtlecn/rime-radical-pinyin
 #   - abc（智能 ABC 双拼）
 #   - ziguang（紫光双拼
 
-bash rime-install mirtlecn/rime-radical-pinyin@master::schema=flypy
+bash rime-install mirtlecn/rime-radical-pinyin@master:config:schema=flypy
 ```
 
 <details>
