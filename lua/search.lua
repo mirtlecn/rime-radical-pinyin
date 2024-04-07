@@ -90,7 +90,9 @@ function f.init( env )
     -- 接管选词逻辑，是词组则始终保留引导码，否则直接上屏
     env.notifier = env.engine.context.select_notifier:connect(
                        function( ctx )
-            if not ctx.input:find( '^.+' .. f.search_key_string ) then return end
+            local input = ctx.input
+            local code, fuma = input:match( '^(.-)' .. f.search_key_string .. '(.+)$' )
+            if (not code or #code == 0) or (not fuma or #fuma == 0) then return end
 
             local preedit = ctx:get_preedit()
             local no_search_string = ctx.input:match( '^(.-)' .. f.search_key_string )
@@ -126,7 +128,7 @@ end
 -- 此函数用于手动写入用户词库，目前仅对定长码（如双拼）有效
 function f.update_dict_entry( s, code )
     if #s == 0 or utf8.len( s ) == #s or (#code % 2 ~= 0) then
-        log.error( '[search.lua]: Ignored' .. s )
+        log.info( '[search.lua]: Ignored' .. s )
         return 0
     end
     local e = DictEntry()
@@ -148,12 +150,7 @@ function f.update_dict_entry( s, code )
     end
 
     e.custom_code = table.concat( custom_code, ' ' ) .. ' '
-    local if_success = f.mem_main:update_userdict( e, 1, '' )
-    if if_success then
-        log.info( '[search.lua]: ' .. e.text .. ' | ' .. e.custom_code .. 'was written into user_dict' )
-    else
-        log.error( '[search.lua]: ' .. e.text .. ' | ' .. e.custom_code .. 'update entry falid' )
-    end
+    f.mem_main:update_userdict( e, 1, '' )
 end
 
 -- 通过 schema 的方式查询（以辅码查字，然后对比候选，慢，但能够匹配到算法转换过的码）
@@ -193,8 +190,8 @@ end
 
 function f.func( input, env )
     -- 当且仅当当输入码中含有辅码引导符号，并有有辅码存在，进入匹配逻辑
-    local fuma = env.engine.context.input:match( '^.-' .. f.search_key_string .. '(.+)$' )
-    if not fuma or #fuma == 0 or (not f.if_reverse_lookup and not f.if_schema_lookup) then
+    local code, fuma = env.engine.context.input:match( '^(.-)' .. f.search_key_string .. '(.+)$' )
+    if (not code or #code == 0) or (not fuma or #fuma == 0) or (not f.if_reverse_lookup and not f.if_schema_lookup) then
         for cand in input:iter() do yield( cand ) end
         return
     end
