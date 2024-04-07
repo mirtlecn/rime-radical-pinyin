@@ -99,7 +99,7 @@ function f.init( env )
             local edit = preedit.text:match( '^(.-)' .. f.search_key_string )
             env.have_select_commit = true
 
-            if edit and #edit > 0 and edit:match( '[a-z;]' ) then
+            if edit and #edit > 0 then
                 ctx.input = no_search_string .. f.search_key
             else
                 ctx.input = no_search_string
