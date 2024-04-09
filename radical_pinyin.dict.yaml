@@ -78,7 +78,7 @@
 # v1.0.4 -> 2024.04.03
 ---
 name: radical_pinyin
-version: "2024.04.04"
+version: "2024.04.09"
 sort: original
 ...
 
@@ -8853,7 +8853,9 @@ sort: original
 鏵	jin'hua
 鏴	jin'lu
 鏳	jin'ceng
+鏱	jin'zhang
 鏰	jin'peng
+鏯	jin'shuang
 鏮	jin'kang
 鏭	jin'xi
 鏬	jin'hu
@@ -8934,8 +8936,12 @@ sort: original
 鏁	jin'chao
 鏀	jin'lu
 鎿	jin'na
+鎾	jin'wen
+鎽	jin'feng
 鎻	jin'shun'bei
 鎻	jin'chuan'bei
+鎺	jin'zu
+鎹	jin'song
 鎸	jin'juan
 鎷	jin'ma
 鎶	jin'ge
@@ -9011,6 +9017,7 @@ sort: original
 鎉	jin'ri'yu
 鎈	jin'cha
 鎇	jin'mei
+鎆	jin'qian
 鎅	jin'jie
 鎄	jin'ai
 鎃	jin'pai
@@ -9111,6 +9118,7 @@ sort: original
 鍈	jin'ying
 鍇	jin'jie
 鍆	jin'men
+鍅	jin'fa
 鍄	jin'jing
 鍃	jin'hu
 鍂	jin'jin
@@ -9118,9 +9126,12 @@ sort: original
 鍀	jin'ri'heng'cun
 鍀	jin'de
 鍀	jin'ai
+錿	jin'hu
 錾	zhan'jin
 錽	jin'mie'wen
 錼	jin'nai
+錻	jin'wu
+錺	jin'fang
 錹	jin'ken
 錸	jin'lai
 錷	jin'zha
@@ -9217,7 +9228,9 @@ sort: original
 鋶	jin'liu
 鋶	jin'huang
 鋵	jin'tu
+鋴	jin'ke
 鋳	jin'shou
+鋲	jin'bing
 鋱	jin'te
 鋰	jin'li
 鋯	jin'gao
@@ -9304,6 +9317,8 @@ sort: original
 銲	jin'han
 銱	jin'diao
 銰	jin'ai
+銯	jin'si
+銯	jin'mi
 銮	yi'jin
 銭	jin'jian'heng
 銭	jin'heng'jian
@@ -9389,6 +9404,7 @@ sort: original
 鉥	jin'zhu
 鉥	jin'shu
 鉤	jin'ju
+鉣	jin'qu
 鉢	jin'ben
 鉡	jin'ban
 鉠	jin'yang
@@ -9451,7 +9467,10 @@ sort: original
 鈮	jin'ni
 鈭	ci'jin
 鈬	jin'chi
+鈫	jin'wen
 鈪	jin'e
+鈩	jin'hu
+鈨	jin'yuan
 鈧	jin'yi'ji
 鈧	jin'tou'ji
 鈧	jin'kang
@@ -9508,6 +9527,7 @@ sort: original
 釾	jin'ya
 釽	jin'zhao
 釼	jin'ren
+釻	jin'wan
 釺	jin'qian
 釹	jin'nv
 釸	jin'xi
@@ -9749,6 +9769,8 @@ sort: original
 酟	you'zhan
 酞	you'tai
 酝	you'yun
+酜	you'fu
+酛	you'yuan
 酚	you'fen
 酙	you'dou
 酘	you'shu
@@ -10070,6 +10092,7 @@ sort: original
 郰	qu'er
 郯	yan'yi
 郯	yan'er
+郮	zhou'er
 郭	xiang'yi
 郭	xiang'er
 郬	qing'yi
@@ -10140,6 +10163,7 @@ sort: original
 郔	yan'er
 郓	jun'yi
 郓	jun'er
+郒	liang'yi
 郑	guan'yi
 郑	er'yi
 郐	hui'yi
@@ -10246,6 +10270,7 @@ sort: original
 邥	mi'pie'gou'er
 邥	bao'pie'gou'yi
 邥	bao'pie'gou'er
+邤	jin'er
 那	yue'yi
 那	yue'er
 邢	kai'yi
@@ -10264,6 +10289,7 @@ sort: original
 邞	fu'er
 邝	guang'yi
 邝	guang'er
+邜	xi'er
 邛	gong'yi
 邛	gong'er
 邚	nv'yi
@@ -10454,6 +10480,7 @@ sort: original
 遥	zhi'zhua'fou
 遥	zhi'zhao'fou
 遥	chuo'zhao'fou
+遤	zhi'ma
 遣	zhi'chuo'zhong'heng'shi'zhe'heng
 遣	chuo'zhong'heng'shi'zhe'heng
 遢	zhi'yue'yu
@@ -10492,6 +10519,7 @@ sort: original
 遘	chuo'gou
 遗	zhi'gui
 遗	chuo'gui
+遖	zhi'nan
 違	zhi'wei
 違	zhi'hui
 違	chuo'wei
@@ -10564,6 +10592,7 @@ sort: original
 遇	chuo'jia'jiong'heng'dian
 遆	zhi'di
 遆	chuo'di
+遅	zhi'shi'yang
 遄	zhi'shan'er
 遄	zhi'duan
 遄	chuo'shan'er
@@ -10596,6 +10625,7 @@ sort: original
 逻	chuo'luo
 逺	zhi'tu'zhe'yi
 逺	chuo'tu'zhe'yi
+逹	zhi'xing
 逸	zhi'tu
 逸	chuo'tu
 逷	zhi'yi
@@ -10636,6 +10666,7 @@ sort: original
 逩	chuo'ben
 逨	zhi'lai
 逨	chuo'lai
+逧	zhi'gu
 逦	zhi'li
 逦	chuo'li
 逥	zhi'hui
@@ -10762,6 +10793,7 @@ sort: original
 迳	chuo'zhe'na'gong
 迳	chuo'zhe'dian'gong
 迳	chuo'jing
+迲	zhi'qu
 迱	zhi'ta
 迱	chuo'ta
 述	zhi'shu
@@ -10811,6 +10843,7 @@ sort: original
 远	chuo'yuan
 进	zhi'jing
 进	chuo'jing
+迚	zhi'zhong
 这	zhi'wen
 这	chuo'wen
 还	zhi'bu
@@ -10843,6 +10876,7 @@ sort: original
 迎	chuo'ang
 迍	zhi'tun
 迍	chuo'tun
+迌	zhi'yue
 迋	zhi'wang
 迋	chuo'wang
 迊	zhi'bi
@@ -10875,6 +10909,7 @@ sort: original
 达	chuo'da
 辽	zhi'le
 辽	chuo'le
+込	zhi'ru
 辻	zhi'shi
 辻	chuo'shi
 辺	zhi'dao
@@ -10883,6 +10918,7 @@ sort: original
 边	chuo'li
 辸	zhi'nai
 辸	chuo'nai
+辷	zhi'heng
 辵	shan'shu'heng'ren
 辵	san'shu'heng'ren
 辴	zhan'chen
@@ -28116,6 +28152,7 @@ sort: original
 梞	mu'ji
 條	you'mu
 條	ren'shu'wen'mu
+條	ren'shu'tiao
 梜	mu'xie
 梜	mu'xia
 梜	mu'jia
@@ -28129,6 +28166,7 @@ sort: original
 梖	mu'bei
 梕	mu'ren
 梔	mu'zhi
+梔	mu'chang'heng'ba
 梓	mu'xin
 梒	mu'han
 梑	mu'di

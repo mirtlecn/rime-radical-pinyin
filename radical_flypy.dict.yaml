@@ -79,7 +79,7 @@
 
 ---
 name: radical_flypy
-version: "2024.04.04"
+version: "2024.04.09"
 sort: original
 ...
 
@@ -8854,7 +8854,9 @@ sort: original
 鏵	jbhx
 鏴	jblu
 鏳	jbcg
+鏱	jbvh
 鏰	jbpg
+鏯	jbul
 鏮	jbkh
 鏭	jbxi
 鏬	jbhu
@@ -8935,8 +8937,12 @@ sort: original
 鏁	jbic
 鏀	jblu
 鎿	jbna
+鎾	jbwf
+鎽	jbfg
 鎻	jbuybw
 鎻	jbirbw
+鎺	jbzu
+鎹	jbss
 鎸	jbjr
 鎷	jbma
 鎶	jbge
@@ -9012,6 +9018,7 @@ sort: original
 鎉	jbriyu
 鎈	jbia
 鎇	jbmw
+鎆	jbqm
 鎅	jbjp
 鎄	jbai
 鎃	jbpd
@@ -9112,6 +9119,7 @@ sort: original
 鍈	jbyk
 鍇	jbjp
 鍆	jbmf
+鍅	jbfa
 鍄	jbjk
 鍃	jbhu
 鍂	jbjb
@@ -9119,9 +9127,12 @@ sort: original
 鍀	jbrihgcy
 鍀	jbde
 鍀	jbai
+錿	jbhu
 錾	vjjb
 錽	jbmpwf
 錼	jbnd
+錻	jbwu
+錺	jbfh
 錹	jbkf
 錸	jbld
 錷	jbva
@@ -9218,7 +9229,9 @@ sort: original
 鋶	jblq
 鋶	jbhl
 鋵	jbtu
+鋴	jbke
 鋳	jbuz
+鋲	jbbk
 鋱	jbte
 鋰	jbli
 鋯	jbgc
@@ -9305,6 +9318,8 @@ sort: original
 銲	jbhj
 銱	jbdn
 銰	jbai
+銯	jbsi
+銯	jbmi
 銮	yijb
 銭	jbjmhg
 銭	jbhgjm
@@ -9390,6 +9405,7 @@ sort: original
 鉥	jbvu
 鉥	jbuu
 鉤	jbju
+鉣	jbqu
 鉢	jbbf
 鉡	jbbj
 鉠	jbyh
@@ -9452,7 +9468,10 @@ sort: original
 鈮	jbni
 鈭	cijb
 鈬	jbii
+鈫	jbwf
 鈪	jbee
+鈩	jbhu
+鈨	jbyr
 鈧	jbyiji
 鈧	jbtzji
 鈧	jbkh
@@ -9509,6 +9528,7 @@ sort: original
 釾	jbya
 釽	jbvc
 釼	jbrf
+釻	jbwj
 釺	jbqm
 釹	jbnv
 釸	jbxi
@@ -9750,6 +9770,8 @@ sort: original
 酟	yzvj
 酞	yztd
 酝	yzyy
+酜	yzfu
+酛	yzyr
 酚	yzff
 酙	yzdz
 酘	yzuu
@@ -10071,6 +10093,7 @@ sort: original
 郰	quer
 郯	yjyi
 郯	yjer
+郮	vzer
 郭	xlyi
 郭	xler
 郬	qkyi
@@ -10141,6 +10164,7 @@ sort: original
 郔	yjer
 郓	jyyi
 郓	jyer
+郒	llyi
 郑	gryi
 郑	eryi
 郐	hvyi
@@ -10247,6 +10271,7 @@ sort: original
 邥	mippgzer
 邥	bcppgzyi
 邥	bcppgzer
+邤	jber
 那	ytyi
 那	yter
 邢	kdyi
@@ -10265,6 +10290,7 @@ sort: original
 邞	fuer
 邝	glyi
 邝	gler
+邜	xier
 邛	gsyi
 邛	gser
 邚	nvyi
@@ -10455,6 +10481,7 @@ sort: original
 遥	vivxfz
 遥	vivcfz
 遥	iovcfz
+遤	vima
 遣	viiovshguivehg
 遣	iovshguivehg
 遢	viytyu
@@ -10493,6 +10520,7 @@ sort: original
 遘	iogz
 遗	vigv
 遗	iogv
+遖	vinj
 違	viww
 違	vihv
 違	ioww
@@ -10565,6 +10593,7 @@ sort: original
 遇	iojxjshgdm
 遆	vidi
 遆	iodi
+遅	viuiyh
 遄	viujer
 遄	vidr
 遄	ioujer
@@ -10597,6 +10626,7 @@ sort: original
 逻	iolo
 逺	vituveyi
 逺	iotuveyi
+逹	vixk
 逸	vitu
 逸	iotu
 逷	viyi
@@ -10637,6 +10667,7 @@ sort: original
 逩	iobf
 逨	vild
 逨	iold
+逧	vigu
 逦	vili
 逦	ioli
 逥	vihv
@@ -10763,6 +10794,7 @@ sort: original
 迳	iovenags
 迳	iovedmgs
 迳	iojk
+迲	viqu
 迱	vita
 迱	iota
 述	viuu
@@ -10812,6 +10844,7 @@ sort: original
 远	ioyr
 进	vijk
 进	iojk
+迚	vivs
 这	viwf
 这	iowf
 还	vibu
@@ -10844,6 +10877,7 @@ sort: original
 迎	ioah
 迍	vity
 迍	ioty
+迌	viyt
 迋	viwh
 迋	iowh
 迊	vibi
@@ -10876,6 +10910,7 @@ sort: original
 达	ioda
 辽	vile
 辽	iole
+込	viru
 辻	viui
 辻	ioui
 辺	vidc
@@ -10884,6 +10919,7 @@ sort: original
 边	ioli
 辸	vind
 辸	iond
+辷	vihg
 辵	ujuuhgrf
 辵	sjuuhgrf
 辴	vjif
@@ -28117,6 +28153,7 @@ sort: original
 梞	muji
 條	yzmu
 條	rfuuwfmu
+條	rfuutn
 梜	muxp
 梜	muxx
 梜	mujx
@@ -28130,6 +28167,7 @@ sort: original
 梖	mubw
 梕	murf
 梔	muvi
+梔	muihhgba
 梓	muxb
 梒	muhj
 梑	mudi
