@@ -57,6 +57,7 @@ function f.init( env )
     -- 配置：辅码引导符号，默认为反引号 `
     f.search_key = config:get_string( 'key_binder/search' ) or config:get_string( ns .. '/key' ) or '`'
     f.search_key_string = alt_lua_punc( f.search_key )
+    f.code_pattern = config:get_string(ns .. '/code_pattern') or '[a-z]'
 
     -- 配置：seg tag
     local tag = config:get_list( ns .. '/tags' )
@@ -78,7 +79,7 @@ function f.init( env )
                 if env.have_select_commit and env.commit_code then
                     local commit_text = ctx:get_commit_text()
                     f.update_dict_entry( commit_text, env.commit_code )
-                    ctx.commit_history:push( 'user_phrase', commit_text )
+                    ctx.commit_history:push( 'search.lua', commit_text )
                     env.have_select_commit = false
                 else
                     return
@@ -91,15 +92,15 @@ function f.init( env )
     env.notifier = env.engine.context.select_notifier:connect(
                        function( ctx )
             local input = ctx.input
-            local code, fuma = input:match( '^(.-)' .. f.search_key_string .. '(.+)$' )
-            if (not code or #code == 0) or (not fuma or #fuma == 0) then return end
+            local code = input:match( '^(.-)' .. f.search_key_string .. '(.+)$' )
+            if (not code or #code == 0) then return end
 
             local preedit = ctx:get_preedit()
             local no_search_string = ctx.input:match( '^(.-)' .. f.search_key_string )
             local edit = preedit.text:match( '^(.-)' .. f.search_key_string )
             env.have_select_commit = true
 
-            if edit and #edit > 0 then
+            if edit and edit:match( f.code_pattern ) then
                 ctx.input = no_search_string .. f.search_key
             else
                 ctx.input = no_search_string
