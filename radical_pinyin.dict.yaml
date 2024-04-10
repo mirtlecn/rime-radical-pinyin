@@ -78,7 +78,7 @@
 # v1.0.4 -> 2024.04.03
 ---
 name: radical_pinyin
-version: "2024.04.09"
+version: "2024.04.10"
 sort: original
 ...
 
@@ -1473,6 +1473,7 @@ sort: original
 𡦪	ni'jin
 𡦪	jin'ni
 𡦪	jin'jin
+𡦀	kong'ming
 𡥧	zi'jin
 𡥦	zi'zi'zi
 𡠟	nv'shu
@@ -40598,14 +40599,59 @@ sort: original
 㒭	xiong'xiong
 㒓	ren'ta
 㒓	ren'da
+㒉	ren'tang
+㒈	ren'gan
+㒇	ren'wu
+㒇	ren'mo
 㑩	ren'luo
+㑧	ren'ji
+㑦	ren'li
+㑥	ren'yi
+㑤	ren'miao
+㑣	ren'mu'mu
+㑣	ren'lin
+㑟	ren'bing
+㑞	ren'zhuan
+㑞	ren'huo'nong
+㑞	ren'huo'gong
+㑝	ren'nong
+㑜	ren'zhe
+㑛	ren'shu
+㑚	ren'na
+㑙	ren'yi
+㑙	ren'er'gou
+㑘	ren'jie
+㑗	ren'shen
+㑔	ren'ye
+㑑	ren'zi
+㑏	ren'shou
+㑍	ren'lei
+㑌	ren'kuang
+㑋	ren'qu
 㑊	ren'yi
+㑉	ren'su
 㑈	ren'dong
 㑇	ren'chu
+㑄	ren'mu
+㑃	ren'you
+㑂	ren'bing
+㑁	ren'chu
+㑀	ren'tai
+㐾	ren'yuan
 㐽	ren'feng
+㐼	ren'sheng
+㐻	ren'nei
 㐺	ren'ren'ren
+㐹	ren'qi
+㐸	ren'qian
+㐷	ren'ma
+㐵	ren'yu
+㐴	ren'xi
+㐳	ren'wu
+㐲	ren'da
 㐱	ren'shan
 㐱	ren'san
+㐰	ren'kou
 㐩	jing'jing
 㐨	yu'yu
 㐛	you'yi
