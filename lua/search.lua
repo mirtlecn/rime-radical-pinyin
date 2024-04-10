@@ -92,7 +92,7 @@ function f.init( env )
     env.notifier = env.engine.context.select_notifier:connect(
                        function( ctx )
             local input = ctx.input
-            local code = input:match( '^(.-)' .. f.search_key_string .. '(.+)$' )
+            local code = input:match( '^(.-)' .. f.search_key_string )
             if (not code or #code == 0) then return end
 
             local preedit = ctx:get_preedit()
