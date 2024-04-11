@@ -3073,6 +3073,10 @@ sort: original
 鶿	zi'niao
 鶿	zi'diao
 鶿	zi'dao
+鶾	shi'zao'ren'que
+鶾	shi'zao'ren'niao
+鶾	shi'zao'ren'diao
+鶾	shi'zao'ren'dao
 鶾	shi'ri'shi'ren'que
 鶾	shi'ri'shi'ren'niao
 鶾	shi'ri'shi'ren'diao
@@ -7141,6 +7145,7 @@ sort: original
 韫	wei'wen
 韫	wei'ri'min
 韪	shi'wei
+韩	shi'zao'wei
 韩	shi'ri'shi'wei
 韨	wei'you'na
 韨	wei'you'dian
@@ -7191,6 +7196,8 @@ sort: original
 韔	wei'chang
 韔	hui'zhang
 韔	hui'chang
+韓	shi'zao'wei
+韓	shi'zao'hui
 韓	shi'ri'shi'wei
 韓	shi'ri'shi'hui
 韒	wei'xiao
@@ -7585,6 +7592,7 @@ sort: original
 雙	zhui'zhui'you
 雘	dan'wo
 雘	dan'huo
+雗	shi'zao'ren'zhui
 雗	shi'ri'shi'ren'zhui
 雖	sui'zhui
 雕	zhou'zhui
@@ -14440,6 +14448,7 @@ sort: original
 螔	chong'si
 螔	chong'chang'hu
 螓	chong'qin
+螒	shi'zao'ren'chong
 螒	shi'ri'shi'ren'chong
 螑	chong'chou
 螐	chong'ya
@@ -17813,6 +17822,7 @@ sort: original
 翳	yi'ji'you'yu
 翲	piao'yu
 翱	gao'yu
+翰	shi'zao'ren'yu
 翰	shi'ri'shi'ren'yu
 翯	yu'gao
 翮	heng'kou'tong'ya'heng'yu
@@ -27825,6 +27835,7 @@ sort: original
 榩	mu'hu'wen
 榨	mu'zhai
 榧	mu'fei
+榦	shi'zao'ren'mu
 榦	shi'ri'shi'ren'mu
 榥	mu'huang
 榤	mu'jie
@@ -28669,10 +28680,8 @@ sort: original
 朠	yue'ying
 期	qi'yue
 朞	qi'yue
-朝	zhuo'yue
+朝	shi'zao'yue
 朝	shi'ri'shi'yue
-朝	ju'yue
-朝	che'yue
 朜	yue'xiang
 望	wang'yue'wang
 朚	wang'ming
@@ -29234,6 +29243,7 @@ sort: original
 斤	chang'heng'shu
 斣	shu'dou
 斢	huang'dou
+斡	shi'zao'ren'dou
 斡	shi'ri'shi'ren'dou
 斠	jing'zai'dou
 斠	gou'dou
@@ -33176,6 +33186,7 @@ sort: original
 幼	yao'li
 幻	yao'zhe
 幺	zhe'si
+幹	shi'zao'ren'gan
 幹	shi'ri'shi'ren'gan
 幸	tu'yang
 幸	tu'ba'gan
@@ -37848,10 +37859,15 @@ sort: original
 協	shi'xie
 協	shi'lie
 協	shi'li'li'li
+卓	shu'na'zao
 卓	shu'na'ri'shi
+卓	shu'heng'zao
 卓	shu'heng'ri'shi
+卓	shu'dian'zao
 卓	shu'dian'ri'shi
+卓	bu'zao
 卓	bu'ri'shi
+卓	bo'zao
 卓	bo'ri'shi
 卒	yi'ren'shi
 卒	tou'ren'shi
@@ -39864,11 +39880,13 @@ sort: original
 乿	zhao'si'gou
 乿	zhao'mi'yi
 乿	zhao'mi'gou
+乾	shi'zao'qi
 乾	shi'ri'shi'qi
 乽	zhe'yi
 乼	zhu'yi
 乻	yu'yi
 乺	suo'yi
+乹	shi'zao'gou
 乹	shi'ri'shi'gou
 乸	ye'mu
 乷	sha'yi
