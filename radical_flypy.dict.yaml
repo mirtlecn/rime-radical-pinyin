@@ -79,7 +79,7 @@
 
 ---
 name: radical_flypy
-version: "2024.04.10"
+version: "2024.04.11"
 sort: original
 ...
 
@@ -1142,6 +1142,15 @@ sort: original
 𣅠	riqi
 𣁾	dzdzdz
 𣁕	wfwfwf
+𢼑	juwf
+𢼐	mipu
+𢼐	bcpu
+𢼌	bcpu
+𢼊	tawf
+𢼉	tdwf
+𢼃	gzwf
+𢼁	uhyiwf
+𢼀	rspu
 𢺸	vivi
 𢺳	uzmj
 𢺳	cdmj
@@ -5915,6 +5924,7 @@ sort: original
 髈	guph
 髇	gugc
 髆	gupo
+髆	gufucy
 髆	gufu
 髆	gubu
 髅	guminv
@@ -6369,6 +6379,7 @@ sort: original
 馐	uixq
 馏	uilq
 馎	uipo
+馎	uifucy
 馎	uifu
 馎	uibu
 馍	uimo
@@ -6496,6 +6507,7 @@ sort: original
 餼	uiqi
 餻	uigc
 餺	uipo
+餺	uifucy
 餺	uifu
 餺	uibu
 餹	uith
@@ -8374,6 +8386,7 @@ sort: original
 镉	jbhgkzjsyahg
 镉	jbge
 镈	jbpo
+镈	jbfucy
 镈	jbfu
 镈	jbbu
 镇	jbvf
@@ -9016,6 +9029,7 @@ sort: original
 鎝	jbcche
 鎜	bjjb
 鎛	jbpo
+鎛	jbfucy
 鎛	jbfu
 鎛	jbbu
 鎚	jbvv
@@ -12081,6 +12095,7 @@ sort: original
 赛	bcjkdabw
 赚	bwjm
 赙	bwpo
+赙	bwfucy
 赙	bwfu
 赙	bwbu
 赘	aobw
@@ -12209,6 +12224,7 @@ sort: original
 購	bwgz
 賻	bwvr
 賻	bwpo
+賻	bwfucy
 賻	bwfu
 賻	bwbu
 賺	bwjm
@@ -15538,6 +15554,7 @@ sort: original
 蒬	ccyr
 蒫	ccia
 蒪	ccpo
+蒪	ccfucy
 蒪	ccfu
 蒪	ccbu
 蒩	cczu
@@ -15589,6 +15606,7 @@ sort: original
 蒈	ccjp
 蒇	ccwubw
 蒆	ccgsnv
+蒅	ccrj
 蒄	ccgr
 蒃	ccvevehgui
 蒃	cctr
@@ -15738,6 +15756,8 @@ sort: original
 萣	ccmidk
 萣	ccbcpi
 萣	ccbcdk
+萢	ccpc
+萡	ccpo
 萠	ccpg
 萝	cclo
 萜	cctp
@@ -15983,6 +16003,7 @@ sort: original
 荤	ccjy
 荣	ccmimu
 荣	ccbcmu
+荢	ccyu
 荡	ccth
 荠	ccqi
 荟	cchv
@@ -16024,6 +16045,7 @@ sort: original
 荁	ccgf
 荀	ccxy
 茿	ccgs
+茾	cckd
 茽	ccvs
 茼	ccts
 茻	ieieiexsuu
@@ -16108,6 +16130,7 @@ sort: original
 茔	ccbctu
 茓	ccxt
 茑	ccnn
+茐	cccs
 茏	ccls
 茎	ccvenags
 茎	ccvedmgs
@@ -16195,6 +16218,7 @@ sort: original
 苉	ccpi
 苈	ccli
 苇	ccww
+苆	ccqp
 苅	ccyi
 苄	ccnaxx
 苄	ccdmxx
@@ -16864,9 +16888,11 @@ sort: original
 膋	hohobcyt
 膋	hohobcrz
 膊	ytpo
+膊	ytfucy
 膊	ytfu
 膊	ytbu
 膊	rzpo
+膊	rzfucy
 膊	rzfu
 膊	rzbu
 膉	ytyi
@@ -18209,6 +18235,7 @@ sort: original
 缜	sivf
 缛	siru
 缚	sipo
+缚	sifucy
 缚	sifu
 缚	sibu
 缙	sijb
@@ -18799,9 +18826,11 @@ sort: original
 縜	miyy
 縜	miyr
 縛	sipo
+縛	sifucy
 縛	sifu
 縛	sibu
 縛	mipo
+縛	mifucy
 縛	mifu
 縛	mibu
 縚	siyc
@@ -19650,6 +19679,7 @@ sort: original
 糒	miccihys
 糑	miro
 糐	mipo
+糐	mifucy
 糐	mifu
 糐	mibu
 糏	mixp
@@ -21260,6 +21290,10 @@ sort: original
 磙	uigy
 磘	uivxfz
 磘	uivcfz
+磗	uipo
+磗	uifucy
+磗	uifu
+磗	uibu
 磖	uixi
 磕	uiqumb
 磕	uihe
@@ -21299,7 +21333,10 @@ sort: original
 確	uibcvv
 碹	uixr
 碸	uifg
+碷	uidy
 碶	uiqi
+碵	uivg
+碵	uivf
 碴	uiia
 碳	uitj
 碲	uidi
@@ -21401,6 +21438,8 @@ sort: original
 硷	uiqm
 硶	uicf
 硵	uilu
+硴	uihx
+硳	uiii
 硲	uigu
 硱	uiky
 硰	uaui
@@ -21433,12 +21472,15 @@ sort: original
 硝	uixn
 硜	uixk
 硜	uijk
+硛	uiyi
 硚	uiqn
 硙	uiqi
+硘	uihv
 硗	uiyc
 硖	uijx
 硕	uiye
 硔	uigs
+硓	uilc
 硒	uixi
 硑	uibk
 硐	uits
@@ -21462,7 +21504,10 @@ sort: original
 硁	uivedmgs
 硁	uijk
 础	uiiu
+砿	uiglsi
+砿	uigl
 砾	uile
+砽	uiys
 砼	uits
 砻	lsui
 砺	uili
@@ -21500,6 +21545,7 @@ sort: original
 砞	uimo
 砝	uiqu
 砜	uifg
+砛	uijb
 砚	uijm
 砙	uiwa
 砘	uity
@@ -21568,6 +21614,7 @@ sort: original
 知	uikz
 矤	gsui
 矣	siui
+矢	rfda
 矢	pptm
 矡	mcjt
 矠	mcxi
@@ -24134,6 +24181,7 @@ sort: original
 猾	qrgu
 猽	qrmk
 猼	qrpo
+猼	qrfucy
 猼	qrfu
 猼	qrbu
 猻	qrxy
@@ -24453,6 +24501,7 @@ sort: original
 牖	pmhufu
 牕	pmcs
 牔	pmpo
+牔	pmfucy
 牔	pmfu
 牔	pmbu
 牓	pmph
@@ -24813,6 +24862,7 @@ sort: original
 熁	holililiyt
 熀	hohl
 煿	hopo
+煿	hofucy
 煿	hofu
 煿	hobu
 煾	hoen
@@ -25888,6 +25938,7 @@ sort: original
 溦	uvujwuwf
 溦	uvujwupu
 溥	uvpo
+溥	uvfucy
 溥	uvfu
 溥	uvbu
 溤	uvma
@@ -27835,6 +27886,7 @@ sort: original
 榓	mubimb
 榒	muro
 榑	mupo
+榑	mufucy
 榑	mufu
 榑	mubu
 榐	muvj
@@ -30282,12 +30334,10 @@ sort: original
 搶	uzch
 搶	cdil
 搶	cdch
-搵	uzytmb
 搵	uzwf
-搵	uzrimb
-搵	cdytmb
+搵	uzqqmb
 搵	cdwf
-搵	cdrimb
+搵	cdqqmb
 搴	bcjkdauz
 搳	uzhd
 搳	cdhd
@@ -30394,6 +30444,7 @@ sort: original
 搏	uzfu
 搏	uzbu
 搏	cdpo
+搏	cdfucy
 搏	cdfu
 搏	cdbu
 搎	uzxy
@@ -30454,12 +30505,13 @@ sort: original
 搀	cdmmbk
 揿	uzqb
 揿	cdqb
-揾	uzytmbwf
+揾	uzytmb
 揾	uzwfwf
-揾	uzrimbwf
-揾	cdytmbwf
-揾	cdwfwf
-揾	cdrimbwf
+揾	uzwf
+揾	uzrimb
+揾	cdytmb
+揾	cdwf
+揾	cdrimb
 揽	uzlj
 揽	cdlj
 揼	uzbg
@@ -31972,6 +32024,7 @@ sort: original
 愾	xbqimi
 愾	xbqi
 愽	xbpo
+愽	xbfucy
 愽	xbfu
 愽	xbbu
 愼	xbvf
@@ -35254,6 +35307,7 @@ sort: original
 头	dmdmda
 夳	daer
 夲	daui
+失	rfda
 失	ppfu
 失	nafu
 失	dmfu
@@ -36152,12 +36206,15 @@ sort: original
 園	kzyr
 園	goyr
 圑	wwpo
+圑	wwfucy
 圑	wwfu
 圑	wwbu
 圑	kzpo
+圑	kzfucy
 圑	kzfu
 圑	kzbu
 圑	gopo
+圑	gofucy
 圑	gofu
 圑	gobu
 圐	wwwhfh
@@ -40511,7 +40568,7 @@ sort: original
 㟃	ujsi
 㞗	uiqq
 㝖	bcdo
-㝕	bcxb
+㝕	bcxbyz
 㝔	bcjn
 㝓	bche
 㝑	bcfh
@@ -40680,6 +40737,7 @@ sort: original
 㐂	qiqiqi
 〇	ve
 〇	lk
+# 𢼋	𪩲 夂
 
 0	abc
 1	abc

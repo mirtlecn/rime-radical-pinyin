@@ -78,7 +78,7 @@
 # v1.0.4 -> 2024.04.03
 ---
 name: radical_pinyin
-version: "2024.04.10"
+version: "2024.04.11"
 sort: original
 ...
 
@@ -1141,6 +1141,15 @@ sort: original
 𣅠	ri'qi
 𣁾	dou'dou'dou
 𣁕	wen'wen'wen
+𢼑	ju'wen
+𢼐	mi'pu
+𢼐	bao'pu
+𢼌	bao'pu
+𢼊	ta'wen
+𢼉	tai'wen
+𢼃	gou'wen
+𢼁	shang'yi'wen
+𢼀	rong'pu
 𢺸	zhi'zhi
 𢺳	shou'man
 𢺳	cai'man
@@ -5914,6 +5923,7 @@ sort: original
 髈	gu'pang
 髇	gu'gao
 髆	gu'po
+髆	gu'fu'cun
 髆	gu'fu
 髆	gu'bu
 髅	gu'mi'nv
@@ -6368,6 +6378,7 @@ sort: original
 馐	shi'xiu
 馏	shi'liu
 馎	shi'po
+馎	shi'fu'cun
 馎	shi'fu
 馎	shi'bu
 馍	shi'mo
@@ -6495,6 +6506,7 @@ sort: original
 餼	shi'qi
 餻	shi'gao
 餺	shi'po
+餺	shi'fu'cun
 餺	shi'fu
 餺	shi'bu
 餹	shi'tang
@@ -8373,6 +8385,7 @@ sort: original
 镉	jin'heng'kou'jiong'ya'heng
 镉	jin'ge
 镈	jin'po
+镈	jin'fu'cun
 镈	jin'fu
 镈	jin'bu
 镇	jin'zhen
@@ -9015,6 +9028,7 @@ sort: original
 鎝	jin'cao'he
 鎜	ban'jin
 鎛	jin'po
+鎛	jin'fu'cun
 鎛	jin'fu
 鎛	jin'bu
 鎚	jin'zhui
@@ -12080,6 +12094,7 @@ sort: original
 赛	bao'jing'da'bei
 赚	bei'jian
 赙	bei'po
+赙	bei'fu'cun
 赙	bei'fu
 赙	bei'bu
 赘	ao'bei
@@ -12208,6 +12223,7 @@ sort: original
 購	bei'gou
 賻	bei'zhuan
 賻	bei'po
+賻	bei'fu'cun
 賻	bei'fu
 賻	bei'bu
 賺	bei'jian
@@ -15537,6 +15553,7 @@ sort: original
 蒬	cao'yuan
 蒫	cao'cha
 蒪	cao'po
+蒪	cao'fu'cun
 蒪	cao'fu
 蒪	cao'bu
 蒩	cao'zu
@@ -15588,6 +15605,7 @@ sort: original
 蒈	cao'jie
 蒇	cao'wu'bei
 蒆	cao'gong'nv
+蒅	cao'ran
 蒄	cao'guan
 蒃	cao'zhe'zhe'heng'shi
 蒃	cao'tuan
@@ -15737,6 +15755,8 @@ sort: original
 萣	cao'mi'ding
 萣	cao'bao'pi
 萣	cao'bao'ding
+萢	cao'pao
+萡	cao'po
 萠	cao'peng
 萝	cao'luo
 萜	cao'tie
@@ -15982,6 +16002,7 @@ sort: original
 荤	cao'jun
 荣	cao'mi'mu
 荣	cao'bao'mu
+荢	cao'yu
 荡	cao'tang
 荠	cao'qi
 荟	cao'hui
@@ -16023,6 +16044,7 @@ sort: original
 荁	cao'gen
 荀	cao'xun
 茿	cao'gong
+茾	cao'kai
 茽	cao'zhong
 茼	cao'tong
 茻	che'che'che'xiong'shu
@@ -16107,6 +16129,7 @@ sort: original
 茔	cao'bao'tu
 茓	cao'xue
 茑	cao'niao
+茐	cao'cong
 茏	cao'long
 茎	cao'zhe'na'gong
 茎	cao'zhe'dian'gong
@@ -16194,6 +16217,7 @@ sort: original
 苉	cao'pi
 苈	cao'li
 苇	cao'wei
+苆	cao'qie
 苅	cao'yi
 苄	cao'na'xia
 苄	cao'dian'xia
@@ -16863,9 +16887,11 @@ sort: original
 膋	huo'huo'bao'yue
 膋	huo'huo'bao'rou
 膊	yue'po
+膊	yue'fu'cun
 膊	yue'fu
 膊	yue'bu
 膊	rou'po
+膊	rou'fu'cun
 膊	rou'fu
 膊	rou'bu
 膉	yue'yi
@@ -18208,6 +18234,7 @@ sort: original
 缜	si'zhen
 缛	si'ru
 缚	si'po
+缚	si'fu'cun
 缚	si'fu
 缚	si'bu
 缙	si'jin
@@ -18798,9 +18825,11 @@ sort: original
 縜	mi'yun
 縜	mi'yuan
 縛	si'po
+縛	si'fu'cun
 縛	si'fu
 縛	si'bu
 縛	mi'po
+縛	mi'fu'cun
 縛	mi'fu
 縛	mi'bu
 縚	si'yao
@@ -19649,6 +19678,7 @@ sort: original
 糒	mi'cao'chang'yong
 糑	mi'ruo
 糐	mi'po
+糐	mi'fu'cun
 糐	mi'fu
 糐	mi'bu
 糏	mi'xie
@@ -21259,6 +21289,10 @@ sort: original
 磙	shi'gun
 磘	shi'zhua'fou
 磘	shi'zhao'fou
+磗	shi'po
+磗	shi'fu'cun
+磗	shi'fu
+磗	shi'bu
 磖	shi'xi
 磕	shi'qu'min
 磕	shi'he
@@ -21298,7 +21332,10 @@ sort: original
 確	shi'bao'zhui
 碹	shi'xuan
 碸	shi'feng
+碷	shi'dun
 碶	shi'qi
+碵	shi'zheng
+碵	shi'zhen
 碴	shi'cha
 碳	shi'tan
 碲	shi'di
@@ -21400,6 +21437,8 @@ sort: original
 硷	shi'qian
 硶	shi'cen
 硵	shi'lu
+硴	shi'hua
+硳	shi'chi
 硲	shi'gu
 硱	shi'kun
 硰	sha'shi
@@ -21432,12 +21471,15 @@ sort: original
 硝	shi'xiao
 硜	shi'xing
 硜	shi'jing
+硛	shi'yi
 硚	shi'qiao
 硙	shi'qi
+硘	shi'hui
 硗	shi'yao
 硖	shi'jia
 硕	shi'ye
 硔	shi'gong
+硓	shi'lao
 硒	shi'xi
 硑	shi'bing
 硐	shi'tong
@@ -21461,7 +21503,10 @@ sort: original
 硁	shi'zhe'dian'gong
 硁	shi'jing
 础	shi'chu
+砿	shi'guang'si
+砿	shi'guang
 砾	shi'le
+砽	shi'yong
 砼	shi'tong
 砻	long'shi
 砺	shi'li
@@ -21499,6 +21544,7 @@ sort: original
 砞	shi'mo
 砝	shi'qu
 砜	shi'feng
+砛	shi'jin
 砚	shi'jian
 砙	shi'wa
 砘	shi'tun
@@ -21567,6 +21613,7 @@ sort: original
 知	shi'kou
 矤	gong'shi
 矣	si'shi
+矢	ren'da
 矢	pie'tian
 矡	mao'jue
 矠	mao'xi
@@ -24133,6 +24180,7 @@ sort: original
 猾	quan'gu
 猽	quan'ming
 猼	quan'po
+猼	quan'fu'cun
 猼	quan'fu
 猼	quan'bu
 猻	quan'xun
@@ -24452,6 +24500,7 @@ sort: original
 牖	pian'hu'fu
 牕	pian'cong
 牔	pian'po
+牔	pian'fu'cun
 牔	pian'fu
 牔	pian'bu
 牓	pian'pang
@@ -24812,6 +24861,7 @@ sort: original
 熁	huo'li'li'li'yue
 熀	huo'huang
 煿	huo'po
+煿	huo'fu'cun
 煿	huo'fu
 煿	huo'bu
 煾	huo'en
@@ -25887,6 +25937,7 @@ sort: original
 溦	shui'shan'wu'wen
 溦	shui'shan'wu'pu
 溥	shui'po
+溥	shui'fu'cun
 溥	shui'fu
 溥	shui'bu
 溤	shui'ma
@@ -27834,6 +27885,7 @@ sort: original
 榓	mu'bi'min
 榒	mu'ruo
 榑	mu'po
+榑	mu'fu'cun
 榑	mu'fu
 榑	mu'bu
 榐	mu'zhan
@@ -30281,12 +30333,10 @@ sort: original
 搶	shou'cang
 搶	cai'chuang
 搶	cai'cang
-搵	shou'yue'min
 搵	shou'wen
-搵	shou'ri'min
-搵	cai'yue'min
+搵	shou'qiu'min
 搵	cai'wen
-搵	cai'ri'min
+搵	cai'qiu'min
 搴	bao'jing'da'shou
 搳	shou'hai
 搳	cai'hai
@@ -30393,6 +30443,7 @@ sort: original
 搏	shou'fu
 搏	shou'bu
 搏	cai'po
+搏	cai'fu'cun
 搏	cai'fu
 搏	cai'bu
 搎	shou'xun
@@ -30453,12 +30504,13 @@ sort: original
 搀	cai'mian'bing
 揿	shou'qin
 揿	cai'qin
-揾	shou'yue'min'wen
+揾	shou'yue'min
 揾	shou'wen'wen
-揾	shou'ri'min'wen
-揾	cai'yue'min'wen
-揾	cai'wen'wen
-揾	cai'ri'min'wen
+揾	shou'wen
+揾	shou'ri'min
+揾	cai'yue'min
+揾	cai'wen
+揾	cai'ri'min
 揽	shou'lan
 揽	cai'lan
 揼	shou'beng
@@ -31971,6 +32023,7 @@ sort: original
 愾	xin'qi'mi
 愾	xin'qi
 愽	xin'po
+愽	xin'fu'cun
 愽	xin'fu
 愽	xin'bu
 愼	xin'zhen
@@ -35253,6 +35306,7 @@ sort: original
 头	dian'dian'da
 夳	da'er
 夲	da'shi
+失	ren'da
 失	pie'fu
 失	na'fu
 失	dian'fu
@@ -36151,12 +36205,15 @@ sort: original
 園	kou'yuan
 園	guo'yuan
 圑	wei'po
+圑	wei'fu'cun
 圑	wei'fu
 圑	wei'bu
 圑	kou'po
+圑	kou'fu'cun
 圑	kou'fu
 圑	kou'bu
 圑	guo'po
+圑	guo'fu'cun
 圑	guo'fu
 圑	guo'bu
 圐	wei'wang'fang
@@ -40510,7 +40567,7 @@ sort: original
 㟃	shan'si
 㞗	shi'qiu
 㝖	bao'duo
-㝕	bao'xin
+㝕	bao'xin'you
 㝔	bao'jiao
 㝓	bao'he
 㝑	bao'fang
@@ -40679,6 +40736,7 @@ sort: original
 㐂	qi'qi'qi
 〇	zhe
 〇	ling
+# 𢼋	𪩲 夂
 
 0	abc
 1	abc
