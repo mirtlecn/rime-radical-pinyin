@@ -72,7 +72,7 @@ jobs:
           if ( $Status ) {
           "Push to master branch"
           git add --all
-          git commit -m "gen: $CommitInfo" && git push origin master
+          git commit -m "$CommitInfo" && git push origin master
           }
           Compress-Archive "radical_pinyin.schema.yaml","radical_pinyin.dict.yaml" "gen/radical_pinyin.zip"
           Compress-Archive "radical_flypy.dict.yaml","radical.schema.yaml" "gen/radical_flypy.zip"

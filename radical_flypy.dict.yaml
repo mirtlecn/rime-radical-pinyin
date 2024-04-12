@@ -81,6 +81,16 @@
 name: radical_flypy
 version: "2024.04.12"
 sort: original
+
+## 如果需要调整字频，注释掉上面一行（sort: original），然后取消注释下面两行
+
+# 简体字频
+# vocabulary: essay-zh-hans # 简体字频，需要安装 rime/essay-simp
+# max_phrase_length: 1 # 仅调整单字
+
+# 繁体字频
+# vocabulary: essay # 简体字频，需要安装 rime/essay（多数平台预装）
+# max_phrase_length: 1 # 仅调整单字
 ...
 
 𱍂	lsls
@@ -539,6 +549,8 @@ sort: original
 𫚍	yuff
 𫚌	yuuc
 𫚉	yugs
+𫘳	gujm
+𫘭	maul
 𫘬	maxi
 𫘪	mayr
 𫘨	maui
@@ -546,9 +558,14 @@ sort: original
 𫘦	mayc
 𫘦	matc
 𫘦	mabcfz
+𫘤	mayi
+𫘣	mahj
+𫘞	mayi
+𫘞	marfye
 𫘝	maveda
 𫘝	magk
 𫘜	mawf
+𫘇	mapi
 𫗴	uiyihvdj
 𫗴	uitzhvdj
 𫗴	uidj
