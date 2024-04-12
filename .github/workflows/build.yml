@@ -44,8 +44,9 @@ jobs:
           $Status = git status --porcelain
           if ( $Status ) {
           "Update submodule"
+          $info = (irm https://whatthecommit.com/index.txt).trim()
           git add --all
-          git commit -m "update submodule" && git push origin build
+          git commit -m "$info" && git push origin build
           }
 
       - name: Set up Python
@@ -61,7 +62,8 @@ jobs:
       - name: Update
         run: |
           $ErrorActionPreference = 'Break'
-          $CommitInfo = Get-Date -UFormat %s
+          # $CommitInfo = Get-Date -UFormat %s
+          $CommitInfo = (irm https://whatthecommit.com/index.txt).trim()
 
           git checkout master
           cp gen/radical_pinyin.dict.yaml , gen/radical_pinyin.schema.yaml
