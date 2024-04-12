@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - build
-    tags:
-      - '[0-9]+.*'
     paths:
       - 'dict/radical.yaml'
       - 'gen.py'
