@@ -44,6 +44,16 @@ def gen_dict(
 name: {base_name}
 version: "{datetime.now().strftime("%Y.%m.%d")}"
 sort: original
+
+## 如果需要调整字频，注释掉上面一行（sort: original），然后取消注释下面两行
+
+# 简体字频
+# vocabulary: essay-zh-hans # 简体字频，需要安装 rime/essay-simp
+# max_phrase_length: 1 # 仅调整单字
+
+# 繁体字频
+# vocabulary: essay # 简体字频，需要安装 rime/essay（多数平台预装）
+# max_phrase_length: 1 # 仅调整单字
 ...\n\n'''
 
     with open(output_file_path, 'w', encoding='utf-8') as output_file:
