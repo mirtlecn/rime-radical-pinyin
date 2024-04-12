@@ -89,7 +89,7 @@ sort: original
 # max_phrase_length: 1 # 仅调整单字
 
 # 繁体字频
-# vocabulary: essay # 简体字频，需要安装 rime/essay（多数平台预装）
+# vocabulary: essay # 繁体字频，需要安装 rime/essay（多数平台预装）
 # max_phrase_length: 1 # 仅调整单字
 ...
 
