@@ -1643,9 +1643,6 @@ sort: original
 𠒶	lu'lu'lu
 𠑲	qian'qian
 𠑰	she'she'she
-𠑐	chuang'chuang
-𠑐	chuang'cang
-𠑐	cang'chuang
 𠑐	cang'cang
 𠐰	qi'qi'qi
 𠐇	lai'lai
@@ -2568,7 +2565,6 @@ sort: original
 鶮	gao'niao
 鶭	fang'niao
 鶭	bang'niao
-鶬	chuang'niao
 鶬	cang'niao
 鶪	mu'quan'niao
 鶪	ju'niao
@@ -7639,7 +7635,6 @@ sort: original
 鎘	jin'heng'kou'tong'ya'heng
 鎘	jin'heng'kou'jiong'ya'heng
 鎘	jin'ge
-鎗	jin'chuang
 鎗	jin'cang
 鎖	jin'xiao'bei
 鎕	jin'tang
@@ -10361,7 +10356,6 @@ sort: original
 蹏	zu'chang'hu
 蹎	zu'zhen
 蹍	zu'zhan
-蹌	zu'chuang
 蹌	zu'cang
 蹋	zu'ri'yu
 蹊	zu'xi
@@ -10824,7 +10818,6 @@ sort: original
 賸	rou'ba'fu'bei
 賷	shi'kou'kou'mi'bei
 賷	shi'kou'kou'bao'bei
-賶	bei'chuang
 賶	bei'cang
 賵	bei'mao
 賴	shu'fu
@@ -11583,7 +11576,6 @@ sort: original
 謕	yan'chang'hu
 謔	yan'nve
 謓	yan'zhen
-謒	yan'chuang
 謒	yan'cang
 謑	yan'xi
 謐	yan'bi'min
@@ -13013,7 +13005,6 @@ sort: original
 螪	chong'shang
 螨	chong'cao'liang
 螦	chong'su
-螥	chong'chuang
 螥	chong'cang
 螤	wen'yu
 螤	wen'jiu'ren
@@ -14101,7 +14092,6 @@ sort: original
 蒿	cao'gao
 蒾	cao'mi
 蒽	cao'en
-蒼	cao'chuang
 蒼	cao'cang
 蒻	cao'ruo
 蒺	cao'ji
@@ -14963,7 +14953,6 @@ sort: original
 艛	zhou'lou
 艛	zhou'lei
 艚	zhou'cao
-艙	zhou'chuang
 艙	zhou'cang
 艘	zhou'sou
 艗	zhou'yi
@@ -18585,7 +18574,6 @@ sort: original
 篮	zhu'jian
 篭	zhu'neng
 篭	zhu'long
-篬	zhu'chuang
 篬	zhu'cang
 篫	zhu'shou
 篫	zhu'gong'shou
@@ -21002,9 +20990,7 @@ sort: original
 瘣	bing'gui
 瘢	ne'ban
 瘢	bing'ban
-瘡	ne'chuang
 瘡	ne'cang
-瘡	bing'chuang
 瘡	bing'cang
 瘠	ne'ji
 瘠	bing'ji
@@ -22050,9 +22036,7 @@ sort: original
 瑴	shi'bao'heng'wang'ji'you
 瑳	yu'cha
 瑳	wang'cha
-瑲	yu'chuang
 瑲	yu'cang
-瑲	wang'chuang
 瑲	wang'cang
 瑱	yu'zhen
 瑱	wang'zhen
@@ -22716,7 +22700,6 @@ sort: original
 獍	quan'jing
 獌	quan'man
 獋	quan'gao
-獊	quan'chuang
 獊	quan'cang
 獉	quan'qin
 獈	quan'yi
@@ -23074,7 +23057,6 @@ sort: original
 片	shang'pie'zhe
 牆	pian'se
 牅	pian'yong
-牄	pian'chuang
 牄	pian'cang
 牃	pian'ye
 牃	pian'shi'mu
@@ -23373,7 +23355,6 @@ sort: original
 熚	huo'bi
 熙	yi'huo
 熘	huo'liu
-熗	huo'chuang
 熗	huo'cang
 熔	huo'rong
 熓	huo'ya
@@ -24444,7 +24425,6 @@ sort: original
 滅	shui'wu'mie
 滅	shui'wu'heng'huo
 滅	shui'mie
-滄	shui'chuang
 滄	shui'cang
 滃	shui'weng
 滂	shui'pang
@@ -26331,7 +26311,6 @@ sort: original
 槐	mu'gui
 槏	mu'jian
 槎	mu'cha
-槍	mu'chuang
 槍	mu'cang
 槌	mu'zhui
 構	mu'jing'zai
@@ -28872,9 +28851,7 @@ sort: original
 搸	cai'qin
 搷	shou'zhen
 搷	cai'zhen
-搶	shou'chuang
 搶	shou'cang
-搶	cai'chuang
 搶	cai'cang
 搵	shou'wen
 搵	shou'qiu'min
@@ -30170,7 +30147,6 @@ sort: original
 截	shi'ge'zhui
 戩	jin'ge
 戨	ge'ge
-戧	chuang'ge
 戧	cang'ge
 戦	na'dan'ge
 戦	dian'dan'ge
@@ -30589,7 +30565,6 @@ sort: original
 愶	xin'xi
 愶	xin'li'li'li'yue
 愵	xin'ruo
-愴	xin'chuang
 愴	xin'cang
 愳	mu'mu'xin
 愲	xin'gu
@@ -32328,7 +32303,6 @@ sort: original
 嵤	huo'huo'kan
 嵤	huo'huo'bao'shan
 嵣	shan'tang
-嵢	shan'chuang
 嵢	shan'cang
 嵡	shan'weng
 嵠	shan'xi
@@ -35448,7 +35422,6 @@ sort: original
 嗇	tu'cong'kou'kou
 嗇	tu'cong'hui
 嗇	tu'cong'guo'kou
-嗆	kou'chuang
 嗆	kou'cang
 嗅	kou'chou
 嗄	kou'xia
@@ -36816,7 +36789,6 @@ sort: original
 剸	shuan'dao
 剶	zhe'zhe'heng'shi'dao
 剶	tuan'dao
-創	chuang'dao
 創	cang'dao
 剴	shan'dou'dao
 剴	qi'dao
@@ -37059,7 +37031,6 @@ sort: original
 凘	bing'si
 凗	bing'cui
 凕	bing'ming
-凔	bing'chuang
 凔	bing'cang
 凓	bing'li
 凒	bing'shan'dou
@@ -37646,7 +37617,6 @@ sort: original
 備	ren'cao'chang'yong
 傘	ren'ren'ren'ren'shi
 傗	ren'chu
-傖	ren'chuang
 傖	ren'cang
 傕	ren'mi'zhui
 傕	ren'hu
