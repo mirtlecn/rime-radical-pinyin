@@ -687,6 +687,59 @@ sort: original
 𪟝	zeli
 𪚥	lslslsls
 𪙹	iiii
+𪖎	uuxm
+𪖍	uuli
+𪖌	uulv
+𪖌	uulu
+𪖌	uulw
+𪖋	uujp
+𪖉	uusi
+𪖈	uupu
+𪖇	uufj
+𪖄	uujn
+𪖂	uuli
+𪖁	uuzs
+𪖁	uucs
+𪖀	uuqt
+𪕹	uuth
+𪕷	qnuu
+𪕶	uuyi
+𪕴	uufg
+𪕳	uusi
+𪕱	uuhu
+𪕯	uuye
+𪕯	uuxp
+𪕮	huuu
+𪕭	uurigd
+𪕭	uuhe
+𪕫	uuyh
+𪕫	uurihgwu
+𪕫	uudjwu
+𪕩	uuyi
+𪕨	uuni
+𪕨	uuer
+𪕦	uuwfyz
+𪕞	uuqy
+𪕝	uuzu
+𪕚	uuyz
+𪕔	uuer
+𪕓	uugl
+𪕒	uubk
+𪕎	uurs
+𪕍	uujs
+𪕌	uulk
+𪕊	ciuu
+𪕉	uuhu
+𪕈	uuri
+𪕇	uukh
+𪕃	uufh
+𪕁	uurs
+𪕀	uuyr
+𪔿	uupu
+𪔾	uukd
+𪔽	uuyz
+𪔽	uuyb
+𪔺	uurf
 𪉓	nnnnnn
 𪈼	nnnnnn
 𪅝	nnnn
@@ -1777,6 +1830,7 @@ sort: original
 齆	biiryi
 齅	biiz
 齄	biia
+齃	birigd
 齃	biribcverf
 齃	bihe
 齂	bili
@@ -2220,6 +2274,7 @@ sort: original
 鹘	gunn
 鹗	kzkzkvnn
 鹗	eenn
+鹖	rigdnn
 鹖	ribcverfnn
 鹖	henn
 鹕	hunn
@@ -2512,6 +2567,7 @@ sort: original
 鶢	vxhgyznn
 鶢	vchgyznn
 鶢	yrnn
+鶡	rigdnn
 鶡	ribcverfnn
 鶡	henn
 鶠	yjnn
@@ -3090,6 +3146,7 @@ sort: original
 鰑	yuythgwu
 鰑	yuyh
 鰑	yurihgwu
+鰑	yudjwu
 鰐	yukzkzkv
 鰐	yuee
 鰏	yuhgkztm
@@ -3349,12 +3406,15 @@ sort: original
 鬺	hgkztsyahgrfythgwu
 鬺	hgkztsyahgrfyh
 鬺	hgkztsyahgrfrihgwu
+鬺	hgkztsyahgrfdjwu
 鬺	hgkzjsyahgrfythgwu
 鬺	hgkzjsyahgrfyh
 鬺	hgkzjsyahgrfrihgwu
+鬺	hgkzjsyahgrfdjwu
 鬺	gerfythgwu
 鬺	gerfyh
 鬺	gerfrihgwu
+鬺	gerfdjwu
 鬹	xuhgkztsyahg
 鬹	xuhgkzjsyahg
 鬹	xuge
@@ -4722,6 +4782,7 @@ sort: original
 騖	wuma
 騖	mzma
 騕	mayc
+騔	marigd
 騔	maribcverf
 騔	mahe
 験	marfhgkzrf
@@ -4868,6 +4929,7 @@ sort: original
 馧	xlrimb
 馦	xljm
 馥	xlfu
+馤	xlrigd
 馤	xlribcverf
 馤	xlhe
 馣	xlyj
@@ -5044,6 +5106,8 @@ sort: original
 餳	uiythgwu
 餳	uiyh
 餳	uirihgwu
+餳	uidjwu
+餲	uirigd
 餲	uiribcverf
 餲	uihe
 餱	uihz
@@ -5220,6 +5284,7 @@ sort: original
 颺	fgythgwu
 颺	fgyh
 颺	fgrihgwu
+颺	fgdjwu
 颹	fgww
 颹	fghv
 颸	fgsi
@@ -5812,6 +5877,7 @@ sort: original
 鞪	wuge
 鞪	mzge
 鞩	gext
+鞨	gerigd
 鞨	geribcverf
 鞨	gehe
 鞧	geqq
@@ -6371,9 +6437,11 @@ sort: original
 陽	fuythgwu
 陽	fuyh
 陽	furihgwu
+陽	fudjwu
 陽	erythgwu
 陽	eryh
 陽	errihgwu
+陽	erdjwu
 陼	fuve
 陼	erve
 陻	fuyb
@@ -7589,6 +7657,7 @@ sort: original
 鍾	jbvs
 鍽	jbbm
 鍼	jbxm
+鍻	jbrigd
 鍻	jbribcverf
 鍻	jbhe
 鍺	jbve
@@ -7646,6 +7715,7 @@ sort: original
 鍚	jbythgwu
 鍚	jbyh
 鍚	jbrihgwu
+鍚	jbdjwu
 鍙	hsjb
 鍘	jbze
 鍗	jbdi
@@ -9085,8 +9155,10 @@ sort: original
 遐	vijx
 遐	iouiervehgyz
 遐	iojx
+遏	virigd
 遏	viribcverf
 遏	vihe
+遏	iorigd
 遏	ioribcverf
 遏	iohe
 過	viwo
@@ -9155,9 +9227,11 @@ sort: original
 逿	viythgwu
 逿	viyh
 逿	virihgwu
+逿	vidjwu
 逿	ioythgwu
 逿	ioyh
 逿	iorihgwu
+逿	iodjwu
 逾	viyu
 逾	ioyu
 逽	viro
@@ -9783,8 +9857,10 @@ sort: original
 輷	iebcyj
 輶	juqq
 輶	ieqq
+輵	jurigd
 輵	juribcverf
 輵	juhe
+輵	ierigd
 輵	ieribcverf
 輵	iehe
 輴	judy
@@ -9800,9 +9876,11 @@ sort: original
 輰	juythgwu
 輰	juyh
 輰	jurihgwu
+輰	judjwu
 輰	ieythgwu
 輰	ieyh
 輰	ierihgwu
+輰	iedjwu
 輯	juqi
 輯	jukzer
 輯	ieqi
@@ -10288,6 +10366,7 @@ sort: original
 踼	zuythgwu
 踼	zuyh
 踼	zurihgwu
+踼	zudjwu
 踻	zuwo
 踻	zuwd
 踻	zutsvetskz
@@ -11098,6 +11177,7 @@ sort: original
 谔	yjkzkzkv
 谔	yjee
 谓	yjww
+谒	yjrigd
 谒	yjribcverf
 谒	yjhe
 谑	yjnt
@@ -11508,6 +11588,7 @@ sort: original
 謅	yjbcccbccc
 謄	yttg
 謂	yjww
+謁	yjrigd
 謁	yjribcverf
 謁	yjhe
 謀	yjmz
@@ -11523,6 +11604,7 @@ sort: original
 諹	yjythgwu
 諹	yjyh
 諹	yjrihgwu
+諹	yjdjwu
 諸	yjve
 諷	yjfg
 諶	yjuf
@@ -11877,6 +11959,7 @@ sort: original
 觴	jnrfythgwu
 觴	jnrfyh
 觴	jnrfrihgwu
+觴	jnrfdjwu
 觳	uimijnuu
 觳	uimijnjiyz
 觳	uibcjnuu
@@ -12317,6 +12400,7 @@ sort: original
 褑	yivxhgyz
 褑	yivchgyz
 褑	yiyr
+褐	yirigd
 褐	yiribcverf
 褐	yihe
 褏	yiiheryzyi
@@ -13011,6 +13095,7 @@ sort: original
 蝪	isythgwu
 蝪	isyh
 蝪	isrihgwu
+蝪	isdjwu
 蝩	isvs
 蝨	yiuiisis
 蝨	xyisis
@@ -13055,6 +13140,7 @@ sort: original
 蝑	isdkyt
 蝐	ismc
 蝏	istk
+蝎	isrigd
 蝎	isribcverf
 蝎	ishe
 蝍	isji
@@ -13575,6 +13661,7 @@ sort: original
 藖	ccxm
 藕	ccou
 藓	ccxm
+藒	ccherigd
 藒	ccheribcverf
 藒	cchehe
 藑	ccxs
@@ -13661,6 +13748,7 @@ sort: original
 薚	ccddythgwu
 薚	ccddyh
 薚	ccddrihgwu
+薚	ccdddjwu
 薙	ccvi
 薘	ccta
 薘	ccda
@@ -14132,6 +14220,7 @@ sort: original
 葝	ccjk
 葝	ccjb
 葜	ccqi
+葛	ccrigd
 葛	ccribcverf
 葛	cche
 葚	ccuf
@@ -15335,9 +15424,11 @@ sort: original
 膓	ytrfythgwu
 膓	ytrfyh
 膓	ytrfrihgwu
+膓	ytrfdjwu
 膓	rzrfythgwu
 膓	rzrfyh
 膓	rzrfrihgwu
+膓	rzrfdjwu
 膑	ytbb
 膑	rzbb
 膐	lvyt
@@ -15415,9 +15506,11 @@ sort: original
 腸	ytythgwu
 腸	ytyh
 腸	ytrihgwu
+腸	ytdjwu
 腸	rzythgwu
 腸	rzyh
 腸	rzrihgwu
+腸	rzdjwu
 腷	ythgkztm
 腷	ytfu
 腷	ytbi
@@ -16397,6 +16490,7 @@ sort: original
 羲	yhhehgvege
 羱	yhyr
 羰	yhtj
+羯	yhrigd
 羯	yhribcverf
 羯	yhhe
 羮	gchgfu
@@ -18156,6 +18250,7 @@ sort: original
 糃	miythgwu
 糃	miyh
 糃	mirihgwu
+糃	midjwu
 糂	miuf
 糁	micj
 糀	mihx
@@ -18822,6 +18917,7 @@ sort: original
 端	liujer
 端	lidr
 竮	lipk
+竭	lirigd
 竭	liribcverf
 竭	lihe
 竬	liyu
@@ -19447,6 +19543,7 @@ sort: original
 禓	uiythgwu
 禓	uiyh
 禓	uirihgwu
+禓	uidjwu
 禒	uivevehgui
 禒	uitr
 禑	uiyu
@@ -19794,6 +19891,7 @@ sort: original
 碭	uiythgwu
 碭	uiyh
 碭	uirihgwu
+碭	uidjwu
 碬	uiuiervehgyz
 碬	uijx
 碫	uidr
@@ -19805,6 +19903,7 @@ sort: original
 碦	uike
 碥	uibm
 碤	uiyk
+碣	uirigd
 碣	uiribcverf
 碣	uihe
 碢	uiwo
@@ -20962,9 +21061,11 @@ sort: original
 瘍	neythgwu
 瘍	neyh
 瘍	nerihgwu
+瘍	nedjwu
 瘍	bkythgwu
 瘍	bkyh
 瘍	bkrihgwu
+瘍	bkdjwu
 瘌	nela
 瘌	bkla
 瘋	nefg
@@ -21343,6 +21444,7 @@ sort: original
 畼	tmythgwu
 畼	tmyh
 畼	tmrihgwu
+畼	tmdjwu
 畻	tmjrtu
 畻	tmbafutu
 畺	sjtmtm
@@ -22018,9 +22120,11 @@ sort: original
 瑒	yuythgwu
 瑒	yuyh
 瑒	yurihgwu
+瑒	yudjwu
 瑒	whythgwu
 瑒	whyh
 瑒	whrihgwu
+瑒	whdjwu
 瑑	yuvevehgui
 瑑	yutr
 瑑	whvevehgui
@@ -23332,6 +23436,7 @@ sort: original
 煬	hoythgwu
 煬	hoyh
 煬	horihgwu
+煬	hodjwu
 煫	hobaui
 煪	hoqq
 煩	hoye
@@ -24180,6 +24285,7 @@ sort: original
 漡	uvrfythgwu
 漡	uvrfyh
 漡	uvrfrihgwu
+漡	uvrfdjwu
 漠	uvmo
 漟	uvth
 漞	uvmi
@@ -24431,6 +24537,7 @@ sort: original
 湯	uvythgwu
 湯	uvyh
 湯	uvrihgwu
+湯	uvdjwu
 湮	uvyb
 湮	uvxitu
 湬	qquv
@@ -24509,6 +24616,7 @@ sort: original
 渷	uvyj
 渶	uvyk
 渵	uvmn
+渴	uvrigd
 渴	uvribcverf
 渴	uvhe
 渳	uvmi
@@ -25175,6 +25283,7 @@ sort: original
 氱	qiythgwu
 氱	qiyh
 氱	qirihgwu
+氱	qidjwu
 氰	qiqk
 氯	qilu
 氮	qiyj
@@ -25252,6 +25361,7 @@ sort: original
 毿	cjmc
 毾	riyumc
 毽	mcjm
+毼	rigdmc
 毼	ribcverfmc
 毼	hemc
 毻	zoytmc
@@ -25426,6 +25536,7 @@ sort: original
 殤	ddrfythgwu
 殤	ddrfyh
 殤	ddrfrihgwu
+殤	ddrfdjwu
 殣	ddnmvssj
 殣	ddjb
 殢	dddd
@@ -25593,6 +25704,7 @@ sort: original
 歊	gcqm
 歉	jmqm
 歈	yuqm
+歇	rigdqm
 歇	ribcverfqm
 歇	heqm
 歆	ybqm
@@ -26351,6 +26463,7 @@ sort: original
 楯	mudy
 楮	muve
 業	yebaermu
+楬	murigd
 楬	muribcverf
 楬	muhe
 楫	muqi
@@ -26403,6 +26516,7 @@ sort: original
 楊	muythgwu
 楊	muyh
 楊	murihgwu
+楊	mudjwu
 楉	muro
 楈	mupiyt
 楈	mudkyt
@@ -27137,6 +27251,7 @@ sort: original
 朇	kkbw
 朇	hvbw
 朆	cgwu
+朅	qurigd
 朅	quribcverf
 朅	quhe
 朄	ufjm
@@ -27168,6 +27283,7 @@ sort: original
 曹	hgquri
 書	yuyt
 書	yuri
+曷	rigd
 曷	ribcverf
 曶	wuyt
 曶	wuri
@@ -27317,6 +27433,7 @@ sort: original
 暢	ufythgwu
 暢	ufyh
 暢	ufrihgwu
+暢	ufdjwu
 暡	riwg
 暠	rigc
 暟	riujdz
@@ -27333,6 +27450,7 @@ sort: original
 暘	riythgwu
 暘	riyh
 暘	ririhgwu
+暘	ridjwu
 暗	riyb
 暖	rivxhgyz
 暖	rivchgyz
@@ -27347,6 +27465,7 @@ sort: original
 暐	rihv
 暏	rive
 暎	riyk
+暍	ririgd
 暍	riribcverf
 暍	rihe
 暌	rigv
@@ -27487,6 +27606,7 @@ sort: original
 昞	ribk
 昝	iuri
 昜	rihgwu
+昜	djwu
 昛	riju
 昚	dabari
 昙	riyy
@@ -28593,9 +28713,11 @@ sort: original
 摥	uzrfythgwu
 摥	uzrfyh
 摥	uzrfrihgwu
+摥	uzrfdjwu
 摥	cdrfythgwu
 摥	cdrfyh
 摥	cdrfrihgwu
+摥	cdrfdjwu
 摤	uzul
 摤	cdul
 摣	uzhuqp
@@ -28952,8 +29074,10 @@ sort: original
 揯	cdgg
 揮	uzjy
 揮	cdjy
+揭	uzrigd
 揭	uzribcverf
 揭	uzhe
+揭	cdrigd
 揭	cdribcverf
 揭	cdhe
 揬	uztu
@@ -29007,9 +29131,11 @@ sort: original
 揚	uzythgwu
 揚	uzyh
 揚	uzrihgwu
+揚	uzdjwu
 揚	cdythgwu
 揚	cdyh
 揚	cdrihgwu
+揚	cddjwu
 揙	uzbm
 揙	cdbm
 揘	uzhl
@@ -30351,6 +30477,7 @@ sort: original
 慯	xbrfythgwu
 慯	xbrfyh
 慯	xbrfrihgwu
+慯	xbrfdjwu
 慮	husixb
 慭	ldqrxb
 慬	xbnmvssj
@@ -30506,6 +30633,8 @@ sort: original
 愓	xbythgwu
 愓	xbyh
 愓	xbrihgwu
+愓	xbdjwu
+愒	xbrigd
 愒	xbribcverf
 愒	xbhe
 愑	xbys
@@ -31685,6 +31814,7 @@ sort: original
 幊	jbgs
 幈	jbpk
 幇	fgjb
+幆	jbrigd
 幆	jbribcverf
 幆	jbhe
 幅	jbhgkztm
@@ -32195,6 +32325,7 @@ sort: original
 嵔	ujww
 嵓	ujpb
 嵒	pbuj
+嵑	ujrigd
 嵑	ujribcverf
 嵑	ujhe
 嵐	ujfg
@@ -32236,6 +32367,7 @@ sort: original
 崵	ujythgwu
 崵	ujyh
 崵	ujrihgwu
+崵	ujdjwu
 崴	ujww
 崳	ujyu
 崲	ujhl
@@ -33265,6 +33397,7 @@ sort: original
 婸	nvythgwu
 婸	nvyh
 婸	nvrihgwu
+婸	nvdjwu
 婷	nvtk
 婶	nvuf
 婵	nvdj
@@ -34028,6 +34161,7 @@ sort: original
 塲	turfrfythgwu
 塲	turfrfyh
 塲	turfrfrihgwu
+塲	turfrfdjwu
 塱	lhtu
 塰	hdtu
 塯	tulq
@@ -34112,6 +34246,7 @@ sort: original
 場	tuythgwu
 場	tuyh
 場	turihgwu
+場	tudjwu
 堳	tumw
 堲	jitu
 報	xkeryz
@@ -34130,6 +34265,7 @@ sort: original
 堪	tuuf
 堩	tuhg
 堩	tugg
+堨	turigd
 堨	turibcverf
 堨	tuhe
 堧	turr
@@ -35352,6 +35488,7 @@ sort: original
 喠	kzvs
 喟	kzww
 喞	kzji
+喝	kzrigd
 喝	kzribcverf
 喝	kzhe
 喜	vukz
@@ -35409,6 +35546,7 @@ sort: original
 啺	kzythgwu
 啺	kzyh
 啺	kzrihgwu
+啺	kzdjwu
 啹	kzju
 啸	kzsu
 啷	kzlh
@@ -37438,6 +37576,7 @@ sort: original
 傷	rfrfythgwu
 傷	rfrfyh
 傷	rfrfrihgwu
+傷	rfrfdjwu
 傶	rfqi
 債	rfvd
 債	rfze
@@ -37602,6 +37741,7 @@ sort: original
 偊	rfyu
 偉	rfww
 偉	rfhv
+偈	rfrigd
 偈	rfribcverf
 偈	rfhe
 假	rfuiervehgyz
