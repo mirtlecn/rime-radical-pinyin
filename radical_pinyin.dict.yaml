@@ -1384,6 +1384,7 @@ sort: original
 𢫏	cai'kan
 𢫊	shou'dui
 𢫊	cai'dui
+𢪙	shou'shou
 𢩙	qi'qi
 𢩕	hu'hu'hu
 𢨳	hu'hu
@@ -8017,6 +8018,7 @@ sort: original
 鉴	shu'shu'ren'dian'jin
 鉳	jin'bei
 鉲	jin'ka
+鉱	jin'guang'si
 鉱	jin'guang
 鉰	jin'si
 鉯	jin'yi
@@ -27560,6 +27562,7 @@ sort: original
 時	ri'si
 晁	ri'zhao
 晀	ri'zhao
+昿	ri'guang'si
 昿	ri'guang
 显	ri'ye
 昽	ri'long
@@ -29743,9 +29746,13 @@ sort: original
 拣	cai'dong'heng
 拢	shou'long
 拢	cai'long
+拡	shou'guang'si
 拡	shou'guang
+拡	cai'guang'si
 拡	cai'guang
+拠	shou'wen'ji
 拠	shou'chu
+拠	cai'wen'ji
 拠	cai'chu
 拟	shou'yi
 拟	cai'yi
@@ -29753,7 +29760,6 @@ sort: original
 拞	cai'qiu
 拝	shou'heng'feng
 拝	cai'heng'feng
-拜	shou'shou
 招	shou'zhao
 招	cai'zhao
 拚	shou'si'nong
