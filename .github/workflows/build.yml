@@ -2,15 +2,8 @@ name: Build and Release
 
 on:
   push:
-    branches:
-      - build
     tags:
       - '[0-9]+.*'
-    paths:
-      - 'dict/radical.yaml'
-      - 'add.yaml'
-      - 'info.yaml'
-      - '*.schema.yaml'
   workflow_dispatch:
   repository_dispatch:
     types: [chaizi_update]
