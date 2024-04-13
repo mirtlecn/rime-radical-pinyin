@@ -443,6 +443,7 @@ sort: original
 𫭼	tulc
 𫭲	tuyj
 𫭪	tuyc
+𫭪	tuhggzppwu
 𫭨	tufa
 𫭢	tuly
 𫭟	tuqu
@@ -662,6 +663,7 @@ sort: original
 𫍥	yjvc
 𫍣	yjts
 𫍢	yjyc
+𫍢	yjhggzppwu
 𫍡	yjta
 𫍝	yjds
 𫍜	yjqu
@@ -3400,6 +3402,7 @@ sort: original
 鯞	yuujbcjb
 鯝	yugu
 鯜	yuqp
+鯜	yulinv
 鯛	yuvz
 鯚	yuji
 鯙	yuxl
@@ -4806,6 +4809,7 @@ sort: original
 骃	mayb
 骂	kzkzma
 骁	mayc
+骁	mahggzppwu
 骀	matd
 驿	mayzeruu
 驾	jxma
@@ -5199,6 +5203,7 @@ sort: original
 饸	uihe
 饷	uixl
 饶	uiyc
+饶	uihggzppwu
 饵	uier
 饴	uitd
 饳	uiiu
@@ -6296,6 +6301,7 @@ sort: original
 霐	yuhs
 霏	yufw
 霎	yuqp
+霎	yulinv
 霍	yuvv
 霌	yuvz
 霋	yuqi
@@ -7332,6 +7338,7 @@ sort: original
 铛	jbdh
 铚	jbvi
 铙	jbyc
+铙	jbhggzppwu
 铘	jbxp
 铗	jbjx
 铖	jbig
@@ -10646,6 +10653,7 @@ sort: original
 踧	zuuu
 踦	zuqi
 踥	zuqp
+踥	zulinv
 踤	zuzu
 踣	zupz
 踣	zulikz
@@ -10709,6 +10717,7 @@ sort: original
 跹	zuqm
 跸	zubi
 跷	zuyc
+跷	zuhggzppwu
 跶	zuda
 践	zujm
 践	zugehg
@@ -13542,6 +13551,7 @@ sort: original
 蛴	isqi
 蛳	isui
 蛲	isyc
+蛲	ishggzppwu
 蛱	isjx
 蛰	viis
 蛯	islc
@@ -14678,6 +14688,7 @@ sort: original
 菩	ccpz
 菩	cclikz
 菨	ccqp
+菨	cclinv
 菧	ccdi
 菦	ccjb
 菥	ccxi
@@ -14852,6 +14863,7 @@ sort: original
 荝	ccze
 荜	ccbi
 荛	ccyc
+荛	cchggzppwu
 荚	ccjx
 荙	ccda
 荘	ccvl
@@ -16724,6 +16736,7 @@ sort: original
 翥	veyu
 翤	kzce
 翣	yuqp
+翣	yulinv
 翢	vzyu
 翡	fwyu
 翠	yuzu
@@ -16739,6 +16752,7 @@ sort: original
 翚	yujy
 翙	svyu
 翘	ycyu
+翘	hggzppwuyu
 翗	doyu
 翖	heyu
 翕	heyu
@@ -17204,6 +17218,7 @@ sort: original
 绗	sixk
 绖	sivi
 绕	siyc
+绕	sihggzppwu
 绔	sikx
 结	siji
 绒	sirs
@@ -20406,6 +20421,7 @@ sort: original
 硙	uiqi
 硘	uihv
 硗	uiyc
+硗	uihggzppwu
 硖	uijx
 硕	uiye
 硔	uigs
@@ -24017,6 +24033,7 @@ sort: original
 烩	hohv
 烨	hohx
 烧	hoyc
+烧	hohggzppwu
 烦	hoye
 烥	hoif
 烤	hokc
@@ -25201,6 +25218,7 @@ sort: original
 淂	uvde
 淂	uvai
 淁	uvqp
+淁	uvlinv
 淀	uvdk
 涿	uviu
 涾	uvuvri
@@ -25356,6 +25374,7 @@ sort: original
 浉	uvui
 浈	uvvf
 浇	uvyc
+浇	uvhggzppwu
 浆	qlxiuv
 浆	jlxiuv
 浅	uvjm
@@ -27066,6 +27085,7 @@ sort: original
 椆	muvz
 椅	muqi
 椄	muqp
+椄	mulinv
 椃	muhu
 椂	mulu
 椁	muxl
@@ -27284,10 +27304,13 @@ sort: original
 档	mudh
 桢	muvf
 桡	muyc
+桡	muhggzppwu
 桠	muya
 桟	mujmhg
 桟	mugehghg
 桟	mugeer
+桝	muxikluu
+桝	muxifhuu
 桝	muir
 桜	muxnnv
 桚	muuyxi
@@ -27728,6 +27751,8 @@ sort: original
 曼	ytsiyz
 曼	riwhyz
 曼	risiyz
+曻	rixikluu
+曻	rixifhuu
 曻	riir
 曺	hgyzyt
 曺	hgyzri
@@ -27997,6 +28022,7 @@ sort: original
 晕	rijy
 晔	rihx
 晓	riyc
+晓	rihggzppwu
 晒	rixi
 晑	rixl
 晐	rihd
@@ -29723,7 +29749,9 @@ sort: original
 掦	uzyi
 掦	cdyi
 接	uzqp
+接	uzlinv
 接	cdqp
+接	cdlinv
 掤	uzpg
 掤	cdpg
 掣	viuz
@@ -30076,7 +30104,9 @@ sort: original
 挡	uzdh
 挡	cddh
 挠	uzyc
+挠	uzhggzppwu
 挠	cdyc
+挠	cdhggzppwu
 挟	uzjx
 挟	cdjx
 挞	uzda
@@ -32315,6 +32345,7 @@ sort: original
 帻	jbze
 帺	jbqi
 帹	jbqp
+帹	jblinv
 常	xnmikzjb
 常	xnbckzjb
 常	uhjb
@@ -32962,6 +32993,7 @@ sort: original
 峥	ujvg
 峤	ujqn
 峣	ujyc
+峣	ujhggzppwu
 峢	ujlp
 峡	ujjx
 峠	ujuhxx
@@ -34050,6 +34082,7 @@ sort: original
 娈	yinv
 娇	nvqn
 娆	nvyc
+娆	nvhggzppwu
 娅	nvya
 娄	minv
 娃	nvtutu
@@ -36164,6 +36197,7 @@ sort: original
 唾	kziv
 唽	kzxi
 唼	kzqp
+唼	kzlinv
 唻	kzld
 唺	kzdm
 唹	kzyu
@@ -36291,6 +36325,7 @@ sort: original
 哕	kzsv
 哔	kzbi
 哓	kzyc
+哓	kzhggzppwu
 哒	kzda
 哑	kzya
 哐	kzkl
@@ -38288,6 +38323,7 @@ sort: original
 偁	rfig
 偀	rfyk
 倿	rfqp
+倿	rflinv
 倾	rfqk
 倽	rfue
 值	rfvi
@@ -38487,6 +38523,7 @@ sort: original
 侧	rfze
 侦	rfvf
 侥	rfyc
+侥	rfhggzppwu
 侤	rfkc
 侣	rflv
 侢	rfzd
@@ -39167,6 +39204,8 @@ sort: original
 䳎	jqnn
 䳍	gsnn
 䳋	isnn
+䳊	yznann
+䳊	yzdmnn
 䳊	bann
 䳉	dsnn
 䳈	nnbc
@@ -39177,6 +39216,8 @@ sort: original
 䳃	nnyr
 䳃	nnwj
 䳂	vcnn
+䳁	nnyzna
+䳁	nnyzdm
 䳁	nnba
 䳀	nnui
 䲿	ninn
@@ -39654,6 +39695,7 @@ sort: original
 㣌	vjsj
 㢻	gsww
 㢺	gsqp
+㢺	gslinv
 㢸	gsgswf
 㢶	gsbd
 㢵	gshe
@@ -39937,6 +39979,9 @@ sort: original
 㕺	kzkzyu
 㕺	kzkzqn
 㕺	kzkzkc
+㕺	kzkzhgve
+㕹	kzyzna
+㕹	kzyzdm
 㕹	kzba
 㕸	kzli
 㕷	kzbd

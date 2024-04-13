@@ -442,6 +442,7 @@ sort: original
 𫭼	tu'lao
 𫭲	tu'yan
 𫭪	tu'yao
+𫭪	tu'heng'gou'pie'wu
 𫭨	tu'fa
 𫭢	tu'lun
 𫭟	tu'qu
@@ -661,6 +662,7 @@ sort: original
 𫍥	yan'zhao
 𫍣	yan'tong
 𫍢	yan'yao
+𫍢	yan'heng'gou'pie'wu
 𫍡	yan'ta
 𫍝	yan'dong
 𫍜	yan'qu
@@ -3399,6 +3401,7 @@ sort: original
 鯞	yu'shan'bao'jin
 鯝	yu'gu
 鯜	yu'qie
+鯜	yu'li'nv
 鯛	yu'zhou
 鯚	yu'ji
 鯙	yu'xiang
@@ -4805,6 +4808,7 @@ sort: original
 骃	ma'yin
 骂	kou'kou'ma
 骁	ma'yao
+骁	ma'heng'gou'pie'wu
 骀	ma'tai
 驿	ma'you'er'shu
 驾	jia'ma
@@ -5198,6 +5202,7 @@ sort: original
 饸	shi'he
 饷	shi'xiang
 饶	shi'yao
+饶	shi'heng'gou'pie'wu
 饵	shi'er
 饴	shi'tai
 饳	shi'chu
@@ -6295,6 +6300,7 @@ sort: original
 霐	yu'hong
 霏	yu'fei
 霎	yu'qie
+霎	yu'li'nv
 霍	yu'zhui
 霌	yu'zhou
 霋	yu'qi
@@ -7331,6 +7337,7 @@ sort: original
 铛	jin'dang
 铚	jin'zhi
 铙	jin'yao
+铙	jin'heng'gou'pie'wu
 铘	jin'xie
 铗	jin'jia
 铖	jin'cheng
@@ -10645,6 +10652,7 @@ sort: original
 踧	zu'shu
 踦	zu'qi
 踥	zu'qie
+踥	zu'li'nv
 踤	zu'zu
 踣	zu'pou
 踣	zu'li'kou
@@ -10708,6 +10716,7 @@ sort: original
 跹	zu'qian
 跸	zu'bi
 跷	zu'yao
+跷	zu'heng'gou'pie'wu
 跶	zu'da
 践	zu'jian
 践	zu'ge'heng
@@ -13541,6 +13550,7 @@ sort: original
 蛴	chong'qi
 蛳	chong'shi
 蛲	chong'yao
+蛲	chong'heng'gou'pie'wu
 蛱	chong'jia
 蛰	zhi'chong
 蛯	chong'lao
@@ -14677,6 +14687,7 @@ sort: original
 菩	cao'pou
 菩	cao'li'kou
 菨	cao'qie
+菨	cao'li'nv
 菧	cao'di
 菦	cao'jin
 菥	cao'xi
@@ -14851,6 +14862,7 @@ sort: original
 荝	cao'ze
 荜	cao'bi
 荛	cao'yao
+荛	cao'heng'gou'pie'wu
 荚	cao'jia
 荙	cao'da
 荘	cao'zhuang
@@ -16723,6 +16735,7 @@ sort: original
 翥	zhe'yu
 翤	kou'ce
 翣	yu'qie
+翣	yu'li'nv
 翢	zhou'yu
 翡	fei'yu
 翠	yu'zu
@@ -16738,6 +16751,7 @@ sort: original
 翚	yu'jun
 翙	sui'yu
 翘	yao'yu
+翘	heng'gou'pie'wu'yu
 翗	duo'yu
 翖	he'yu
 翕	he'yu
@@ -17203,6 +17217,7 @@ sort: original
 绗	si'xing
 绖	si'zhi
 绕	si'yao
+绕	si'heng'gou'pie'wu
 绔	si'kua
 结	si'ji
 绒	si'rong
@@ -20405,6 +20420,7 @@ sort: original
 硙	shi'qi
 硘	shi'hui
 硗	shi'yao
+硗	shi'heng'gou'pie'wu
 硖	shi'jia
 硕	shi'ye
 硔	shi'gong
@@ -24016,6 +24032,7 @@ sort: original
 烩	huo'hui
 烨	huo'hua
 烧	huo'yao
+烧	huo'heng'gou'pie'wu
 烦	huo'ye
 烥	huo'chen
 烤	huo'kao
@@ -25200,6 +25217,7 @@ sort: original
 淂	shui'de
 淂	shui'ai
 淁	shui'qie
+淁	shui'li'nv
 淀	shui'ding
 涿	shui'chu
 涾	shui'shui'ri
@@ -25355,6 +25373,7 @@ sort: original
 浉	shui'shi
 浈	shui'zhen
 浇	shui'yao
+浇	shui'heng'gou'pie'wu
 浆	qiang'xi'shui
 浆	jiang'xi'shui
 浅	shui'jian
@@ -27065,6 +27084,7 @@ sort: original
 椆	mu'zhou
 椅	mu'qi
 椄	mu'qie
+椄	mu'li'nv
 椃	mu'hu
 椂	mu'lu
 椁	mu'xiang
@@ -27283,10 +27303,13 @@ sort: original
 档	mu'dang
 桢	mu'zhen
 桡	mu'yao
+桡	mu'heng'gou'pie'wu
 桠	mu'ya
 桟	mu'jian'heng
 桟	mu'ge'heng'heng
 桟	mu'ge'er
+桝	mu'xi'kuang'shu
+桝	mu'xi'fang'shu
 桝	mu'chuan
 桜	mu'xiao'nv
 桚	mu'shun'xi
@@ -27727,6 +27750,8 @@ sort: original
 曼	yue'si'you
 曼	ri'wang'you
 曼	ri'si'you
+曻	ri'xi'kuang'shu
+曻	ri'xi'fang'shu
 曻	ri'chuan
 曺	heng'you'yue
 曺	heng'you'ri
@@ -27996,6 +28021,7 @@ sort: original
 晕	ri'jun
 晔	ri'hua
 晓	ri'yao
+晓	ri'heng'gou'pie'wu
 晒	ri'xi
 晑	ri'xiang
 晐	ri'hai
@@ -29722,7 +29748,9 @@ sort: original
 掦	shou'yi
 掦	cai'yi
 接	shou'qie
+接	shou'li'nv
 接	cai'qie
+接	cai'li'nv
 掤	shou'peng
 掤	cai'peng
 掣	zhi'shou
@@ -30075,7 +30103,9 @@ sort: original
 挡	shou'dang
 挡	cai'dang
 挠	shou'yao
+挠	shou'heng'gou'pie'wu
 挠	cai'yao
+挠	cai'heng'gou'pie'wu
 挟	shou'jia
 挟	cai'jia
 挞	shou'da
@@ -32314,6 +32344,7 @@ sort: original
 帻	jin'ze
 帺	jin'qi
 帹	jin'qie
+帹	jin'li'nv
 常	xiao'mi'kou'jin
 常	xiao'bao'kou'jin
 常	shang'jin
@@ -32961,6 +32992,7 @@ sort: original
 峥	shan'zheng
 峤	shan'qiao
 峣	shan'yao
+峣	shan'heng'gou'pie'wu
 峢	shan'lie
 峡	shan'jia
 峠	shan'shang'xia
@@ -34049,6 +34081,7 @@ sort: original
 娈	yi'nv
 娇	nv'qiao
 娆	nv'yao
+娆	nv'heng'gou'pie'wu
 娅	nv'ya
 娄	mi'nv
 娃	nv'tu'tu
@@ -36163,6 +36196,7 @@ sort: original
 唾	kou'chui
 唽	kou'xi
 唼	kou'qie
+唼	kou'li'nv
 唻	kou'lai
 唺	kou'dian
 唹	kou'yu
@@ -36290,6 +36324,7 @@ sort: original
 哕	kou'sui
 哔	kou'bi
 哓	kou'yao
+哓	kou'heng'gou'pie'wu
 哒	kou'da
 哑	kou'ya
 哐	kou'kuang
@@ -38287,6 +38322,7 @@ sort: original
 偁	ren'cheng
 偀	ren'ying
 倿	ren'qie
+倿	ren'li'nv
 倾	ren'qing
 倽	ren'she
 值	ren'zhi
@@ -38486,6 +38522,7 @@ sort: original
 侧	ren'ze
 侦	ren'zhen
 侥	ren'yao
+侥	ren'heng'gou'pie'wu
 侤	ren'kao
 侣	ren'lv
 侢	ren'zai
@@ -39166,6 +39203,8 @@ sort: original
 䳎	jiu'niao
 䳍	gong'niao
 䳋	chong'niao
+䳊	you'na'niao
+䳊	you'dian'niao
 䳊	ba'niao
 䳉	dong'niao
 䳈	niao'bao
@@ -39176,6 +39215,8 @@ sort: original
 䳃	niao'yuan
 䳃	niao'wan
 䳂	zhao'niao
+䳁	niao'you'na
+䳁	niao'you'dian
 䳁	niao'ba
 䳀	niao'shi
 䲿	ni'niao
@@ -39653,6 +39694,7 @@ sort: original
 㣌	zhan'san
 㢻	gong'wei
 㢺	gong'qie
+㢺	gong'li'nv
 㢸	gong'gong'wen
 㢶	gong'bai
 㢵	gong'he
@@ -39936,6 +39978,9 @@ sort: original
 㕺	kou'kou'yu
 㕺	kou'kou'qiao
 㕺	kou'kou'kao
+㕺	kou'kou'heng'zhe
+㕹	kou'you'na
+㕹	kou'you'dian
 㕹	kou'ba
 㕸	kou'li
 㕷	kou'bai
