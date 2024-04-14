@@ -8,7 +8,7 @@ schema:
   author: Mirtle
   description: |
     用拼音按顺序打出偏旁部件，组合出汉字
-    码表：開放詞典 / henrysting / Mirtle
+    码表：开放词典 / henrysting / Mirtle
     注音、校对、方案：Mirtle
     仓库：https://github.com/mirtlecn/rime_radical_pinyin
 

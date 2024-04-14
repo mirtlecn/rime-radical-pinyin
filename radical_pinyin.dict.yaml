@@ -2,8 +2,6 @@
 # encoding: utf-8
 # https://github.com/mirtlecn/rime_radical_pinyin
 
-# 码表：[汉字拆字字典](https://github.com/mirtlecn/chaizi-re)
-
 # 特别注音部件（含有特殊字符，若显示为口或方块，即为显示不正确）
 # '一': [['heng2']], # 横
 # '丨': [['shu4']], # 竖
@@ -41,7 +39,12 @@
 # '冂': [['tong2','jiong1']], # 同、周等字的外框
 # '𡗗': [['chun1']], # 春、奉
 # # 卷、眷等字的上部念 juan3
-# '龴': [['yu3', 'si1']],
+# '龴': [['si1']],
+# '鳥': [['niao3']],
+# '倉': [['cang1']],
+# '龍': [['long2']],
+# '屮': [['cao3']],
+# '參': [['can1','shen1']],
 # '□': [['ge1']],
 # '': [['yi1']], # 「衣」去掉 亠 的下部，以及再去掉丿的变体（「展」的下部）
 # '卩': [['er3']],
@@ -78,7 +81,8 @@
 # v1.0.4 -> 2024.04.03
 ---
 name: radical_pinyin
-version: "2024.04.13"
+version: "2024.04.14"
+
 sort: original
 
 ## 如果需要调整字频，注释掉上面一行（sort: original），然后取消注释下面两行
@@ -92,6 +96,23 @@ sort: original
 # max_phrase_length: 1 # 仅调整单字
 ...
 
+# 丣
+# 丨
+# 丱
+# 丶
+# 丿
+# 乀
+# 乁
+# 乄
+# 乊
+# 乚
+# 乛
+# 冎
+# 匚
+# 匸
+# 夊
+# 癶
+# 𢼋	𪩲 夂
 𱍂	long'long
 𱌽	chi'yi
 𱌺	chi'zhen
@@ -40146,23 +40167,6 @@ sort: original
 㐀	heng'shu'shu'heng'heng
 〇	zhe
 〇	ling
-# 𢼋	𪩲 夂
-# 癶
-# 夊
-# 匸
-# 匚
-# 冎
-# 乛
-# 乚
-# 乊
-# 乄
-# 乁
-# 乀
-# 丿
-# 丶
-# 丱
-# 丨
-# 丣
 
 0	abc
 1	abc
