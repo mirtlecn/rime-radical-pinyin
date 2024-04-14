@@ -4,7 +4,7 @@
 schema:
   schema_id: radical
   name: "部件拆字 | 双拼"
-  version: "1.0.5"
+  version: "1.1.0"
   author: Mirtle
   description: |
     用拼音按顺序打出偏旁部件，组合出汉字
@@ -36,3 +36,4 @@ speller:
 
 translator:
   dictionary: radical_flypy
+
