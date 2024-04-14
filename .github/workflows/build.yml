@@ -37,7 +37,11 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         run: |
           $Date = Get-Date -Format yyyy.MM.dd
-          "# v${{ github.ref }} -> $Date" >> 'info.yaml'
+          $Tag = ${{ github.ref }} -replace 'ref/tag/',''
+          Write-output "$Tag"
+          "# v$Tag -> $Date" >> 'info.yaml'
+          (gc radical.schema.yaml -Raw) -replace 'version: "\d\.\d\.\d"',"version: $Tag" > radical.schema.yaml
+          (gc radical_pinyin.schema.yaml -Raw) -replace 'version: "\d\.\d\.\d"',"version: $Tag" > radical_pinyin.schema.yaml
 
       - name: Update build branch
         run: |
