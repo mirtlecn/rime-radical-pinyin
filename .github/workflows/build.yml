@@ -5,12 +5,12 @@ on:
     branches:
       - build
     paths:
-      - 'dict/radical.yaml'
+      # - 'dict/radical.yaml'
       - 'gen.py'
-      - 'Makefile'
-      - 'add.yaml'
-      - 'info.yaml'
-      - '*.schema.yaml'
+      # - 'Makefile'
+      # - 'add.yaml'
+      # - 'info.yaml'
+      # - '*.schema.yaml'
   workflow_dispatch:
   repository_dispatch:
     types: [chaizi_update]
@@ -39,12 +39,6 @@ jobs:
           cd dict
           git checkout master
           git pull
-
-      - name: Update tag
-        if: startsWith(github.ref, 'refs/tags/')
-        run: |
-          $Date = Get-Date -Format yyyy.MM.dd
-          "# v${{ github.ref }} -> $Date" >> 'info.yaml'
 
       - name: Update build branch
         run: |
