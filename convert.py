@@ -43,6 +43,7 @@ def gen_dict(
     file_header = f'''---
 name: {base_name}
 version: "{datetime.now().strftime("%Y.%m.%d")}"
+
 sort: original
 
 ## 如果需要调整字频，注释掉上面一行（sort: original），然后取消注释下面两行

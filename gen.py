@@ -12,6 +12,7 @@ from pypinyin_dict.pinyin_data import kmandarin_8105
 
 radical = []
 yaml = set()
+comment = set()
 pattern = re.compile("^[a-z']+$")
 kmandarin_8105.load()
 custom_dict = {
@@ -94,6 +95,7 @@ load_phrases_dict(custom_dict)
 HEADER = f'''---
 name: radical_pinyin
 version: "{datetime.now().strftime("%Y.%m.%d")}"
+
 sort: original
 
 ## 如果需要调整字频，注释掉上面一行（sort: original），然后取消注释下面两行
@@ -118,7 +120,7 @@ for line in radical:
     line = line.strip()
 
     if len(line) == 0 or line.startswith("#"):
-        yaml.add(line)
+        comment.add(line)
         continue
 
     char, units = line.split("\t", 1)
@@ -143,7 +145,7 @@ with open("add.yaml", 'r', encoding='utf-8') as f:
 sorted_yaml = sorted(yaml,reverse=True)
 
 with open("gen/radical.dict.yaml","w",encoding='utf-8') as f:
-    f.write("\n".join(sorted_yaml) + '\n\n' + add )
+    f.write("\n".join(sorted(comment)) + "\n" + "\n".join(sorted_yaml) + '\n\n' + add )
 
 with open("gen/radical_pinyin.dict.yaml","w",encoding='utf-8') as f:
-    f.write(extra_content + '\n'  + HEADER + "\n".join(sorted_yaml) + '\n\n' + add )
+    f.write(extra_content + '\n'  + HEADER + "\n".join(sorted(comment)) + "\n" + "\n".join(sorted_yaml) + '\n\n' + add )
