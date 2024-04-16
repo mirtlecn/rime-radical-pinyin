@@ -83,7 +83,7 @@
 
 ---
 name: radical_pinyin
-version: "2024.04.14"
+version: "2024.04.16"
 
 sort: original
 
@@ -1094,6 +1094,7 @@ sort: original
 𥻗	mi'cha
 𥹫	mi'mi
 𥹉	mi'wei'you
+𥹉	mi'nie
 𥹉	mi'kou'you
 𥹉	mi'guo'you
 𥷹	zhu'zhu'zhu'zhu
@@ -1208,10 +1209,13 @@ sort: original
 𣸣	shui'ben
 𣴏	yong'yong
 𣲷	shui'wei'you
+𣲷	shui'nie
 𣲷	shui'kou'you
 𣲷	shui'guo'you
 𣲵	shui'zhi
 𣲳	shui'po
+𣲳	shui'kuang'kou
+𣲳	shui'fang'kou
 𣲲	shui'he
 𣲱	huo'shui
 𣲩	shui'ba
@@ -7398,6 +7402,8 @@ sort: original
 钹	jin'ba
 钸	jin'bu
 钷	jin'po
+钷	jin'kuang'kou
+钷	jin'fang'kou
 钶	jin'ke
 钵	jin'ben
 钴	jin'gu
@@ -8315,6 +8321,8 @@ sort: original
 鉗	jin'gan
 鉖	jin'dong
 鉕	jin'po
+鉕	jin'kuang'kou
+鉕	jin'fang'kou
 鉔	jin'za
 鉔	jin'kuang'jin
 鉔	jin'fang'jin
@@ -17302,6 +17310,7 @@ sort: original
 纡	si'yu
 纠	si'zhe'shu
 纠	si'jiu
+纟	zhe'zhe'heng
 纟	yao'heng
 纞	si'lian
 纞	mi'lian
@@ -19224,6 +19233,8 @@ sort: original
 笺	zhu'ge'heng
 笹	zhu'shi
 笸	zhu'po
+笸	zhu'kuang'kou
+笸	zhu'fang'kou
 笷	zhu'mao
 笶	zhu'shi
 笵	zhu'fan
@@ -33335,6 +33346,8 @@ sort: original
 封	tu'tu'cun
 封	gui'cun
 尀	po'cun
+尀	kuang'kou'cun
+尀	fang'kou'cun
 寿	feng'cun
 対	wen'cun
 寽	zhua'cun

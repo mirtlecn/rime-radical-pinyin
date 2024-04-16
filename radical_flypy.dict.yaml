@@ -84,7 +84,7 @@
 
 ---
 name: radical_flypy
-version: "2024.04.14"
+version: "2024.04.16"
 
 sort: original
 
@@ -1095,6 +1095,7 @@ sort: original
 𥻗	miia
 𥹫	mimi
 𥹉	miwwyz
+𥹉	minp
 𥹉	mikzyz
 𥹉	migoyz
 𥷹	vuvuvuvu
@@ -1209,10 +1210,13 @@ sort: original
 𣸣	uvbf
 𣴏	ysys
 𣲷	uvwwyz
+𣲷	uvnp
 𣲷	uvkzyz
 𣲷	uvgoyz
 𣲵	uvvi
 𣲳	uvpo
+𣲳	uvklkz
+𣲳	uvfhkz
 𣲲	uvhe
 𣲱	houv
 𣲩	uvba
@@ -7399,6 +7403,8 @@ sort: original
 钹	jbba
 钸	jbbu
 钷	jbpo
+钷	jbklkz
+钷	jbfhkz
 钶	jbke
 钵	jbbf
 钴	jbgu
@@ -8316,6 +8322,8 @@ sort: original
 鉗	jbgj
 鉖	jbds
 鉕	jbpo
+鉕	jbklkz
+鉕	jbfhkz
 鉔	jbza
 鉔	jbkljb
 鉔	jbfhjb
@@ -17303,6 +17311,7 @@ sort: original
 纡	siyu
 纠	siveuu
 纠	sijq
+纟	vevehg
 纟	ychg
 纞	silm
 纞	milm
@@ -19225,6 +19234,8 @@ sort: original
 笺	vugehg
 笹	vuui
 笸	vupo
+笸	vuklkz
+笸	vufhkz
 笷	vumc
 笶	vuui
 笵	vufj
@@ -33336,6 +33347,8 @@ sort: original
 封	tutucy
 封	gvcy
 尀	pocy
+尀	klkzcy
+尀	fhkzcy
 寿	fgcy
 対	wfcy
 寽	vxcy
