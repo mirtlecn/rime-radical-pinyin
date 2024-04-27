@@ -3193,6 +3193,8 @@ sort: original
 鱭	yu'jian
 鱭	yu'ji
 鱬	yu'xu
+鱪	yu'shu
+鱩	yu'lei
 鱨	yu'chang
 鱧	yu'li
 鱧	yu'feng
@@ -3227,6 +3229,8 @@ sort: original
 鱝	yu'bi
 鱝	yu'ben
 鱝	yu'ban
+鱜	yu'xiang
+鱛	yu'ceng
 鱚	yu'xi
 鱙	yu'yao'wu
 鱙	yu'yao
@@ -3337,7 +3341,9 @@ sort: original
 鰛	yu'yue'min
 鰛	yu'wen
 鰛	yu'ri'min
+鰚	yu'xuan
 鰙	yu'ruo
+鰘	yu'shi
 鰗	yu'hu
 鰖	yu'zuo'yue
 鰕	yu'shi'er'zhe'heng'you
@@ -3393,6 +3399,7 @@ sort: original
 鯵	yu'shen
 鯵	yu'can
 鯴	yu'shi
+鯳	yu'di
 鯲	yu'yu
 鯱	yu'hu
 鯰	yu'nian
@@ -3437,7 +3444,9 @@ sort: original
 鯓	yu'shen
 鯒	yu'yong
 鯑	yu'xi
+鯐	yu'zou
 鯏	yu'li
+鯎	yu'cheng
 鯍	yu'yi'si'chuan
 鯍	yu'tou'si'chuan
 鯍	yu'liu
@@ -3472,6 +3481,7 @@ sort: original
 鮵	yu'dui
 鮴	yu'xiu
 鮳	yu'kao
+鮲	yu'fu
 鮱	yu'lao
 鮰	yu'hui
 鮯	yu'he
@@ -3499,6 +3509,7 @@ sort: original
 鮛	yu'shu
 鮚	yu'ji
 鮙	yu'yu
+鮘	yu'dai
 鮗	yu'dong
 鮖	yu'shi
 鮕	yu'gu
@@ -3531,6 +3542,7 @@ sort: original
 魼	yu'qu
 魻	yu'jia
 魺	yu'ke
+魹	yu'mao
 魸	yu'pian
 魷	yu'you
 魶	yu'nei
@@ -3565,6 +3577,7 @@ sort: original
 魠	yu'tuo
 魠	yu'pie'qi
 魟	yu'gong
+魞	yu'ru
 魝	yu'dao
 魜	yu'ren
 魛	yu'dao
@@ -24772,6 +24785,7 @@ sort: original
 溇	shui'lou
 溆	shui'xu
 溅	shui'jian
+溄	shui'shan'wen'er'shu
 溃	shui'gui
 溂	shui'la
 溁	shui'rong
@@ -24944,6 +24958,7 @@ sort: original
 渑	shui'kou'dian
 渑	shui'guo'dian
 渐	shui'zhan
+渏	shui'qi
 渎	shui'mai
 渍	shui'ze
 渌	shui'lu
@@ -25681,6 +25696,9 @@ sort: original
 毠	jia'mao
 毟	shao'mao
 毞	bi'mao
+毝	mao'shan
+毝	mao'san
+毜	mao'xiao
 毛	pie'heng'bi
 毚	dao'kou'bi'tu
 毚	chuo'tu
@@ -39769,8 +39787,12 @@ sort: original
 㖶	kou'yin
 㖵	kou'ju
 㖭	kou'tian
+㖣	kou'pou
+㖣	kou'li'kou
+㖢	kou'bi
 㖡	kou'ye
 㖠	kou'nai
+㖟	kou'shou
 㖞	kou'kou'nei
 㖞	kou'guo
 㖘	kou'chen
@@ -39845,8 +39867,16 @@ sort: original
 㕄	chang'heng'yao
 㕃	chang'kai
 㕂	chang'jin
+㔾	zhe'gou
+㔻	bu'shi
 㔹	shi'li
 㔩	bao'he
+㔚	she'li
+㔙	bing'li
+㔘	chu'li
+㔗	fu'li
+㔕	qi'li
+㔓	qian'li
 㔉	shu'dao
 㓦	bai'dao
 㓥	dang'dao
@@ -39874,6 +39904,11 @@ sort: original
 㓁	mi'ba
 㓁	bao'ba
 㒹	zhen'zhen
+㒴	ru'chu
+㒲	ru'yue
+㒲	ru'ri
+㒱	ru'xi
+㒰	ru'gong
 㒭	xiong'xiong
 㒖	ren'wan
 㒓	ren'ta
