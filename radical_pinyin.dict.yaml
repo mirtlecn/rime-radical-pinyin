@@ -83,7 +83,7 @@
 
 ---
 name: radical_pinyin
-version: "2024.04.20"
+version: "2024.04.27"
 
 sort: original
 
@@ -1090,6 +1090,7 @@ sort: original
 𥴒	zhu'zhu'zhu
 𥫧	ma'ma'ma
 𥩌	kong'kong'kong
+𥤮	xue'da
 𥡝	bing'bing
 𥝉	yu'yu
 𥝉	yu'jia'tong'heng'na
