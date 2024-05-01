@@ -93,7 +93,7 @@ jobs:
           tag_name: nightly
           name: "nightly build"
           make_latest: true
-          prerelease: true
+          prerelease: false
           generate_release_notes: true
           fail_on_unmatched_files: true
           files: |
