@@ -83,7 +83,7 @@
 
 ---
 name: radical_pinyin
-version: "2024.04.27"
+version: "2024.05.02"
 
 sort: original
 
@@ -39621,6 +39621,10 @@ sort: original
 㟆	shan'hua
 㟃	shan'si
 㞗	shi'qiu
+㝚	bao'yan
+㝙	bao'wang'heng'ba
+㝘	bao'yan
+㝗	bao'liang
 㝖	bao'duo
 㝕	bao'xin'you
 㝔	bao'jiao
@@ -39637,7 +39641,19 @@ sort: original
 㝇	xiang'xiang
 㝅	bei'shu
 㝅	bei'ji'you
+㝃	zi'mian
+㝂	zi'zhe
+㝁	xun'zi
+㝀	mu'zi
+㜿	zi'yu
+㜾	zi'jie
 㜺	nv'zan
+㜐	nv'qi
+㜐	nv'kai
+㜏	nv'yun
+㜏	nv'yuan
+㜎	nv'xi
+㜍	nv'tang
 㜋	nv'yi
 㜊	nv'zhan
 㜉	nv'yong
@@ -39659,6 +39675,9 @@ sort: original
 㛸	nv'zhu
 㛸	nv'shi'dou
 㛶	nv'tan
+㛲	nv'ye
+㛱	nv'wei
+㛯	nv'mian
 㛭	nv'xi
 㛬	nv'tu'ba'tu
 㛬	nv'lu
