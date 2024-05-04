@@ -84,7 +84,7 @@
 
 ---
 name: radical_flypy
-version: "2024.05.02"
+version: "2024.05.04"
 
 sort: original
 
@@ -115,6 +115,10 @@ sort: original
 # 匸
 # 夊
 # 癶
+# 龰
+# 龵
+# 龷
+# 龹
 # 𢼋	𪩲 夂
 𱍂	lsls
 𱌽	iiyi
@@ -1863,6 +1867,8 @@ sort: original
 鿍	tuwfkluu
 鿍	tuwffhuu
 鿍	tujl
+龯	jbwu
+龪	zzrf
 龥	ytye
 龤	ytjp
 龣	ytlu
@@ -23627,6 +23633,7 @@ sort: original
 熙	yiho
 熘	holq
 熗	hoch
+熖	uvyc
 熕	hogs
 熔	hors
 熓	hoya
@@ -24073,6 +24080,7 @@ sort: original
 灟	uvuu
 灞	uvba
 灝	uvhc
+灜	uvyk
 灛	uvij
 灚	uvjt
 灚	uvjn
@@ -24149,6 +24157,7 @@ sort: original
 瀰	uvmi
 瀯	uvyk
 瀯	uvco
+瀮	uvlb
 瀬	uvld
 瀫	uvhu
 瀪	mbqr

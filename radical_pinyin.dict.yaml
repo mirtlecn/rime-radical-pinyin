@@ -83,7 +83,7 @@
 
 ---
 name: radical_pinyin
-version: "2024.05.02"
+version: "2024.05.04"
 
 sort: original
 
@@ -114,6 +114,10 @@ sort: original
 # 匸
 # 夊
 # 癶
+# 龰
+# 龵
+# 龷
+# 龹
 # 𢼋	𪩲 夂
 𱍂	long'long
 𱌽	chi'yi
@@ -1862,6 +1866,8 @@ sort: original
 鿍	tu'wen'kuang'shu
 鿍	tu'wen'fang'shu
 鿍	tu'jiang
+龯	jin'wu
+龪	zou'ren
 龥	yue'ye
 龤	yue'jie
 龣	yue'lu
@@ -23626,6 +23632,7 @@ sort: original
 熙	yi'huo
 熘	huo'liu
 熗	huo'cang
+熖	shui'yao
 熕	huo'gong
 熔	huo'rong
 熓	huo'ya
@@ -24072,6 +24079,7 @@ sort: original
 灟	shui'shu
 灞	shui'ba
 灝	shui'hao
+灜	shui'ying
 灛	shui'chan
 灚	shui'jue
 灚	shui'jiao
@@ -24148,6 +24156,7 @@ sort: original
 瀰	shui'mi
 瀯	shui'ying
 瀯	shui'cuo
+瀮	shui'lin
 瀬	shui'lai
 瀫	shui'hu
 瀪	min'quan
