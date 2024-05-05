@@ -199,8 +199,6 @@ search:
     - tone # 指定音调编码作为 db 反查的数据库
   fuma_format: # 辅码用于检索前，经过 fuma_format 的转换
     - xlit/ABCD/1234 # 此规则作用：用户输入 ni`A 得到所有读第一声 ni 的候选（须配合音调编码反查）
-  # input2code_format: # 将输入码转化为编码的规则，检测到此规则，脚本将尝试强制将提交的词汇写入用户词库，推入输入历史。当前仅支持两键定长码方案（如双拼），其他方案请不要使用。同样需要指定 db_class 为 table_db
-  # -
 
 speller:
   alphabet: zyxwvutsrqponmlkjüihgfedcba`~ # 字母表中需要在原有配置后，添加辅码引导键（search/key）、通配键（search/wildcard 如有）

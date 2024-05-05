@@ -57,7 +57,7 @@ function f.init( env )
     -- 配置：辅码引导符号，默认为反引号 `
     f.search_key = config:get_string( 'key_binder/search' ) or config:get_string( ns .. '/key' ) or '`'
     f.search_key_string = alt_lua_punc( f.search_key )
-    f.code_pattern = config:get_string(ns .. '/code_pattern') or '[a-z]'
+    f.code_pattern = config:get_string( ns .. '/code_pattern' ) or '[a-z]'
 
     -- 配置：seg tag
     local tag = config:get_list( ns .. '/tags' )
@@ -70,25 +70,24 @@ function f.init( env )
 
     -- 配置：手动写入用户词库
     -- local rules = config:get_list( ns .. '/input2code_format' )
-    -- disabled for now
-    local rules = nil
-    if rules and rules.size > 0 then
-        f.projection = Projection()
-        f.projection:load( rules )
-        f.mem_main = Memory( env.engine, env.engine.schema )
-        env.commit_notifier = env.engine.context.commit_notifier:connect(
-                                  function( ctx )
-                if env.have_select_commit and env.commit_code then
-                    local commit_text = ctx:get_commit_text()
-                    f.update_dict_entry( commit_text, env.commit_code )
-                    ctx.commit_history:push( 'search.lua', commit_text )
-                    env.have_select_commit = false
-                else
-                    return
-                end
+    -- local rules = nil
+    -- if rules and rules.size > 0 then
+    --     f.projection = Projection()
+    --     f.projection:load( rules )
+    --     f.mem_main = Memory( env.engine, env.engine.schema )
+    env.commit_notifier = env.engine.context.commit_notifier:connect(
+                              function( ctx )
+            if env.have_select_commit and env.commit_code then
+                local commit_text = ctx:get_commit_text()
+                -- f.update_dict_entry( commit_text, env.commit_code )
+                ctx.commit_history:push( 'search.lua', commit_text )
+                env.have_select_commit = false
+            else
+                return
             end
-                               )
-    end
+        end
+                           )
+    -- end
 
     -- 接管选词逻辑，是词组则始终保留引导码，否则直接上屏
     env.notifier = env.engine.context.select_notifier:connect(
@@ -113,6 +112,7 @@ function f.init( env )
                     )
 end
 
+--[[
 -- try to get the index of special char ·
 local function get_pos( text, char )
     local pos = {}
@@ -155,6 +155,7 @@ function f.update_dict_entry( s, code )
     e.custom_code = table.concat( custom_code, ' ' ) .. ' '
     f.mem_main:update_userdict( e, 1, '' )
 end
+--]]
 
 -- 通过 schema 的方式查询（以辅码查字，然后对比候选，慢，但能够匹配到算法转换过的码）
 -- 查询方案中的匹配项，并返回字表
@@ -163,9 +164,7 @@ function f.dict_init( search_string )
     if f.code_projection then
         -- old librime do not return original string when apply failed
         local p = f.code_projection:apply( search_string, true )
-        if p and #p > 0 then
-            search_string = p
-        end
+        if p and #p > 0 then search_string = p end
     end
     if f.mem:dict_lookup( search_string, true, f.schema_search_limit ) then
         for entry in f.mem:iter_dict() do dict_table[entry.text] = true end
@@ -185,9 +184,7 @@ function f.reverse_lookup( text, s, global_match )
     if f.code_projection then
         -- old librime do not return original string when apply failed
         local p = f.code_projection:apply( s, true )
-        if p and #p > 0 then
-            s = p
-        end
+        if p and #p > 0 then s = p end
     end
     -- log.error(s)
     for _, db in ipairs( f.db_table ) do
@@ -273,7 +270,8 @@ end
 function f.fini( env )
     if f.if_reverse_lookup or f.if_schema_lookup then
         env.notifier:disconnect()
-        if f.projection then env.commit_notifier:disconnect() end
+        -- if f.projection then env.commit_notifier:disconnect() end
+        env.commit_notifier:disconnect()
     end
 end
 
