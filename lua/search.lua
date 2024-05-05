@@ -69,7 +69,9 @@ function f.init( env )
     end
 
     -- 配置：手动写入用户词库
-    local rules = config:get_list( ns .. '/input2code_format' )
+    -- local rules = config:get_list( ns .. '/input2code_format' )
+    -- disabled for now
+    local rules = nil
     if rules and rules.size > 0 then
         f.projection = Projection()
         f.projection:load( rules )
@@ -158,7 +160,13 @@ end
 -- 查询方案中的匹配项，并返回字表
 function f.dict_init( search_string )
     local dict_table = {}
-    if f.code_projection then search_string = f.code_projection:apply( search_string, true ) end
+    if f.code_projection then
+        -- old librime do not return original string when apply failed
+        local p = f.code_projection:apply( search_string, true )
+        if p and #p > 0 then
+            search_string = p
+        end
+    end
     if f.mem:dict_lookup( search_string, true, f.schema_search_limit ) then
         for entry in f.mem:iter_dict() do dict_table[entry.text] = true end
     end
@@ -174,7 +182,13 @@ end
 -- 通过 reverse db 查询（以字查码，然后比对辅码是否相同，快，但只能匹配未经算法转换的码）
 function f.reverse_lookup( text, s, global_match )
     s = s:gsub( f.wildcard, '.*' )
-    if f.code_projection then s = f.code_projection:apply( s, true ) end
+    if f.code_projection then
+        -- old librime do not return original string when apply failed
+        local p = f.code_projection:apply( s, true )
+        if p and #p > 0 then
+            s = p
+        end
+    end
     -- log.error(s)
     for _, db in ipairs( f.db_table ) do
         local code = db:lookup( text )
