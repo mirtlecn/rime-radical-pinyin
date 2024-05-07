@@ -21,9 +21,8 @@
 ### 〇、要求
 
 - 主方案必须使用 `script_translator`
-- librime 前端必须包含了 lua 插件（librime-lua）
+- librime 必须包含 librime-lua 依赖
 - librime 版本有一定要求（在 ≥ 1.85 平台测试通过）
-- 如使用 schema 引入辅码，辅码方案用户词典（`enable_user_dict`）必须显性设置为关闭，或者使用 tabledb 格式。
 
 ### 一、安装并启用辅助编码的输入方案
 
@@ -87,41 +86,7 @@ speller:
   alphabet: zyxwvutsrqponmlkjüihgfedcba` # 请将辅码引导键加入到 alphabet 后
 ```
 
-### 四、确保辅码方案的用户词典已禁用
-
-使用 `db` 引入的辅码方案，跳转至第五节。
-
-使用 schema 引入（参见下一节的解释）的辅码方案，其用户词典**必须**显性得设置为关闭，**或者**设置 db_class 为 tabledb。
-
-> [!TIP]
->
-> - `db` 引入：在方案中在 `search/db` 节点下指定作为辅码的方案；
->
-> - schema 引入：在方案中用 `lua_filter@*search@xxx` 或者 `search/schema` 节点下指定的方案（本例）。
-
-否则，部分前端（如 `ibus-rime`、`fcitx5-rime`）在同步时会出现 userdb lock 错误，如下所示：
-
-```log
-Error opening db 'radical_pinyin': IO error: lock /storage/emulated/0/Android/data/org.fcitx.fcitx5.android/files/data/rime/radical_pinyin.userdb/LOCK: already held by process
-failed to merge snapshot file: /storage/emulated/0/Android/data/org.fcitx.fcitx5.android/files/data/rime/sync/b04033a1-738d-4cb8-a6c3-499de26e21e1/radical_pinyin.userdb.txt
-Error opening db 'radical_pinyin' read-only.
-```
-
-找到所有使用辅码词典的方案，在本例中，就是 radical_pinyin.schema.yaml（辅码方案本体），以及主方案（例如 cn.schema.yaml），**显性**指定 `enable_user_dict: false`。如需要使用用户词典（动态候选排序），则转而指定 `db_class: tabledb`：
-
-```yaml
-# radical_pinyin.schema.yaml
-translator:
-  enable_user_dict: false
-  # db_class: tabledb # 如需用户词典，请使用 tabledb
-
-# cn.schema.yaml
-reverse_lookup_translator:
-  enable_user_dict: false
-  # db_class: tabledb # 如需用户词典，请使用 tabledb
-```
-
-### 五、使用
+### 四、使用
 
 正常输入按键，出现候选。
 
@@ -223,8 +188,6 @@ search:
   schema: radical_pinyin # 方案反查，建议小词库使用；
   schema_search_limit: 1000 # 方案反查条目限制，越大越精确越卡
 ```
-
-同时，若使用此种方法引入辅码方案，该方案的用户词典需要显性设置为 false，或者使用 tabledb 作为 db_class。参考 [前面的解释](#四确保辅码方案的用户词典已禁用)。
 
 数据库反查，以字查码（检索 reverse.bin），仅支持查编入词典（dict.yaml）的编码。消耗小，速度快，支持指定多个数据库。
 
