@@ -53,7 +53,7 @@ schema:
 
 ### 二、引入 lua
 
-下载 [search.lua](https://github.com/mirtlecn/rime-radical-pinyin/blob/extra/lua/search.lua) 到 RIME 用户目录的 lua 文件夹下。
+下载 [search.lua](https://github.com/mirtlecn/rime-radical-pinyin/blob/master/lua/search.lua) 到 RIME 用户目录的 lua 文件夹下。
 
 找到主方案的 filter 列表，在 **`uniquifier` 去重滤镜之前，繁简转换 filter 之后**，添加 `lua_filter@*search` ，如下所示：
 
