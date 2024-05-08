@@ -115,6 +115,15 @@ function f.init( env )
     env.if_schema_lookup = false
     env.if_reverse_lookup = false
 
+    -- 配置：仅限 script_translator 引擎
+    local engine = config:get_list('engine/translators')
+    local engine_table = {}
+    for i = 0, engine.size - 1 do engine_table[engine:get_value_at( i ).value] = true end
+    if not engine_table['script_translator'] then
+        log.error( '[search.lua]: script_translator not found in engine/translators, search.lua will not work' )
+        return
+    end
+
     -- 配置：辅码查字方法
     -- --
     -- 当在 engine 出直接指定了 namespace 则使用该 namespace 进行 schema 匹配
