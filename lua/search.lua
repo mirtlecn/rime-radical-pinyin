@@ -294,7 +294,8 @@ function f.fini( env )
     if env.if_reverse_lookup or env.if_schema_lookup then
         env.notifier:disconnect()
         env.commit_notifier:disconnect()
-        if env.mem or env.search then
+        if env.mem or env.search or env.db_table then
+            env.db_table = nil
             env.mem = nil
             env.search = nil
             collectgarbage( 'collect' )
