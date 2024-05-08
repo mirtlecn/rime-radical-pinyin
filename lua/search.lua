@@ -98,6 +98,15 @@ local function reverse_lookup( code_projection, db_table, wildcard, text, s, glo
     return false
 end
 
+-- 处理长词优先
+local function handle_long_cand(if_single_char_first, cand, long_word_cands)
+    if if_single_char_first and utf8.len( cand.text ) > 1 then
+        table.insert( long_word_cands, cand )
+    else
+        yield( cand )
+    end
+end
+
 local f = {}
 
 function f.init( env )
@@ -238,25 +247,23 @@ function f.func( input, env )
         end
 
         if fuma_2 and #fuma_2 > 0 and env.if_reverse_lookup and not env.if_schema_lookup then
-            if reverse_lookup( env.code_projection, env.db_table, env.wildcard, text, fuma ) and
+            if
+                -- 第一个辅码匹配第一个字，第二个辅码正则匹配第一个字**或者**匹配第二个字
+                reverse_lookup( env.code_projection, env.db_table, env.wildcard, text, fuma ) and
                 ((text_2 and reverse_lookup( env.code_projection, env.db_table, env.wildcard, text_2, fuma_2 )) or
-                    reverse_lookup( env.code_projection, env.db_table, env.wildcard, text, fuma_2, true )) then
-                if if_single_char_first and utf8.len( cand.text ) > 1 then
-                    table.insert( long_word_cands, cand )
-                else
-                    yield( cand )
-                end
+                reverse_lookup( env.code_projection, env.db_table, env.wildcard, text, fuma_2, true ))
+            then
+                handle_long_cand(if_single_char_first, cand, long_word_cands)
             else
                 table.insert( other_cand, cand )
             end
         else
-            if (env.if_reverse_lookup and reverse_lookup( env.code_projection, env.db_table, env.wildcard, text, fuma )) or
-                (env.if_schema_lookup and dict_match( dict_table, text )) then
-                if if_single_char_first and utf8.len( cand.text ) > 1 then
-                    table.insert( long_word_cands, cand )
-                else
-                    yield( cand )
-                end
+            if
+                -- 用辅码匹配第一个字
+                (env.if_reverse_lookup and reverse_lookup( env.code_projection, env.db_table, env.wildcard, text, fuma )) or
+                (env.if_schema_lookup and dict_match( dict_table, text ))
+            then
+                handle_long_cand(if_single_char_first, cand, long_word_cands)
             else
                 table.insert( other_cand, cand )
             end
@@ -278,11 +285,8 @@ function f.fini( env )
     if env.if_reverse_lookup or env.if_schema_lookup then
         env.notifier:disconnect()
         env.commit_notifier:disconnect()
-        if env.mem then
+        if env.mem or env.search then
             env.mem = nil
-            collectgarbage( 'collect' )
-        end
-        if env.search then
             env.search = nil
             collectgarbage( 'collect' )
         end
