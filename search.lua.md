@@ -8,9 +8,9 @@
 
 使用此 lua ，你可以使用其他方案提供的编码反查候选。
 
-其效果类似某些输入法提供的候选内笔画、部件反查。
+其效果类似某些输入法提供的候选内笔画、部件筛选。
 
-![image](https://raw.githubusercontent.com/mirtlecn/rime-radical-pinyin/master/res/reverse.gif)
+![image](https://raw.githubusercontent.com/mirtlecn/rime-radical-pinyin/master/res/fuma.gif)
 
 如上图所示，输入十个化学元素的名称。这些汉字大多为生僻字，正常情况下在候选中排序靠后。
 
