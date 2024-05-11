@@ -83,7 +83,7 @@
 
 ---
 name: radical_pinyin
-version: "2024.05.04"
+version: "2024.05.11"
 
 sort: original
 
@@ -23632,7 +23632,7 @@ sort: original
 熙	yi'huo
 熘	huo'liu
 熗	huo'cang
-熖	shui'yao
+熖	huo'yao
 熕	huo'gong
 熔	huo'rong
 熓	huo'ya
@@ -39629,6 +39629,9 @@ sort: original
 㟆	shan'hua
 㟃	shan'si
 㞗	shi'qiu
+㝞	bao'ya
+㝞	bao'e
+㝝	bao'lin
 㝚	bao'yan
 㝙	bao'wang'heng'ba
 㝘	bao'yan
@@ -39656,6 +39659,28 @@ sort: original
 㜿	zi'yu
 㜾	zi'jie
 㜺	nv'zan
+㜭	nv'dang
+㜫	nv'wei
+㜩	nv'ao
+㜨	nv'xi
+㜧	nv'jue
+㜦	nv'xun
+㜦	nv'xin
+㜥	nv'mai
+㜤	nv'tan
+㜣	nv'ran
+㜠	nv'cui
+㜚	nv'su
+㜙	nv'lu
+㜗	nv'shen
+㜗	nv'can
+㜖	nv'cao
+㜓	nv'ta
+㜓	nv'da
+㜓	nv'cao'he
+㜒	nv'yu
+㜒	nv'jiu'nong
+㜒	nv'jiu'gong
 㜐	nv'qi
 㜐	nv'kai
 㜏	nv'yun
