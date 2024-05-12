@@ -40,7 +40,9 @@ local function update_dict_entry( s, code, mem, proj )
     local custom_code = {}
     local loop = 1
     for i = 1, #code, 2 do
-        local code_convert = proj:apply( code:sub( i, i + 1 ), true )
+        local code_convert = code:sub( i, i + 1 )
+        local p = proj:apply( code_convert, true )
+        if p and #p > 0 then code_convert = p end
         if code_convert == 'dian' and pos[loop] then
             -- Ignored
         else
