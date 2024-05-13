@@ -83,7 +83,7 @@
 
 ---
 name: radical_pinyin
-version: "2024.05.11"
+version: "2024.05.13"
 
 sort: original
 
@@ -36831,6 +36831,7 @@ sort: original
 卉	shi'shi'shi
 卉	shi'nong
 卉	shi'gong
+午	ren'shi
 午	pie'gan
 升	qian'shu
 升	pie'shi'pie
@@ -39626,8 +39627,59 @@ sort: original
 㠏	shan'kua
 㠏	shan'hua
 㠇	shan'jiu
+㟤	shan'lu
+㟢	shan'qi
+㟖	shan'nong
+㟔	shan'han
+㟓	shan'xi
+㟒	shan'jun
+㟑	shan'bei
+㟐	shan'mang
+㟏	shan'han
+㟎	shan'tuo
+㟍	shan'liang
+㟌	shan'mang
+㟋	shan'dui
+㟊	shan'fu
+㟉	shan'lao
+㟈	shan'qiu
+㟇	shan'zuo
 㟆	shan'hua
+㟄	shan'yang
 㟃	shan'si
+㟂	shan'mu
+㟁	shan'han
+㟁	shan'chang'gan
+㟁	shan'an
+㟀	he'shan
+㞿	shan'zhi
+㞿	shan'tu'yi
+㞾	shan'ni
+㞽	shan'yue
+㞼	zheng'shan
+㞼	cheng'shan
+㞻	shan'hao
+㞺	shan'shi
+㞹	shan'ke
+㞸	shan'bu
+㞷	shan'zhu
+㞶	shan'wen
+㞴	shan'shi
+㞳	shan'dou
+㞲	shan'zhong
+㞱	shan'ri
+㞰	shan'wu
+㞯	ji'shan
+㞭	da'shan
+㞬	shan'gong
+㞫	shan'zhi
+㞪	shan'shan
+㞩	shan'fan
+㞨	shan'zi
+㞧	shan'nai
+㞦	shan'ji
+㞥	shan'ru
+㞤	shan'ren
 㞗	shi'qiu
 㝞	bao'ya
 㝞	bao'e
