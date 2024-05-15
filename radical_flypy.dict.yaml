@@ -84,7 +84,7 @@
 
 ---
 name: radical_flypy
-version: "2024.05.13"
+version: "2024.05.15"
 
 sort: original
 
@@ -27540,7 +27540,10 @@ sort: original
 札	mugz
 本	muhg
 末	muhg
+末	hgmu
+未	muhg
 未	hgmu
+未	erxn
 朩	hgxn
 木	uirf
 木	uiba
@@ -39241,9 +39244,48 @@ sort: original
 䏡	rzui
 䏝	ytvr
 䏝	rzvr
+䏍	siyt
+䏌	bayt
+䏊	erls
+䏉	erxm
+䏈	ersi
+䏇	erpn
+䏆	ercc
+䏅	erji
+䏄	ervi
+䏃	ermk
+䏂	ersz
+䏁	erzd
+䏀	erla
+䎿	erqq
+䎾	erly
+䎽	erhy
+䎼	erlu
+䎻	ervz
+䎺	ervi
+䎹	cder
+䎸	erwu
+䎷	ervu
+䎶	eruf
+䎵	erbi
+䎴	erjk
+䎳	eryt
+䎲	eryi
+䎡	erho
+䎠	wjer
+䎟	nver
 䎜	lclc
 䎖	cgyu
 䎃	rjyu
+䍲	yhni
+䍲	yher
+䍱	yhyu
+䍯	yhww
+䍮	yhvc
+䍬	yhpk
+䍫	yhta
+䍪	yhmo
+䍩	yhwf
 䍇	fzfa
 䍁	sisv
 䍀	sijm
