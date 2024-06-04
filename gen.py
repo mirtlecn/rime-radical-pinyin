@@ -13,6 +13,7 @@ from pypinyin_dict.pinyin_data import kmandarin_8105
 radical = []
 yaml = set()
 comment = set()
+error = set()
 pattern = re.compile("^[a-z']+$")
 kmandarin_8105.load()
 custom_dict = {
@@ -134,14 +135,17 @@ for line in radical:
         for pinyin in product(*pinyin_list):
             PINYIN = "'".join(filter(is_not_empty, pinyin))
             if not pattern.match(PINYIN):
-                print('\033[91m' + line + ' >> ' + PINYIN + '\033[0m')
-                raise ValueError("error!")
-                # continue
+                error_line = line + ' >> ' + PINYIN
+                error.add(error_line)
+                continue
             item = f"{char.strip()}\t{PINYIN}"
             yaml.add(item)
 
 with open("info.yaml", 'r', encoding='utf-8') as f:
     extra_content = f.read()
+
+with open("gen/error.yaml", 'w', encoding='utf-8') as f:
+    f.write("\n".join(error))
 
 with open("add.yaml", 'r', encoding='utf-8') as f:
     add = f.read()
