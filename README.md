@@ -66,7 +66,7 @@ rime_dir='D:/RIME' bash rime-install stroke
 
 ```bash
 # 安装词典文件
-bash rime-install mirtlecn/rime-radical-pinyin
+bash rime-install mirtlecn/rime-radical-pinyin@v1
 
 # 双拼请额外执行
 # 请将命令末尾（schema=?）替换为你想要安装的双拼名称，支持
@@ -77,7 +77,7 @@ bash rime-install mirtlecn/rime-radical-pinyin
 #   - abc（智能 ABC 双拼）
 #   - ziguang（紫光双拼
 
-bash rime-install mirtlecn/rime-radical-pinyin@master:config:schema=flypy
+bash rime-install mirtlecn/rime-radical-pinyin@v1:config:schema=flypy
 ```
 
 <details>
@@ -85,7 +85,7 @@ bash rime-install mirtlecn/rime-radical-pinyin@master:config:schema=flypy
 <summary>只使用小鹤双拼 --></summary>
 
 ```bash
-bash rime-install mirtlecn/rime-radical-pinyin:flypy
+bash rime-install mirtlecn/rime-radical-pinyin@v1:flypy
 ```
 
 </details>
@@ -93,7 +93,7 @@ bash rime-install mirtlecn/rime-radical-pinyin:flypy
 
 ### 2. 手动安装
 
-前往本仓库的 Release 界面，下载 `radical_pinyin.zip`，解压后复制到 Rime 用户目录。
+前往本仓库的 Release 界面，找到最新的 1.x 的 tag，下载 `radical_pinyin.zip`，解压后复制到 Rime 用户目录。
 
 双拼用户请直接或以打补丁的方式修改方案文件的 algebra 的 __include 部分
 
@@ -172,85 +172,6 @@ radical_lookup:
 recognizer:
     patterns:
         radical_lookup: "~[a-z]+'?$"
-```
-
-## 作为辅助码（反查候选）挂载
-
-可以自行生成带辅码的词典，亦或者借助 lua。
-
-本库提供了一个辅助码 lua 可供尝试，请参考 [search.lua](search.lua.md)。
-
-## 注音
-
-- 普通汉字：读本音
-- 笔画：笔画读音（勾，点，横，竖，撇，捺，折）
-- 生僻字：为常用的独立汉字的且不为笔画的，保留生僻字读音
-- 多音字：一般保留最常用读音，都常用则同时保留
-- 无读音的偏旁部首：使用学前教育时使用的助记法标音
-- （部分汉字可能包含了其异体字的拆分方式）
-
-以上读音可以同时存在，因而一个部件可能有多种拼法。
-
-- 冂（本音 jiong、助记 tong）
-- 一（本音 yi、笔画 heng）
-
-词典文件的开头部分列出了一些注音可供参考。
-
-## 反查带声调注音
-
-本项目提供了三个编译好的带声调的词典可供取用，来源于 pinyin-data 项目。
-
-plum 安装:
-
-```bash
-bash rime-install mirtlecn/rime-radical-pinyin:extra
-```
-
-若要手动安装，请前往 Release 界面下载 extra.zip，解压后，在其中的 build 文件夹内有以下三个文件：
-
-- `zdict.reverse.bin`：汉典注音，无音者注 `n/a`（推荐）
-- `kMandarin.reverse.bin`: 单字注最常用的一到两个读音（推荐）
-- `pinyin.reverse.bin`: 单字注所有可能的读音（会包含异体字、通假字等音）
-
-下载复制进 build 目录后。更改提示码词典指向它们，如下图所示：
-
-```yaml
-radical_reverse_lookup:
-    dictionary: zdict # 提示码词表
-    # dictionary: kMandarin
-    # dictionary: pinyin
-```
-
-## 问题
-
-开启用户词典后，双拼状态下，会产生未被算法转化的含引号全拼编码，出现一些意外候选。简单的解决办法是设定 enable_user_dict 为 false（已经在本方案设定，仍需在主方案中设定）。
-
-也可以自行将词典直接转化为双拼编码，`build` 分支下有示例脚本，Release 界面有生成的词典。
-
-## TODO
-
-```txt
-## 数据：
-
-- https://gitlab.chise.org/CHISE/ids （GPLv2 or later）
-- https://github.com/yi-bai/ids （MIT）
-
-## 优势：
-
-- 收字全：粗略看，似乎包含所有扩展区汉字；
-- 数据上游在不断更新（CHISE）
-
-## 困难：
-
-- 这两个数据有何种关系？
-- 是否影响现有开源协议（CC-BY-SA 4.0），是否要将之后的词典发布在 GPL 协议下（copyleft）
-- 含有大量未能被 pypinyin 识别、注音的字符（保守估计 1k+），需要大量调试；
-- 是否可能使用脚本，及时跟进以上更新；
-- 目前词典有大量我自己的调整（如大量生僻字的再拆分），如何将其应用到新数据？
-
-## 其他：
-
-- 当前的收字和拆分，包含网络语料中出现的常用汉字（对比 essay essay-simp），已经足够日常使用；我个人是觉得够了，因而继续扩充收字，不在我个人的需求内。
 ```
 
 ## Credit
