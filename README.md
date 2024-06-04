@@ -227,34 +227,12 @@ radical_reverse_lookup:
 
 也可以自行将词典直接转化为双拼编码，`build` 分支下有示例脚本，Release 界面有生成的词典。
 
-## TODO
+## Credit
 
-```txt
-## 数据：
+词典数据：
 
+- [汉字拆字字典](https://github.com/mirtlecn/chaizi-re)（@開放詞典 / henrysting / Mirtle CC BY-SA 4.0），转换而成
 - https://gitlab.chise.org/CHISE/ids （GPLv2 or later）
 - https://github.com/yi-bai/ids （MIT）
 
-## 优势：
-
-- 收字全：粗略看，似乎包含所有扩展区汉字；
-- 数据上游在不断更新（CHISE）
-
-## 困难：
-
-- 这两个数据有何种关系？
-- 是否影响现有开源协议（CC-BY-SA 4.0），是否要将之后的词典发布在 GPL 协议下（copyleft）
-- 含有大量未能被 pypinyin 识别、注音的字符（保守估计 1k+），需要大量调试；
-- 是否可能使用脚本，及时跟进以上更新；
-- 目前词典有大量我自己的调整（如大量生僻字的再拆分），如何将其应用到新数据？
-
-## 其他：
-
-- 当前的收字和拆分，包含网络语料中出现的常用汉字（对比 essay essay-simp），已经足够日常使用；我个人是觉得够了，因而继续扩充收字，不在我个人的需求内。
-```
-
-## Credit
-
-字典由 [汉字拆字字典](https://github.com/mirtlecn/chaizi-re)（@開放詞典 / henrysting / Mirtle CC BY-SA 4.0），转换而成。
-
-除在文件内另行注明的，本仓库文件均发布在 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可协议下。
+除在文件内另行注明的，本仓库文件均发布在 GPLv3 许可协议下。

@@ -86,7 +86,16 @@ jobs:
         uses: 'softprops/action-gh-release@v2.0.4'
         with:
           body: |
-            ## Note
+            您正在查看的是 v2 发布版。收字更全，**当前部分数据未经校对**。覆盖 Unihan 40,000 汉字。
+
+            旧版仍在维护，请查看 v1 分支和 1.x 发布版。其包含繁简 21,000+ 汉字，足够日常使用。
+
+            ## 说明
+            - 经校对测试、补全的开放词典拆字数据
+            - 未经校对的 idc 部分数据
+              - https://gitlab.chise.org/CHISE/ids （GPLv2 or later）
+              - https://github.com/yi-bai/ids （MIT）
+            ## 文件
             - `radical_pinyin.zip` : 包含全拼双拼的方案和词库
             - `radical_flypy.zip`：仅适用于小鹤双拼的方案和词库
             - `extra.zip`：辅码反查 lua 和带声调的 build 文件
@@ -104,7 +113,16 @@ jobs:
         uses: 'softprops/action-gh-release@v2.0.4'
         with:
           body: |
-            ## Note
+            您正在查看的是 v2 发布版。收字更全，**当前部分数据未经校对**。覆盖 Unihan 40,000 汉字。
+
+            旧版仍在维护，请查看 v1 分支和 1.x 发布版。其包含繁简 21,000+ 汉字，足够日常使用。
+
+            ## 说明
+            - 经校对测试、补全的开放词典拆字数据
+            - 未经校对的 idc 部分数据
+              - https://gitlab.chise.org/CHISE/ids （GPLv2 or later）
+              - https://github.com/yi-bai/ids （MIT）
+            ## 文件
             - `radical_pinyin.zip` : 包含全拼双拼的方案和词库
             - `radical_flypy.zip`：仅适用于小鹤双拼的方案和词库
             - `extra.zip`：辅码反查 lua 和带声调的 build 文件
