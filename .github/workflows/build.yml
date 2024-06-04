@@ -2,15 +2,8 @@ name: Build and Release
 
 on:
   push:
-    branches:
-      - build
-    paths:
-      # - 'dict/radical.yaml'
-      - 'gen.py'
-      # - 'Makefile'
-      # - 'add.yaml'
-      # - 'info.yaml'
-      # - '*.schema.yaml'
+    tags:
+      - '[0-9]+.*'
   workflow_dispatch:
   repository_dispatch:
     types: [chaizi_update]
@@ -40,14 +33,23 @@ jobs:
           git checkout master
           git pull
 
+      - name: Update tag
+        if: startsWith(github.ref, 'refs/tags/')
+        run: |
+          $Date = Get-Date -Format yyyy.MM.dd
+          Write-output "${{ github.ref_name }}"
+          "# v${{ github.ref_name }} -> $Date" >> 'info.yaml'
+          (gc radical.schema.yaml -Raw) -replace 'version: "\d\.\d\.\d"',"version: `"${{ github.ref_name }}`"" | Out-File radical.schema.yaml
+          (gc radical_pinyin.schema.yaml -Raw) -replace 'version: "\d\.\d\.\d"',"version: `"${{ github.ref_name }}`"" | Out-File radical_pinyin.schema.yaml
+
       - name: Update build branch
         run: |
           $Status = git status --porcelain
           if ( $Status ) {
           "Update submodule"
-          $Commit = (irm https://whatthecommit.com/index.txt).trim()
+          $info = (irm https://whatthecommit.com/index.txt).trim()
           git add --all
-          git commit -m "$Commit" && git push origin build
+          git commit -m "$info" && git push origin build
           }
 
       - name: Set up Python
@@ -84,14 +86,23 @@ jobs:
         uses: 'softprops/action-gh-release@v2.0.4'
         with:
           body: |
-            ## Note
+            您正在查看的是 v2 发布版。收字更全，**当前部分数据未经校对**。覆盖 Unihan 40,000 汉字。
+
+            旧版仍在维护，请查看 v1 分支和 1.x 发布版。其包含繁简 21,000+ 汉字，足够日常使用。
+
+            ## 说明
+            - 经校对测试、补全的开放词典拆字数据
+            - 未经校对的 idc 部分数据
+              - https://gitlab.chise.org/CHISE/ids （GPLv2 or later）
+              - https://github.com/yi-bai/ids （MIT）
+            ## 文件
             - `radical_pinyin.zip` : 包含全拼双拼的方案和词库
             - `radical_flypy.zip`：仅适用于小鹤双拼的方案和词库
             - `extra.zip`：辅码反查 lua 和带声调的 build 文件
           tag_name: nightly
           name: "nightly build"
           make_latest: true
-          prerelease: true
+          prerelease: false
           generate_release_notes: true
           fail_on_unmatched_files: true
           files: |
@@ -102,7 +113,16 @@ jobs:
         uses: 'softprops/action-gh-release@v2.0.4'
         with:
           body: |
-            ## Note
+            您正在查看的是 v2 发布版。收字更全，**当前部分数据未经校对**。覆盖 Unihan 40,000 汉字。
+
+            旧版仍在维护，请查看 v1 分支和 1.x 发布版。其包含繁简 21,000+ 汉字，足够日常使用。
+
+            ## 说明
+            - 经校对测试、补全的开放词典拆字数据
+            - 未经校对的 idc 部分数据
+              - https://gitlab.chise.org/CHISE/ids （GPLv2 or later）
+              - https://github.com/yi-bai/ids （MIT）
+            ## 文件
             - `radical_pinyin.zip` : 包含全拼双拼的方案和词库
             - `radical_flypy.zip`：仅适用于小鹤双拼的方案和词库
             - `extra.zip`：辅码反查 lua 和带声调的 build 文件
