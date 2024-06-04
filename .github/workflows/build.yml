@@ -1,4 +1,4 @@
-name: Build and Release
+name: Build and Release v1
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - '[0-9]+.*'
   workflow_dispatch:
   repository_dispatch:
-    types: [chaizi_update]
+    types: [chaizi_update_v1]
 
 jobs:
   build:
@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.TOKEN }}
-          ref: 'build'
+          ref: 'build_v1'
           fetch-depth: '0'
           submodules: true
 
@@ -30,7 +30,7 @@ jobs:
         if: github.event_name == 'repository_dispatch'
         run: |
           cd dict
-          git checkout master
+          git checkout kfcd
           git pull
 
       - name: Update tag
@@ -68,14 +68,14 @@ jobs:
           # $CommitInfo = Get-Date -UFormat %s
           $CommitInfo = (irm https://whatthecommit.com/index.txt).trim()
 
-          git checkout master
+          git checkout v1
           cp gen/radical_pinyin.dict.yaml , gen/radical_pinyin.schema.yaml
           cp gen/radical_flypy.dict.yaml, gen/radical.schema.yaml
           $Status = git status --porcelain
           if ( $Status ) {
-          "Push to master branch"
+          "Push to v1 branch"
           git add --all
-          git commit -m "$CommitInfo" && git push origin master
+          git commit -m "$CommitInfo" && git push origin v1
           }
           Compress-Archive "radical_pinyin.schema.yaml","radical_pinyin.dict.yaml" "gen/radical_pinyin.zip"
           Compress-Archive "radical_flypy.dict.yaml","radical.schema.yaml" "gen/radical_flypy.zip"
@@ -91,7 +91,7 @@ jobs:
             - `radical_flypy.zip`：仅适用于小鹤双拼的方案和词库
             - `extra.zip`：辅码反查 lua 和带声调的 build 文件
           tag_name: nightly
-          name: "nightly build"
+          name: "nightly build v1"
           make_latest: true
           prerelease: false
           generate_release_notes: true
