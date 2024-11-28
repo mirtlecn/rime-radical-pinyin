@@ -32,6 +32,7 @@ local function update_dict_entry( s, code, mem, proj )
         return 0
     end
     local e = DictEntry()
+    s = s:gsub( '^%s+', '' ):gsub( '%s+$', '' )
     e.text = s
 
     local pos = {}
