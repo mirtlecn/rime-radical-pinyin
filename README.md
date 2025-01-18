@@ -2,8 +2,6 @@
 
 配方：℞ rime-radical-pinyin
 
-码表：[汉字拆字字典](https://github.com/mirtlecn/chaizi-re)
-
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![GitHub Release](https://img.shields.io/github/v/release/mirtlecn/rime-radical-pinyin)](https://github.com/mirtlecn/rime-radical-pinyin/releases/latest)
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/mirtlecn/rime-radical-pinyin/build.yml)](https://github.com/mirtlecn/rime-radical-pinyin/actions/workflows/build.yml)
@@ -176,6 +174,6 @@ recognizer:
 
 ## Credit
 
-字典由 [汉字拆字字典](https://github.com/mirtlecn/chaizi-re)（@開放詞典 / henrysting / Mirtle CC BY-SA 4.0），转换而成。
+字典由汉字拆字字典（@開放詞典 / henrysting / Mirtle CC BY-SA 4.0），转换而成。
 
 除在文件内另行注明的，本仓库文件均发布在 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可协议下。
