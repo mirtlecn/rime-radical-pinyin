@@ -2,8 +2,6 @@
 
 配方：℞ rime-radical-pinyin
 
-码表：[汉字拆字字典](https://github.com/mirtlecn/chaizi-re)
-
 [![License: GPL 3.0](https://img.shields.io/badge/license-GPLv3-red)](https://www.gnu.org/licenses/gpl-3.0.txt)
 [![GitHub Release](https://img.shields.io/github/v/release/mirtlecn/rime-radical-pinyin)](https://github.com/mirtlecn/rime-radical-pinyin/releases/latest)
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/mirtlecn/rime-radical-pinyin/build.yml)](https://github.com/mirtlecn/rime-radical-pinyin/actions/workflows/build.yml)
@@ -244,7 +242,7 @@ radical_reverse_lookup:
 
 词典数据：
 
-- [汉字拆字字典](https://github.com/mirtlecn/chaizi-re)（@開放詞典 / henrysting / Mirtle CC BY-SA 4.0），转换而成
+- 汉字拆字字典（@開放詞典 / henrysting / Mirtle CC BY-SA 4.0），转换而成
 - https://gitlab.chise.org/CHISE/ids （GPLv2 or later）
 - https://github.com/yi-bai/ids （MIT）
 
