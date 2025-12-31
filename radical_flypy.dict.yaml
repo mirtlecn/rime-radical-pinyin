@@ -86,7 +86,7 @@
 
 ---
 name: radical_flypy
-version: "2025.01.18"
+version: "2025.12.31"
 
 sort: original
 
@@ -728,6 +728,7 @@ sort: original
 𫞦	whqi
 𫞥	whbw
 𫞣	qrjm
+𫞢	xtnq
 𫞡	hors
 𫞠	holk
 𫞝	uvqt
@@ -1095,6 +1096,7 @@ sort: original
 𫌣	xmye
 𫌣	jmye
 𫌙	yijm
+𫌃	yippyczz
 𫌀	yize
 𫋪	xtbi
 𫋒	yzky
@@ -1474,6 +1476,7 @@ sort: original
 𪞿	tydc
 𪞫	bkii
 𪞝	bkyzeruu
+𪞝	bkyi
 𪞓	miui
 𪞓	bcui
 𪝙	rfhe
@@ -4169,6 +4172,7 @@ sort: original
 𩕀	aoye
 𩔼	uuye
 𩔻	xupz
+𩔻	xulikz
 𩔹	xubw
 𩔸	quye
 𩔸	qqye
@@ -4365,6 +4369,7 @@ sort: original
 𩐀	wwjx
 𩏿	wwui
 𩏾	wwtc
+𩏽	wwyi
 𩏼	wwnw
 𩏺	wwjt
 𩏺	hvjt
@@ -7073,6 +7078,7 @@ sort: original
 𧺏	zzye
 𧺎	zzjq
 𧺍	zzba
+𧺆	yczz
 𧺅	uuxiii
 𧹾	yiii
 𧹽	iixm
@@ -8577,6 +8583,7 @@ sort: original
 𧉊	fuis
 𧉈	isbu
 𧉇	whis
+𧉆	iszz
 𧉅	isyb
 𧉄	ismm
 𧉃	isyy
@@ -8783,6 +8790,8 @@ sort: original
 𧀺	ccjp
 𧀺	ccjx
 𧀹	ccve
+𧀶	ccuimitmsizz
+𧀶	ccuibctmsizz
 𧀵	ccqm
 𧀴	cclu
 𧀴	ccfu
@@ -8993,6 +9002,7 @@ sort: original
 𦺓	ccic
 𦺒	ccwu
 𦺑	ccpzmc
+𦺑	cclikzmc
 𦺐	cccj
 𦺎	ccpw
 𦺎	ccbu
@@ -9369,6 +9379,7 @@ sort: original
 𦩞	vzyu
 𦩝	vzww
 𦩜	vzpz
+𦩜	vzlikz
 𦩘	vzdk
 𦩖	vzbw
 𦩕	vzhu
@@ -11815,6 +11826,7 @@ sort: original
 𥒭	uizu
 𥒬	uiss
 𥒫	uifu
+𥒧	uiyzzz
 𥒥	uido
 𥒢	uili
 𥒡	uiig
@@ -12724,8 +12736,11 @@ sort: original
 𤴢	vidk
 𤴟	ddpi
 𤴟	dddk
+𤴛	vrzz
+𤴛	hvzz
 𤴙	cspi
 𤴙	csdk
+𤴓	hgzz
 𤴒	lwhvnn
 𤴒	hvhvnn
 𤴍	dpnk
@@ -12902,8 +12917,6 @@ sort: original
 𤬩	yiwa
 𤬨	wafj
 𤬧	waui
-𤬦	miwa
-𤬦	bcwa
 𤬥	yixrxigxyi
 𤬥	yissxigxyi
 𤬥	tzxrxigxyi
@@ -12925,6 +12938,7 @@ sort: original
 𤬏	lwgx
 𤬌	trgx
 𤬃	pzgx
+𤬃	likzgx
 𤬂	uugx
 𤬁	gogx
 𤫻	bugx
@@ -13464,6 +13478,7 @@ sort: original
 𤗘	pmui
 𤗓	pmig
 𤗏	pmpz
+𤗏	pmlikz
 𤗎	pmyj
 𤗍	pmwj
 𤗈	pmqp
@@ -14108,6 +14123,7 @@ sort: original
 𣲜	jkuv
 𣲘	uvwu
 𣲗	uvww
+𣲓	uvzz
 𣲒	uvle
 𣲑	uvhu
 𣲋	uvsv
@@ -14271,6 +14287,7 @@ sort: original
 𣬝	mcle
 𣬚	iotutu
 𣬙	pzbijk
+𣬙	likzbijk
 𣬘	biwhbivr
 𣬘	bisibivr
 𣬕	iowu
@@ -14987,6 +15004,7 @@ sort: original
 𣏫	muli
 𣏪	muul
 𣏥	mulq
+𣏡	muzz
 𣏠	muyc
 𣏟	pbpb
 𣏞	muyz
@@ -15308,6 +15326,7 @@ sort: original
 𣀀	lwpu
 𢿸	cepu
 𢿲	ycwf
+𢿭	huwfvo
 𢿧	thpu
 𢿦	igpu
 𢿤	dgpu
@@ -16618,6 +16637,7 @@ sort: original
 𢒾	rfjq
 𢒾	iijq
 𢒷	xupz
+𢒷	xulikz
 𢒲	yiujxi
 𢒲	yisjxi
 𢒲	tzujxi
@@ -17072,6 +17092,7 @@ sort: original
 𢃢	jbqk
 𢃜	jbvi
 𢃛	qijb
+𢃘	huwfjb
 𢃗	jbhj
 𢃕	jbda
 𢃐	jbks
@@ -17615,9 +17636,11 @@ sort: original
 𡯿	yzfu
 𡯽	yzxm
 𡯷	whpz
+𡯷	whlikz
 𡯵	yzww
 𡯴	yzvo
 𡯳	yzpz
+𡯳	yzlikz
 𡯱	whxl
 𡯱	whji
 𡯱	whbi
@@ -18958,6 +18981,7 @@ sort: original
 𠶸	kzqt
 𠶸	kzjn
 𠶷	pzvs
+𠶷	likzvs
 𠶲	kzqp
 𠶱	kege
 𠶰	dcnavz
@@ -56186,9 +56210,12 @@ sort: original
 冘	bcppgz
 冗	miji
 冗	bcji
+冖	wa
 冖	uuve
 冖	nave
+冖	miwa
 冖	dmve
+冖	bcwa
 冕	ytmm
 冕	tsermm
 冕	rimm
@@ -57818,6 +57845,7 @@ sort: original
 䴼	mdcj
 䴻	limd
 䴺	mdpz
+䴺	mdlikz
 䴹	mdgo
 䴸	mdfu
 䴷	mdwj
@@ -57922,6 +57950,7 @@ sort: original
 䳟	mknn
 䳞	fgnn
 䳝	pznn
+䳝	likznn
 䳜	yunn
 䳛	yjnn
 䳚	hjnn
@@ -58220,8 +58249,11 @@ sort: original
 䯾	pnvz
 䯾	bnvz
 䯽	ujpz
+䯽	ujlikz
 䯽	pnpz
+䯽	pnlikz
 䯽	bnpz
+䯽	bnlikz
 䯼	ujdi
 䯼	pndi
 䯼	bndi
@@ -58518,6 +58550,7 @@ sort: original
 䬑	fgww
 䬐	fgww
 䬏	fgpz
+䬏	fglikz
 䬎	fgho
 䬍	fghu
 䬌	hufg
@@ -58596,6 +58629,7 @@ sort: original
 䫕	diye
 䫔	qiye
 䫓	pzye
+䫓	likzye
 䫒	hyye
 䫑	qiye
 䫐	lbye
@@ -58941,6 +58975,7 @@ sort: original
 䦥	mflb
 䦤	mfvo
 䦣	mfpz
+䦣	mflikz
 䦢	mffa
 䦡	mfgr
 䦠	mfiu
@@ -59531,6 +59566,7 @@ sort: original
 䞵	zzvo
 䞴	zzvz
 䞳	zzpz
+䞳	zzlikz
 䞱	zzgu
 䞰	zzii
 䞯	zzfu
@@ -60566,7 +60602,9 @@ sort: original
 䐂	ytlu
 䐁	ytiu
 䐀	ytqi
+䏿	huwfyt
 䏽	ytpz
+䏽	ytlikz
 䏼	ytjm
 䏼	ytcj
 䏻	yrqu
@@ -60661,6 +60699,7 @@ sort: original
 䎩	lwzd
 䎨	lwyj
 䎧	lwpz
+䎧	lwlikz
 䎦	lwyj
 䎤	lwju
 䎣	lwyi
@@ -60712,6 +60751,7 @@ sort: original
 䍑	whgj
 䍎	fzjm
 䍌	fzpz
+䍌	fzlikz
 䍋	fziv
 䍊	fzjn
 䍉	fzvi
@@ -60842,6 +60882,7 @@ sort: original
 䋩	sini
 䋩	sier
 䋨	sipz
+䋨	silikz
 䋧	siju
 䋦	simw
 䋥	sili
@@ -60985,8 +61026,10 @@ sort: original
 䉝	vuxi
 䉜	vuvi
 䉛	vuao
-䉚	vuwhwa
-䉚	vusiwa
+䉚	vuwhmiwa
+䉚	vuwhbcwa
+䉚	vusimiwa
+䉚	vusibcwa
 䉙	vuyy
 䉘	vuzs
 䉗	vuyi
@@ -61545,6 +61588,7 @@ sort: original
 䁌	muww
 䁋	muye
 䁊	womu
+䁈	huwfmu
 䁇	mimu
 䁆	muyj
 䁅	mumg
@@ -61728,6 +61772,7 @@ sort: original
 㾨	neqi
 㾧	nego
 㾦	nepz
+㾦	nelikz
 㾥	neuu
 㾤	neks
 㾣	nejb
@@ -61834,6 +61879,7 @@ sort: original
 㽌	lqwa
 㽋	lrwa
 㽊	xpwa
+㽉	jmwa
 㽈	yiwa
 㽇	xtwa
 㽆	dhwa
@@ -62557,6 +62603,7 @@ sort: original
 㱠	ddgu
 㱟	ddpi
 㱞	ddli
+㱜	ddzz
 㱛	dddd
 㱚	ddyt
 㱙	ddyu
@@ -62597,6 +62644,7 @@ sort: original
 㰶	jqqm
 㰵	zuqm
 㰴	pzqm
+㰴	likzqm
 㰳	yaqm
 㰳	eeqm
 㰲	hoqm
@@ -62662,6 +62710,7 @@ sort: original
 㯿	mulp
 㯾	muzc
 㯽	mubb
+㯺	jmmu
 㯸	mujb
 㯷	mupu
 㯷	mubu
@@ -62973,6 +63022,7 @@ sort: original
 㪚	gswfri
 㪙	gowf
 㪗	pzpu
+㪗	likzpu
 㪖	lupu
 㪕	vopu
 㪔	lbpu
@@ -63386,6 +63436,7 @@ sort: original
 㥋	yixb
 㥊	xbpg
 㥉	xbpz
+㥉	xblikz
 㥈	tpxb
 㥇	xbjm
 㥇	xbcj
@@ -63787,6 +63838,7 @@ sort: original
 㟞	ujjm
 㟞	ujcj
 㟝	ujpz
+㟝	ujlikz
 㟜	ujmi
 㟛	ujqm
 㟚	viuj
