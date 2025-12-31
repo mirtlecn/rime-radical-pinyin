@@ -20,8 +20,8 @@
 # '乛': [['zhe2']], # 折
 # '𠃋': [['zhe2']], # 折
 # '丶': [['dian3','na4']],  # 点 & 捺
-# # 一撇一横，牛字去掉十字，施字的右侧上部，视作「人」
-# # 巣、尖、尙、尚等字上部，视为「小」
+# '𠂉': [['ren2']], # 一撇一横，牛字去掉十字，施字的右侧上部，视作「人」
+# '⺌': [['xiao3']], # 巣、尖、尙、尚等字上部，视为「小」」
 # '卜': [['bo1','bu3']],
 # '厶': [['si1']],
 # '爿': [['pian4']], # 牁 鼎
@@ -38,7 +38,7 @@
 # '夂': [['wen2']],
 # '冂': [['tong2','jiong1']], # 同、周等字的外框
 # '𡗗': [['chun1']], # 春、奉
-# # 卷、眷等字的上部念 juan3
+# '龹': [['juan3']], # 卷、眷等字的上部
 # '龴': [['si1']],
 # '鳥': [['niao3']],
 # '倉': [['cang1']],
@@ -199,6 +199,8 @@ sort: original
 𰷠	bwye
 𰵴	yjuu
 𰵝	yjhe
+𰳆	isii
+𰳁	isze
 𰱱	cczi
 𰧉	uivi
 𰟘	hoyj
@@ -293,12 +295,14 @@ sort: original
 𭥗	ytri
 𭥗	riyt
 𭥗	riri
+𭤰	fhrfyu
 𭣇	uzdm
 𭚦	gsgl
 𭙤	glvu
 𭙤	gluidz
 𭘓	jbwu
 𭕘	uimu
+𭕆	xnbw
 𭑈	tmtm
 𭐪	sibawfsibawf
 𭐪	qyqy
@@ -541,6 +545,7 @@ sort: original
 𬑗	mujm
 𬑔	whgg
 𬑔	sigg
+𬐚	rfkzmb
 𬏍	ufufuf
 𬍼	yuyuyu
 𬍤	yuxy
@@ -569,6 +574,7 @@ sort: original
 𬂩	mujx
 𬂚	uououo
 𬁠	rixl
+𬀷	rfyh
 𬀱	riqi
 𬀪	rijm
 𬀩	riww
@@ -914,6 +920,7 @@ sort: original
 𫖯	vcye
 𫖮	qiye
 𫖬	yevf
+𫖪	rfnaye
 𫖞	iiye
 𫖜	ybmu
 𫖖	wwdg
@@ -1288,6 +1295,8 @@ sort: original
 𪰸	risu
 𪰖	riui
 𪰍	ridz
+𪰅	fhrfwf
+𪰅	fhrfug
 𪯱	jbwf
 𪯨	ijiu
 𪯢	wfwf
@@ -1490,6 +1499,7 @@ sort: original
 𪜅	munadmjk
 𪜅	mudmnajk
 𪜅	mudmdmjk
+𪜃	gzhgkzuj
 𪛒	ytuu
 𪛎	jiyt
 𪛊	ytjb
@@ -1601,6 +1611,7 @@ sort: original
 𪘉	iido
 𪘇	iihz
 𪘆	iixq
+𪘅	isii
 𪘃	iiyz
 𪘁	iihe
 𪘀	iibk
@@ -2676,6 +2687,7 @@ sort: original
 𩷼	yujr
 𩷻	yujp
 𩷹	yuvo
+𩷸	yurfbcfh
 𩷶	yumh
 𩷵	yuty
 𩷰	yuxy
@@ -3782,7 +3794,20 @@ sort: original
 𩠟	uzsige
 𩠚	uzhd
 𩠑	dkuz
+𩠏	uivh
+𩠎	uicc
 𩠌	uiss
+𩠋	uixu
+𩠊	uidr
+𩠉	uijr
+𩠈	uinm
+𩠇	uixy
+𩠆	uidk
+𩠃	uijx
+𩠂	uiyi
+𩠁	uigj
+𩠀	uiba
+𩟿	uinw
 𩟺	uilj
 𩟺	uila
 𩟷	ysui
@@ -5264,6 +5289,7 @@ sort: original
 𨶨	mfce
 𨶢	mfyu
 𨶠	mfnn
+𨶟	mfyurfuj
 𨶝	mfuu
 𨶜	mfdz
 𨶙	mfng
@@ -5351,6 +5377,7 @@ sort: original
 𨴏	mfts
 𨴎	mfer
 𨴍	mfmz
+𨴌	mfsiuj
 𨴊	mfui
 𨴆	mfda
 𨴀	mfjs
@@ -5969,6 +5996,8 @@ sort: original
 𨛣	hjer
 𨛡	yrer
 𨛜	yiyi
+𨛖	bucser
+𨛖	bocser
 𨛕	yzer
 𨛔	fzer
 𨛓	nser
@@ -6054,6 +6083,7 @@ sort: original
 𨘁	viycfhsi
 𨘁	viycfhmi
 𨗾	vifuta
+𨗼	virfdd
 𨗰	viyzsi
 𨗰	viyzmi
 𨗨	viww
@@ -6169,6 +6199,7 @@ sort: original
 𨒅	vivi
 𨒄	viyj
 𨒃	vibj
+𨒀	vidcdc
 𨑿	vixsui
 𨑿	vikjui
 𨑽	viji
@@ -6193,6 +6224,9 @@ sort: original
 𨑌	lwif
 𨑊	dons
 𨑂	npnpnp
+𨐾	yipm
+𨐾	yibm
+𨐾	yibj
 𨐶	xbhx
 𨐴	pijx
 𨐱	xbytxb
@@ -6204,6 +6238,7 @@ sort: original
 𨐡	xbku
 𨐛	nnxb
 𨐖	uaxb
+𨐕	ujujxb
 𨐔	doxb
 𨐑	xbyy
 𨐍	ujxb
@@ -6787,6 +6822,9 @@ sort: original
 𨂢	jizu
 𨂡	zuzz
 𨂠	zuye
+𨂟	zurfvier
+𨂟	zurfvger
+𨂟	zurftker
 𨂞	zubk
 𨂞	zubh
 𨂞	zubj
@@ -6848,6 +6886,7 @@ sort: original
 𨀯	zuqs
 𨀮	zuyr
 𨀬	zuzd
+𨀫	zurfkh
 𨀧	zuig
 𨀥	zuci
 𨀤	zulw
@@ -7034,6 +7073,7 @@ sort: original
 𧻰	zzgc
 𧻧	zzii
 𧻧	zzie
+𧻝	zzrfvi
 𧻜	zzww
 𧻚	zzgf
 𧻙	zzbd
@@ -7619,6 +7659,7 @@ sort: original
 𧧭	yjjl
 𧧬	zdyj
 𧧩	yjyi
+𧧠	yjujuj
 𧧟	yjzd
 𧧝	yjya
 𧧜	yjwh
@@ -7657,6 +7698,7 @@ sort: original
 𧥺	yjbcer
 𧥹	yjfg
 𧥸	yjnq
+𧥷	yjrfhgyi
 𧥵	yjri
 𧥴	yjah
 𧥱	yjfu
@@ -7668,6 +7710,14 @@ sort: original
 𧥟	yjve
 𧥟	yjgz
 𧥞	yjuu
+𧥜	yierxs
+𧥜	yierkj
+𧥜	tzerxs
+𧥜	tzerkj
+𧥛	yierts
+𧥛	yierjs
+𧥛	tzerts
+𧥛	tzerjs
 𧥚	xmxmpujn
 𧥖	jnsi
 𧥖	jnli
@@ -8196,6 +8246,12 @@ sort: original
 𧕮	isgu
 𧕮	isii
 𧕨	isch
+𧕧	pzwwyiky
+𧕧	pzkzyiky
+𧕧	pzgoyiky
+𧕧	juwwyiky
+𧕧	jukzyiky
+𧕧	jugoyiky
 𧕦	vjky
 𧕦	tjky
 𧕦	ujky
@@ -9838,6 +9894,7 @@ sort: original
 𦙜	ytee
 𦙙	ytuv
 𦙍	ppycyt
+𦙋	ytrfhx
 𦙊	hoyt
 𦙉	ytyzji
 𦙈	ytzu
@@ -9848,6 +9905,8 @@ sort: original
 𦙀	ytfj
 𦘼	yuyt
 𦘹	ytuj
+𦘸	ytbuyi
+𦘸	ytboyi
 𦘶	ytir
 𦘵	ythgjq
 𦘴	ytve
@@ -9926,6 +9985,14 @@ sort: original
 𦕷	ergs
 𦕵	erlc
 𦕰	erdo
+𦕢	buervi
+𦕢	buervg
+𦕢	buertk
+𦕢	boervi
+𦕢	boervg
+𦕢	boertk
+𦕡	buerjk
+𦕡	boerjk
 𦕠	ergs
 𦕙	erju
 𦕓	gsjier
@@ -10177,6 +10244,8 @@ sort: original
 𦍒	tuyh
 𦍏	yhrf
 𦍌	cctu
+𦍅	miyixr
+𦍅	bcyixr
 𦍁	whbi
 𦍁	sibi
 𦍀	whno
@@ -10292,6 +10361,9 @@ sort: original
 𦊽	siui
 𦊼	whlv
 𦊼	silv
+𦊻	npyimu
+𦊬	miyiyi
+𦊬	bcyiyi
 𦊫	whgl
 𦊫	sigl
 𦊪	whhe
@@ -10306,6 +10378,8 @@ sort: original
 𦊎	whui
 𦊎	siui
 𦊍	whhu
+𦊋	miyimu
+𦊋	bcyimu
 𦊊	whtm
 𦊊	sitm
 𦊃	whjb
@@ -10458,6 +10532,8 @@ sort: original
 𦅻	suyr
 𦅺	silimb
 𦅺	milimb
+𦅸	yzbuxi
+𦅸	yzboxi
 𦅷	sivu
 𦅷	mivu
 𦅶	sige
@@ -10658,6 +10734,7 @@ sort: original
 𥿞	sita
 𥿝	ddsi
 𥿝	ddmi
+𥿜	sirfxn
 𥿚	tudcsi
 𥿚	tudcmi
 𥿑	sics
@@ -10840,6 +10917,10 @@ sort: original
 𥹈	mita
 𥹇	mibm
 𥹆	mini
+𥹄	bumibm
+𥹄	bubcbm
+𥹄	bomibm
+𥹄	bobcbm
 𥹂	mipi
 𥹁	miva
 𥸵	mity
@@ -11050,6 +11131,7 @@ sort: original
 𥲡	vuxtsixb
 𥲠	vuwh
 𥲟	vudn
+𥲝	vuujujpi
 𥲜	vuhumb
 𥲛	vufu
 𥲚	vucs
@@ -11581,6 +11663,12 @@ sort: original
 𥝉	yujxtshgdm
 𥝉	yujxjshgna
 𥝉	yujxjshgdm
+𥝄	klwwyirz
+𥝄	klkzyirz
+𥝄	klgoyirz
+𥝄	grwwyirz
+𥝄	grkzyirz
+𥝄	grgoyirz
 𥝂	yuee
 𥝀	yuye
 𥜶	uikv
@@ -11659,6 +11747,7 @@ sort: original
 𥙨	uido
 𥙦	ruui
 𥙣	uixy
+𥙡	uirfdj
 𥙎	uipd
 𥙋	uiiu
 𥙉	uitd
@@ -11774,6 +11863,12 @@ sort: original
 𥕍	uilz
 𥕍	uilw
 𥕉	uico
+𥕇	uiklujwwyi
+𥕇	uiklujkzyi
+𥕇	uiklujgoyi
+𥕇	uifhujwwyi
+𥕇	uifhujkzyi
+𥕇	uifhujgoyi
 𥕂	uiji
 𥕁	uiqi
 𥕀	uiwg
@@ -12076,6 +12171,7 @@ sort: original
 𥊊	muhvbarfui
 𥊉	muxthe
 𥊈	muli
+𥊇	ifrfermu
 𥊀	muuf
 𥊀	mucj
 𥉿	mubuxm
@@ -12351,6 +12447,7 @@ sort: original
 𥀛	picc
 𥀙	rzpipi
 𥀘	yupipi
+𥀖	pivshghv
 𥀔	lupi
 𥀓	lqpi
 𥀏	zapi
@@ -12713,6 +12810,7 @@ sort: original
 𤵘	nebi
 𤵒	newf
 𤵐	newu
+𤵎	nerfji
 𤵋	nehu
 𤵊	nety
 𤵂	nexb
@@ -12757,6 +12855,8 @@ sort: original
 𤳦	lwda
 𤳥	tmtmlb
 𤳤	zdxi
+𤳠	tmburixy
+𤳠	tmborixy
 𤳝	tmlidc
 𤳘	ufdg
 𤳖	fjqu
@@ -13558,6 +13658,8 @@ sort: original
 𤔙	vcvcvc
 𤔖	govc
 𤔔	bnsirzyz
+𤔌	vxujgs
+𤔌	vcujgs
 𤔋	vcju
 𤔉	vctm
 𤔀	vcnu
@@ -14035,6 +14137,12 @@ sort: original
 𣸃	uvvu
 𣸀	uvhv
 𣷾	uvgv
+𣷶	uvbuwwyc
+𣷶	uvbukzyc
+𣷶	uvbugoyc
+𣷶	uvbowwyc
+𣷶	uvbokzyc
+𣷶	uvbogoyc
 𣷫	uvfh
 𣷩	uvhoyt
 𣷡	uvvs
@@ -14127,6 +14235,8 @@ sort: original
 𣲒	uvle
 𣲑	uvhu
 𣲋	uvsv
+𣲊	buyiuv
+𣲊	boyiuv
 𣲄	uvjq
 𣲂	uyuv
 𣲂	iruv
@@ -14463,6 +14573,8 @@ sort: original
 𣧃	ddto
 𣧂	ddda
 𣦼	eeyz
+𣦵	bumc
+𣦵	bomc
 𣦴	zzzzzz
 𣦯	lilwvi
 𣦭	souf
@@ -14598,6 +14710,7 @@ sort: original
 𣢺	hjqm
 𣢷	geqm
 𣢶	viqm
+𣢴	rfkdqm
 𣢲	bajbqm
 𣢰	uuqm
 𣢬	ybqm
@@ -14928,6 +15041,7 @@ sort: original
 𣔮	muzdyu
 𣔮	muzdqn
 𣔮	muzdkc
+𣔫	murfgv
 𣔛	muxtwu
 𣔚	fumu
 𣔙	muxb
@@ -15076,6 +15190,8 @@ sort: original
 𣌏	aiwo
 𣌏	aiho
 𣌍	rinp
+𣌅	mierli
+𣌅	bcerli
 𣋿	yidovvri
 𣋿	tzdovvri
 𣋹	ribi
@@ -15168,6 +15284,7 @@ sort: original
 𣇦	riiv
 𣇢	ribi
 𣇙	mcri
+𣇗	riihujyz
 𣇖	xrgs
 𣇇	yjdj
 𣆽	djtk
@@ -15227,14 +15344,25 @@ sort: original
 𣄰	jike
 𣄯	fjji
 𣄮	jikz
+𣄧	fhrfyi
+𣄧	fhrfww
+𣄧	fhrfsv
+𣄠	fhrfbn
 𣄝	fhqm
 𣄜	fhgv
+𣄙	fhrfhl
 𣄓	fhvumc
+𣄑	fhrfyj
 𣄏	fhbf
 𣄎	fhfu
 𣄍	fhui
+𣄉	fhrfyz
 𣄅	fhjixxkz
 𣃾	fhyj
+𣃽	fhrfdo
+𣃵	fhrfuf
+𣃳	fhrfnp
+𣃧	fhrfri
 𣃝	fhyh
 𣃚	fhkh
 𣃘	yjuu
@@ -15996,12 +16124,14 @@ sort: original
 𢩸	wfuz
 𢩷	uzve
 𢩷	uzto
+𢩲	uzyiui
 𢩯	uzlehg
 𢩮	uzyi
 𢩪	uzle
 𢩨	uzyu
 𢩨	uzqn
 𢩨	uzkc
+𢩦	yiuz
 𢩢	huij
 𢩠	huqs
 𢩟	xpbm
@@ -16035,6 +16165,12 @@ sort: original
 𢨦	huui
 𢨥	hghu
 𢨡	hegeky
+𢨟	buwwgexm
+𢨟	bukzgexm
+𢨟	bugogexm
+𢨟	bowwgexm
+𢨟	bokzgexm
+𢨟	bogogexm
 𢨝	cdge
 𢨜	gegsky
 𢨔	qmge
@@ -16331,11 +16467,13 @@ sort: original
 𢛁	vixb
 𢚻	xbkzjp
 𢚺	xbty
+𢚮	xbrfzosj
 𢚭	xbpb
 𢚭	xbii
 𢚪	uihoxb
 𢚨	hexb
 𢚗	xbss
+𢚌	xbujfu
 𢚋	xbmc
 𢚆	xbvu
 𢚅	bjxb
@@ -16669,9 +16807,16 @@ sort: original
 𢒆	xbsj
 𢑹	hvya
 𢑹	hvee
+𢑮	ujujfw
+𢑬	ujujld
+𢑧	ujujuu
 𢑢	riyi
+𢑠	ujujyi
 𢑟	ujmifa
 𢑟	ujbcfa
+𢑝	ujujyz
+𢑝	ujujyb
+𢑖	ujjx
 𢑓	jieryi
 𢑑	ujuj
 𢑈	gsyc
@@ -16714,6 +16859,8 @@ sort: original
 𢏗	jmgs
 𢏕	gsts
 𢏎	gssi
+𢏍	gsbusi
+𢏍	gsbosi
 𢏈	gsyi
 𢏆	gsgu
 𢏅	gsho
@@ -17043,6 +17190,7 @@ sort: original
 𢄱	jblj
 𢄧	zujb
 𢄦	jbnn
+𢄥	ujdcjbnp
 𢄤	vjjb
 𢄣	jbhv
 𢄢	yijb
@@ -17057,6 +17205,7 @@ sort: original
 𢄟	jbts
 𢄜	jbhj
 𢄗	bojs
+𢄔	rfdd
 𢄓	jbya
 𢄓	jbwu
 𢄐	jbmg
@@ -17712,6 +17861,7 @@ sort: original
 𡬲	uymucy
 𡬲	irmucy
 𡬫	vzcy
+𡬞	yiyiyicy
 𡬜	hjhjhj
 𡬚	kekeke
 𡬘	lukr
@@ -17790,6 +17940,7 @@ sort: original
 𡨇	bcji
 𡨇	bcbi
 𡨅	bcju
+𡨄	bcjkhgba
 𡨂	bcwu
 𡨀	bcyu
 𡧽	bchl
@@ -18205,6 +18356,12 @@ sort: original
 𡒢	gutu
 𡒖	gdtu
 𡒒	mktuwuvs
+𡒏	tuuywwyippuvgz
+𡒏	tuuykzyippuvgz
+𡒏	tuuygoyippuvgz
+𡒏	tuirwwyippuvgz
+𡒏	tuirkzyippuvgz
+𡒏	tuirgoyippuvgz
 𡒍	jutu
 𡒌	tuqm
 𡒊	yutu
@@ -18899,11 +19056,16 @@ sort: original
 𠹭	kzge
 𠹦	kzbisi
 𠹦	kzbimi
+𠹥	kzmieryu
+𠹥	kzbceryu
 𠹤	kzhv
 𠹠	kzjqmu
+𠹟	bcjkhgbakz
 𠹝	lbjqkz
 𠹛	kzqi
 𠹛	kzkd
+𠹘	kzbumusv
+𠹘	kzbomusv
 𠹖	kzvj
 𠹕	kzbc
 𠹔	kzth
@@ -19059,6 +19221,7 @@ sort: original
 𠳏	kzie
 𠳎	kzui
 𠳌	quke
+𠳋	vshgyi
 𠳊	kequ
 𠳇	tkkz
 𠳆	zdkz
@@ -19099,6 +19262,7 @@ sort: original
 𠲊	kztuwf
 𠱸	kzif
 𠱳	kzjl
+𠱲	kzujuj
 𠱯	xrgs
 𠱯	ssgs
 𠱥	kzhv
@@ -19133,6 +19297,7 @@ sort: original
 𠰳	kzbk
 𠰢	kzbj
 𠰛	ujgu
+𠰚	kzrfxn
 𠰕	iukz
 𠰓	kzhe
 𠰑	kzhj
@@ -19220,11 +19385,15 @@ sort: original
 𠭖	vcyzgu
 𠭋	voxm
 𠭋	vojp
+𠭉	buysyz
+𠭉	boysyz
 𠭈	simiyz
 𠭈	sibcyz
 𠬾	yzzi
 𠬾	yzyz
 𠬸	hvyz
+𠬶	ujmiyz
+𠬶	ujbcyz
 𠬬	baji
 𠬪	vxyz
 𠬪	vcyz
@@ -19256,6 +19425,7 @@ sort: original
 𠫤	wugs
 𠫣	sinw
 𠫝	siir
+𠫜	siyili
 𠫘	siui
 𠫓	sihg
 𠫒	yryryr
@@ -19346,6 +19516,12 @@ sort: original
 𠧵	iida
 𠧴	veyz
 𠧴	vetn
+𠧰	butserkz
+𠧰	bujserkz
+𠧰	botserkz
+𠧰	bojserkz
+𠧫	buriwf
+𠧫	boriwf
 𠧩	mwbu
 𠧩	mwbo
 𠧠	veyz
@@ -19353,9 +19529,15 @@ sort: original
 𠧞	vcbu
 𠧞	vcbo
 𠧛	uhii
+𠧚	buqq
+𠧚	boqq
 𠧙	vcbu
 𠧙	vcbo
+𠧖	bubw
+𠧖	bobw
 𠧕	uhui
+𠧒	buyi
+𠧒	boyi
 𠧇	voyu
 𠧅	wobw
 𠧅	wdbw
@@ -19414,6 +19596,10 @@ sort: original
 𠥦	fhyi
 𠥢	klwu
 𠥢	fhwu
+𠥞	klbumuqr
+𠥞	klbomuqr
+𠥞	fhbumuqr
+𠥞	fhbomuqr
 𠥝	klpbuu
 𠥝	fhpbuu
 𠥜	klxp
@@ -19471,6 +19657,8 @@ sort: original
 𠣫	vcju
 𠣪	juju
 𠣡	bcbadj
+𠣠	bcbucs
+𠣠	bcbocs
 𠣘	bcvz
 𠣖	bcxr
 𠣕	bcvu
@@ -19519,6 +19707,7 @@ sort: original
 𠡷	xpmu
 𠡷	lpmu
 𠡶	jrli
+𠡱	xndjli
 𠡮	pgli
 𠡭	lkli
 𠡥	libk
@@ -19610,6 +19799,8 @@ sort: original
 𠞕	isrf
 𠞊	iadc
 𠞉	lidc
+𠞈	mieryudc
+𠞈	bceryudc
 𠞆	yadc
 𠞆	wudc
 𠞄	sidc
@@ -19654,6 +19845,8 @@ sort: original
 𠜖	ltdc
 𠜖	lvdc
 𠜑	dvdc
+𠜐	bucsdc
+𠜐	bocsdc
 𠜎	xmdc
 𠜋	rfizdc
 𠜉	igdc
@@ -19695,6 +19888,7 @@ sort: original
 𠛀	gsdc
 𠚽	vidc
 𠚼	ffdc
+𠚻	rfdndc
 𠚺	ucdc
 𠚹	uudc
 𠚵	jidc
@@ -19815,9 +20009,37 @@ sort: original
 𠕴	bcjq
 𠕳	miru
 𠕳	bcru
+𠕰	mierni
+𠕰	miermi
+𠕰	mierer
+𠕰	bcerni
+𠕰	bcermi
+𠕰	bcerer
+𠕮	miersirfyu
+𠕮	miersiiiyu
+𠕮	miermirfyu
+𠕮	miermiiiyu
+𠕮	bcersirfyu
+𠕮	bcersiiiyu
+𠕮	bcermirfyu
+𠕮	bcermiiiyu
+𠕭	miervc
+𠕭	bcervc
 𠕨	jsyu
 𠕧	vijs
+𠕦	mieryu
+𠕦	bceryu
+𠕥	mierdc
+𠕥	bcerdc
+𠕤	miertu
+𠕤	bcertu
+𠕣	mierxm
+𠕣	bcerxm
+𠕠	mierig
+𠕠	bcerig
 𠕟	rjvj
+𠕝	mierdo
+𠕝	bcerdo
 𠕘	tsnananaxn
 𠕘	tsnanadmxn
 𠕘	tsnadmnaxn
@@ -19834,6 +20056,8 @@ sort: original
 𠕘	jsdmnadmxn
 𠕘	jsdmdmnaxn
 𠕘	jsdmdmdmxn
+𠕖	miermu
+𠕖	bcermu
 𠕕	tsgx
 𠕕	jsgx
 𠕑	tsyikz
@@ -19894,6 +20118,9 @@ sort: original
 𠔑	ffff
 𠔍	bayz
 𠔌	babakz
+𠔋	bawwyi
+𠔋	bakzyi
+𠔋	bagoyi
 𠔊	qqba
 𠔈	bavs
 𠔃	bayu
@@ -20055,6 +20282,9 @@ sort: original
 𠍜	ddvi
 𠍛	rfbdtsnv
 𠍛	rfbdjsnv
+𠍚	rfbdwwyi
+𠍚	rfbdkzyi
+𠍚	rfbdgoyi
 𠍙	rfwhdd
 𠍗	hepz
 𠍗	heju
@@ -20097,6 +20327,7 @@ sort: original
 𠋞	rfye
 𠋞	rfue
 𠋝	rfmn
+𠋜	rfxnhghghgkz
 𠋖	rfjm
 𠋆	rfqb
 𠊾	rfgv
@@ -20249,11 +20480,17 @@ sort: original
 𠅃	yics
 𠅃	tzcs
 𠄿	erww
+𠄹	erkz
+𠄵	erxr
 𠄱	eruuif
 𠄰	erwwho
 𠄰	erkzho
 𠄰	ergoho
+𠄮	erzi
+𠄮	eryz
 𠄤	tyer
+𠄢	erhv
+𠄡	erwu
 𠄠	hghg
 𠄟	hghg
 𠄞	hghg
@@ -20278,6 +20515,7 @@ sort: original
 𠃳	jqlv
 𠃲	vvgz
 𠃧	fwfw
+𠃥	yiww
 𠃤	qqir
 𠃟	nmgz
 𠃞	hguygz
@@ -20327,6 +20565,9 @@ sort: original
 𠀸	hgtswfqi
 𠀸	hgjswfqi
 𠀱	bufu
+𠀮	hgbawwyi
+𠀮	hgbakzyi
+𠀮	hgbagoyi
 𠀬	tmrf
 𠀦	hgvz
 𠀤	bihg
@@ -59554,6 +59795,7 @@ sort: original
 䟂	zzmj
 䟁	zzic
 䟀	zzia
+䞿	bcjkhgbazz
 䞾	zzsi
 䞽	zzso
 䞼	zztr
@@ -60085,6 +60327,7 @@ sort: original
 䗛	isrfuuwfyt
 䗛	isrfuuwfrz
 䗚	isfu
+䗙	bcjkhgbais
 䗘	ishe
 䗗	isji
 䗖	isdd
@@ -60747,8 +60990,66 @@ sort: original
 䍫	yhta
 䍪	yhmo
 䍩	yhwf
+䍦	whli
+䍦	whgu
+䍦	whii
+䍦	sili
+䍦	sigu
+䍦	siii
+䍥	whli
+䍥	sili
+䍤	whzi
+䍤	whvd
+䍤	whqi
+䍤	whjm
+䍤	whji
+䍤	sizi
+䍤	sivd
+䍤	siqi
+䍤	sijm
+䍤	siji
+䍣	whlw
+䍣	silw
+䍢	whwu
+䍢	whmo
+䍢	siwu
+䍢	simo
+䍡	whlu
+䍡	silu
+䍠	whli
+䍠	sili
+䍟	whzs
+䍟	sizs
 䍞	whho
+䍝	whda
+䍝	sida
+䍜	whvv
+䍜	sivv
+䍛	whgu
+䍛	sigu
+䍚	whll
+䍚	sill
+䍙	whmw
+䍙	simw
+䍘	whmi
+䍘	simi
+䍗	whxr
+䍗	sixr
+䍖	whbc
+䍖	sibc
+䍕	whdi
+䍕	sidi
+䍔	whhs
+䍔	whgs
+䍔	sihs
+䍔	sigs
+䍓	whya
+䍓	siya
+䍒	whmu
+䍒	simu
 䍑	whgj
+䍐	whgj
+䍐	sigj
 䍎	fzjm
 䍌	fzpz
 䍌	fzlikz
@@ -61093,6 +61394,8 @@ sort: original
 䈞	vuxl
 䈝	vuxu
 䈜	vuqb
+䈛	vubuceyz
+䈛	vuboceyz
 䈚	vudd
 䈙	vuvz
 䈘	vuzi
@@ -62972,7 +63275,10 @@ sort: original
 㫒	rigs
 㫑	rili
 㫐	ribi
+㫏	fhrfyc
 㫎	fhjy
+㫍	fhrfyz
+㫊	fhrfke
 㫅	yjqi
 㫄	erbcfh
 㫃	fhrf
@@ -64345,6 +64651,7 @@ sort: original
 㗼	kzye
 㗻	kzho
 㗻	kzgo
+㗷	kzbcjkhgbw
 㗶	kzfa
 㗶	kzbo
 㗵	kzix
@@ -64483,6 +64790,8 @@ sort: original
 㕤	kzjq
 㕣	bakz
 㕠	vyyz
+㕟	bucsyz
+㕟	bocsyz
 㕞	uiyz
 㕞	dnyz
 㕞	bwyz
@@ -64517,6 +64826,8 @@ sort: original
 㕃	ihkd
 㕂	ihjb
 㔾	vegz
+㔽	buhv
+㔽	bohv
 㔼	tvui
 㔻	buui
 㔺	uiuiui
@@ -64662,6 +64973,20 @@ sort: original
 㓂	bcyrnv
 㓁	miba
 㓁	bcba
+㒿	mierli
+㒿	miergu
+㒿	mierii
+㒿	bcerli
+㒿	bcergu
+㒿	bcerii
+㒾	mierui
+㒾	bcerui
+㒽	mierjr
+㒽	bcerjr
+㒻	mierxm
+㒻	mierjm
+㒻	bcerxm
+㒻	bcerjm
 㒹	vfvf
 㒸	baui
 㒵	bdba
@@ -64773,6 +65098,7 @@ sort: original
 㑉	rfsu
 㑈	rfds
 㑇	rfiu
+㑅	rfrfuh
 㑄	rfmu
 㑃	rfyz
 㑂	rfbk
@@ -64795,6 +65121,7 @@ sort: original
 㐰	rfkz
 㐯	yilvxl
 㐯	tzlvxl
+㐮	yibajkhg
 㐭	yihv
 㐭	tzhv
 㐬	tuir
