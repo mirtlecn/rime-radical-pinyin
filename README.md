@@ -21,19 +21,6 @@
 
 <!-- /TOC -->
 
->[!NOTE]
->2024.06.04 日后，主分支更新至 v2 版本。v2 版本：
->
->- 感谢 @gaboolic 搜寻和整理，引入 ids 数据，词典中包含 Unihan 全部 40,000 汉字，涵盖更多扩展区汉字。
->- v2 版本数据未经仔细的人工检查，可能有错误
->- 同时，按开源协议将本分支切换为 GPL 协议
->
->您仍可以切换到 [v1 分支](https://github.com/mirtlecn/rime-radical-pinyin/tree/v1)，使用旧数据，v1 版本：
->
->- 比对现汉规范和 essay 及 essay-simp 数据，涵盖 20,000+ 繁简汉字，满足日常使用；
->- 数据经过检查，错误更少
->- v1 仍将维护，仅限于拆字错误和注音错误纠正
-
 ## 简介
 
 用拼音输入一个汉字的每一个组成部分（偏旁、部首等部件），组合拼出字来，例如输入 `wu niao`（敄 鸟）或者 `mao wen niao`（矛 夂 鸟）得 `鹜`。
@@ -86,7 +73,8 @@ bash rime-install mirtlecn/rime-radical-pinyin@master
 #   - mspy（微软双拼）
 #   - sogou（搜狗双拼）
 #   - abc（智能 ABC 双拼）
-#   - ziguang（紫光双拼
+#   - ziguang（紫光双拼）
+#   - jiajia（家家双拼）
 
 bash rime-install mirtlecn/rime-radical-pinyin@master:config:schema=flypy
 ```
@@ -120,6 +108,7 @@ patch:
     # __include: radical_pinyin.schema.yaml:/algebra_abc
     # __include: radical_pinyin.schema.yaml:/algebra_ziguang
     # __include: radical_pinyin.schema.yaml:/algebra_sogou
+    # __include: radical_pinyin.schema.yaml:/algebra_jiajia
 ```
 
 ## 作为反查方案挂载

@@ -12,6 +12,7 @@ recipe:
       - sogou（搜狗双拼）
       - abc（智能 ABC 双拼）
       - ziguang（紫光双拼）
+      - jiajia（拼音加加）
 
 patch_files:
   radical_pinyin.custom.yaml:
