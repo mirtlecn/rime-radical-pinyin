@@ -123,6 +123,7 @@ sort: original
 # 龹
 # 𠟗	⻀ 冖 工 口刂
 # 𢼋	𪩲 夂
+𲎈	niao'meng
 𱍂	long'long
 𱌽	chi'yi
 𱌺	chi'zhen
@@ -139,8 +140,11 @@ sort: original
 𱌬	chi'zha
 𱌫	chi'zhi
 𱌘	qi'min
+𱊊	kong'niao
 𱊈	ni'niao
 𱊈	er'niao
+𱉻	tuo'niao
+𱉵	lai'niao
 𱉔	guai'niao
 𱈋	yu'gao
 𱈊	yu'liu
@@ -189,6 +193,8 @@ sort: original
 𱂱	xian'ye
 𱂯	zu'ye
 𱂨	an'ye
+𰾫	jin'jian
+𰽽	jin'yang
 𰻞	zhi'xue'yue'yao'zhang'yan'ma'yao'zhang'dao'xin
 𰻞	zhi'xue'yue'yao'zhang'yan'ma'yao'chang'dao'xin
 𰻞	zhi'xue'yue'yao'chang'yan'ma'yao'zhang'dao'xin
@@ -227,6 +233,7 @@ sort: original
 𰂏	ren'mai
 揤	shou'ji
 揤	cai'ji
+𮹝	long'long'long
 𮯙	chi'ke
 𮮦	zhu'wen
 𮮦	shi'dou'wen
@@ -327,11 +334,13 @@ sort: original
 𬹺	chi'ya
 𬸱	qu'niao
 𬸪	fan'niao
+𬸩	ao'niao
 𬸦	lv'niao
 𬸣	bao'jing'da'niao
 𬸚	yu'niao
 𬸘	kuang'ri'nv'niao
 𬸘	fang'ri'nv'niao
+𬸒	niao'qi
 𬸅	chu'niao
 𬷕	fu'niao
 𬶮	yu'xi
@@ -621,6 +630,7 @@ sort: original
 𫫦	kou'yan
 𫫇	kou'e
 𫪧	kou'xiao
+𫪘	kou'ou
 𫪈	kou'xi
 𫪃	kou'li
 𫪁	kou'lai
@@ -835,6 +845,7 @@ sort: original
 𫛶	shu'li'niao
 𫛶	chi'niao
 𫛳	fu'niao
+𫛰	qi'niao
 𫛭	kuang'niao
 𫛩	an'niao
 𫛣	niao'xue
@@ -842,6 +853,7 @@ sort: original
 𫛠	zha'niao
 𫛞	niao'guai
 𫛛	zhi'niao
+𫛚	kai'niao
 𫚸	niao'you
 𫚭	yu'lie
 𫚫	yu'zao
@@ -2502,6 +2514,7 @@ sort: original
 𪀒	niao'zhi
 𪀐	niao'fa
 𪀏	niao'ju
+𪀌	niao'jia
 𪀊	niao'ju
 𪀉	ke'niao
 𪀈	yuan'niao
@@ -21000,6 +21013,8 @@ sort: original
 﨩	er'dao
 﨤	zhi'ji
 鿽	kou'zhai
+鿶	yu'liang
+鿴	yu'dong
 鿭	jin'er
 鿬	shi'tian
 鿫	qi'ao
