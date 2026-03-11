@@ -1,10 +1,9 @@
-# [RIME](https://rime.im/) 部件拆字 | 拼音输入方案
+# [RIME](https://rime.im/) 部件拆字 | 拼音输入方案 & 辅码插件
 
-配方：℞ rime-radical-pinyin
+℞ `mirtlecn/rime-radical-pinyin`
 
 [![License: GPL 3.0](https://img.shields.io/badge/license-GPLv3-red)](https://www.gnu.org/licenses/gpl-3.0.txt)
 [![GitHub Release](https://img.shields.io/github/v/release/mirtlecn/rime-radical-pinyin)](https://github.com/mirtlecn/rime-radical-pinyin/releases/latest)
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/mirtlecn/rime-radical-pinyin/build.yml)](https://github.com/mirtlecn/rime-radical-pinyin/actions/workflows/build.yml)
 
 <!-- TOC -->
 
@@ -16,7 +15,8 @@
 - [作为辅助码（反查候选）挂载](#作为辅助码反查候选挂载)
 - [注音](#注音)
 - [反查带声调注音](#反查带声调注音)
-- [已知问题](#问题)
+- [已知问题](#已知问题)
+- [Build & Contribute](#contribute)
 - [Credit](#credit)
 
 <!-- /TOC -->
@@ -25,15 +25,15 @@
 
 用拼音输入一个汉字的每一个组成部分（偏旁、部首等部件），组合拼出字来，例如输入 `wu niao`（敄 鸟）或者 `mao wen niao`（矛 夂 鸟）得 `鹜`。
 
-适配双拼（例图为小鹤双拼）。
+适配各类双拼方案（例图为小鹤双拼）。
 
-不适于用作输入常用字的主要翻译器。
+不适于用作输入常用字，适于
 
-可以应用于反查，便于打出不清楚读音的生僻字，演示（`禺+页=颙`，`王+炎=琰`，`讠+益=谥`）：
+- 应用于反查，便于打出不清楚读音的生僻字，演示（`禺+页=颙`，`王+炎=琰`，`讠+益=谥`）：（[配置方法](#作为反查方案挂载) -> ）
 
 ![image](res/reverse.gif)
 
-可以用作辅助码，快速找到候选字词（`镓锗砷锡溴氪铷锶钇锆->钅钅石钅氵气钅钅钅钅`）（使用请参考 [search.lua](search.lua.md)）：
+- 用作辅助码，快速找到候选字词（`镓锗砷锡溴氪铷锶钇锆->钅钅石钅氵气钅钅钅钅`）（[配置方法](search.lua.md) -> ）：
 
 ![image](res/fuma.gif)
 
@@ -43,58 +43,50 @@
 
 <details>
 
-<summary>安装 /plum/ </summary>
+<summary>请先安装 /plum/</summary>
 
 ```bash
-# install git first
+# 请安装 git
 
 cd ~
 git clone https://github.com/rime/plum.git
-
-# use plum install stroke to default location
+# 使用 plum
 cd ~/plum
-bash rime-install stroke
-
-# or install to a sepcific folder
-cd ~/plum
-rime_dir='D:/RIME' bash rime-install stroke
+bash rime-install <recipe_name>
 ```
 
 </details>
+<br>
+全拼 / 双拼用户请以下命令按安装：
 
 ```bash
 # 安装词典文件
-bash rime-install mirtlecn/rime-radical-pinyin@master
+bash rime-install mirtlecn/rime-radical-pinyin
 
-# 双拼请额外执行
-# 请将命令末尾（schema=?）替换为你想要安装的双拼名称，支持
+# 若使用双拼，请额外执行
+# 将命令末尾（schema=?）替换为你想要安装的双拼名称，支持
 #   - flypy（小鹤双拼）
 #   - double_pinyin（自然码双拼）
 #   - mspy（微软双拼）
 #   - sogou（搜狗双拼）
 #   - abc（智能 ABC 双拼）
 #   - ziguang（紫光双拼）
-#   - jiajia（家家双拼）
+#   - jiajia（拼音加加）
 
-bash rime-install mirtlecn/rime-radical-pinyin@master:config:schema=flypy
+bash rime-install mirtlecn/rime-radical-pinyin:config:schema=flypy
 ```
 
-<details>
-
-<summary>只使用小鹤双拼 --></summary>
+如果只使用小鹤双拼，建议使用下面的命令：
 
 ```bash
-bash rime-install mirtlecn/rime-radical-pinyin@master:flypy
+bash rime-install mirtlecn/rime-radical-pinyin:flypy
 ```
-
-</details>
-
 
 ### 2. 手动安装
 
 前往本仓库的 Release 界面，下载 `radical_pinyin.zip`，解压后复制到 Rime 用户目录。
 
-双拼用户请直接或以打补丁的方式修改方案文件的 algebra 的 __include 部分
+双拼用户请直接修改，或以打补丁的方式修改方案文件的 algebra 的 __include 部分
 
 补丁示例：
 
@@ -192,7 +184,6 @@ recognizer:
 以上读音可以同时存在，因而一个部件可能有多种拼法。
 
 - 冂（本音 jiong、助记 tong）
-- 一（本音 yi、笔画 heng）
 
 词典文件的开头部分列出了一些注音可供参考。
 
@@ -203,14 +194,14 @@ recognizer:
 plum 安装:
 
 ```bash
-bash rime-install mirtlecn/rime-radical-pinyin@master:extra
+bash rime-install mirtlecn/rime-radical-pinyin:extra
 ```
 
 若要手动安装，请前往 Release 界面下载 extra.zip，解压后，在其中的 build 文件夹内有以下三个文件：
 
-- `zdict.reverse.bin`：汉典注音，无音者注 `n/a`（推荐）
 - `kMandarin.reverse.bin`: 单字注最常用的一到两个读音（推荐）
-- `pinyin.reverse.bin`: 单字注所有可能的读音（会包含异体字、通假字等音）
+- `zdict.reverse.bin`：注音更全，无音者注 `n/a`
+- `pinyin.reverse.bin`: 单字注所有可能的读音（会包含异体字、通假字等音，不推荐）
 
 下载复制进 build 目录后。更改提示码词典指向它们，如下图所示：
 
@@ -221,18 +212,24 @@ radical_reverse_lookup:
     # dictionary: pinyin
 ```
 
-## 问题
+## 已知问题
 
-开启用户词典后，双拼状态下，会产生未被算法转化的含引号全拼编码，出现一些意外候选。简单的解决办法是设定 enable_user_dict 为 false（已经在本方案设定，仍需在主方案中设定）。
+**问题：** 对于双拼用户，开启用户词典，会产生未被算法转化的含引号全拼编码，出现一些意外候选。（不影响全拼用户）
 
-也可以自行将词典直接转化为双拼编码，`build` 分支下有示例脚本，Release 界面有生成的词典。
+**解决方案 1：** 请务必设定 enable_user_dict 为 false（已经在本方案设定，仍需在主方案中设定）。
+
+**解决方案 2：** 将词典直接转化为双拼编码，`build` 分支下有示例脚本，Release 界面有生成的小鹤双拼词典。
+
+## Contribute
+
+添字、修正拆分等请修改 `src/dict/radical.yaml`。
+
+修改注音，请修改 `src/script/gen_dict.py`。
+
+[源文件和构建说明](./src/README.md)
 
 ## Credit
 
-词典数据：
+©2026 [Mirtle](https://github.com/mirtlecn)
 
-- 汉字拆字字典（@開放詞典 / henrysting / Mirtle CC BY-SA 4.0），转换而成
-- https://gitlab.chise.org/CHISE/ids （GPLv2 or later）
-- https://github.com/yi-bai/ids （MIT）
-
-除在文件内另行注明的，本仓库文件均发布在 GPLv3 许可协议下。
+GPLv3

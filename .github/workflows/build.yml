@@ -2,90 +2,72 @@ name: Build and Release
 
 on:
   push:
-    branches:
-      - master
     tags:
       - '[0-9]+.*'
+    branches:
+      - master
+    paths:
+      - 'src/**'
+      - 'radical.schema.yaml'
+      - 'radical_pinyin.schema.yaml'
+
+  # 3. 允许手动触发
   workflow_dispatch:
-  # repository_dispatch:
-  #   types: [chaizi_update]
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.TOKEN }}
-          fetch-depth: '0'
-          submodules: true
-
-      - name: Set up git
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      # - name: Update submodule
-      #   if: github.event_name == 'repository_dispatch'
-      #   run: |
-      #     cd dict
-      #     git checkout master
-      #     git pull
+        uses: actions/checkout@v6
 
       - name: Update tag
         if: startsWith(github.ref, 'refs/tags/')
         run: |
-          $Date = Get-Date -Format yyyy.MM.dd
-          Write-output "${{ github.ref_name }}"
-          "# v${{ github.ref_name }} -> $Date" >> 'info.yaml'
-          (gc radical.schema.yaml -Raw) -replace 'version: "\d\.\d\.\d"',"version: `"${{ github.ref_name }}`"" | Out-File radical.schema.yaml
-          (gc radical_pinyin.schema.yaml -Raw) -replace 'version: "\d\.\d\.\d"',"version: `"${{ github.ref_name }}`"" | Out-File radical_pinyin.schema.yaml
+          DATE=$(date +'%Y.%m.%d')
+          echo "${{ github.ref_name }}"
+          
+          # 将版本信息追加到 dict-head-note.yaml
+          echo "# v${{ github.ref_name }} -> $DATE" >> src/dict/dict-head-note.yaml
+          
+          # 更新 schema 文件中的版本信息
+          sed -i "s/version: \"[0-9]\.[0-9]\.[0-9]\"/version: \"${{ github.ref_name }}\"/g" radical.schema.yaml
+          sed -i "s/version: \"[0-9]\.[0-9]\.[0-9]\"/version: \"${{ github.ref_name }}\"/g" radical_pinyin.schema.yaml
 
-      # - name: Update build branch
-      #   run: |
-      #     $Status = git status --porcelain
-      #     if ( $Status ) {
-      #     "Update submodule"
-      #     $info = (irm https://whatthecommit.com/index.txt).trim()
-      #     git add --all
-      #     git commit -m "$info" && git push origin build
-      #     }
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+          cache: 'pip'
 
-      # - name: Set up Python
-      #   uses: actions/setup-python@v5
-      #   with:
-      #     python-version: '3.x'
-      #     cache: 'pip'
-
-      # - name: Build
-      #   run: |
-      #     make
-
-      - name: Update
+      - name: Build
+        working-directory: ./src
         run: |
-          $ErrorActionPreference = 'Break'
-          # $CommitInfo = Get-Date -UFormat %s
-          # $CommitInfo = (irm https://whatthecommit.com/index.txt).trim()
+          make lint
+          make
 
-          # git checkout master
-          # cp gen/radical_pinyin.dict.yaml , gen/radical_pinyin.schema.yaml
-          # cp gen/radical_flypy.dict.yaml, gen/radical.schema.yaml
-          # $Status = git status --porcelain
-          # if ( $Status ) {
-          # "Push to master branch"
-          # git add --all
-          # git commit -m "$CommitInfo" && git push origin master
-          # }
-          mkdir gen
-          Compress-Archive "radical_pinyin.schema.yaml","radical_pinyin.dict.yaml" "gen/radical_pinyin.zip"
-          Compress-Archive "radical_flypy.dict.yaml","radical.schema.yaml" "gen/radical_flypy.zip"
-          Compress-Archive "lua", "build" "gen/extra.zip"
+      - name: Push and pack
+        run: |
+          set -e
+          COMMIT_INFO=$(curl -s https://whatthecommit.com/index.txt)
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            echo "Push to changes"
+            git add --all
+            git commit -m "$COMMIT_INFO"
+            git push origin master
+          else
+            echo "No changes to commit"
+          fi
+          zip radical_pinyin.zip radical_pinyin.schema.yaml radical_pinyin.dict.yaml
+          zip radical_flypy.zip radical_flypy.dict.yaml radical.schema.yaml
+          zip -r extra.zip lua build
 
-      - name: Create Nightly release
+      - name: Create nightly release
         if: ${{ ! startsWith(github.ref, 'refs/tags/') }}
-        uses: 'softprops/action-gh-release@v2.0.4'
+        uses: softprops/action-gh-release@v2
         with:
           body: |
             ## 文件
@@ -99,11 +81,13 @@ jobs:
           generate_release_notes: true
           fail_on_unmatched_files: true
           files: |
-            gen/*.zip
+            radical_pinyin.zip
+            radical_flypy.zip
+            extra.zip
 
-      - name: Create Stable release
+      - name: Create stable release
         if: startsWith(github.ref, 'refs/tags/')
-        uses: 'softprops/action-gh-release@v2.0.4'
+        uses: softprops/action-gh-release@v2
         with:
           body: |
             ## 文件
@@ -111,13 +95,11 @@ jobs:
             - `radical_flypy.zip`：仅适用于小鹤双拼的方案和词库
             - `extra.zip`：辅码反查 lua 和带声调的 build 文件
           generate_release_notes: true
-          draft: true
+          draft: false
           prerelease: false
           make_latest: true
           fail_on_unmatched_files: true
           files: |
-            gen/*.zip
-
-      - name: Error Handling
-        if: ${{ failure() }}
-        run: exit 1
+            radical_pinyin.zip
+            radical_flypy.zip
+            extra.zip

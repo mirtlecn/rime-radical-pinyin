@@ -82,11 +82,12 @@
 # v1.1.0 -> 2024.04.14
 # v1.1.1 -> 2024.06.04
 # v2.0.0 -> 2024.06.04
+# v2.1.0 -> 2026.03.09
 
 
 ---
 name: radical_flypy
-version: "2026.03.09"
+version: "2026.03.11"
 
 sort: original
 
@@ -5879,6 +5880,8 @@ sort: original
 𨡡	qqsiji
 𨡞	yzmm
 𨡗	yzqs
+𨡓	pmxinayz
+𨡓	pmxidmyz
 𨡑	yzvz
 𨡐	viyz
 𨡏	yzdm
@@ -9309,6 +9312,8 @@ sort: original
 𦳁	ccmc
 𦳁	cchc
 𦲷	ccqi
+𦲱	ccnsfu
+𦲱	ccgsfu
 𦲯	ccmm
 𦲯	ccmj
 𦲫	ccfu
@@ -9317,6 +9322,8 @@ sort: original
 𦱵	cckzui
 𦱵	ccgoui
 𦱲	ccuirj
+𦱱	ccnsyi
+𦱱	ccgsyi
 𦱰	ccsidc
 𦱣	mhmb
 𦱠	mujq
@@ -9358,6 +9365,8 @@ sort: original
 𦰥	ccuzer
 𦰡	ccna
 𦰛	ccff
+𦰙	ccnsbi
+𦰙	ccgsbi
 𦰘	ccvi
 𦰘	ccdi
 𦰖	ccpc
@@ -9370,6 +9379,10 @@ sort: original
 𦯪	ccbn
 𦯣	cczu
 𦯣	ccqu
+𦯛	ccnstsrf
+𦯛	ccnsjsrf
+𦯛	ccgstsrf
+𦯛	ccgsjsrf
 𦯖	ccnp
 𦯕	ccss
 𦯒	ccyh
@@ -9397,6 +9410,8 @@ sort: original
 𦮑	ccujkz
 𦮐	ccycda
 𦮃	gkbw
+𦮁	ccnsgzgz
+𦮁	ccgsgzgz
 𦭼	ccbn
 𦭻	ccjq
 𦭺	ccjqjqjq
@@ -13194,6 +13209,8 @@ sort: original
 𤬛	lugx
 𤬛	lwgx
 𤬘	xigx
+𤬖	xinaxigx
+𤬖	xidmxigx
 𤬕	gxuikzir
 𤬔	gxyz
 𤬓	jmgx
@@ -13493,6 +13510,8 @@ sort: original
 𤟑	qrli
 𤟎	qrqu
 𤟍	qryi
+𤟌	pmxinaqr
+𤟌	pmxidmqr
 𤟉	qran
 𤟇	qryj
 𤟆	qrua
@@ -13797,6 +13816,8 @@ sort: original
 𤖇	pmgo
 𤖆	pmjm
 𤖆	pmcj
+𤖅	pmxinauv
+𤖅	pmxidmuv
 𤖀	pmph
 𤖀	pmfg
 𤕾	pmqq
@@ -17126,6 +17147,10 @@ sort: original
 𢍰	dugs
 𢍭	aobmbm
 𢍫	hjkd
+𢍪	xinadzns
+𢍪	xinadzgs
+𢍪	xidmdzns
+𢍪	xidmdzgs
 𢍩	cswwcsns
 𢍩	cswwcsgs
 𢍩	cskzcsns
@@ -17167,6 +17192,10 @@ sort: original
 𢌹	lbgs
 𢌷	nwns
 𢌷	nwgs
+𢌳	xinans
+𢌳	xinags
+𢌳	xidmns
+𢌳	xidmgs
 𢌲	ujns
 𢌲	ujgs
 𢌨	ybvimu
@@ -61207,6 +61236,8 @@ sort: original
 䏔	ytiz
 䏓	ytyr
 䏒	ytpm
+䏑	xinarz
+䏑	xidmrz
 䏐	ytgk
 䏏	ytyu
 䏎	ytfj
