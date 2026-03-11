@@ -51,13 +51,14 @@ jobs:
         run: |
           set -e
           COMMIT_INFO=$(curl -s https://whatthecommit.com/index.txt)
+          echo "$(git status --porcelain)"
           if [ -n "$(git status --porcelain)" ]; then
             git config --global user.name "github-actions[bot]"
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
             echo "Push to changes"
             git add --all
             git commit -m "$COMMIT_INFO"
-            git push origin master
+            git push origin HEAD:master
           else
             echo "No changes to commit"
           fi
