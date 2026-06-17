@@ -19,6 +19,7 @@
 # 龷
 # 龹
 # 𠟗	⻀ 冖 工 口刂
+# 𠟗	艹 冖 工 口刂
 # 𢼋	𪩲 夂
 的	bai'shao	40529
 一	heng	18584
@@ -682,6 +683,8 @@
 服	yue'fu	532
 服	yue'er'you	532
 双	you'you	532
+击	er'shu'xiong	532
+击	er'shu'kan	532
 击	er'shan	532
 武	heng'yi'zhi	528
 哪	kou'na	526
@@ -1474,6 +1477,7 @@
 助	qie'li	211
 银	jin'gen	210
 贵	zhong'heng'bei	210
+贵	chong'bei	210
 质	yi'shi'bei	210
 质	chang'shi'bei	210
 永	na'heng'shui	210
@@ -2888,6 +2892,7 @@
 岳	qiu'shan	69
 奉	shou'na'heng'shi	69
 奉	chun'heng'shi	69
+奉	chun'er'shu	69
 喃	kou'nan	69
 减	bing'xian	69
 乘	he'qiang'bi	69
@@ -7648,6 +7653,8 @@
 𳑎	hei'yuan	1
 𳑍	hei'shi	1
 𳑌	hei'bai	1
+𳑋	xiao'mi'hei	1
+𳑋	xiao'bao'hei	1
 𳑊	shu'yu	1
 𳑉	shu'lian	1
 𳑈	shu'dao'dao	1
@@ -7687,6 +7694,7 @@
 𳐧	lu'you	1
 𳐦	lu'chen	1
 𳐥	lu'kuang	1
+𳐤	lu'gong'you	1
 𳐣	lu'ling	1
 𳐢	lu'fu	1
 𳐡	lu'yin	1
@@ -7951,6 +7959,8 @@
 𳌴	guai'gui	1
 𳌳	gui'hua	1
 𳌲	gui'pu	1
+𳌱	fu'er'tong'you	1
+𳌱	fu'er'jiong'you	1
 𳌰	gui'yuan	1
 𳌯	gui'tian	1
 𳌮	pou'mi'fou'chang	1
@@ -9359,6 +9369,7 @@
 𲹆	yang'xiao	1
 𲹅	xing'yang	1
 𲹅	jing'yang	1
+𲹄	yang'kou'chuan	1
 𲹃	wang'zhui	1
 𲹃	si'zhui	1
 𲹂	wang'xiao'guang	1
@@ -10110,6 +10121,7 @@
 𲯥	wang'e	1
 𲯤	yu'geng	1
 𲯤	wang'geng	1
+𲯣	hu'wen'yu	1
 𲯢	yu'yao	1
 𲯢	wang'yao	1
 𲯡	yu'shang	1
@@ -10983,7 +10995,9 @@
 𲢭	shou'wei	1
 𲢫	shou'mi	1
 𲢪	shou'tong'yi'zhi	1
+𲢪	shou'tong'ren'zhi	1
 𲢪	shou'jiong'yi'zhi	1
+𲢪	shou'jiong'ren'zhi	1
 𲢩	shou'meng	1
 𲢨	zhi'zhe	1
 𲢧	shou'pa	1
@@ -11145,6 +11159,7 @@
 𲠍	nai'xin	1
 𲠌	you'xin	1
 𲠋	bao'chan	1
+𲠊	hu'wen'xin	1
 𲠉	xin'yue	1
 𲠈	xin'bo	1
 𲠇	peng'xin	1
@@ -11214,6 +11229,10 @@
 𲟟	yan'san	1
 𲟞	bei'shan	1
 𲟞	bei'san	1
+𲟝	pie'tong'shan	1
+𲟝	pie'tong'san	1
+𲟝	pie'jiong'shan	1
+𲟝	pie'jiong'san	1
 𲟜	ling'jing	1
 𲟛	xun'wei	1
 𲟚	gen'qiang	1
@@ -11656,6 +11675,8 @@
 𲙋	tu'kuai	1
 𲙊	tu'yuan	1
 𲙉	tu'chen	1
+𲙈	tu'dao'mi'jin	1
+𲙈	tu'dao'bao'jin	1
 𲙇	bu'di	1
 𲙆	tu'chan	1
 𲙅	tu'she	1
@@ -12381,6 +12402,7 @@
 𲎒	mai'ye	1
 𲎑	mai'lian	1
 𲎐	mai'mai	1
+𲎏	zhi'ren'ren'ren'ren	1
 𲎏	zhi'cong'cong	1
 𲎎	lu'ji	1
 𲎍	lu'yu	1
@@ -12829,7 +12851,9 @@
 𲇜	jin'hai	1
 𲇛	jin'yang	1
 𲇚	jin'dao'tong'yi'bi	1
+𲇚	jin'dao'tong'ren'bi	1
 𲇚	jin'dao'jiong'yi'bi	1
+𲇚	jin'dao'jiong'ren'bi	1
 𲇙	jin'chou	1
 𲇗	jin'mang	1
 𲇖	ju'jin	1
@@ -13132,6 +13156,7 @@
 𲃏	zou'ze	1
 𲃎	zou'li	1
 𲃍	zou'tuo	1
+𲃌	zou'kou'chuan	1
 𲃋	zou'ni	1
 𲃊	zou'zhao	1
 𲃉	zou'ma	1
@@ -13331,6 +13356,9 @@
 𲀒	chong'san'shu'min	1
 𲀒	chong'san'shu'mian	1
 𲀒	chong'san'shu'meng	1
+𲀒	chong'feng'min	1
+𲀒	chong'feng'mian	1
+𲀒	chong'feng'meng	1
 𲀐	chong'yi'di	1
 𲀏	dan'zhui	1
 𲀎	meng'chong	1
@@ -13416,6 +13444,7 @@
 𱾾	cao'pu	1
 𱾽	cao'qian	1
 𱾽	cao'jian	1
+𱾼	cao'ji'dao'jin'ji'dao'jin	1
 𱾻	cao'chou	1
 𱾸	cao'chi	1
 𱾷	man'ya	1
@@ -13648,7 +13677,9 @@
 𱻅	wang'yi	1
 𱻅	si'yi	1
 𱻄	tong'yi'juan	1
+𱻄	tong'ren'juan	1
 𱻄	jiong'yi'juan	1
+𱻄	jiong'ren'juan	1
 𱻃	wang'wang	1
 𱻃	si'wang	1
 𱻂	wang'er'quan	1
@@ -13926,13 +13957,21 @@
 𱷡	xue'li	1
 𱷠	xue'li	1
 𱷟	xue'lei'bu'tong'yi'jiong	1
+𱷟	xue'lei'bu'tong'ren'jiong	1
 𱷟	xue'lei'bu'jiong'yi'jiong	1
+𱷟	xue'lei'bu'jiong'ren'jiong	1
 𱷟	xue'lei'bo'tong'yi'jiong	1
+𱷟	xue'lei'bo'tong'ren'jiong	1
 𱷟	xue'lei'bo'jiong'yi'jiong	1
+𱷟	xue'lei'bo'jiong'ren'jiong	1
 𱷞	xue'mi'bu'tong'yi'rou	1
+𱷞	xue'mi'bu'tong'ren'rou	1
 𱷞	xue'mi'bu'jiong'yi'rou	1
+𱷞	xue'mi'bu'jiong'ren'rou	1
 𱷞	xue'mi'bo'tong'yi'rou	1
+𱷞	xue'mi'bo'tong'ren'rou	1
 𱷞	xue'mi'bo'jiong'yi'rou	1
+𱷞	xue'mi'bo'jiong'ren'rou	1
 𱷝	xue'mi'bu'yu	1
 𱷝	xue'mi'bo'yu	1
 𱷜	xue'xuan	1
@@ -14029,6 +14068,7 @@
 𱵿	he'you	1
 𱵾	he'hu	1
 𱵼	he'jiu	1
+𱵻	ren'ren'ren'ren'wan	1
 𱵻	cong'cong'wan	1
 𱵹	ling'tong'si	1
 𱵹	ling'jiong'si	1
@@ -14101,6 +14141,7 @@
 𱴭	shi'yu	1
 𱴬	shi'ni	1
 𱴬	shi'jin	1
+𱴫	dan'kou'you'shi	1
 𱴪	shi'yan	1
 𱴩	shi'ba	1
 𱴨	shi'en	1
@@ -14120,6 +14161,7 @@
 𱴙	shi'dai	1
 𱴘	shi'xiang	1
 𱴗	shi'dian	1
+𱴖	shi'xuan'chuan	1
 𱴔	shi'fa	1
 𱴒	shi'tu	1
 𱴑	shi'shen	1
@@ -14249,6 +14291,8 @@
 𱲙	ye'wen	1
 𱲘	su'min	1
 𱲗	ye'pen	1
+𱲖	dao'huo'yi'wen	1
+𱲕	dao'huo'yi'pen	1
 𱲔	li'you'min	1
 𱲓	she'min	1
 𱲒	tang'min	1
@@ -14308,6 +14352,7 @@
 𱱛	ne'huan	1
 𱱚	ne'hu'ye	1
 𱱙	ne'san'shu'gua	1
+𱱙	ne'feng'gua	1
 𱱘	ne'nai	1
 𱱗	ne'zheng	1
 𱱖	ne'he	1
@@ -14338,6 +14383,8 @@
 𱰶	tian'heng'xing	1
 𱰵	jin'dao'tian	1
 𱰳	shan'fen	1
+𱰲	xiao'mi'heng'tian	1
+𱰲	xiao'bao'heng'tian	1
 𱰱	jia'jia	1
 𱰰	jia'heng'cong	1
 𱰮	tian'ling	1
@@ -14722,6 +14769,7 @@
 𱪹	huo'yun	1
 𱪸	bao'che'huo	1
 𱪸	bao'cao'huo	1
+𱪶	dao'huo'zou	1
 𱪵	huo'lu	1
 𱪴	huo'mu	1
 𱪳	huo'you	1
@@ -14819,6 +14867,7 @@
 𱩢	shui'bi'heng'fu'zu	1
 𱩡	shui'shi'zao'kua	1
 𱩡	shui'shi'ri'shi'kua	1
+𱩠	shui'qu'yue'kou'you	1
 𱩟	shui'shan'jia	1
 𱩛	shui'ban'dao'si	1
 𱩛	shui'ban'dao'mi	1
@@ -14836,6 +14885,8 @@
 𱩉	shui'wu	1
 𱩈	shui'san'shu'wan'si	1
 𱩈	shui'san'shu'wan'mi	1
+𱩈	shui'feng'wan'si	1
+𱩈	shui'feng'wan'mi	1
 𱩇	su'ren	1
 𱩅	shui'shi'ke'heng'ying	1
 𱩅	shui'shi'ke'heng'dou	1
@@ -14904,6 +14955,7 @@
 𱧻	shui'kuang'hua	1
 𱧻	shui'guan'hua	1
 𱧺	shui'ye'ba'si	1
+𱧹	shui'chong'tian	1
 𱧸	shui'shao'xiao'cun	1
 𱧷	shui'cao'se	1
 𱧶	shui'jun	1
@@ -14936,6 +14988,8 @@
 𱧔	shui'ling	1
 𱧓	shui'wang'feng	1
 𱧓	shui'si'feng	1
+𱧒	shui'cao'tong'er'shu	1
+𱧒	shui'cao'jiong'er'shu	1
 𱧑	shui'wang'mie	1
 𱧐	shui'wang'wei	1
 𱧍	shui'qie	1
@@ -14972,6 +15026,7 @@
 𱦩	shui'guang'yi	1
 𱦨	shui'jiao	1
 𱦧	shui'bi	1
+𱦦	shui'dao'tian	1
 𱦥	shui'yi'shui'zhe	1
 𱦥	shui'yi'shui'gou	1
 𱦢	shui'qian'nv	1
@@ -16406,6 +16461,8 @@
 𱒂	kou'yang	1
 𱒀	kou'wan	1
 𱑿	kou'mie	1
+𱑾	xiao'mi'shui'gui'you	1
+𱑾	xiao'bao'shui'gui'you	1
 𱑽	zi'wang'you	1
 𱑽	zi'si'you	1
 𱑻	fan'lv	1
@@ -17967,7 +18024,9 @@
 𰺬	mi'xin	1
 𰺬	er'xin	1
 𰺪	bian'tong'yi	1
+𰺪	bian'tong'ren	1
 𰺪	bian'jiong'yi	1
+𰺪	bian'jiong'ren	1
 𰺩	xin'xian	1
 𰺨	xin'hua	1
 𰺧	xian'xin	1
@@ -18062,6 +18121,8 @@
 𰹡	che'bo	1
 𰹠	ju'juan	1
 𰹠	che'juan	1
+𰹟	ju'chong'tian	1
+𰹟	che'chong'tian	1
 𰹞	lei'da'ju	1
 𰹞	lei'da'che	1
 𰹝	ju'qi	1
@@ -18092,9 +18153,13 @@
 𰹏	che'wan	1
 𰹏	che'mao	1
 𰹎	ju'pie'tong'yi	1
+𰹎	ju'pie'tong'ren	1
 𰹎	ju'pie'jiong'yi	1
+𰹎	ju'pie'jiong'ren	1
 𰹎	che'pie'tong'yi	1
+𰹎	che'pie'tong'ren	1
 𰹎	che'pie'jiong'yi	1
+𰹎	che'pie'jiong'ren	1
 𰹍	ju'ben	1
 𰹍	che'ben	1
 𰹌	liu'ju	1
@@ -18657,10 +18722,12 @@
 𰰰	cao'fan	1
 𰰯	reng'zhe	1
 𰰮	cao'gui	1
+𰰭	cao'kou'you	1
 𰰬	cao'mie	1
 𰰪	cao'chou	1
 𰰩	cao'dou	1
 𰰨	cao'lun	1
+𰰧	cao'yi	1
 𰰦	cao'shao	1
 𰰥	gong'cao	1
 𰰤	cao'qu	1
@@ -18719,9 +18786,14 @@
 𰯵	zi'fu	1
 𰯴	zi'jin	1
 𰯳	chen'zhou	1
+𰯲	chen'ren'na'wang	1
+𰯲	chen'ren'na'si	1
+𰯲	chen'ren'dian'wang	1
+𰯲	chen'ren'dian'si	1
 𰯱	xian'jin	1
 𰯱	qin'jin	1
 𰯱	qian'jin	1
+𰯰	chen'kou'you	1
 𰯯	chen'shu	1
 𰯮	wo'zhe	1
 𰯭	fu'yue	1
@@ -18863,8 +18935,12 @@
 𰭖	wang'luan	1
 𰭕	tong'yi'zu	1
 𰭕	tong'yi'qu	1
+𰭕	tong'ren'zu	1
+𰭕	tong'ren'qu	1
 𰭕	jiong'yi'zu	1
 𰭕	jiong'yi'qu	1
+𰭕	jiong'ren'zu	1
+𰭕	jiong'ren'qu	1
 𰭔	wang'juan	1
 𰭔	si'juan	1
 𰭓	gang'zhi	1
@@ -18872,15 +18948,21 @@
 𰭑	wang'fa	1
 𰭑	si'fa	1
 𰭏	tong'yi'huo	1
+𰭏	tong'ren'huo	1
 𰭏	jiong'yi'huo	1
+𰭏	jiong'ren'huo	1
 𰭎	wang'xin	1
 𰭎	si'xin	1
 𰭍	tong'yi'mian	1
+𰭍	tong'ren'mian	1
 𰭍	jiong'yi'mian	1
+𰭍	jiong'ren'mian	1
 𰭌	wang'yang	1
 𰭌	si'yang	1
 𰭊	tong'yi'yong	1
+𰭊	tong'ren'yong	1
 𰭊	jiong'yi'yong	1
+𰭊	jiong'ren'yong	1
 𰭉	mi'dui	1
 𰭉	bao'dui	1
 𰭈	wang'pu	1
@@ -19564,6 +19646,8 @@
 𰣌	nan'guan	1
 𰣊	nan'you	1
 𰣉	nan'wang	1
+𰣈	xiao'mi'fu	1
+𰣈	xiao'bao'fu	1
 𰣇	fan'zai	1
 𰣆	jia'ge	1
 𰣅	mu'tian	1
@@ -20570,6 +20654,7 @@
 𰔫	shou'du	1
 𰔪	shou'chu	1
 𰔩	shou'guang'san'shu'min	1
+𰔩	shou'guang'feng'min	1
 𰔨	shou'qiu	1
 𰔧	shou'zhu	1
 𰔦	shou'shun	1
@@ -20601,6 +20686,7 @@
 𰔋	shou'gui	1
 𰔊	shou'ye	1
 𰔉	shou'san'shu'min	1
+𰔉	shou'feng'min	1
 𰔈	shou'zai	1
 𰔇	shou'dai	1
 𰔆	shou'mian	1
@@ -21574,6 +21660,22 @@
 𰆊	gou'shu	1
 𰆉	bu'cong'you'er	1
 𰆉	bo'cong'you'er	1
+𰆇	bu'tong'you'bu'tong'you	1
+𰆇	bu'tong'you'bu'jiong'you	1
+𰆇	bu'tong'you'bo'tong'you	1
+𰆇	bu'tong'you'bo'jiong'you	1
+𰆇	bu'jiong'you'bu'tong'you	1
+𰆇	bu'jiong'you'bu'jiong'you	1
+𰆇	bu'jiong'you'bo'tong'you	1
+𰆇	bu'jiong'you'bo'jiong'you	1
+𰆇	bo'tong'you'bu'tong'you	1
+𰆇	bo'tong'you'bu'jiong'you	1
+𰆇	bo'tong'you'bo'tong'you	1
+𰆇	bo'tong'you'bo'jiong'you	1
+𰆇	bo'jiong'you'bu'tong'you	1
+𰆇	bo'jiong'you'bu'jiong'you	1
+𰆇	bo'jiong'you'bo'tong'you	1
+𰆇	bo'jiong'you'bo'jiong'you	1
 𰆅	zhan'heng'kou	1
 𰆄	bu'ri'shu'chang	1
 𰆄	bo'ri'shu'chang	1
@@ -21896,6 +21998,8 @@
 𰁨	ren'pian	1
 𰁧	ren'cong	1
 𰁦	ren'wen	1
+𰁥	ren'tong'you	1
+𰁥	ren'jiong'you	1
 𰁤	yuan'ren	1
 𰁣	ren'gong	1
 𰁢	ren'shi	1
@@ -21939,6 +22043,8 @@
 𰀹	he'yi	1
 𰀸	ye'ye	1
 𰀷	shan'ji'gou	1
+𰀶	xiao'mi'yi	1
+𰀶	xiao'bao'yi	1
 𰀵	zhe'wa	1
 𰀴	mao'yi	1
 𰀳	yi'you	1
@@ -21983,6 +22089,7 @@
 𰀌	heng'diao	1
 𰀋	qi'chuan'shu	1
 𰀉	heng'zhong	1
+𰀈	er'shu'si	1
 𰀇	yu'yu	1
 𰀇	yu'qiao	1
 𰀇	yu'kao	1
@@ -22234,6 +22341,7 @@
 𮵻	mi'bing	1
 𮵻	mi'bang	1
 𮵻	mi'ban	1
+𮵺	hu'wen'mi	1
 𮵪	li'xi	1
 𮵩	li'shuang	1
 𮵨	li'wu	1
@@ -22711,6 +22819,7 @@
 𮯀	chi'qian	1
 𮮿	chi'cun	1
 𮮾	chi'bi	1
+𮮽	zhi'zhe'ren'ren'ren'ren	1
 𮮽	zhi'zhe'cong'cong	1
 𮮳	bai'jia'heng	1
 𮮲	zi'tian'shi	1
@@ -22941,6 +23050,12 @@
 𮫐	shan'xian	1
 𮫐	piao'xian	1
 𮫐	biao'xian	1
+𮫏	shan'wang'heng'yi	1
+𮫏	shan'si'heng'yi	1
+𮫏	piao'wang'heng'yi	1
+𮫏	piao'si'heng'yi	1
+𮫏	biao'wang'heng'yi	1
+𮫏	biao'si'heng'yi	1
 𮫎	shan'yuan'ba	1
 𮫎	piao'yuan'ba	1
 𮫎	biao'yuan'ba	1
@@ -22956,6 +23071,12 @@
 𮫊	shan'fei	1
 𮫊	piao'fei	1
 𮫊	biao'fei	1
+𮫉	shan'wang'wan	1
+𮫉	shan'si'wan	1
+𮫉	piao'wang'wan	1
+𮫉	piao'si'wan	1
+𮫉	biao'wang'wan	1
+𮫉	biao'si'wan	1
 𮫇	shan'wan	1
 𮫇	piao'wan	1
 𮫇	biao'wan	1
@@ -23022,6 +23143,8 @@
 𮪞	ma'you'mi'zhe	1
 𮪞	ma'you'bao'zhe	1
 𮪜	ma'li	1
+𮪛	ma'wang'wang'ji	1
+𮪛	ma'wang'si'ji	1
 𮪚	ma'zao	1
 𮪚	ma'qiao	1
 𮪙	ma'lu	1
@@ -23157,6 +23280,7 @@
 𮨉	wang'tu'ye	1
 𮨆	qiu'ye	1
 𮨅	ji'xi'ye	1
+𮨄	kou'you'ye	1
 𮨃	qiu'ye	1
 𮨂	wen'ye	1
 𮨁	shang'zhe'ye	1
@@ -23198,6 +23322,8 @@
 𮧞	ge'qing	1
 𮧝	ge'xin	1
 𮧜	ge'qi	1
+𮧚	ge'wang'li	1
+𮧚	ge'si'li	1
 𮧙	ge'hai	1
 𮧖	ge'fu	1
 𮧕	ge'shi	1
@@ -23268,6 +23394,7 @@
 𮦉	yu'huo	1
 𮦈	yu'nei	1
 𮦇	tian'yu	1
+𮦆	za'ren'ren'ren'ren	1
 𮦆	za'cong'cong	1
 𮦅	yu'men	1
 𮦄	za'ba	1
@@ -23408,6 +23535,8 @@
 𮣮	jin'li	1
 𮣮	jin'gu	1
 𮣮	jin'chi	1
+𮣭	jin'wang'wang'du'nv	1
+𮣭	jin'wang'si'du'nv	1
 𮣬	jin'si	1
 𮣬	jin'shai	1
 𮣫	jin'jian	1
@@ -23428,6 +23557,8 @@
 𮣗	jin'jiang	1
 𮣖	jin'teng	1
 𮣔	mo'dao	1
+𮣓	jin'wang'zheng'cun	1
+𮣓	jin'si'zheng'cun	1
 𮣐	jin'xiang	1
 𮣏	jin'le	1
 𮣍	jin'shun'ye	1
@@ -23821,6 +23952,8 @@
 𮝘	shi'bao'chuan'che	1
 𮝖	ju'xi	1
 𮝖	che'xi	1
+𮝕	hu'wen'ju	1
+𮝕	hu'wen'che	1
 𮝔	ju'ben	1
 𮝔	che'ben	1
 𮝓	ju'geng	1
@@ -23845,6 +23978,8 @@
 𮝉	mao'che	1
 𮝈	yang'ju	1
 𮝈	yang'che	1
+𮝇	ju'kou'you	1
+𮝇	che'kou'you	1
 𮝆	ju'zheng	1
 𮝆	che'zheng	1
 𮝅	ju'yin	1
@@ -23912,6 +24047,8 @@
 𮜐	zu'li	1
 𮜏	zu'li	1
 𮜎	zu'cai	1
+𮜍	zu'wang'yu	1
+𮜍	zu'si'yu	1
 𮜌	zu'tu	1
 𮜋	shu'zu	1
 𮜊	zu'da'tian'cun	1
@@ -24018,6 +24155,8 @@
 𮚮	ying'bao'huo	1
 𮚪	bei'bin	1
 𮚩	bei'meng	1
+𮚨	wang'wang'yue'gou'bei	1
+𮚨	wang'si'yue'gou'bei	1
 𮚧	mao'mai	1
 𮚦	jiu'bei	1
 𮚥	guang'gui	1
@@ -24138,7 +24277,9 @@
 𮘱	tui'yan	1
 𮘰	yan'zhi	1
 𮘯	yan'yi'cong'san'shu	1
+𮘯	yan'yi'cong'feng	1
 𮘯	yan'tou'cong'san'shu	1
+𮘯	yan'tou'cong'feng	1
 𮘮	yan'bai'qu	1
 𮘭	yan'qian	1
 𮘫	yan'gong	1
@@ -24175,6 +24316,7 @@
 𮘆	hong'yan	1
 𮘄	yan'yong	1
 𮘃	mao'yan	1
+𮘂	yan'kou'you	1
 𮘁	yan'dian	1
 𮘀	yan'mo	1
 𮗾	yan'bian	1
@@ -24456,6 +24598,9 @@
 𮓵	ren'chong	1
 𮓴	chong'shi	1
 𮓳	chong'men	1
+𮓱	pie'chong	1
+𮓰	chong'na	1
+𮓰	chong'dian	1
 𮓯	hu'lin	1
 𮓬	xi'xi	1
 𮓫	shi'zao'hu	1
@@ -24475,6 +24620,10 @@
 𮓓	cao'mi'pie'ba	1
 𮓓	cao'er'pie'ba	1
 𮓐	cao'hei'gao	1
+𮓏	cao'wang'mi'xing	1
+𮓏	cao'wang'bao'xing	1
+𮓏	cao'si'mi'xing	1
+𮓏	cao'si'bao'xing	1
 𮓎	ye'shu	1
 𮓎	she'shu	1
 𮓍	cao'shi'lv	1
@@ -24494,6 +24643,10 @@
 𮓁	cao'juan	1
 𮓀	cao'tu'gui	1
 𮒾	cao'ju	1
+𮒽	cao'wang'mi'wu	1
+𮒽	cao'wang'bao'wu	1
+𮒽	cao'si'mi'wu	1
+𮒽	cao'si'bao'wu	1
 𮒻	cao'mai'zhi	1
 𮒸	zi'yi	1
 𮒸	ju'yi	1
@@ -24523,6 +24676,7 @@
 𮒝	cao'fu	1
 𮒜	cao'lun	1
 𮒚	cao'fu'cong'xi	1
+𮒘	cao'hu'wen'yan	1
 𮒗	cao'he'zhi	1
 𮒗	cao'he'huo	1
 𮒖	cao'zuo	1
@@ -24679,6 +24833,7 @@
 𮏡	bi'ye	1
 𮏠	cao'shui'dai	1
 𮏟	cao'shui'ba	1
+𮏞	cao'wang'wu'chuan	1
 𮏝	cao'zhan	1
 𮏜	cao'pao	1
 𮏛	cao'gou	1
@@ -24698,6 +24853,7 @@
 𮏊	cao'bing	1
 𮏉	cao'gong'wen	1
 𮏈	cao'dan	1
+𮏇	cao'xiong'chuan	1
 𮏅	cao'jiu	1
 𮏄	cao'kun	1
 𮏃	gong'gen	1
@@ -24706,6 +24862,7 @@
 𮎽	cao'zhe'chen	1
 𮎼	cao'kuang'chen	1
 𮎼	cao'fang'chen	1
+𮎻	cao'qu'chuan	1
 𮎹	gong'kou'tu	1
 𮎸	cao'bao'qian	1
 𮎶	cao'guang'qian	1
@@ -24746,6 +24903,7 @@
 𮎉	zhou'shi	1
 𮎈	zhou'qiu	1
 𮎇	zhou'hu	1
+𮎆	zhou'kou'you	1
 𮎄	zhou'liu	1
 𮎃	zhou'rong	1
 𮎂	luan'chuan	1
@@ -24924,6 +25082,8 @@
 𮋑	you'pi'yu	1
 𮋐	xia'yu	1
 𮋐	sai'yu	1
+𮋏	wang'liu'yu	1
+𮋏	si'liu'yu	1
 𮋎	yu'ge	1
 𮋍	hui'yu	1
 𮋌	yu'xuan	1
@@ -24952,6 +25112,8 @@
 𮊹	zhong'yu	1
 𮊸	yu'ri	1
 𮊶	ge'yang	1
+𮊵	wang'wang'yue'fan'yang	1
+𮊵	wang'si'yue'fan'yang	1
 𮊴	yang'zhan	1
 𮊳	yang'gao	1
 𮊲	gao'yang	1
@@ -24969,35 +25131,89 @@
 𮊤	wang'yang	1
 𮊣	yang'jiu	1
 𮊢	ren'wen	1
+𮊡	wang'e	1
+𮊡	si'e	1
+𮊠	wang'qi	1
+𮊠	wang'ji	1
+𮊠	si'qi	1
+𮊠	si'ji	1
+𮊟	wang'yun	1
+𮊟	si'yun	1
 𮊞	tong'yi'zi	1
 𮊞	tong'yi'zhai	1
 𮊞	tong'yi'qi	1
 𮊞	tong'yi'jian	1
 𮊞	tong'yi'ji	1
+𮊞	tong'ren'zi	1
+𮊞	tong'ren'zhai	1
+𮊞	tong'ren'qi	1
+𮊞	tong'ren'jian	1
+𮊞	tong'ren'ji	1
 𮊞	jiong'yi'zi	1
 𮊞	jiong'yi'zhai	1
 𮊞	jiong'yi'qi	1
 𮊞	jiong'yi'jian	1
 𮊞	jiong'yi'ji	1
+𮊞	jiong'ren'zi	1
+𮊞	jiong'ren'zhai	1
+𮊞	jiong'ren'qi	1
+𮊞	jiong'ren'jian	1
+𮊞	jiong'ren'ji	1
+𮊝	wang'chang'tan	1
+𮊝	si'chang'tan	1
 𮊜	gang'mi'zhen'li	1
 𮊜	gang'bao'zhen'li	1
+𮊛	wang'tan	1
+𮊛	si'tan	1
+𮊚	wang'liu	1
+𮊚	si'liu	1
+𮊙	wang'xi	1
+𮊙	si'xi	1
 𮊘	wang'wei	1
 𮊔	gang'wei	1
 𮊓	gang'neng	1
+𮊒	wang'yuan'si'pie'pie	1
+𮊒	si'yuan'si'pie'pie	1
+𮊐	wang'yang'mao	1
+𮊐	si'yang'mao	1
+𮊍	wang'zhen	1
+𮊍	si'zhen	1
 𮊌	wang'si'wang	1
 𮊌	wang'mi'wang	1
+𮊋	wang'jun	1
+𮊋	si'jun	1
 𮊊	tong'yi'di	1
+𮊊	tong'ren'di	1
 𮊊	jiong'yi'di	1
+𮊊	jiong'ren'di	1
+𮊈	wang'zhu	1
+𮊈	si'zhu	1
 𮊇	tong'yi'da	1
+𮊇	tong'ren'da	1
 𮊇	jiong'yi'da	1
+𮊇	jiong'ren'da	1
+𮊆	ren'wang'ba	1
+𮊆	ren'si'ba	1
+𮊅	wang'cheng	1
+𮊅	si'cheng	1
 𮊄	gang'min	1
+𮊃	wang'zhen	1
+𮊃	si'zhen	1
 𮊂	wang'wang	1
 𮊂	wang'si	1
 𮊂	si'wang	1
 𮊂	si'si	1
 𮊁	tong'yi'gu	1
+𮊁	tong'ren'gu	1
 𮊁	jiong'yi'gu	1
+𮊁	jiong'ren'gu	1
+𮊀	ling'wang	1
+𮊀	ling'si	1
+𮉿	wang'quan	1
+𮉿	si'quan	1
 𮉾	wang'kua	1
+𮉽	wang'yi	1
+𮉽	si'yi	1
 𮉺	pou'mi'yu'fou	1
 𮉺	pou'bao'yu'fou	1
 𮉺	ju'mi'yu'fou	1
@@ -25131,6 +25347,8 @@
 𮈪	mi'duan	1
 𮈩	si'sui	1
 𮈩	mi'sui	1
+𮈨	si'chong'yue	1
+𮈨	mi'chong'yue	1
 𮈧	si'yan	1
 𮈧	mi'yan	1
 𮈦	si'shi'gong'wen	1
@@ -25167,6 +25385,8 @@
 𮈒	mi'ke	1
 𮈑	san'shu'ren'si	1
 𮈑	san'shu'ren'mi	1
+𮈑	feng'ren'si	1
+𮈑	feng'ren'mi	1
 𮈎	si'zao	1
 𮈎	mi'zao	1
 𮈍	gong'si	1
@@ -25276,6 +25496,10 @@
 𮆛	zhu'bai	1
 𮆚	zhu'fou'xi	1
 𮆙	zhu'qiong	1
+𮆘	zhu'wang'mi'fa	1
+𮆘	zhu'wang'bao'fa	1
+𮆘	zhu'si'mi'fa	1
+𮆘	zhu'si'bao'fa	1
 𮆗	zhu'luo	1
 𮆖	zhu'mian'wen	1
 𮆓	zhu'he	1
@@ -25283,7 +25507,13 @@
 𮆏	zhu'lan	1
 𮆎	zhu'bo	1
 𮆍	zhu'tong'yi'di	1
+𮆍	zhu'tong'ren'di	1
 𮆍	zhu'jiong'yi'di	1
+𮆍	zhu'jiong'ren'di	1
+𮆋	zhu'wang'mi'dai	1
+𮆋	zhu'wang'bao'dai	1
+𮆋	zhu'si'mi'dai	1
+𮆋	zhu'si'bao'dai	1
 𮆉	zhu'jie	1
 𮆈	zhu'zhu	1
 𮆆	zhu'qing	1
@@ -25687,6 +25917,8 @@
 𭿬	mu'bin	1
 𭿫	mu'ge	1
 𭿫	mu'gai	1
+𭿪	ju'ren'yi'er'shu'you	1
+𭿪	ju'ren'tou'er'shu'you	1
 𭿨	mu'sui	1
 𭿧	kan'liang	1
 𭿦	mu'shu	1
@@ -25737,10 +25969,14 @@
 𭾵	mu'gao	1
 𭾴	shang'mei	1
 𭾲	mu'yu	1
+𭾱	wang'yi	1
+𭾱	si'yi	1
 𭾰	mu'wang	1
 𭾯	mu'wei	1
 𭾮	mu'nian	1
 𭾭	kan'jiu	1
+𭾬	wang'fa	1
+𭾬	si'fa	1
 𭾫	mu'ye	1
 𭾩	pie'lao'mu	1
 𭾨	mu'ke	1
@@ -25901,6 +26137,10 @@
 𭼇	ne'hua	1
 𭼆	ne'wang	1
 𭼅	shang'shi'cao'zou	1
+𭼂	ji'wang'pi	1
+𭼂	ji'wang'ding	1
+𭼂	ji'si'pi	1
+𭼂	ji'si'ding	1
 𭼁	gong'kou'pi	1
 𭼁	gong'kou'ding	1
 𭻾	ren'pi	1
@@ -26061,6 +26301,10 @@
 𭹼	wang'zun	1
 𭹺	yu'min	1
 𭹺	wang'min	1
+𭹹	yu'shi'yi'wang'heng	1
+𭹹	yu'shi'yi'si'heng	1
+𭹹	wang'shi'yi'wang'heng	1
+𭹹	wang'shi'yi'si'heng	1
 𭹸	jue'kong	1
 𭹶	yu'zhe	1
 𭹶	wang'zhe	1
@@ -26562,6 +26806,8 @@
 𭳈	shui'kuan	1
 𭳇	shui'gao	1
 𭳆	shui'qi	1
+𭳅	shui'zi'wang'da	1
+𭳅	shui'zi'si'da	1
 𭳂	you'lou	1
 𭳁	shui'hu'wen'mu	1
 𭳀	shui'xu	1
@@ -26598,6 +26844,9 @@
 𭲗	shui'kui	1
 𭲕	shui'qing'wen	1
 𭲔	shui'heng'tian'heng'tian	1
+𭲓	shui'shi'wang'xin	1
+𭲓	shui'shi'si'xin	1
+𭲑	shui'gong'chong'ba	1
 𭲐	wei'shui	1
 𭲏	shui'tao	1
 𭲎	shui'jiang	1
@@ -26809,14 +27058,22 @@
 𭮾	keng'jia	1
 𭮽	shi'mi'shu'chuan	1
 𭮽	shi'bao'shu'chuan	1
+𭮼	wei'kou'you	1
+𭮻	shao'kou'you	1
+𭮻	hui'kou'you	1
 𭮹	suo'shu	1
 𭮸	qin'shu	1
 𭮷	ye'shu	1
+𭮶	sheng'kou'you	1
 𭮳	jiu'shu'tu	1
 𭮲	guo'shu	1
+𭮱	yin'kou'you	1
+𭮰	shi'mao'kou'you	1
 𭮯	ping'shu	1
 𭮮	shou'shu	1
 𭮮	bai'shu	1
+𭮭	yi'kou'you	1
+𭮭	ren'kou'you	1
 𭮬	mei'shu	1
 𭮫	dui'shu	1
 𭮪	ji'shu	1
@@ -26860,6 +27117,7 @@
 𭮊	dai'chang'min	1
 𭮊	dai'chang'lin	1
 𭮉	dai'qi'kou'heng	1
+𭮈	dai'kou'you	1
 𭮇	dai'shen	1
 𭮆	dai'zhan	1
 𭮅	dai'yin	1
@@ -26953,6 +27211,7 @@
 𭬩	mu'dian	1
 𭬤	mu'zhu'fu'shui	1
 𭬣	mu'fan	1
+𭬡	mu'jin'ren'ren'ren'ren'wen	1
 𭬡	mu'jin'cong'cong'wen	1
 𭬠	mu'yi	1
 𭬠	mu'li	1
@@ -26961,12 +27220,15 @@
 𭬙	mu'fu	1
 𭬘	mu'zhui'bao'huo	1
 𭬗	mu'cao'tong'yi'shu	1
+𭬗	mu'cao'tong'ren'shu	1
 𭬗	mu'cao'jiong'yi'shu	1
+𭬗	mu'cao'jiong'ren'shu	1
 𭬖	mu'ming	1
 𭬕	mu'han	1
 𭬕	mu'gan	1
 𭬔	mu'qu'jiu	1
 𭬒	mu'li	1
+𭬑	mu'wen'mu'da'er'shu	1
 𭬐	kai'ge	1
 𭬏	bu'mu	1
 𭬎	mu'yong	1
@@ -27007,7 +27269,9 @@
 𭫦	mu'chun'si	1
 𭫦	mu'chun'mi	1
 𭫥	mu'zuo'tong'yi'jiong	1
+𭫥	mu'zuo'tong'ren'jiong	1
 𭫥	mu'zuo'jiong'yi'jiong	1
+𭫥	mu'zuo'jiong'ren'jiong	1
 𭫤	mu'lei	1
 𭫣	mu'jiu	1
 𭫢	yu'cong'mu	1
@@ -27019,6 +27283,7 @@
 𭫚	mu'zu	1
 𭫚	mu'cui	1
 𭫙	mu'shi	1
+𭫘	lei'ren'ren'ren'ren	1
 𭫘	lei'cong'cong	1
 𭫖	mu'suo	1
 𭫕	mu'bu'ju	1
@@ -27031,6 +27296,7 @@
 𭫌	sang'shang	1
 𭫊	mu'ai	1
 𭫉	mu'xiong'wen	1
+𭫈	wei'ren'ren'ren'ren	1
 𭫈	wei'cong'cong	1
 𭫇	sha'zuo	1
 𭫆	mu'du	1
@@ -27076,6 +27342,7 @@
 𭪜	mu'kuang'zhao	1
 𭪜	mu'fang'zhao	1
 𭪘	mu'zhi	1
+𭪕	dai'er'shu'mu	1
 𭪔	mu'zi	1
 𭪓	mu'men	1
 𭪒	mu'cao'zou	1
@@ -27131,6 +27398,8 @@
 𭩚	mu'yi	1
 𭩙	mu'xia	1
 𭩘	mu'zhe	1
+𭩗	yue'yu'wang'wu	1
+𭩗	yue'yu'si'wu	1
 𭩓	yue'pi	1
 𭩓	yue'bi	1
 𭩓	yue'bai	1
@@ -27228,6 +27497,7 @@
 𭧱	ri'pu	1
 𭧰	xing'li	1
 𭧯	shang'yi	1
+𭧮	ri'pie'ren'ren'ren'ren'yu	1
 𭧮	ri'pie'cong'cong'yu	1
 𭧭	ri'jiao	1
 𭧫	ri'gui	1
@@ -27274,6 +27544,14 @@
 𭧃	zao'shou	1
 𭧂	ri'gong	1
 𭧁	shen'xian	1
+𭧀	tong'yi'wang'ri	1
+𭧀	tong'yi'si'ri	1
+𭧀	tong'ren'wang'ri	1
+𭧀	tong'ren'si'ri	1
+𭧀	jiong'yi'wang'ri	1
+𭧀	jiong'yi'si'ri	1
+𭧀	jiong'ren'wang'ri	1
+𭧀	jiong'ren'si'ri	1
 𭦿	ri'xue'you	1
 𭦾	ri'liang	1
 𭦽	ri'di	1
@@ -27299,6 +27577,8 @@
 𭦣	ri'juan	1
 𭦡	ri'xin	1
 𭦠	ri'sheng	1
+𭦟	ri'wang'wan	1
+𭦟	ri'si'wan	1
 𭦞	zao'xian	1
 𭦝	han'ling	1
 𭦛	ri'nai	1
@@ -27678,6 +27958,7 @@
 𭠜	shou'ren'tu	1
 𭠚	tou'zhe	1
 𭠙	shou'ye	1
+𭠘	shou'kou'you	1
 𭠗	shou'you	1
 𭠖	shou'chou	1
 𭠕	shou'wu	1
@@ -27747,7 +28028,9 @@
 𭟊	xin'hu'yong	1
 𭟉	xin'ge	1
 𭟈	xin'cao'tong'yi'shu	1
+𭟈	xin'cao'tong'ren'shu	1
 𭟈	xin'cao'jiong'yi'shu	1
+𭟈	xin'cao'jiong'ren'shu	1
 𭟇	xin'cang	1
 𭟄	yao'yan'yao'xin	1
 𭟂	you'xin	1
@@ -27756,6 +28039,8 @@
 𭟁	xin'wen'bao'xian	1
 𭟁	xin'wen'bao'jian	1
 𭞿	hu'fu	1
+𭞽	xin'ri'wang'xin	1
+𭞽	xin'ri'si'xin	1
 𭞼	xin'jia	1
 𭞼	xin'gu	1
 𭞻	xin'sui	1
@@ -27800,6 +28085,10 @@
 𭞏	chen'tai'xin	1
 𭞎	xin'er	1
 𭞍	tian'xin	1
+𭞌	mi'shi'wang'xin	1
+𭞌	mi'shi'si'xin	1
+𭞌	bao'shi'wang'xin	1
+𭞌	bao'shi'si'xin	1
 𭞊	shi'mie'you'xin	1
 𭞈	wei'xin	1
 𭞈	hui'xin	1
@@ -27823,6 +28112,8 @@
 𭝵	ting'xin	1
 𭝴	huo'xin	1
 𭝱	bao'xin	1
+𭝰	xin'pie'tong'ren'bi	1
+𭝰	xin'pie'jiong'ren'bi	1
 𭝯	nian'ben	1
 𭝮	hen'xin	1
 𭝭	xin'yuan	1
@@ -27991,6 +28282,8 @@
 𭛢	chi'qiu	1
 𭛡	ren'jiong	1
 𭛡	chi'jiong	1
+𭛠	ren'kou'you	1
+𭛠	chi'kou'you	1
 𭛟	ren'qu	1
 𭛟	chi'qu	1
 𭛞	ren'yu	1
@@ -28096,7 +28389,9 @@
 𭚌	guang'hei'er'tu	1
 𭚊	guang'bei'niao	1
 𭚉	ma'tong'yi'yue	1
+𭚉	ma'tong'ren'yue	1
 𭚉	ma'jiong'yi'yue	1
+𭚉	ma'jiong'ren'yue	1
 𭚈	guang'shi	1
 𭚆	guang'hei'er	1
 𭙽	ma'qu	1
@@ -28169,7 +28464,9 @@
 𭘽	di'mi	1
 𭘽	di'er	1
 𭘼	jin'tong'yi'deng	1
+𭘼	jin'tong'ren'deng	1
 𭘼	jin'jiong'yi'deng	1
+𭘼	jin'jiong'ren'deng	1
 𭘻	jin'zheng	1
 𭘺	yi'zhou	1
 𭘹	bu'luo	1
@@ -28401,6 +28698,7 @@
 𭕜	shi'xiang	1
 𭕛	shi'chong	1
 𭕚	shi'di	1
+𭕙	shi'shou'er'shu	1
 𭕘	shi'mu	1
 𭕗	ni'ye	1
 𭕖	shi'ba	1
@@ -28465,6 +28763,7 @@
 𭔒	yi'wo	1
 𭔑	bao'bei'tu	1
 𭔐	bao'chao	1
+𭔏	bao'pian'gao	1
 𭔎	bao'xi	1
 𭔋	bao'jiao	1
 𭔋	bao'hao	1
@@ -28620,6 +28919,7 @@
 𭑵	you'nv	1
 𭑴	nv'mao	1
 𭑳	nv'jiong	1
+𭑲	chong'nv	1
 𭑱	nv'jia	1
 𭑰	nv'mu	1
 𭑯	nv'bao'wu	1
@@ -28636,6 +28936,7 @@
 𭑤	an'da	1
 𭑣	xun'jiu	1
 𭑢	dian'zhang	1
+𭑡	qian'ren'ren'ren'ren'heng'guai	1
 𭑡	qian'cong'cong'heng'guai	1
 𭑠	da'wan	1
 𭑠	da'guan	1
@@ -28893,6 +29194,7 @@
 𭍦	kou'fang	1
 𭍦	guo'fang	1
 𭍥	san'shu'hui	1
+𭍥	feng'hui	1
 𭍤	wei'xin	1
 𭍤	kou'xin	1
 𭍤	guo'xin	1
@@ -28904,6 +29206,7 @@
 𭍢	guo'kuang	1
 𭍡	hui'ge	1
 𭍠	san'shu'hui	1
+𭍠	feng'hui	1
 𭍟	wei'jiang	1
 𭍟	kou'jiang	1
 𭍟	guo'jiang	1
@@ -29075,6 +29378,8 @@
 𭋎	kou'an	1
 𭋌	kou'chang	1
 𭋋	kou'yuan	1
+𭋊	kou'wang'kou'tian	1
+𭋊	kou'si'kou'tian	1
 𭋉	zhan'dan	1
 𭋉	tan'dan	1
 𭋉	shan'dan	1
@@ -29353,6 +29658,10 @@
 𭆳	xian'yun	1
 𭆳	qin'yun	1
 𭆳	qian'yun	1
+𭆲	zhua'wang'you	1
+𭆲	zhua'si'you	1
+𭆲	zhao'wang'you	1
+𭆲	zhao'si'you	1
 𭆰	jin'ye	1
 𭆯	po'fan	1
 𭆯	ni'fan	1
@@ -29437,6 +29746,7 @@
 𭅢	ban'zhong	1
 𭅡	fu'qian	1
 𭅠	shi'ji	1
+𭅟	cao'zhe'wu'chuan	1
 𭅞	kuang'gan	1
 𭅞	fang'gan	1
 𭅝	kuang'yan'ba	1
@@ -29581,12 +29891,14 @@
 𭃕	dao'ji	1
 𭃔	pie'cao'ren	1
 𭃓	fen'fan	1
+𭃒	kou'you'dao	1
 𭃑	dao'ka	1
 𭃐	ka'dao	1
 𭃏	ka'dao	1
 𭃎	zhe'zuo'jing	1
 𭃎	gou'zuo'jing	1
 𭃌	san'shu'dao	1
+𭃌	feng'dao	1
 𭃋	dao'ba	1
 𭃊	diao'diao'diao	1
 𭃉	dao'wen	1
@@ -29625,6 +29937,10 @@
 𭂩	ji'shi	1
 𭂨	bing'rong	1
 𭂧	bing'rong	1
+𭂦	bing'mi'wang'wang'xin	1
+𭂦	bing'mi'wang'si'xin	1
+𭂦	bing'bao'wang'wang'xin	1
+𭂦	bing'bao'wang'si'xin	1
 𭂥	bing'mu	1
 𭂤	leng'ji	1
 𭂣	bing'run	1
@@ -29665,12 +29981,20 @@
 𭂆	bing'yu	1
 𭂆	bing'qiao	1
 𭂆	bing'kao	1
+𭂅	mi'feng'wang'xin	1
+𭂅	mi'feng'si'xin	1
+𭂅	bao'feng'wang'xin	1
+𭂅	bao'feng'si'xin	1
 𭂄	ming'yi	1
 𭂃	mi'jin	1
 𭂃	bao'jin	1
 𭂂	wang'bi	1
 𭂁	mi'jiu'bao'huo	1
 𭂁	bao'jiu'bao'huo	1
+𭂀	mi'wang'heng'yi	1
+𭂀	mi'si'heng'yi	1
+𭂀	bao'wang'heng'yi	1
+𭂀	bao'si'heng'yi	1
 𭁿	mi'dui	1
 𭁿	bao'dui	1
 𭁾	mi'qin	1
@@ -29713,6 +30037,8 @@
 𭁣	heng'ba'ran'shu	1
 𭁢	shi'heng'heng	1
 𭁡	heng'pie'ran	1
+𭁠	tong'er'shu	1
+𭁠	jiong'er'shu	1
 𭁞	qi'ge	1
 𭁝	qun'gong	1
 𭁜	gong'duan	1
@@ -29720,6 +30046,8 @@
 𭁚	gong'bei	1
 𭁙	ban'ting	1
 𭁘	du'liu	1
+𭁗	ba'heng'wang'tian'pie	1
+𭁗	ba'heng'si'tian'pie	1
 𭁖	liu'lu	1
 𭁔	nian'tian'liu	1
 𭁓	gong'fu	1
@@ -29847,6 +30175,7 @@
 𬾺	bing'ling	1
 𬾸	ren'shi	1
 𬾷	ren'sui	1
+𬾵	ren'ren'ren'ren'heng'qi	1
 𬾵	cong'cong'heng'qi	1
 𬾴	ren'qi	1
 𬾳	ren'bai	1
@@ -29901,6 +30230,7 @@
 𬽼	ren'shu'heng	1
 𬽻	ren'hui	1
 𬽺	ren'wen'dao	1
+𬽹	ren'kou'you	1
 𬽸	ren'bao'bu	1
 𬽸	ren'bao'bo	1
 𬽷	ren'guang	1
@@ -30082,6 +30412,7 @@
 𬼏	le'wai	1
 𬼎	nai'na'cong	1
 𬼎	nai'dian'cong	1
+𬼍	ju'bao'er'shu	1
 𬼈	qian'xiong	1
 𬼈	qian'kan	1
 𬼇	zhe'ren	1
@@ -30152,6 +30483,8 @@
 𬺪	quan'ba	1
 𬺩	bu'ri	1
 𬺩	bo'ri	1
+𬺨	dao'xuan	1
+𬺨	dao'song	1
 𬺧	cao'er	1
 𬺦	yi'kou'xuan	1
 𬺦	yi'kou'song	1
@@ -32543,6 +32876,8 @@
 𬘊	mi'ba	1
 𬘈	si'zheng	1
 𬘈	mi'zheng	1
+𬘇	si'dao'qiu'mian	1
+𬘇	mi'dao'qiu'mian	1
 𬘅	xi'mei	1
 𬘄	si'zhuan'si	1
 𬘄	si'zhuan'mi	1
@@ -32835,7 +33170,9 @@
 𬔫	qin'mai	1
 𬔪	li'fu'bei	1
 𬔩	qian'qian'tong'yi	1
+𬔩	qian'qian'tong'ren	1
 𬔩	qian'qian'jiong'yi	1
+𬔩	qian'qian'jiong'ren	1
 𬔧	zhang'ji	1
 𬔥	li'zhong	1
 𬔥	li'chong	1
@@ -32934,6 +33271,10 @@
 𬓎	shi'jin	1
 𬓍	shi'yi	1
 𬓌	shi'lang	1
+𬓋	shi'dao'tong'yi'da	1
+𬓋	shi'dao'tong'ren'da	1
+𬓋	shi'dao'jiong'yi'da	1
+𬓋	shi'dao'jiong'ren'da	1
 𬓊	shu'you'shi	1
 𬓉	shi'chun	1
 𬓈	shi'shan'liu	1
@@ -32941,6 +33282,8 @@
 𬓆	shi'ding	1
 𬓅	shi'wan	1
 𬓃	shi'peng	1
+𬓂	xiao'mi'kou'shi	1
+𬓂	xiao'bao'kou'shi	1
 𬓁	shi'ri'jin	1
 𬓀	shi'an	1
 𬒿	shi'dian	1
@@ -33153,6 +33496,8 @@
 𬐖	pi'wu	1
 𬐕	pi'fu	1
 𬐔	yong'pi	1
+𬐓	xiao'mi'pi	1
+𬐓	xiao'bao'pi	1
 𬐒	ba'pi	1
 𬐑	huang'feng	1
 𬐏	zhua'ju'bai	1
@@ -33177,6 +33522,7 @@
 𬏾	ne'meng	1
 𬏽	ne'mai	1
 𬏼	ne'hei	1
+𬏻	ne'dao'si'wu'yi	1
 𬏺	ne'min'geng	1
 𬏹	ne'pou'jin	1
 𬏹	ne'ju'jin	1
@@ -33478,6 +33824,10 @@
 𬍁	quan'lian	1
 𬍁	quan'lan	1
 𬌿	quan'pang	1
+𬌾	dao'tong'yi'bi'quan	1
+𬌾	dao'tong'ren'bi'quan	1
+𬌾	dao'jiong'yi'bi'quan	1
+𬌾	dao'jiong'ren'bi'quan	1
 𬌽	quan'ru	1
 𬌼	quan'dao'nan	1
 𬌻	quan'fu	1
@@ -33848,6 +34198,7 @@
 𬇥	shui'juan	1
 𬇤	shui'zi	1
 𬇢	shui'xu	1
+𬇡	shui'kou'chuan	1
 𬇠	shui'cheng	1
 𬇟	shui'bing	1
 𬇞	shui'bing	1
@@ -34101,6 +34452,7 @@
 𬃔	ci'shu	1
 𬃓	mu'pi'kou	1
 𬃒	mu'chuang'mu	1
+𬃑	mu'ren'chuan	1
 𬃐	mu'hu	1
 𬃏	mu'bao	1
 𬃎	mu'yi'si	1
@@ -34163,6 +34515,8 @@
 𬂖	xiang'dao'yue	1
 𬂕	ken'xi	1
 𬂕	ken'qi	1
+𬂓	yue'xiao'mi'heng'shi	1
+𬂓	yue'xiao'bao'heng'shi	1
 𬂒	yue'sheng	1
 𬂑	you'chan	1
 𬂐	yue'ci	1
@@ -34300,6 +34654,7 @@
 𬀔	fang'ren'she	1
 𬀒	fang'ren'hong	1
 𬀑	fang'shang	1
+𬀐	fang'ren'hu'wen	1
 𬀏	fang'ren'yin'huo	1
 𬀎	fang'pei	1
 𬀍	fang'ren'yan	1
@@ -34327,6 +34682,7 @@
 𫿹	mian'jin	1
 𫿸	qi'xie	1
 𫿷	yu'yue	1
+𫿶	dao'tian'er'si'dou	1
 𫿵	ba'lv'dou	1
 𫿴	dou'fu	1
 𫿳	yi'dou	1
@@ -34606,7 +34962,9 @@
 𫻚	yi'xin	1
 𫻙	zhang'wen'xin	1
 𫻘	xin'yi'wang'san'shu	1
+𫻘	xin'yi'wang'feng	1
 𫻘	xin'yi'si'san'shu	1
+𫻘	xin'yi'si'feng	1
 𫻗	xin'yi	1
 𫻖	xin'lu	1
 𫻖	xin'fu	1
@@ -34714,6 +35072,7 @@
 𫹯	gan'xin	1
 𫹮	xin'yu	1
 𫹭	nai'xin	1
+𫹬	dao'xin	1
 𫹫	xin'yu	1
 𫹫	xin'qiao	1
 𫹫	xin'kao	1
@@ -34803,6 +35162,7 @@
 𫹄	pi'shan	1
 𫹂	gong'zi'yu	1
 𫹁	gong'chi	1
+𫹀	gong'zi'yao'kou'you	1
 𫸿	dan'fa	1
 𫸾	gong'shi	1
 𫸽	di'yan	1
@@ -35096,6 +35456,8 @@
 𫵐	yue'wu	1
 𫵏	you'bi	1
 𫵎	you'quan	1
+𫵌	xiao'mi'kou'chui	1
+𫵌	xiao'bao'kou'chui	1
 𫵋	yi'xiao	1
 𫵊	shao'jie	1
 𫵊	shao'ji	1
@@ -35103,12 +35465,20 @@
 𫵈	men'xiao	1
 𫵇	mei'er	1
 𫵆	sheng'si	1
+𫵅	xiao'mi'kou'yi	1
+𫵅	xiao'bao'kou'yi	1
 𫵄	ying'xiao	1
 𫵃	dang'pi	1
+𫵂	xiao'mi'mang	1
+𫵂	xiao'bao'mang	1
+𫵁	xiao'mi'kou'shang	1
+𫵁	xiao'bao'kou'shang	1
 𫵀	xiao'po	1
 𫵀	xiao'chu	1
 𫴿	de'xiao	1
 𫴾	xiao'kun	1
+𫴽	xiao'mi'ji	1
+𫴽	xiao'bao'ji	1
 𫴼	bi'xiao	1
 𫴻	shao'nei	1
 𫴺	zha'xiao	1
@@ -35136,8 +35506,10 @@
 𫴥	bao'luan	1
 𫴤	bao'xue	1
 𫴣	bao'dao'dou'you	1
+𫴢	bao'bei'zuo'zhu'kou'you	1
 𫴡	bao'wang'bei'xia'kou'shang	1
 𫴠	bao'bin	1
+𫴟	bao'hu'wen'er'nai	1
 𫴞	ning'ta	1
 𫴝	bao'wang'bei'ning	1
 𫴜	bao'dou'jin	1
@@ -35159,6 +35531,7 @@
 𫴌	bao'yi	1
 𫴌	bao'xi	1
 𫴊	bao'ren'bao'san'shu'huo	1
+𫴊	bao'ren'bao'feng'huo	1
 𫴉	bao'zhua'ye	1
 𫴉	bao'zhao'ye	1
 𫴇	ji'yong	1
@@ -35927,6 +36300,8 @@
 𫩣	yang'kou	1
 𫩢	kou'shi	1
 𫩡	kou'bei	1
+𫩠	xiao'mi'kou	1
+𫩠	xiao'bao'kou	1
 𫩟	kou'qiao	1
 𫩞	tai'zhe'heng	1
 𫩞	tai'gou'heng	1
@@ -36018,6 +36393,7 @@
 𫨕	chang'ban	1
 𫨔	chang'guai'er	1
 𫨓	chang'lv'ba	1
+𫨒	chang'gu'kou'you	1
 𫨑	chang'ma	1
 𫨐	chang'tai	1
 𫨏	chang'yin	1
@@ -36185,6 +36561,8 @@
 𫦚	fu'dao	1
 𫦙	qiao'dao	1
 𫦙	jiao'dao	1
+𫦘	dao'si'er'na'xi'dao	1
+𫦘	dao'si'er'dian'xi'dao	1
 𫦗	duo'duo	1
 𫦖	pu'dao	1
 𫦕	ying'dao	1
@@ -36474,6 +36852,8 @@
 𫢄	luo'fu	1
 𫢄	luo'bi	1
 𫢃	luo'cheng	1
+𫢂	jing'xiao'mi'zhi	1
+𫢂	jing'xiao'bao'zhi	1
 𫢀	lin'chong	1
 𫡿	lin'mi	1
 𫡾	wang'yuan	1
@@ -36525,6 +36905,7 @@
 𫡖	ren'ji	1
 𫡕	pie'qiu	1
 𫡔	ma'gai	1
+𫡓	dao'cha	1
 𫡑	ren'cong	1
 𫡐	nai'ma	1
 𫡏	pie'han	1
@@ -36789,7 +37170,9 @@
 𫝆	ji'han	1
 𫝅	tu'ren	1
 𫝄	pie'ren	1
+𫝃	heng'xiao'tong'ren'ren'ren'ren	1
 𫝃	heng'xiao'tong'cong'cong	1
+𫝃	heng'xiao'jiong'ren'ren'ren'ren	1
 𫝃	heng'xiao'jiong'cong'cong	1
 𫜾	mao'yue	1
 𫜽	er'xiu	1
@@ -37036,6 +37419,8 @@
 𫙕	yu'xue	1
 𫙔	yu'lu	1
 𫙒	yu'yin	1
+𫙑	yu'tong'you	1
+𫙑	yu'jiong'you	1
 𫙐	yu'nong	1
 𫙐	yu'gong	1
 𫙏	yu'shi	1
@@ -37379,6 +37764,7 @@
 𫔪	men'yi	1
 𫔩	men'mo	1
 𫔨	men'shi	1
+𫔧	men'ren'ren'ren'ren	1
 𫔧	men'cong'cong	1
 𫔦	wu'qian	1
 𫔦	wu'kai	1
@@ -37560,6 +37946,12 @@
 𫒃	chong'ni	1
 𫒂	er'li	1
 𫒁	li'shi	1
+𫒀	pie'tong'bian'yu	1
+𫒀	pie'tong'bian'qiao	1
+𫒀	pie'tong'bian'kao	1
+𫒀	pie'jiong'bian'yu	1
+𫒀	pie'jiong'bian'qiao	1
+𫒀	pie'jiong'bian'kao	1
 𫑿	you'jiao	1
 𫑾	you'bing	1
 𫑽	you'shu	1
@@ -38304,7 +38696,9 @@
 𫈨	cao'jie	1
 𫈧	cao'ri'rou	1
 𫈦	cao'tong'yi'wu	1
+𫈦	cao'tong'ren'wu	1
 𫈦	cao'jiong'yi'wu	1
+𫈦	cao'jiong'ren'wu	1
 𫈥	cao'ke	1
 𫈢	cao'hou	1
 𫈡	zhi'bing	1
@@ -38452,6 +38846,8 @@
 𫆜	rou'ni	1
 𫆛	yue'dai	1
 𫆚	yue'you	1
+𫆙	xiao'mi'yue	1
+𫆙	xiao'bao'yue	1
 𫆘	yue'shi'na	1
 𫆘	yue'shi'dian	1
 𫆗	yue'ang	1
@@ -38473,6 +38869,7 @@
 𫆌	er'yi	1
 𫆋	er'ge	1
 𫆉	qiu'er	1
+𫆈	hu'wen'er	1
 𫆇	er'cai	1
 𫆆	er'yi	1
 𫆅	er'cheng	1
@@ -38876,9 +39273,14 @@
 𫁟	li'zhuan	1
 𫁞	li'ma	1
 𫁝	xue'bian'bu'tong'yi'jiong	1
+𫁝	xue'bian'bu'tong'ren'jiong	1
 𫁝	xue'bian'bu'jiong'yi'jiong	1
+𫁝	xue'bian'bu'jiong'ren'jiong	1
 𫁝	xue'bian'bo'tong'yi'jiong	1
+𫁝	xue'bian'bo'tong'ren'jiong	1
 𫁝	xue'bian'bo'jiong'yi'jiong	1
+𫁝	xue'bian'bo'jiong'ren'jiong	1
+𫁜	tu'shi'dao'dao	1
 𫁛	chuan'lun	1
 𫁚	xue'hu	1
 𫁙	xue'li'nv	1
@@ -38908,6 +39310,7 @@
 𫁃	he'zhua'xue	1
 𫁃	he'zhao'xue	1
 𫁂	he'ba	1
+𫁁	he'chong'tian	1
 𫁀	he'jian	1
 𫀿	he'tuan	1
 𫀾	he'bai'shao	1
@@ -39533,6 +39936,7 @@
 𪹠	huo'nan	1
 𪹟	huo'suo	1
 𪹞	huo'zai	1
+𪹝	yan'er'shu'huo	1
 𪹜	huo'ku	1
 𪹛	huo'shuo	1
 𪹚	huo'pang	1
@@ -39740,7 +40144,9 @@
 𪶖	shui'zi'tian	1
 𪶔	shui'jia	1
 𪶓	shui'pie'tong'yi'da	1
+𪶓	shui'pie'tong'ren'da	1
 𪶓	shui'pie'jiong'yi'da	1
+𪶓	shui'pie'jiong'ren'da	1
 𪶒	shui'luo	1
 𪶑	shui'bi	1
 𪶐	shui'an	1
@@ -40301,6 +40707,7 @@
 𪭽	shou'zhuang	1
 𪭼	shou'li	1
 𪭻	shou'ren'zheng	1
+𪭺	shou'dao'bing'cun	1
 𪭹	shou'jiu'bao	1
 𪭸	shou'jiao	1
 𪭷	shou'dai	1
@@ -40754,6 +41161,7 @@
 𪧷	xi'cun	1
 𪧶	bao'jian'jian	1
 𪧵	bao'bao'san'shu'lin'nv	1
+𪧵	bao'bao'feng'lin'nv	1
 𪧴	bao'yi	1
 𪧳	bao'lai'li	1
 𪧱	han'ji	1
@@ -40863,6 +41271,12 @@
 𪦈	nv'yan	1
 𪦇	nv'feng	1
 𪦆	du'zhi	1
+𪦅	nv'shun'wei'yi	1
+𪦅	nv'shun'kou'yi	1
+𪦅	nv'shun'guo'yi	1
+𪦅	nv'chuan'wei'yi	1
+𪦅	nv'chuan'kou'yi	1
+𪦅	nv'chuan'guo'yi	1
 𪦃	nv'dian	1
 𪦁	nv'fu'yu	1
 𪦁	nv'fu'qiao	1
@@ -40923,7 +41337,9 @@
 𪥎	kuang'da	1
 𪥍	da'heng'dian	1
 𪥌	pie'tong'yi'da	1
+𪥌	pie'tong'ren'da	1
 𪥌	pie'jiong'yi'da	1
+𪥌	pie'jiong'ren'da	1
 𪥋	da'wei	1
 𪥊	wei'da	1
 𪥉	tian'ba	1
@@ -41178,6 +41594,7 @@
 𪡿	kou'keng	1
 𪡿	kou'jing	1
 𪡾	kou'sheng	1
+𪡽	kou'dao'er'shu'heng'ba'er'shu	1
 𪡼	xuan'mu'da	1
 𪡼	song'mu'da	1
 𪡺	kou'lai	1
@@ -41694,6 +42111,9 @@
 𪚩	kou'qiu	1
 𪚩	kou'jun	1
 𪚩	kou'gui	1
+𪚨	xue'heng'gou'shan'shan'wei'yi	1
+𪚨	xue'heng'gou'shan'shan'kou'yi	1
+𪚨	xue'heng'gou'shan'shan'guo'yi	1
 𪚥	long'long'long'long	1
 𪚥	da'da	1
 𪚣	sheng'long	1
@@ -42104,6 +42524,7 @@
 𪕣	shu'xing	1
 𪕣	shu'jing	1
 𪕡	wu'shu	1
+𪕠	shu'shan'huo	1
 𪕟	shu'fu	1
 𪕞	shu'qun	1
 𪕝	shu'zu	1
@@ -42309,6 +42730,9 @@
 𪓦	yu'min	1
 𪓦	yu'mian	1
 𪓦	yu'meng	1
+𪓥	shan'shan'min	1
+𪓥	shan'shan'mian	1
+𪓥	shan'shan'meng	1
 𪓤	gui'mi'ri'gou'ri	1
 𪓤	gui'bao'ri'gou'ri	1
 𪓣	yuan'dao'min	1
@@ -42341,9 +42765,15 @@
 𪓙	tong'yi'min	1
 𪓙	tong'yi'mian	1
 𪓙	tong'yi'meng	1
+𪓙	tong'ren'min	1
+𪓙	tong'ren'mian	1
+𪓙	tong'ren'meng	1
 𪓙	jiong'yi'min	1
 𪓙	jiong'yi'mian	1
 𪓙	jiong'yi'meng	1
+𪓙	jiong'ren'min	1
+𪓙	jiong'ren'mian	1
+𪓙	jiong'ren'meng	1
 𪓘	ran'min	1
 𪓘	ran'mian	1
 𪓘	ran'meng	1
@@ -42418,7 +42848,9 @@
 𪒥	hei'yue	1
 𪒤	hei'tan	1
 𪒣	hei'tong'yi'mian	1
+𪒣	hei'tong'ren'mian	1
 𪒣	hei'jiong'yi'mian	1
+𪒣	hei'jiong'ren'mian	1
 𪒢	hei'pu	1
 𪒡	hei'dai	1
 𪒠	hei'gan	1
@@ -43102,6 +43534,7 @@
 𪈬	shen'niao	1
 𪈫	niao'pu	1
 𪈫	niao'bo	1
+𪈪	zi'ren'ren'ren'ren'tian'niao	1
 𪈪	zi'cong'cong'tian'niao	1
 𪈩	niao'huan	1
 𪈩	niao'guan	1
@@ -44010,7 +44443,9 @@
 𩻴	yu'xue'geng	1
 𩻳	yu'li	1
 𩻲	yu'tong'yi'fei	1
+𩻲	yu'tong'ren'fei	1
 𩻲	yu'jiong'yi'fei	1
+𩻲	yu'jiong'ren'fei	1
 𩻱	yu'jing	1
 𩻰	yu'zhang	1
 𩻮	yu'kua	1
@@ -44020,6 +44455,7 @@
 𩻫	yu'chuan'mi	1
 𩻪	chang'yu	1
 𩻩	yu'se	1
+𩻨	yu'chong'hui	1
 𩻧	yu'guo	1
 𩻦	yu'can	1
 𩻥	yu'jian	1
@@ -44121,6 +44557,7 @@
 𩺈	na'yu	1
 𩺇	yu'qian	1
 𩺆	yu'lao	1
+𩺅	yu'chong'tian	1
 𩺄	yue'xing'yu	1
 𩺃	cha'yu	1
 𩺁	du'da'yu	1
@@ -44873,16 +45310,28 @@
 𩯼	biao'meng	1
 𩯻	shan'tong'yi'zhe	1
 𩯻	shan'tong'yi'tie	1
+𩯻	shan'tong'ren'zhe	1
+𩯻	shan'tong'ren'tie	1
 𩯻	shan'jiong'yi'zhe	1
 𩯻	shan'jiong'yi'tie	1
+𩯻	shan'jiong'ren'zhe	1
+𩯻	shan'jiong'ren'tie	1
 𩯻	piao'tong'yi'zhe	1
 𩯻	piao'tong'yi'tie	1
+𩯻	piao'tong'ren'zhe	1
+𩯻	piao'tong'ren'tie	1
 𩯻	piao'jiong'yi'zhe	1
 𩯻	piao'jiong'yi'tie	1
+𩯻	piao'jiong'ren'zhe	1
+𩯻	piao'jiong'ren'tie	1
 𩯻	biao'tong'yi'zhe	1
 𩯻	biao'tong'yi'tie	1
+𩯻	biao'tong'ren'zhe	1
+𩯻	biao'tong'ren'tie	1
 𩯻	biao'jiong'yi'zhe	1
 𩯻	biao'jiong'yi'tie	1
+𩯻	biao'jiong'ren'zhe	1
+𩯻	biao'jiong'ren'tie	1
 𩯺	shan'li	1
 𩯺	piao'li	1
 𩯺	biao'li	1
@@ -45014,6 +45463,30 @@
 𩯔	shan'bao'mei	1
 𩯔	piao'bao'mei	1
 𩯔	biao'bao'mei	1
+𩯓	shan'shun'tong'yi'ji'er'shu	1
+𩯓	shan'shun'tong'ren'ji'er'shu	1
+𩯓	shan'shun'jiong'yi'ji'er'shu	1
+𩯓	shan'shun'jiong'ren'ji'er'shu	1
+𩯓	shan'chuan'tong'yi'ji'er'shu	1
+𩯓	shan'chuan'tong'ren'ji'er'shu	1
+𩯓	shan'chuan'jiong'yi'ji'er'shu	1
+𩯓	shan'chuan'jiong'ren'ji'er'shu	1
+𩯓	piao'shun'tong'yi'ji'er'shu	1
+𩯓	piao'shun'tong'ren'ji'er'shu	1
+𩯓	piao'shun'jiong'yi'ji'er'shu	1
+𩯓	piao'shun'jiong'ren'ji'er'shu	1
+𩯓	piao'chuan'tong'yi'ji'er'shu	1
+𩯓	piao'chuan'tong'ren'ji'er'shu	1
+𩯓	piao'chuan'jiong'yi'ji'er'shu	1
+𩯓	piao'chuan'jiong'ren'ji'er'shu	1
+𩯓	biao'shun'tong'yi'ji'er'shu	1
+𩯓	biao'shun'tong'ren'ji'er'shu	1
+𩯓	biao'shun'jiong'yi'ji'er'shu	1
+𩯓	biao'shun'jiong'ren'ji'er'shu	1
+𩯓	biao'chuan'tong'yi'ji'er'shu	1
+𩯓	biao'chuan'tong'ren'ji'er'shu	1
+𩯓	biao'chuan'jiong'yi'ji'er'shu	1
+𩯓	biao'chuan'jiong'ren'ji'er'shu	1
 𩯒	shan'he'bei	1
 𩯒	shan'fu'bei	1
 𩯒	shan'ban'bei	1
@@ -45233,6 +45706,18 @@
 𩮔	shan'jun	1
 𩮔	piao'jun	1
 𩮔	biao'jun	1
+𩮓	shan'tong'yi'ji'er'shu	1
+𩮓	shan'tong'ren'ji'er'shu	1
+𩮓	shan'jiong'yi'ji'er'shu	1
+𩮓	shan'jiong'ren'ji'er'shu	1
+𩮓	piao'tong'yi'ji'er'shu	1
+𩮓	piao'tong'ren'ji'er'shu	1
+𩮓	piao'jiong'yi'ji'er'shu	1
+𩮓	piao'jiong'ren'ji'er'shu	1
+𩮓	biao'tong'yi'ji'er'shu	1
+𩮓	biao'tong'ren'ji'er'shu	1
+𩮓	biao'jiong'yi'ji'er'shu	1
+𩮓	biao'jiong'ren'ji'er'shu	1
 𩮑	shan'wo	1
 𩮑	shan'wai	1
 𩮑	shan'he	1
@@ -45266,6 +45751,14 @@
 𩮋	shan'yin	1
 𩮋	piao'yin	1
 𩮋	biao'yin	1
+𩮊	chang'shan'tong'yi'ji'er'shu	1
+𩮊	chang'shan'tong'ren'ji'er'shu	1
+𩮊	chang'shan'jiong'yi'ji'er'shu	1
+𩮊	chang'shan'jiong'ren'ji'er'shu	1
+𩮊	chang'san'tong'yi'ji'er'shu	1
+𩮊	chang'san'tong'ren'ji'er'shu	1
+𩮊	chang'san'jiong'yi'ji'er'shu	1
+𩮊	chang'san'jiong'ren'ji'er'shu	1
 𩮉	shan'zhe'mu'yi	1
 𩮉	piao'zhe'mu'yi	1
 𩮉	biao'zhe'mu'yi	1
@@ -45797,6 +46290,7 @@
 𩫒	gao'hai	1
 𩫑	gao'bing	1
 𩫐	bing'gao	1
+𩫎	gao'heng'dao'jin	1
 𩫍	gao'sheng	1
 𩫌	gao'jiong	1
 𩫋	gao'pi	1
@@ -46199,6 +46693,7 @@
 𩥔	yue'yi'shui'ma	1
 𩥔	yue'tou'shui'ma	1
 𩥓	yao'ma	1
+𩥒	ma'cao'wang'chuan	1
 𩥑	ma'ta	1
 𩥐	ma'shi	1
 𩥏	ma'lao'zhi	1
@@ -46632,6 +47127,7 @@
 𩞱	shi'da	1
 𩞰	shi'da	1
 𩞯	shi'liang	1
+𩞮	shi'chong'hui	1
 𩞭	shi'yang	1
 𩞬	shi'deng	1
 𩞫	shi'yi	1
@@ -46659,6 +47155,7 @@
 𩞔	shi'tu'gong'shi	1
 𩞓	shi'tu	1
 𩞓	shi'bi	1
+𩞒	shi'chong'hui	1
 𩞑	shi'hu	1
 𩞐	zong'shi	1
 𩞐	cong'shi	1
@@ -49127,6 +49624,12 @@
 𨼢	er'tuo	1
 𨼡	er'zhi'jiu'jiu	1
 𨼠	er'fan	1
+𨼟	er'pie'tong'bian'yu	1
+𨼟	er'pie'tong'bian'qiao	1
+𨼟	er'pie'tong'bian'kao	1
+𨼟	er'pie'jiong'bian'yu	1
+𨼟	er'pie'jiong'bian'qiao	1
+𨼟	er'pie'jiong'bian'kao	1
 𨼞	er'cao'yao	1
 𨼞	er'cao'tao	1
 𨼝	er'xian	1
@@ -49558,6 +50061,7 @@
 𨵱	men'wu	1
 𨵰	men'xia'xia'xia	1
 𨵯	men'san'shu'min	1
+𨵯	men'feng'min	1
 𨵮	men'zhong	1
 𨵮	men'chong	1
 𨵭	men'jian	1
@@ -50346,6 +50850,8 @@
 𨩿	jin'hou	1
 𨩾	jin'cui	1
 𨩽	jin'nve	1
+𨩼	jin'bu'shan'zou	1
+𨩼	jin'bo'shan'zou	1
 𨩻	jin'xiong'you'ba'wen	1
 𨩻	jin'kan'you'ba'wen	1
 𨩺	jin'wu	1
@@ -50789,6 +51295,7 @@
 𨣦	you'yu	1
 𨣥	you'ai	1
 𨣤	you'jin	1
+𨣣	you'ren'ren'ren'ren'zuo	1
 𨣣	you'cong'cong'zuo	1
 𨣢	you'sui	1
 𨣡	qiu'su	1
@@ -51313,6 +51820,7 @@
 𨛿	qu'yi	1
 𨛾	cheng'yi	1
 𨛽	guai'er	1
+𨛻	he'er'shu'er	1
 𨛺	qi'er	1
 𨛹	xi'er	1
 𨛸	hu'yi	1
@@ -51579,6 +52087,7 @@
 𨗷	zhi'kua	1
 𨗷	zhi'huo	1
 𨗷	zhi'guo	1
+𨗶	zhi'heng'er'shu'ye	1
 𨗵	zhi'qi'tu'yang	1
 𨗴	zhi'wang'zhui	1
 𨗴	zhi'si'zhui	1
@@ -51770,11 +52279,13 @@
 𨔴	zhi'shao	1
 𨔳	zhi'sui	1
 𨔳	zhi'duo	1
+𨔱	zhi'mu'ren'er'shu	1
 𨔰	zhi'xi'nong	1
 𨔰	zhi'xi'gong	1
 𨔯	zhi'ri'shui	1
 𨔮	zhi'ying	1
 𨔭	zhi'yi'dao	1
+𨔬	zhi'heng'huo'heng'er'shu	1
 𨔩	zhi'zong	1
 𨔨	zhi'cha	1
 𨔧	zhi'ping	1
@@ -52058,6 +52569,7 @@
 𨐎	xin'nv	1
 𨐍	shan'xin	1
 𨐍	san'xin	1
+𨐌	li'er'shu	1
 𨐋	yi'ren	1
 𨐋	tou'ren	1
 𨐊	che'xian	1
@@ -53844,6 +54356,8 @@
 𧻯	zou'xue	1
 𧻯	zou'que	1
 𧻯	zou'jue	1
+𧻮	zou'pie'tong'sui	1
+𧻮	zou'pie'jiong'sui	1
 𧻭	zou'ye	1
 𧻫	zou'shan'shan	1
 𧻪	zou'rong	1
@@ -54021,6 +54535,9 @@
 𧹋	dai'wei	1
 𧹊	bei'yue	1
 𧹈	bi'da	1
+𧹇	bei'jiu'wei'yi'rou	1
+𧹇	bei'jiu'kou'yi'rou	1
+𧹇	bei'jiu'guo'yi'rou	1
 𧹆	zong'zong'bei	1
 𧹅	yao'pin	1
 𧹄	zhang'ren'bi'heng'bei	1
@@ -55199,6 +55716,7 @@
 𧧲	yan'zhi'er	1
 𧧲	yan'zheng'er	1
 𧧲	yan'ting'er	1
+𧧱	yan'shan'shan	1
 𧧰	yan'chen	1
 𧧯	yan'guang	1
 𧧮	yan'wang'shun	1
@@ -55290,6 +55808,8 @@
 𧦚	yan'hu	1
 𧦙	xiong'you'yan	1
 𧦙	kan'you'yan	1
+𧦘	yan'tong'you	1
+𧦘	yan'jiong'you	1
 𧦗	yue'yan	1
 𧦖	yan'pie'jue	1
 𧦕	ji'yan	1
@@ -55453,6 +55973,7 @@
 𧤂	ling'jiao	1
 𧤁	jiao'ling	1
 𧤀	jiao'jing	1
+𧣿	jiao'li'er'shu	1
 𧣾	jiao'hu	1
 𧣽	jiao'zhui	1
 𧣼	jiao'huo	1
@@ -55906,6 +56427,9 @@
 𧟱	ya'fu	1
 𧟰	wu'yao	1
 𧟯	xi'tu'xi	1
+𧟮	xi'wei'er'shu	1
+𧟮	xi'kou'er'shu	1
+𧟮	xi'guo'er'shu	1
 𧟭	zai'xi	1
 𧟬	xi'qiu	1
 𧟫	xi'ke	1
@@ -56049,6 +56573,12 @@
 𧝳	yi'jiao	1
 𧝲	yi'ju	1
 𧝱	yi'jian	1
+𧝰	yi'pie'tong'bian'yu	1
+𧝰	yi'pie'tong'bian'qiao	1
+𧝰	yi'pie'tong'bian'kao	1
+𧝰	yi'pie'jiong'bian'yu	1
+𧝰	yi'pie'jiong'bian'qiao	1
+𧝰	yi'pie'jiong'bian'kao	1
 𧝮	yi'ju'xin	1
 𧝬	bi'yi	1
 𧝫	yi'dai	1
@@ -56614,6 +57144,7 @@
 𧕘	chong'sui	1
 𧕗	chong'lan	1
 𧕖	chong'xia	1
+𧕕	wang'chong'wang'kun	1
 𧕔	gao'kun	1
 𧕓	chong'ci'min	1
 𧕓	chong'ci'mian	1
@@ -56654,6 +57185,9 @@
 𧔴	cao'chong	1
 𧔳	liu'kun	1
 𧔲	ming'kun	1
+𧔱	jiu'wei'yi'rou'chong	1
+𧔱	jiu'kou'yi'rou'chong	1
+𧔱	jiu'guo'yi'rou'chong	1
 𧔰	zhui'tong'kun	1
 𧔰	zhui'jiong'kun	1
 𧔯	bi'chong'chong'chong	1
@@ -56748,7 +57282,9 @@
 𧓤	zai'ba'chong'chong	1
 𧓢	hun'kun	1
 𧓡	chong'cao'tong'yi'xu	1
+𧓡	chong'cao'tong'ren'xu	1
 𧓡	chong'cao'jiong'yi'xu	1
+𧓡	chong'cao'jiong'ren'xu	1
 𧓠	chong'heng'chuan'jiong	1
 𧓞	chong'ge'feng	1
 𧓜	chong'tuo	1
@@ -57343,6 +57879,9 @@
 𧊮	cao'wen'chong	1
 𧊭	chong'yin	1
 𧊬	cao'you'chong	1
+𧊫	chong'wei'yi'er	1
+𧊫	chong'kou'yi'er	1
+𧊫	chong'guo'yi'er	1
 𧊪	wan'wan'chong	1
 𧊩	chong'shan'gan	1
 𧊧	he'chong	1
@@ -57443,6 +57982,7 @@
 𧉋	chong'heng'shan	1
 𧉊	fu'chong	1
 𧉉	san'shu'chong	1
+𧉉	feng'chong	1
 𧉈	chong'bu	1
 𧉇	wang'chong	1
 𧉆	chong'zou	1
@@ -58156,7 +58696,9 @@
 𦿨	cao'he'zi	1
 𦿧	cao'sui'heng	1
 𦿦	cao'tong'yi'shan	1
+𦿦	cao'tong'ren'shan	1
 𦿦	cao'jiong'yi'shan	1
+𦿦	cao'jiong'ren'shan	1
 𦿟	cao'yi	1
 𦿟	cao'qi	1
 𦿞	cao'cong	1
@@ -58442,6 +58984,9 @@
 𦻒	mo'yu	1
 𦻑	cao'yong	1
 𦻐	cao'chao	1
+𦻏	cao'shang'ren'ren'ren'ren'yu	1
+𦻏	cao'shang'ren'ren'ren'ren'qiao	1
+𦻏	cao'shang'ren'ren'ren'ren'kao	1
 𦻏	cao'shang'cong'cong'yu	1
 𦻏	cao'shang'cong'cong'qiao	1
 𦻏	cao'shang'cong'cong'kao	1
@@ -58575,6 +59120,11 @@
 𦹐	cao'guo	1
 𦹏	cao'huai	1
 𦹎	cao'bao'cong	1
+𦹌	cao'wei'yi'chong	1
+𦹌	cao'kou'yi'chong	1
+𦹌	cao'guo'yi'chong	1
+𦹋	cao'wang'fa	1
+𦹋	cao'si'fa	1
 𦹅	cao'wan	1
 𦹄	cao'shao	1
 𦹄	cao'chao	1
@@ -58618,6 +59168,7 @@
 𦸟	cao'e'jie'kai	1
 𦸞	bi'chong	1
 𦸝	cao'xi	1
+𦸜	cao'chong'hui	1
 𦸛	cao'chao	1
 𦸚	cao'xi	1
 𦸙	cao'you	1
@@ -58786,6 +59337,7 @@
 𦵳	cao'bao'xing	1
 𦵲	cao'zhou'you	1
 𦵱	cao'xie	1
+𦵰	cao'chong'tian	1
 𦵯	cao'hai	1
 𦵭	cao'sui	1
 𦵭	cao'ruo	1
@@ -59002,6 +59554,7 @@
 𦲛	cao'nv'na'ba	1
 𦲛	cao'nv'dian'ba	1
 𦲚	cao'zhuang	1
+𦲘	cao'chang'yao'sui	1
 𦲖	cao'yin	1
 𦲖	cao'qian	1
 𦲖	cao'lin	1
@@ -59318,6 +59871,9 @@
 𦭧	cao'za	1
 𦭦	cao'zhu	1
 𦭥	cao'yi	1
+𦭤	cao'wei'yi	1
+𦭤	cao'kou'yi	1
+𦭤	cao'guo'yi	1
 𦭣	cao'shan'dao	1
 𦭡	cao'si	1
 𦭠	cao'cang	1
@@ -59395,6 +59951,7 @@
 𦬕	cao'zhong	1
 𦬔	cao'zhao	1
 𦬓	cao'you	1
+𦬒	cao'er'shu	1
 𦬑	cao'nv	1
 𦬐	cao'pie'you	1
 𦬏	cao'che	1
@@ -59488,6 +60045,7 @@
 𦪳	zhou'hao	1
 𦪱	chen'qi'zhou	1
 𦪯	zhou'hu'wen	1
+𦪮	zhou'ren'ren'ren'ren'han'gong	1
 𦪮	zhou'cong'cong'han'gong	1
 𦪭	zhou'ta	1
 𦪭	zhou'da	1
@@ -59921,6 +60479,7 @@
 𦤔	zi'bao'fang	1
 𦤒	zi'da'shan	1
 𦤒	zi'da'san	1
+𦤑	zi'da'er'shu	1
 𦤏	zi'tian	1
 𦤎	zi'ben	1
 𦤊	zi'chou	1
@@ -59929,6 +60488,7 @@
 𦤇	zi'fan	1
 𦤆	zi'yun	1
 𦤅	cao'zi	1
+𦤄	cao'zi	1
 𦤃	zi'wang	1
 𦤂	zi'shu	1
 𦤁	zi'heng'wen	1
@@ -60156,6 +60716,8 @@
 𦠿	yue'za	1
 𦠾	yue'ji	1
 𦠽	yue'wei	1
+𦠼	yue'shun'gang'ji'er'shu	1
+𦠼	yue'chuan'gang'ji'er'shu	1
 𦠻	yue'fu	1
 𦠻	yue'fei	1
 𦠻	yue'bi	1
@@ -60186,6 +60748,7 @@
 𦠤	yue'suo	1
 𦠤	yue'rui	1
 𦠢	yue'jiu	1
+𦠡	ren'ren'ren'ren'mao	1
 𦠡	cong'cong'mao	1
 𦠠	yue'shan'che'er'jin	1
 𦠠	yue'shan'cao'er'jin	1
@@ -60346,6 +60909,7 @@
 𦞎	yue'yan	1
 𦞍	ji'rou	1
 𦞌	yue'heng	1
+𦞋	shan'shan'heng'li'rou	1
 𦞊	rou'juan	1
 𦞉	rou'jie	1
 𦞈	yue'hou	1
@@ -60706,9 +61270,13 @@
 𦘜	yu'xin'jie	1
 𦘛	nie'xin'jie	1
 𦘚	yu'xiong'tong'yi	1
+𦘚	yu'xiong'tong'ren	1
 𦘚	yu'xiong'jiong'yi	1
+𦘚	yu'xiong'jiong'ren	1
 𦘚	yu'kan'tong'yi	1
+𦘚	yu'kan'tong'ren	1
 𦘚	yu'kan'jiong'yi	1
+𦘚	yu'kan'jiong'ren	1
 𦘙	yu'xiong'ri	1
 𦘙	yu'kan'ri	1
 𦘘	yu'tong'ri	1
@@ -60716,7 +61284,9 @@
 𦘗	shi'yu	1
 𦘖	e'yu	1
 𦘕	yu'tong'yi'heng	1
+𦘕	yu'tong'ren'heng	1
 𦘕	yu'jiong'yi'heng	1
+𦘕	yu'jiong'ren'heng	1
 𦘔	yu'shan	1
 𦘔	yu'san	1
 𦘓	yu'li	1
@@ -60899,6 +61469,7 @@
 𦕶	er'zhe	1
 𦕵	er'lao	1
 𦕴	san'shu'li'er	1
+𦕴	feng'li'er	1
 𦕳	er'lao	1
 𦕲	er'he	1
 𦕱	er'si	1
@@ -61221,6 +61792,7 @@
 𦑤	hou'yu	1
 𦑣	yu'cha	1
 𦑢	san'shu'guan'yu	1
+𦑢	feng'guan'yu	1
 𦑡	shi'yu	1
 𦑠	yu'huang	1
 𦑟	yu'hong	1
@@ -61238,6 +61810,7 @@
 𦑕	yu'jin	1
 𦑔	ren'kou'nv'yu	1
 𦑓	san'shu'san'shu'yu	1
+𦑓	feng'feng'yu	1
 𦑑	xin'zuo'yu	1
 𦑐	yu'zhuan	1
 𦑐	yu'hui	1
@@ -61273,6 +61846,7 @@
 𦐳	bi'bao'yu	1
 𦐲	yu'mi'ri	1
 𦐲	yu'bao'ri	1
+𦐱	shan'shan'yu	1
 𦐰	gui'yu	1
 𦐯	yu'nei'er	1
 𦐭	yu'fei'fei	1
@@ -61502,6 +62076,8 @@
 𦍎	cao'wei	1
 𦍍	cao'zuo	1
 𦍌	cao'tu	1
+𦍋	kuang'er'shu	1
+𦍋	guan'er'shu	1
 𦍉	luo'qi	1
 𦍇	wang'chen'mian	1
 𦍇	wang'chen'bian	1
@@ -61546,7 +62122,9 @@
 𦌰	si'yi	1
 𦌰	si'qi	1
 𦌯	tong'yi'zhong'ma	1
+𦌯	tong'ren'zhong'ma	1
 𦌯	jiong'yi'zhong'ma	1
+𦌯	jiong'ren'zhong'ma	1
 𦌭	wang'zhi	1
 𦌭	si'zhi	1
 𦌬	wang'wu	1
@@ -61588,7 +62166,9 @@
 𦌚	wang'dian	1
 𦌚	si'dian	1
 𦌘	tong'yi'ceng	1
+𦌘	tong'ren'ceng	1
 𦌘	jiong'yi'ceng	1
+𦌘	jiong'ren'ceng	1
 𦌗	wang'chua	1
 𦌗	si'chua	1
 𦌕	wang'lu	1
@@ -61603,9 +62183,13 @@
 𦌐	wang'wei	1
 𦌏	wang'lu	1
 𦌎	tong'yi'bi	1
+𦌎	tong'ren'bi	1
 𦌎	jiong'yi'bi	1
+𦌎	jiong'ren'bi	1
 𦌍	tong'yi'wei	1
+𦌍	tong'ren'wei	1
 𦌍	jiong'yi'wei	1
+𦌍	jiong'ren'wei	1
 𦌊	wang'sou	1
 𦌊	wang'shuo	1
 𦌊	si'sou	1
@@ -61718,6 +62302,10 @@
 𦋏	si'lu	1
 𦋎	wang'yan	1
 𦋎	si'yan	1
+𦋌	tong'you'ni	1
+𦋌	tong'you'er	1
+𦋌	jiong'you'ni	1
+𦋌	jiong'you'er	1
 𦋋	wang'lou	1
 𦋋	si'lou	1
 𦋊	wang'qi	1
@@ -61734,13 +62322,17 @@
 𦋅	si'bao'gui	1
 𦋄	wang'fu	1
 𦋃	tong'yi'han	1
+𦋃	tong'ren'han	1
 𦋃	jiong'yi'han	1
+𦋃	jiong'ren'han	1
 𦋂	wang'shi	1
 𦋂	si'shi	1
 𦋁	wang'han	1
 𦋁	si'han	1
 𦋀	tong'yi'yuan	1
+𦋀	tong'ren'yuan	1
 𦋀	jiong'yi'yuan	1
+𦋀	jiong'ren'yuan	1
 𦊿	wang'you	1
 𦊿	si'you	1
 𦊾	wang'fou	1
@@ -61768,12 +62360,16 @@
 𦊱	jiong'yi'gui	1
 𦊱	jiong'ren'gui	1
 𦊰	tong'yi'si'yue	1
+𦊰	tong'ren'si'yue	1
 𦊰	jiong'yi'si'yue	1
+𦊰	jiong'ren'si'yue	1
 𦊯	wang'xu	1
 𦊯	si'xu	1
 𦊮	wang'mi	1
 𦊭	tong'yi'he	1
+𦊭	tong'ren'he	1
 𦊭	jiong'yi'he	1
+𦊭	jiong'ren'he	1
 𦊬	mi'yi'yi	1
 𦊬	bao'yi'yi	1
 𦊫	wang'guang	1
@@ -61781,7 +62377,9 @@
 𦊪	wang'he	1
 𦊩	wang'qie	1
 𦊨	tong'yi'qie	1
+𦊨	tong'ren'qie	1
 𦊨	jiong'yi'qie	1
+𦊨	jiong'ren'qie	1
 𦊧	nie'mu	1
 𦊦	tong'yi'mi'si	1
 𦊦	tong'yi'bao'si	1
@@ -61852,7 +62450,9 @@
 𦊁	wang'bi	1
 𦊁	si'bi	1
 𦊀	tong'yi'wang	1
+𦊀	tong'ren'wang	1
 𦊀	jiong'yi'wang	1
+𦊀	jiong'ren'wang	1
 𦉾	wang'wang	1
 𦉾	si'wang	1
 𦉽	wang'wang	1
@@ -61994,6 +62594,12 @@
 𦈆	wen'bao	1
 𦈅	si'lei'yi	1
 𦈅	mi'lei'yi	1
+𦈄	si'shun'wei'yi'tu'ji'heng'ji	1
+𦈄	si'shun'kou'yi'tu'ji'heng'ji	1
+𦈄	si'shun'guo'yi'tu'ji'heng'ji	1
+𦈄	si'chuan'wei'yi'tu'ji'heng'ji	1
+𦈄	si'chuan'kou'yi'tu'ji'heng'ji	1
+𦈄	si'chuan'guo'yi'tu'ji'heng'ji	1
 𦈃	si'nang	1
 𦈃	mi'nang	1
 𦈂	si'rao	1
@@ -62182,7 +62788,9 @@
 𦆨	si'lai	1
 𦆨	mi'li	1
 𦆨	mi'lai	1
+𦆧	si'ren'ren'ren'ren'shu'han'gong	1
 𦆧	si'cong'cong'shu'han'gong	1
+𦆧	mi'ren'ren'ren'ren'shu'han'gong	1
 𦆧	mi'cong'cong'shu'han'gong	1
 𦆦	si'yi	1
 𦆦	mi'yi	1
@@ -62536,6 +63144,8 @@
 𦃭	mi'dao	1
 𦃬	si'xiu	1
 𦃬	mi'xiu	1
+𦃫	si'bao'mu'chuan	1
+𦃫	mi'bao'mu'chuan	1
 𦃪	si'gou	1
 𦃪	mi'gou	1
 𦃩	si'ji	1
@@ -62546,6 +63156,10 @@
 𦃨	mi'jiu'mu	1
 𦃧	si'bai'shi	1
 𦃧	mi'bai'shi	1
+𦃥	si'yao'chuan	1
+𦃥	si'tao'chuan	1
+𦃥	mi'yao'chuan	1
+𦃥	mi'tao'chuan	1
 𦃤	wu'si	1
 𦃤	wu'mi	1
 𦃤	mao'si	1
@@ -62555,6 +63169,8 @@
 𦃡	si'wen'mi	1
 𦃡	mi'wen'si	1
 𦃡	mi'wen'mi	1
+𦃠	si'chong'tian	1
+𦃠	mi'chong'tian	1
 𦃟	zhua'si	1
 𦃟	zhao'si	1
 𦃞	si'si	1
@@ -62958,6 +63574,8 @@
 𦀄	mi'wei'wu	1
 𦀄	mi'kou'wu	1
 𦀄	mi'guo'wu	1
+𦀃	si'er'shu'jin	1
+𦀃	mi'er'shu'jin	1
 𦀂	zai'si	1
 𦀂	zai'mi	1
 𦀁	si'ruo	1
@@ -63180,6 +63798,8 @@
 𥾘	mi'tu	1
 𥾗	si'xiao	1
 𥾗	mi'xiao	1
+𥾖	si'chuan	1
+𥾖	mi'chuan	1
 𥾕	si'wu	1
 𥾕	mi'wu	1
 𥾔	si'tong'pie	1
@@ -63391,6 +64011,7 @@
 𥻫	bo'fan	1
 𥻫	bo'bu	1
 𥻫	bo'bo	1
+𥻪	mi'er'shu'shu'er'shu'heng'ba	1
 𥻩	mi'ming	1
 𥻨	mi'suo	1
 𥻧	mi'jian	1
@@ -63931,6 +64552,7 @@
 𥴐	zhu'zhan	1
 𥴏	zhu'jin'huo	1
 𥴎	zhu'gang'shi	1
+𥴍	zhu'mu'deng'er'shu	1
 𥴋	zhu'xia'er'qian	1
 𥴊	zhu'gan	1
 𥴉	zhu'ji'ji'yue	1
@@ -64030,6 +64652,7 @@
 𥲽	zhi'cuo	1
 𥲺	zhu'tian'zao	1
 𥲹	zhu'zhi'ri	1
+𥲷	zhu'shou'deng'er'shu	1
 𥲶	zhu'peng	1
 𥲵	zhu'peng	1
 𥲴	zhu'mu'shou	1
@@ -64060,6 +64683,7 @@
 𥲡	zhu'chuang	1
 𥲠	zhu'wang	1
 𥲟	zhu'diao	1
+𥲞	zhu'chong'hui	1
 𥲝	zhu'shan'shan'pi	1
 𥲜	zhu'hu'min	1
 𥲛	zhu'fu	1
@@ -64223,7 +64847,9 @@
 𥰔	zhu'pin	1
 𥰓	zhu'nei'wu	1
 𥰒	zhu'tong'yi'dai	1
+𥰒	zhu'tong'ren'dai	1
 𥰒	zhu'jiong'yi'dai	1
+𥰒	zhu'jiong'ren'dai	1
 𥰑	zhu'bing'bi	1
 𥰏	zhu'xiang	1
 𥰍	zhu'la	1
@@ -64375,6 +65001,7 @@
 𥮀	zhu'di	1
 𥭾	zhu'chuan	1
 𥭽	zhu'zu	1
+𥭼	zhu'shan'shui	1
 𥭺	zhu'sheng	1
 𥭹	zhu'wang'xi	1
 𥭶	zhu'mang	1
@@ -64700,9 +65327,13 @@
 𥨺	xue'chu'mi	1
 𥨹	xue'li	1
 𥨷	xue'pian'bu'tong'yi'jiong	1
+𥨷	xue'pian'bu'tong'ren'jiong	1
 𥨷	xue'pian'bu'jiong'yi'jiong	1
+𥨷	xue'pian'bu'jiong'ren'jiong	1
 𥨷	xue'pian'bo'tong'yi'jiong	1
+𥨷	xue'pian'bo'tong'ren'jiong	1
 𥨷	xue'pian'bo'jiong'yi'jiong	1
+𥨷	xue'pian'bo'jiong'ren'jiong	1
 𥨶	jiu'jiao	1
 𥨵	xue'shen'wo	1
 𥨵	xue'shen'wai	1
@@ -64829,7 +65460,9 @@
 𥦽	xue'shi	1
 𥦼	xue'zhe	1
 𥦻	xue'tong'yi'zheng	1
+𥦻	xue'tong'ren'zheng	1
 𥦻	xue'jiong'yi'zheng	1
+𥦻	xue'jiong'ren'zheng	1
 𥦺	xue'huan	1
 𥦹	xue'wen'yue	1
 𥦸	xue'fu	1
@@ -64988,6 +65621,10 @@
 𥤚	he'qiu'huo	1
 𥤚	he'jun'huo	1
 𥤚	he'gui'huo	1
+𥤙	he'cao'xuan'zhi	1
+𥤙	he'cao'xuan'huo	1
+𥤙	he'cao'song'zhi	1
+𥤙	he'cao'song'huo	1
 𥤘	he'jue	1
 𥤗	he'tang	1
 𥤗	he'dang	1
@@ -65015,6 +65652,7 @@
 𥤁	he'dun	1
 𥤁	he'chun	1
 𥤀	he'li	1
+𥣿	he'er'shu'lin	1
 𥣽	he'zhui'chuan	1
 𥣼	he'chu'gui	1
 𥣻	ying'li	1
@@ -65152,7 +65790,9 @@
 𥡻	bai'xiao'shan'he	1
 𥡻	bai'xiao'san'he	1
 𥡺	he'ren'tong'yi'jiong	1
+𥡺	he'ren'tong'ren'jiong	1
 𥡺	he'ren'jiong'yi'jiong	1
+𥡺	he'ren'jiong'ren'jiong	1
 𥡹	he'man	1
 𥡸	he'mo	1
 𥡶	he'chong	1
@@ -65334,6 +65974,7 @@
 𥟁	he'you	1
 𥟀	he'mai	1
 𥞿	li'shi	1
+𥞾	he'shan'shui	1
 𥞽	he'xin	1
 𥞼	he'wen'yue	1
 𥞻	he'bi	1
@@ -65468,6 +66109,12 @@
 𥝉	yu'jia'jiong'heng'dian	1
 𥝇	pou'yu	1
 𥝇	ju'yu	1
+𥝅	pou'wei'yi'rou	1
+𥝅	pou'kou'yi'rou	1
+𥝅	pou'guo'yi'rou	1
+𥝅	ju'wei'yi'rou	1
+𥝅	ju'kou'yi'rou	1
+𥝅	ju'guo'yi'rou	1
 𥝄	kuang'wei'yi'rou	1
 𥝄	kuang'kou'yi'rou	1
 𥝄	kuang'guo'yi'rou	1
@@ -65476,6 +66123,12 @@
 𥝄	guan'guo'yi'rou	1
 𥝃	fu'yu	1
 𥝂	yu'e	1
+𥝁	shun'wei'yi'rou	1
+𥝁	shun'kou'yi'rou	1
+𥝁	shun'guo'yi'rou	1
+𥝁	chuan'wei'yi'rou	1
+𥝁	chuan'kou'yi'rou	1
+𥝁	chuan'guo'yi'rou	1
 𥝀	yu'ye	1
 𥜿	shun'yu	1
 𥜿	chuan'yu	1
@@ -65621,7 +66274,9 @@
 𥚿	shi'ba'fu'nv	1
 𥚾	shi'zong	1
 𥚼	shi'tong'yi'yu	1
+𥚼	shi'tong'ren'yu	1
 𥚼	shi'jiong'yi'yu	1
+𥚼	shi'jiong'ren'yu	1
 𥚻	shi'duan	1
 𥚺	shi'jie	1
 𥚹	shi'bian	1
@@ -65814,6 +66469,8 @@
 𥗳	shi'e	1
 𥗲	shi'pi	1
 𥗱	za'shi	1
+𥗰	shi'chen'tong'you	1
+𥗰	shi'chen'jiong'you	1
 𥗯	shi'weng	1
 𥗮	shi'que	1
 𥗮	shi'jue	1
@@ -65891,6 +66548,7 @@
 𥖷	shi'dao'chang'bi'ji	1
 𥖶	shi'bin	1
 𥖵	shi'yin	1
+𥖴	shi'ren'ren'ren'ren'fou	1
 𥖴	shi'cong'cong'fou	1
 𥖳	ji'shi	1
 𥖲	shi'shou	1
@@ -66108,6 +66766,7 @@
 𥔑	shi'sou	1
 𥔐	shi'he	1
 𥔏	san'shu'tian'shi	1
+𥔏	feng'tian'shi	1
 𥔎	shi'qi	1
 𥔍	shi'qiu	1
 𥔌	shi'yan	1
@@ -66158,7 +66817,9 @@
 𥓢	shi'bu	1
 𥓡	shi'shang	1
 𥓠	shi'heng'kou'tong'yi	1
+𥓠	shi'heng'kou'tong'ren	1
 𥓠	shi'heng'kou'jiong'yi	1
+𥓠	shi'heng'kou'jiong'ren	1
 𥓟	shi'xi'diao	1
 𥓞	shi'han	1
 𥓝	shi'dong	1
@@ -66322,6 +66983,8 @@
 𥐿	shi'dou	1
 𥐾	shi'gou	1
 𥐽	shi'mao	1
+𥐼	shi'tong'you	1
+𥐼	shi'jiong'you	1
 𥐻	shi'gang	1
 𥐺	shi'hu	1
 𥐹	shi'jing	1
@@ -66441,6 +67104,7 @@
 𥏑	yi'si'jiu	1
 𥏑	xian'si'jiu	1
 𥏐	shi'tu	1
+𥏏	yi'kou'you	1
 𥏎	shi'ting	1
 𥏍	shi'ming	1
 𥏌	shi'xian	1
@@ -66976,6 +67640,8 @@
 𥇩	mu'jiu'kao	1
 𥇧	mu'nai	1
 𥇦	mu'xi	1
+𥇤	mu'shi'xiong'er'shu	1
+𥇤	mu'shi'kan'er'shu	1
 𥇣	mu'qu	1
 𥇢	mu'zhan	1
 𥇡	wang'xing	1
@@ -67126,6 +67792,7 @@
 𥅐	wan'you'mu	1
 𥅎	mu'ba'kui	1
 𥅍	ling'mu	1
+𥅌	chong'mu	1
 𥅋	mu'shi	1
 𥅊	mu'pi	1
 𥅈	mu'li	1
@@ -67169,11 +67836,14 @@
 𥄡	mu'zhong	1
 𥄠	mu'huan	1
 𥄟	fen'mu	1
+𥄞	mu'tong'you	1
+𥄞	mu'jiong'you	1
 𥄝	mu'heng'shan	1
 𥄜	mu'jian	1
 𥄛	mu'yu	1
 𥄚	mu'zhang	1
 𥄚	mu'ju	1
+𥄙	mu'heng'chuan	1
 𥄘	ba'dao'mu	1
 𥄗	mu'zhao	1
 𥄕	kuang'mu	1
@@ -67294,6 +67964,30 @@
 𥂹	you'you	1
 𥂸	yang'min	1
 𥂷	gao'ju'min	1
+𥂶	yi'tong'xiong'wei'yi'min	1
+𥂶	yi'tong'xiong'kou'yi'min	1
+𥂶	yi'tong'xiong'guo'yi'min	1
+𥂶	yi'tong'kan'wei'yi'min	1
+𥂶	yi'tong'kan'kou'yi'min	1
+𥂶	yi'tong'kan'guo'yi'min	1
+𥂶	yi'jiong'xiong'wei'yi'min	1
+𥂶	yi'jiong'xiong'kou'yi'min	1
+𥂶	yi'jiong'xiong'guo'yi'min	1
+𥂶	yi'jiong'kan'wei'yi'min	1
+𥂶	yi'jiong'kan'kou'yi'min	1
+𥂶	yi'jiong'kan'guo'yi'min	1
+𥂶	tou'tong'xiong'wei'yi'min	1
+𥂶	tou'tong'xiong'kou'yi'min	1
+𥂶	tou'tong'xiong'guo'yi'min	1
+𥂶	tou'tong'kan'wei'yi'min	1
+𥂶	tou'tong'kan'kou'yi'min	1
+𥂶	tou'tong'kan'guo'yi'min	1
+𥂶	tou'jiong'xiong'wei'yi'min	1
+𥂶	tou'jiong'xiong'kou'yi'min	1
+𥂶	tou'jiong'xiong'guo'yi'min	1
+𥂶	tou'jiong'kan'wei'yi'min	1
+𥂶	tou'jiong'kan'kou'yi'min	1
+𥂶	tou'jiong'kan'guo'yi'min	1
 𥂴	dian'min	1
 𥂳	ping'min	1
 𥂳	feng'min	1
@@ -67304,7 +67998,9 @@
 𥂯	cao'tan'min	1
 𥂮	hei'min	1
 𥂬	lin'tong'yi'min	1
+𥂬	lin'tong'ren'min	1
 𥂬	lin'jiong'yi'min	1
+𥂬	lin'jiong'ren'min	1
 𥂫	can'min	1
 𥂪	san'min	1
 𥂩	gu'yao'min	1
@@ -67479,9 +68175,11 @@
 𥀘	yu'pi'pi	1
 𥀗	man'pi	1
 𥀖	pi'zhong'heng'hui	1
+𥀖	pi'chong'hui	1
 𥀕	bi'pi	1
 𥀔	lu'pi	1
 𥀓	liu'pi	1
+𥀒	pi'chong'tian	1
 𥀏	za'pi	1
 𥀍	neng'pi	1
 𥀌	pi'tai	1
@@ -67704,6 +68402,7 @@
 𤽊	bai'bi	1
 𤽉	bai'fen	1
 𤽈	bai'huo	1
+𤽇	bai'chuan	1
 𤽅	bai'wu	1
 𤽄	bai'xiao	1
 𤽃	bai'chuan	1
@@ -67723,6 +68422,7 @@
 𤼶	deng'li	1
 𤼴	deng'nong'qu	1
 𤼴	deng'gong'qu	1
+𤼳	deng'lu'er'shu	1
 𤼲	deng'wen'gong	1
 𤼱	cao'deng'sui	1
 𤼰	deng'ri'gong	1
@@ -68182,6 +68882,7 @@
 𤶭	ne'dai	1
 𤶬	ne'shu	1
 𤶫	ne'tiao	1
+𤶪	ne'cao'er'shu	1
 𤶩	ne'qiu	1
 𤶨	ne'yan	1
 𤶨	ne'gen	1
@@ -68212,6 +68913,7 @@
 𤶐	ne'cun	1
 𤶏	ne'guang	1
 𤶎	ne'zhu	1
+𤶍	ne'shan'shan	1
 𤶋	ne'se	1
 𤶊	ne'ren'yun	1
 𤶉	ne'shen'na	1
@@ -68394,6 +69096,8 @@
 𤳭	tian'tian'feng'wan	1
 𤳭	jiang'san'shu'yuan	1
 𤳭	jiang'san'shu'wan	1
+𤳭	jiang'feng'yuan	1
+𤳭	jiang'feng'wan	1
 𤳫	zai'ping	1
 𤳪	yi'tian	1
 𤳪	yan'tian	1
@@ -69284,9 +69988,13 @@
 𤩄	yu'xun	1
 𤩄	wang'xun	1
 𤩃	yu'tong'yi'yan	1
+𤩃	yu'tong'ren'yan	1
 𤩃	yu'jiong'yi'yan	1
+𤩃	yu'jiong'ren'yan	1
 𤩃	wang'tong'yi'yan	1
+𤩃	wang'tong'ren'yan	1
 𤩃	wang'jiong'yi'yan	1
+𤩃	wang'jiong'ren'yan	1
 𤩂	yu'liao	1
 𤩂	yu'lao	1
 𤩂	wang'liao	1
@@ -69439,9 +70147,13 @@
 𤧱	wang'si'tong'ge	1
 𤧱	wang'si'jiong'ge	1
 𤧯	yu'pie'tong'yi'ba'wen	1
+𤧯	yu'pie'tong'ren'ba'wen	1
 𤧯	yu'pie'jiong'yi'ba'wen	1
+𤧯	yu'pie'jiong'ren'ba'wen	1
 𤧯	wang'pie'tong'yi'ba'wen	1
+𤧯	wang'pie'tong'ren'ba'wen	1
 𤧯	wang'pie'jiong'yi'ba'wen	1
+𤧯	wang'pie'jiong'ren'ba'wen	1
 𤧭	yu'pang	1
 𤧭	wang'pang	1
 𤧬	er'zhao'yu	1
@@ -69509,7 +70221,9 @@
 𤧊	yu'da'gui	1
 𤧊	wang'da'gui	1
 𤧉	yu'san'shu'si'xiao	1
+𤧉	yu'feng'si'xiao	1
 𤧉	wang'san'shu'si'xiao	1
+𤧉	wang'feng'si'xiao	1
 𤧈	yu'xiang	1
 𤧈	wang'xiang	1
 𤧇	yu'xiang	1
@@ -69860,6 +70574,8 @@
 𤤕	wang'fu	1
 𤤔	yu'li	1
 𤤔	wang'li	1
+𤤓	yu'shan'er'shu	1
+𤤓	wang'shan'er'shu	1
 𤤒	yu'ba	1
 𤤒	wang'ba	1
 𤤑	yu'qiong	1
@@ -70870,6 +71586,7 @@
 𤖅	pian'xi'dian'shui	1
 𤖃	pian'li	1
 𤖂	pian'shu	1
+𤖁	pian'cao'yu	1
 𤖀	pian'pang	1
 𤖀	pian'feng	1
 𤕾	pian'qiu	1
@@ -71125,6 +71842,10 @@
 𤒔	huo'fu	1
 𤒒	gu'kou'ren'wan'huo	1
 𤒑	huo'lin	1
+𤒐	pie'tong'wen'mi'fen	1
+𤒐	pie'tong'wen'bao'fen	1
+𤒐	pie'jiong'wen'mi'fen	1
+𤒐	pie'jiong'wen'bao'fen	1
 𤒏	chou'huo	1
 𤒎	huo'xue	1
 𤒎	huo'jiao	1
@@ -71207,8 +71928,12 @@
 𤑈	huo'zheng	1
 𤑇	tong'yi'mi'fen	1
 𤑇	tong'yi'bao'fen	1
+𤑇	tong'ren'mi'fen	1
+𤑇	tong'ren'bao'fen	1
 𤑇	jiong'yi'mi'fen	1
 𤑇	jiong'yi'bao'fen	1
+𤑇	jiong'ren'mi'fen	1
+𤑇	jiong'ren'bao'fen	1
 𤑅	ren'kuang'yan'huo	1
 𤑅	ren'fang'yan'huo	1
 𤑄	ying'huo	1
@@ -71332,6 +72057,12 @@
 𤏕	shun'jiong'yan	1
 𤏕	chuan'jiong'yan	1
 𤏔	huo'hao	1
+𤏓	huo'pie'tong'bian'yu	1
+𤏓	huo'pie'tong'bian'qiao	1
+𤏓	huo'pie'tong'bian'kao	1
+𤏓	huo'pie'jiong'bian'yu	1
+𤏓	huo'pie'jiong'bian'qiao	1
+𤏓	huo'pie'jiong'bian'kao	1
 𤏒	chang'yan	1
 𤏑	huo'cao'pie'heng'yu	1
 𤏐	huo'jian	1
@@ -71414,6 +72145,9 @@
 𤍽	yi'huo	1
 𤍽	shi'huo	1
 𤍼	huo'he'cong	1
+𤍺	huo'ren'ren'ren'ren'shu'yu	1
+𤍺	huo'ren'ren'ren'ren'shu'qiao	1
+𤍺	huo'ren'ren'ren'ren'shu'kao	1
 𤍺	huo'cong'cong'shu'yu	1
 𤍺	huo'cong'cong'shu'qiao	1
 𤍺	huo'cong'cong'shu'kao	1
@@ -71572,6 +72306,8 @@
 𤋭	huo'xiang	1
 𤋬	huo'shen'wen	1
 𤋫	huo'shi	1
+𤋩	huo'xiao'mi'wen	1
+𤋩	huo'xiao'bao'wen	1
 𤋨	huo'zuo'chou	1
 𤋧	tian'huo	1
 𤋦	qiu'huo	1
@@ -71640,6 +72376,7 @@
 𤊭	huo'guang'shi	1
 𤊬	huo'fei	1
 𤊫	huo'po	1
+𤊪	huo'shu'shu'er'shu'heng'ba	1
 𤊩	huo'lin	1
 𤊨	huo'huo	1
 𤊧	huo'zhi	1
@@ -71695,6 +72432,7 @@
 𤉵	gou'huo	1
 𤉳	huo'zong	1
 𤉲	yao'huo	1
+𤉰	hu'wen'huo	1
 𤉮	huo'pou	1
 𤉭	zhi'jiong	1
 𤉬	huo'yi'si'mu	1
@@ -71782,6 +72520,7 @@
 𤈛	huo'guang	1
 𤈙	huo'yi	1
 𤈘	huo'lie	1
+𤈗	shan'shan'huo	1
 𤈖	se'huo	1
 𤈕	duo'huo	1
 𤈔	tu'gong'huo	1
@@ -71850,6 +72589,8 @@
 𤇔	huo'dao'xi	1
 𤇓	sheng'huo	1
 𤇒	huo'ce	1
+𤇑	xiao'mi'huo	1
+𤇑	xiao'bao'huo	1
 𤇐	shu'shu'ji'huo	1
 𤇏	zheng'huo	1
 𤇏	cheng'huo	1
@@ -71914,6 +72655,7 @@
 𤆛	bo'gou'huo	1
 𤆘	huo'fan	1
 𤆗	kou'huo	1
+𤆖	er'shu'huo	1
 𤆕	ren'huo	1
 𤆔	ji'huo	1
 𤆓	huo'guang	1
@@ -72585,6 +73327,7 @@
 𣼎	shui'que	1
 𣼍	shui'lun	1
 𣼌	shui'san'shu'yao'yue	1
+𣼌	shui'feng'yao'yue	1
 𣼊	shui'xie'sui	1
 𣼊	shui'xia'sui	1
 𣼊	shui'jia'sui	1
@@ -72614,6 +73357,7 @@
 𣻷	shui'wei	1
 𣻳	shui'qing	1
 𣻳	shui'kui	1
+𣻲	shui'chong'hui	1
 𣻱	shui'zhou	1
 𣻰	shui'wei	1
 𣻯	qing'shui	1
@@ -72894,6 +73638,7 @@
 𣷚	xia'shui	1
 𣷚	jia'shui	1
 𣷚	ga'shui	1
+𣷙	hu'wen'shui	1
 𣷘	shui'mu'shui	1
 𣷗	qu'shui	1
 𣷖	yi'ren'shui	1
@@ -73109,6 +73854,7 @@
 𣴈	shui'bao'dao	1
 𣴇	shui'yan	1
 𣴆	shui'yu	1
+𣴅	shui'shi'er'shu	1
 𣴄	shui'mi'ji	1
 𣴄	shui'bao'ji	1
 𣴃	shui'hai	1
@@ -73150,6 +73896,7 @@
 𣳝	shui'guang'shi	1
 𣳜	shui'fan	1
 𣳛	shui'pie'shui	1
+𣳚	shui'kou'you	1
 𣳙	shui'han	1
 𣳙	shui'an	1
 𣳘	shui'shi	1
@@ -73162,6 +73909,7 @@
 𣳑	shui'shen	1
 𣳐	shui'kuang'nv	1
 𣳐	shui'fang'nv	1
+𣳏	shui'er'shu'you	1
 𣳎	shui'pi	1
 𣳊	shui'bi'tu	1
 𣳉	shui'si	1
@@ -73656,8 +74404,12 @@
 𣬎	chuo'guai	1
 𣬌	pie'tong'yi'mi'bi	1
 𣬌	pie'tong'yi'bao'bi	1
+𣬌	pie'tong'ren'mi'bi	1
+𣬌	pie'tong'ren'bao'bi	1
 𣬌	pie'jiong'yi'mi'bi	1
 𣬌	pie'jiong'yi'bao'bi	1
+𣬌	pie'jiong'ren'mi'bi	1
+𣬌	pie'jiong'ren'bao'bi	1
 𣬊	bi'qian	1
 𣬊	bi'jian	1
 𣬉	xin'bi	1
@@ -73718,6 +74470,7 @@
 𣫜	sheng'zhuo	1
 𣫜	qing'zhuo	1
 𣫜	keng'zhuo	1
+𣫚	li'er'shu'shi'shu	1
 𣫙	sheng'gao	1
 𣫙	qing'gao	1
 𣫙	keng'gao	1
@@ -74083,8 +74836,11 @@
 𣦚	bu'zhi'shu	1
 𣦙	zhi'nie'zhi	1
 𣦘	niao'zhi	1
+𣦗	zhi'wei'ren'ren'ren'ren	1
 𣦗	zhi'wei'cong'cong	1
+𣦗	zhi'kou'ren'ren'ren'ren	1
 𣦗	zhi'kou'cong'cong	1
+𣦗	zhi'guo'ren'ren'ren'ren	1
 𣦗	zhi'guo'cong'cong	1
 𣦖	zhuo'bu	1
 𣦕	zhi'ri'shang'zhi	1
@@ -74149,7 +74905,9 @@
 𣥛	zheng'xi	1
 𣥚	yao'zhi	1
 𣥙	tong'yi'zhi	1
+𣥙	tong'ren'zhi	1
 𣥙	jiong'yi'zhi	1
+𣥙	jiong'ren'zhi	1
 𣥘	zhi'ba	1
 𣥗	zhi'zhi	1
 𣥖	zhi'zhi	1
@@ -74201,7 +74959,9 @@
 𣤮	gan'qian	1
 𣤭	xian'si'qian	1
 𣤭	xian'mi'qian	1
+𣤬	kuang'heng'ren'ren'ren'ren'ge'ge'qian	1
 𣤬	kuang'heng'cong'cong'ge'ge'qian	1
+𣤬	guan'heng'ren'ren'ren'ren'ge'ge'qian	1
 𣤬	guan'heng'cong'cong'ge'ge'qian	1
 𣤫	shou'qian	1
 𣤪	yu'jin'qian	1
@@ -74467,6 +75227,8 @@
 𣠸	mu'guan	1
 𣠷	mu'jian	1
 𣠶	zhu'du	1
+𣠴	qi'shan'tong'you'wen	1
+𣠴	qi'shan'jiong'you'wen	1
 𣠳	rou'zhan	1
 𣠲	mu'li	1
 𣠱	mu'zan	1
@@ -74536,9 +75298,13 @@
 𣟹	mu'cen	1
 𣟹	mu'can	1
 𣟸	mu'mi	1
+𣟷	mu'shu'bu'tong'ren'ren'ren'ren'wen	1
 𣟷	mu'shu'bu'tong'cong'cong'wen	1
+𣟷	mu'shu'bu'jiong'ren'ren'ren'ren'wen	1
 𣟷	mu'shu'bu'jiong'cong'cong'wen	1
+𣟷	mu'shu'bo'tong'ren'ren'ren'ren'wen	1
 𣟷	mu'shu'bo'tong'cong'cong'wen	1
+𣟷	mu'shu'bo'jiong'ren'ren'ren'ren'wen	1
 𣟷	mu'shu'bo'jiong'cong'cong'wen	1
 𣟶	cao'zhi'mu	1
 𣟵	mu'yi	1
@@ -74694,6 +75460,7 @@
 𣝷	shou'mu	1
 𣝶	mu'suan	1
 𣝵	mu'lv	1
+𣝴	fan'da'er'shu	1
 𣝳	mu'bi	1
 𣝲	mu'feng	1
 𣝯	ci'ji	1
@@ -75178,6 +75945,7 @@
 𣖕	mu'ping	1
 𣖔	mu'hou	1
 𣖓	mu'san'shu'er'sui	1
+𣖓	mu'feng'er'sui	1
 𣖒	mu'wang'ba	1
 𣖐	mu'po	1
 𣖏	mu'mao'bao	1
@@ -75258,6 +76026,7 @@
 𣕃	mu'yu	1
 𣕂	mu'juan	1
 𣕁	wa'mu	1
+𣕀	mu'lei'er'shu	1
 𣔾	mu'sui	1
 𣔽	gui'mu	1
 𣔼	mu'gan	1
@@ -75525,12 +76294,20 @@
 𣐸	mu'tian	1
 𣐷	tong'yi'mi'mu	1
 𣐷	tong'yi'bao'mu	1
+𣐷	tong'ren'mi'mu	1
+𣐷	tong'ren'bao'mu	1
 𣐷	jiong'yi'mi'mu	1
 𣐷	jiong'yi'bao'mu	1
+𣐷	jiong'ren'mi'mu	1
+𣐷	jiong'ren'bao'mu	1
 𣐶	mu'tong'yi'tong	1
 𣐶	mu'tong'yi'jiong	1
+𣐶	mu'tong'ren'tong	1
+𣐶	mu'tong'ren'jiong	1
 𣐶	mu'jiong'yi'tong	1
 𣐶	mu'jiong'yi'jiong	1
+𣐶	mu'jiong'ren'tong	1
+𣐶	mu'jiong'ren'jiong	1
 𣐴	mu'shi	1
 𣐳	mu'shi	1
 𣐲	mu'jiao	1
@@ -75898,6 +76675,7 @@
 𣋲	ri'lie	1
 𣋰	bao'fan	1
 𣋮	xing'hu'kui	1
+𣋭	ri'cao'juan	1
 𣋬	ri'shou	1
 𣋫	qian'ri	1
 𣋫	jian'ri	1
@@ -75976,6 +76754,7 @@
 𣊨	hui'heng'ba'ri	1
 𣊨	hu'heng'ba'ri	1
 𣊧	ming'ming	1
+𣊦	ren'ren'ren'ren'chang	1
 𣊦	cong'cong'chang	1
 𣊥	ri'chang'gong'yi'huo	1
 𣊤	xu'chen	1
@@ -76236,6 +77015,7 @@
 𣆬	ri'wang'chuan	1
 𣆫	jiu'ri	1
 𣆪	ri'wu	1
+𣆨	jiu'ji'er'shu	1
 𣆧	ri'wu'wu	1
 𣆦	ri'zhu	1
 𣆥	guang'ri	1
@@ -76260,10 +77040,12 @@
 𣆑	ce'ri	1
 𣆐	ri'lu	1
 𣆏	ri'pi	1
+𣆎	ri'ji'er'shu	1
 𣆍	ri'fang'gou	1
 𣆌	yuan'ri	1
 𣆌	wan'ri	1
 𣆋	ri'ren'xiao	1
+𣆊	chong'ri	1
 𣆈	ri'wu	1
 𣆇	shi'ri	1
 𣆆	ri'bai	1
@@ -76727,12 +77509,20 @@
 𢿞	liao'pu	1
 𢿝	bu'tong'yi'tong'si'pu	1
 𢿝	bu'tong'yi'jiong'si'pu	1
+𢿝	bu'tong'ren'tong'si'pu	1
+𢿝	bu'tong'ren'jiong'si'pu	1
 𢿝	bu'jiong'yi'tong'si'pu	1
 𢿝	bu'jiong'yi'jiong'si'pu	1
+𢿝	bu'jiong'ren'tong'si'pu	1
+𢿝	bu'jiong'ren'jiong'si'pu	1
 𢿝	bo'tong'yi'tong'si'pu	1
 𢿝	bo'tong'yi'jiong'si'pu	1
+𢿝	bo'tong'ren'tong'si'pu	1
+𢿝	bo'tong'ren'jiong'si'pu	1
 𢿝	bo'jiong'yi'tong'si'pu	1
 𢿝	bo'jiong'yi'jiong'si'pu	1
+𢿝	bo'jiong'ren'tong'si'pu	1
+𢿝	bo'jiong'ren'jiong'si'pu	1
 𢿜	man'wen	1
 𢿛	qu'wen	1
 𢿛	qiu'wen	1
@@ -77065,6 +77855,8 @@
 𢺪	shou'chen'chen'chen	1
 𢺩	shou'hong	1
 𢺨	shou'chun	1
+𢺦	shou'bao'mu'dao'bing	1
+𢺦	shou'bao'mang'dao'bing	1
 𢺤	shou'lan	1
 𢺢	shou'lei	1
 𢺡	shou'zhu	1
@@ -77479,9 +78271,18 @@
 𢴱	shou'lei	1
 𢴰	shou'qi	1
 𢴰	shou'ji	1
+𢴯	shou'cao'tu'cao'kou	1
 𢴮	shou'xu	1
 𢴭	jue'shou	1
 𢴬	shou'ban	1
+𢴫	shou'shun'tong'yi'ji'er'shu	1
+𢴫	shou'shun'tong'ren'ji'er'shu	1
+𢴫	shou'shun'jiong'yi'ji'er'shu	1
+𢴫	shou'shun'jiong'ren'ji'er'shu	1
+𢴫	shou'chuan'tong'yi'ji'er'shu	1
+𢴫	shou'chuan'tong'ren'ji'er'shu	1
+𢴫	shou'chuan'jiong'yi'ji'er'shu	1
+𢴫	shou'chuan'jiong'ren'ji'er'shu	1
 𢴪	shou'kuan	1
 𢴩	shou'bi	1
 𢴨	shou'chi	1
@@ -77710,6 +78511,7 @@
 𢱐	cai'yao	1
 𢱏	shou'ding	1
 𢱏	cai'ding	1
+𢱎	shou'pie'er'shu'heng'feng	1
 𢱎	shou'bai	1
 𢱎	cai'bai	1
 𢱍	shou'mian	1
@@ -77730,6 +78532,7 @@
 𢱅	shou'geng'zhe	1
 𢱃	shou'ke	1
 𢱃	cai'ke	1
+𢱂	shou'heng'huo'heng'er'shu	1
 𢱁	shou'mu	1
 𢱁	shou'mo	1
 𢱁	shou'cao'mu	1
@@ -77965,6 +78768,7 @@
 𢯆	shou'jian	1
 𢯆	shou'can	1
 𢯅	shou'lu	1
+𢯄	hu'wen'shou	1
 𢯃	shou'diu'er	1
 𢯂	shou'tu	1
 𢮿	shou'guai	1
@@ -78301,6 +79105,7 @@
 𢪜	shou'chang'han	1
 𢪛	shou'wen	1
 𢪙	shou'shou	1
+𢪙	pie'er'shu'heng'er'shu	1
 𢪘	fen'shou	1
 𢪗	shou'pu	1
 𢪖	shou'wen	1
@@ -78563,6 +79368,7 @@
 𢦕	ge'fan	1
 𢦔	ge'cai	1
 𢦓	wu'dao	1
+𢦒	ge'er'shu	1
 𢦏	ge'shi	1
 𢦎	jiu'ge	1
 𢦌	heng'ge	1
@@ -79050,6 +79856,7 @@
 𢟣	xin'yang	1
 𢟢	xin'li	1
 𢟡	xin'fu	1
+𢟡	xin'cao'bao'yong	1
 𢟡	xin'bei	1
 𢟠	xin'xun	1
 𢟟	xin'jia	1
@@ -79591,6 +80398,7 @@
 𢗥	yi'xin	1
 𢗤	fu'xin	1
 𢗣	san'shu'xin	1
+𢗣	feng'xin	1
 𢗢	xin'sheng	1
 𢗡	xin'wen	1
 𢗠	xin'qie	1
@@ -79650,6 +80458,7 @@
 𢖬	xin'bi	1
 𢖫	dao'xin	1
 𢖪	xin'gou	1
+𢖨	wei'heng'dao'shu'you'xi'jin	1
 𢖧	ren'nang	1
 𢖧	chi'nang	1
 𢖦	ren'jue	1
@@ -80013,7 +80822,9 @@
 𢓧	ren'di	1
 𢓧	chi'di	1
 𢓦	ren'san'shu'er	1
+𢓦	ren'feng'er	1
 𢓦	chi'san'shu'er	1
+𢓦	chi'feng'er	1
 𢓥	ren'guang	1
 𢓥	chi'guang	1
 𢓤	ren'jiang	1
@@ -80156,6 +80967,8 @@
 𢒤	san'huan	1
 𢒣	bai'da'shan	1
 𢒣	bai'da'san	1
+𢒠	ri'dao'jin'shan	1
+𢒠	ri'dao'jin'san	1
 𢒟	zheng'shan	1
 𢒟	zheng'san	1
 𢒟	zhen'shan	1
@@ -80249,9 +81062,11 @@
 𢑠	shan'shan'yi	1
 𢑟	shan'mi'fa	1
 𢑟	shan'bao'fa	1
+𢑞	ji'ba'heng'dao'jin	1
 𢑝	shan'shan'you	1
 𢑝	shan'shan'yin	1
 𢑜	shan'dian	1
+𢑙	shan'dao'shui	1
 𢑗	ji'pie'shui	1
 𢑖	shan'jia	1
 𢑓	ji'er'yi	1
@@ -80289,8 +81104,11 @@
 𢐲	jiang'fan	1
 𢐱	du'wo'gong	1
 𢐰	gong'xu	1
+𢐯	cao'gong'wo'gong	1
 𢐮	jiang'pan	1
 𢐮	jiang'fan	1
+𢐭	pie'tong'jue'jiang	1
+𢐭	pie'jiong'jue'jiang	1
 𢐬	jiang'you	1
 𢐬	jiang'yao	1
 𢐫	zhou'jin	1
@@ -80318,6 +81136,8 @@
 𢐘	jiang'zhang	1
 𢐘	jiang'chang	1
 𢐗	gong'yu	1
+𢐖	gong'cao'ri'nong	1
+𢐖	gong'cao'ri'gong	1
 𢐕	gong'piao	1
 𢐔	gong'zong	1
 𢐔	gong'cong	1
@@ -80578,8 +81398,12 @@
 𢌼	cheng'gong	1
 𢌺	tong'yi'nong	1
 𢌺	tong'yi'gong	1
+𢌺	tong'ren'nong	1
+𢌺	tong'ren'gong	1
 𢌺	jiong'yi'nong	1
 𢌺	jiong'yi'gong	1
+𢌺	jiong'ren'nong	1
+𢌺	jiong'ren'gong	1
 𢌹	min'nong	1
 𢌹	min'gong	1
 𢌹	lin'nong	1
@@ -80893,6 +81717,7 @@
 𢈱	guang'li	1
 𢈰	geng'shi	1
 𢈯	guang'shen	1
+𢈮	guang'chong'ba	1
 𢈭	guang'xiao	1
 𢈫	guang'chen	1
 𢈪	guang'wu	1
@@ -81068,6 +81893,7 @@
 𢆒	shang'qian	1
 𢆒	shang'jian	1
 𢆑	ren'ren'ren'gan	1
+𢆐	zuo'er'shu'gan	1
 𢆏	wu'yi'shi	1
 𢆏	wu'tou'shi	1
 𢆎	heng'huo'gan	1
@@ -81523,9 +82349,13 @@
 𢀃	shi'ji'che'shun	1
 𢀃	shi'ji'che'chuan	1
 𢀂	shun'tong'yi'ji'shui	1
+𢀂	shun'tong'ren'ji'shui	1
 𢀂	shun'jiong'yi'ji'shui	1
+𢀂	shun'jiong'ren'ji'shui	1
 𢀂	chuan'tong'yi'ji'shui	1
+𢀂	chuan'tong'ren'ji'shui	1
 𢀂	chuan'jiong'yi'ji'shui	1
+𢀂	chuan'jiong'ren'ji'shui	1
 𢀁	shun'fan'ba	1
 𢀁	chuan'fan'ba	1
 𡿿	huo'shun	1
@@ -81696,6 +82526,7 @@
 𡾄	shan'shuo	1
 𡾄	shan'shu	1
 𡾁	shan'tong	1
+𡾀	shen'ren'ren'ren'ren'kui	1
 𡾀	shen'cong'cong'kui	1
 𡽿	shi'zong	1
 𡽾	shan'kan	1
@@ -82136,6 +82967,8 @@
 𡸐	shan'cao'fen	1
 𡸏	shan'wei	1
 𡸎	shan'ji	1
+𡸍	shan'tong'kou'you	1
+𡸍	shan'jiong'kou'you	1
 𡸌	shan'zhu	1
 𡸊	shan'mian	1
 𡸉	shan'li	1
@@ -82314,7 +83147,9 @@
 𡵢	shan'you	1
 𡵡	wen'shan	1
 𡵠	tong'yi'shan	1
+𡵠	tong'ren'shan	1
 𡵠	jiong'yi'shan	1
+𡵠	jiong'ren'shan	1
 𡵟	shan'ba	1
 𡵞	shan'feng	1
 𡵝	shan'cong	1
@@ -82343,6 +83178,7 @@
 𡵇	shan'zi	1
 𡵆	shan'si	1
 𡵅	shan'chuan	1
+𡵄	shan'er'shu	1
 𡵃	shan'gan	1
 𡵂	shan'heng'ji	1
 𡵁	dao'na'shan	1
@@ -82513,6 +83349,7 @@
 𡲺	shi'ji	1
 𡲸	wei'mi	1
 𡲶	wei'chu	1
+𡲵	shi'ren'ren'ren'ren'ji	1
 𡲵	shi'cong'cong'ji	1
 𡲴	shi'huo'mi	1
 𡲳	shi'ruo	1
@@ -82651,6 +83488,7 @@
 𡰯	shi'jin	1
 𡰮	xiong'shi	1
 𡰮	kan'shi	1
+𡰭	shi'chuan	1
 𡰬	shi'gong	1
 𡰫	shi'cha	1
 𡰪	shi'kou	1
@@ -82827,6 +83665,8 @@
 𡮘	mou'shao	1
 𡮗	hai'shao	1
 𡮖	xiao'you'chu'ji	1
+𡮕	xiao'mi'chuan	1
+𡮕	xiao'bao'chuan	1
 𡮔	mei'xiao	1
 𡮓	guai'shao	1
 𡮒	ji'gou'xiao	1
@@ -82857,6 +83697,8 @@
 𡭹	hai'shao	1
 𡭸	shao'tong	1
 𡭷	xiao'shi	1
+𡭵	xiao'mi'jia	1
+𡭵	xiao'bao'jia	1
 𡭴	xiao'xiao'ri	1
 𡭲	shao'chu	1
 𡭱	chu'shao	1
@@ -82876,6 +83718,8 @@
 𡭣	xiao'shao	1
 𡭢	xiao'mu	1
 𡭡	zuo'jiu'xiao	1
+𡭠	xiao'mi'bi	1
+𡭠	xiao'bao'bi	1
 𡭟	shao'da	1
 𡭞	xiao'huo	1
 𡭝	shao'xiao	1
@@ -82976,6 +83820,14 @@
 𡬓	bao'pian'cao'wang'bao'jin	1
 𡬓	bao'pian'cao'si'mi'jin	1
 𡬓	bao'pian'cao'si'bao'jin	1
+𡬒	bao'pian'cao'wang'mi'nie	1
+𡬒	bao'pian'cao'wang'bao'nie	1
+𡬒	bao'pian'cao'si'mi'nie	1
+𡬒	bao'pian'cao'si'bao'nie	1
+𡬑	bao'pian'cao'wang'mi'wu	1
+𡬑	bao'pian'cao'wang'bao'wu	1
+𡬑	bao'pian'cao'si'mi'wu	1
+𡬑	bao'pian'cao'si'bao'wu	1
 𡬐	yi'yi'yi	1
 𡬏	bao'wang'bao'wang'bao'wang	1
 𡬏	bao'bao'bao	1
@@ -83010,6 +83862,10 @@
 𡫿	bao'bao'jin	1
 𡫾	bao'mu'li'bing	1
 𡫾	bao'mang'li'bing	1
+𡫽	bao'pian'cao'wang'mi'nv	1
+𡫽	bao'pian'cao'wang'bao'nv	1
+𡫽	bao'pian'cao'si'mi'nv	1
+𡫽	bao'pian'cao'si'bao'nv	1
 𡫼	se'tu	1
 𡫹	mi'che'xian	1
 𡫹	mi'cao'xian	1
@@ -83048,6 +83904,8 @@
 𡫙	bao'gong'gong'you'you'bing	1
 𡫘	bao'fan	1
 𡫗	bao'fei'ren'mu	1
+𡫔	bao'pian'shan'mi'mu	1
+𡫔	bao'pian'shan'bao'mu	1
 𡫓	bao'dian	1
 𡫐	bao'lian	1
 𡫌	bao'mu	1
@@ -83069,6 +83927,8 @@
 𡪻	yan'gu	1
 𡪺	bao'deng	1
 𡪸	an'li	1
+𡪷	bao'pian'zhou	1
+𡪶	bao'pian'yan	1
 𡪵	bao'qin	1
 𡪴	su'liu	1
 𡪲	bao'gui	1
@@ -83095,6 +83955,7 @@
 𡪛	bin'bei	1
 𡪚	bao'zhuo'nv	1
 𡪙	an'ming	1
+𡪘	bao'pian'cai	1
 𡪗	bao'pian'heng'he	1
 𡪖	mi'xue	1
 𡪔	zai'mu	1
@@ -83156,6 +84017,8 @@
 𡩞	bao'gong'zheng	1
 𡩜	bao'san'shu'wang	1
 𡩜	bao'san'shu'si	1
+𡩜	bao'feng'wang	1
+𡩜	bao'feng'si	1
 𡩛	an'bai	1
 𡩚	bao'shan'geng	1
 𡩙	bao'sui	1
@@ -83169,6 +84032,7 @@
 𡩓	bao'sui'chong	1
 𡩒	bao'kan	1
 𡩐	bao'san'shu'tian	1
+𡩐	bao'feng'tian	1
 𡩏	bao'mei	1
 𡩎	bao'bi'mu	1
 𡩍	bao'nai'cheng	1
@@ -83222,6 +84086,7 @@
 𡨘	bao'tu	1
 𡨗	bao'zao	1
 𡨖	bao'li	1
+𡨓	bao'wu'chuan	1
 𡨒	bao'wang'da	1
 𡨑	mi'xiong	1
 𡨑	mi'kan	1
@@ -83670,6 +84535,12 @@
 𡢇	nv'wu	1
 𡢇	nv'hu	1
 𡢇	nv'e	1
+𡢆	nv'shun'wei'yi'xin	1
+𡢆	nv'shun'kou'yi'xin	1
+𡢆	nv'shun'guo'yi'xin	1
+𡢆	nv'chuan'wei'yi'xin	1
+𡢆	nv'chuan'kou'yi'xin	1
+𡢆	nv'chuan'guo'yi'xin	1
 𡢅	nv'yun	1
 𡢄	nv'min	1
 𡢃	nv'jian	1
@@ -83759,6 +84630,7 @@
 𡠱	nv'lun	1
 𡠰	nv'kun	1
 𡠯	nv'san'shu'nv'wen	1
+𡠯	nv'feng'nv'wen	1
 𡠮	nv'qi	1
 𡠮	nv'ji	1
 𡠭	nv'xue	1
@@ -83941,6 +84813,8 @@
 𡝺	nv'mei	1
 𡝹	nv'meng	1
 𡝸	qiang'nv	1
+𡝷	xiao'mi'an	1
+𡝷	xiao'bao'an	1
 𡝶	fang'nv	1
 𡝵	nv'zu	1
 𡝴	nv'yan	1
@@ -84271,6 +85145,8 @@
 𡘣	da'you	1
 𡘢	feng'li'guai	1
 𡘡	yi'da	1
+𡘠	pie'tong'niu'da	1
+𡘠	pie'jiong'niu'da	1
 𡘝	da'shu	1
 𡘛	da'nuan	1
 𡘚	da'yi	1
@@ -84279,7 +85155,9 @@
 𡘗	da'chong	1
 𡘕	chun'zhi	1
 𡘔	ba'tong'yi'da	1
+𡘔	ba'tong'ren'da	1
 𡘔	ba'jiong'yi'da	1
+𡘔	ba'jiong'ren'da	1
 𡘓	yan'shi	1
 𡘓	wei'shi	1
 𡘒	tai'tian	1
@@ -84333,6 +85211,8 @@
 𡗢	da'kua	1
 𡗡	da'che	1
 𡗡	da'cao	1
+𡗠	pie'tong'da	1
+𡗠	pie'jiong'da	1
 𡗟	da'ge	1
 𡗞	yao'da	1
 𡗝	da'gong	1
@@ -84460,6 +85340,7 @@
 𡕙	wen'yue	1
 𡕘	wen'niu	1
 𡕗	wen'jie	1
+𡕖	wen'er'shu	1
 𡕕	wen'zi	1
 𡕔	nai'wen	1
 𡕑	shou'peng	1
@@ -84486,6 +85367,9 @@
 𡕀	shi'ji'ju'huo	1
 𡕀	shi'ji'che'huo	1
 𡔿	ke'zou	1
+𡔽	shi'zhe'chong'ying	1
+𡔽	shi'zhe'chong'dou	1
+𡔽	shi'zhe'chong'cun	1
 𡔺	shi'mi'gong'kou'cun	1
 𡔺	shi'bao'gong'kou'cun	1
 𡔹	shi'mi'zhu	1
@@ -84510,6 +85394,12 @@
 𡔯	ji'ji	1
 𡔭	shi'fei	1
 𡔬	shi'yi'li	1
+𡔫	shi'mi'wei'yi'heng	1
+𡔫	shi'mi'kou'yi'heng	1
+𡔫	shi'mi'guo'yi'heng	1
+𡔫	shi'bao'wei'yi'heng	1
+𡔫	shi'bao'kou'yi'heng	1
+𡔫	shi'bao'guo'yi'heng	1
 𡔪	shi'mi'kou'tu	1
 𡔪	shi'bao'kou'tu	1
 𡔩	shi'mi'dian	1
@@ -84573,6 +85463,8 @@
 𡓭	ni'tu	1
 𡓭	mi'tu	1
 𡓫	tu'ying	1
+𡓪	xiao'mi'mo	1
+𡓪	xiao'bao'mo	1
 𡓨	tu'zuo'tu'zuo	1
 𡓧	tai'tu	1
 𡓧	lie'tu	1
@@ -84820,6 +85712,8 @@
 𡐅	tu'xue	1
 𡐄	tu'kou'le'you'mi'you	1
 𡐄	tu'kou'le'you'bao'you	1
+𡐃	tu'xiao'mi'er'kou'gou	1
+𡐃	tu'xiao'bao'er'kou'gou	1
 𡐂	sui'dao'tu	1
 𡏿	tu'bu	1
 𡏾	tu'ji	1
@@ -84961,6 +85855,7 @@
 𡍱	zang'tu	1
 𡍱	cang'tu	1
 𡍰	tu'ba	1
+𡍮	pie'tu'ren'ren'ren'ren	1
 𡍮	pie'tu'cong'cong	1
 𡍭	hen'tu	1
 𡍬	lu'jiong	1
@@ -84984,6 +85879,12 @@
 𡍚	tu'mu'mu	1
 𡍚	tu'lin	1
 𡍘	tu'zhi	1
+𡍗	tu'shun'wei'yi	1
+𡍗	tu'shun'kou'yi	1
+𡍗	tu'shun'guo'yi	1
+𡍗	tu'chuan'wei'yi	1
+𡍗	tu'chuan'kou'yi	1
+𡍗	tu'chuan'guo'yi	1
 𡍖	tu'lu	1
 𡍕	tu'yi'si'mu	1
 𡍕	tu'tou'si'mu	1
@@ -85023,6 +85924,8 @@
 𡌺	tu'meng	1
 𡌸	tu'tian'qi	1
 𡌸	tu'tian'ji	1
+𡌷	tu'shi'er'shu'xiong	1
+𡌷	tu'shi'er'shu'kan	1
 𡌶	tu'bing	1
 𡌶	tu'bang	1
 𡌶	tu'ban	1
@@ -85213,6 +86116,8 @@
 𡉱	tu'ran	1
 𡉰	xiong'tu	1
 𡉯	tu'niu	1
+𡉮	tong'you'tu	1
+𡉮	jiong'you'tu	1
 𡉭	tu'ri	1
 𡉬	tu'hu	1
 𡉫	tun'tu	1
@@ -85429,6 +86334,7 @@
 𡈎	kou'wu	1
 𡈎	guo'ya	1
 𡈎	guo'wu	1
+𡈍	tian'ren'ren'ren'ren	1
 𡈍	tian'cong'cong	1
 𡈊	wei'ma	1
 𡈊	kou'ma	1
@@ -85818,6 +86724,7 @@
 𡅨	kou'yan	1
 𡅧	kou'nuo	1
 𡅧	kou'nan	1
+𡅦	zhu'kou'you'jiu	1
 𡅥	kou'dian	1
 𡅣	kou'xiao	1
 𡅢	kou'jin	1
@@ -86475,6 +87382,8 @@
 𠼨	lei'kan	1
 𠼨	ji'xiong	1
 𠼨	ji'kan	1
+𠼧	pin'xiong'er'shu	1
+𠼧	pin'kan'er'shu	1
 𠼦	kou'man	1
 𠼥	kou'chu	1
 𠼤	kou'jian	1
@@ -86924,6 +87833,7 @@
 𠶇	diao'yong	1
 𠶅	kou'zhao	1
 𠶃	kou'wan	1
+𠶁	kou'shu'shu'er'shu'heng'ba	1
 𠶀	kou'shen	1
 𠵿	kou'pi	1
 𠵾	kou'hua	1
@@ -87119,6 +88029,7 @@
 𠳍	kou'er'heng	1
 𠳌	qu'ke	1
 𠳋	zhong'heng'yi	1
+𠳋	chong'yi	1
 𠳊	ke'qu	1
 𠳉	kou'xun'heng	1
 𠳇	ting'kou	1
@@ -87542,7 +88453,10 @@
 𠬨	jie'you	1
 𠬧	qiang'you	1
 𠬧	jiang'you	1
+𠬦	pie'tong'you	1
+𠬦	pie'jiong'you	1
 𠬥	jin'you	1
+𠬤	you'er'shu	1
 𠬢	che'you	1
 𠬢	cao'you	1
 𠬡	chang'heng'you	1
@@ -87618,6 +88532,7 @@
 𠫞	lin'ji	1
 𠫝	si'chuan	1
 𠫜	si'yi'li	1
+𠫚	si'er'shu	1
 𠫙	zhe'si'ren	1
 𠫘	si'shi	1
 𠫗	ji'si	1
@@ -87775,6 +88690,7 @@
 𠨱	chang'ye	1
 𠨯	chang'zi	1
 𠨮	chang'ze	1
+𠨭	chang'er'shu	1
 𠨬	chang'bi	1
 𠨫	luan'luan	1
 𠨪	wei'yao	1
@@ -87825,6 +88741,8 @@
 𠨋	tiao'tiao'you	1
 𠨋	tiao'tiao'tiao	1
 𠨊	gou'wai	1
+𠨉	ren'ren'ren'ren'shu'sui'bu	1
+𠨉	ren'ren'ren'ren'shu'sui'bo	1
 𠨉	cong'cong'shu'sui'bu	1
 𠨉	cong'cong'shu'sui'bo	1
 𠨅	zhe'bu'ri'wei'wen	1
@@ -87851,6 +88769,7 @@
 𠧽	bo'ji'xi'huo	1
 𠧻	bu'ri'pie'pie'shu'pie'pie	1
 𠧻	bo'ri'pie'pie'shu'pie'pie	1
+𠧺	zhan'er'shu'sui	1
 𠧸	zhan'bi	1
 𠧶	bu'wang'shui	1
 𠧶	bo'wang'shui	1
@@ -87948,6 +88867,7 @@
 𠦻	ban'ling	1
 𠦹	shi'zhu	1
 𠦷	zhuo'bian	1
+𠦴	er'shu'shi'shi	1
 𠦳	yan'qian	1
 𠦲	zhuo'sheng	1
 𠦯	ban'gen	1
@@ -88162,10 +89082,16 @@
 𠤦	bei'xue'yun	1
 𠤥	bei'wang'yun	1
 𠤤	bi'zhen	1
+𠤣	pie'tong'wu'mi'bei	1
+𠤣	pie'tong'wu'bao'bei	1
+𠤣	pie'jiong'wu'mi'bei	1
+𠤣	pie'jiong'wu'bao'bei	1
 𠤢	bei'qiu	1
 𠤡	bi'mu'kai	1
 𠤟	bi'ri'mi'ding	1
 𠤟	bi'ri'bao'ding	1
+𠤝	xiao'mi'er'bi	1
+𠤝	xiao'bao'er'bi	1
 𠤚	zhi'jin	1
 𠤙	jiu'xiang	1
 𠤙	jiu'ji	1
@@ -88173,6 +89099,7 @@
 𠤘	bi'yi	1
 𠤗	yi'bi	1
 𠤗	xian'bi	1
+𠤖	bei'er'shu	1
 𠤕	bi'shi	1
 𠤔	bi'gan	1
 𠤓	dao'ta	1
@@ -88333,6 +89260,7 @@
 𠢀	nian'zhong'heng'li	1
 𠡿	du'gong'li	1
 𠡾	san'shu'shui'li	1
+𠡾	feng'shui'li	1
 𠡽	jing'li	1
 𠡼	shou'li	1
 𠡻	cong'li	1
@@ -88449,6 +89377,12 @@
 𠠎	kuang'dao	1
 𠠎	guang'dao	1
 𠠍	li'dao	1
+𠠌	shun'wei'yi'ji'shui'dao	1
+𠠌	shun'kou'yi'ji'shui'dao	1
+𠠌	shun'guo'yi'ji'shui'dao	1
+𠠌	chuan'wei'yi'ji'shui'dao	1
+𠠌	chuan'kou'yi'ji'shui'dao	1
+𠠌	chuan'guo'yi'ji'shui'dao	1
 𠠋	can'ze	1
 𠠊	gang'gen	1
 𠠉	po'dao	1
@@ -88502,6 +89436,9 @@
 𠟔	bei'cong'dao	1
 𠟓	zi'dao	1
 𠟒	he'dao	1
+𠟑	wei'yi'yan'dao	1
+𠟑	kou'yi'yan'dao	1
+𠟑	guo'yi'yan'dao	1
 𠟐	cang'chuang	1
 𠟎	e'dao	1
 𠟍	tong'dao	1
@@ -88721,6 +89658,7 @@
 𠜁	yi'dao	1
 𠛿	chong'dao	1
 𠛾	jin'dao	1
+𠛽	er'shu'kou'dao	1
 𠛼	bing'dao	1
 𠛻	pie'bu'dao	1
 𠛸	zhong'fen	1
@@ -88835,6 +89773,10 @@
 𠚎	kou'kan'jing	1
 𠚌	xiong'ji	1
 𠚌	kan'ji	1
+𠚋	shun'xiong'er'shu	1
+𠚋	shun'kan'er'shu	1
+𠚋	chuan'xiong'er'shu	1
+𠚋	chuan'kan'er'shu	1
 𠚊	xiong'bi	1
 𠚊	kan'bi	1
 𠚉	xiong'he	1
@@ -88872,6 +89814,8 @@
 𠙻	kan'gan	1
 𠙺	xiong'qian	1
 𠙺	kan'qian	1
+𠙹	xiong'er'shu	1
+𠙹	kan'er'shu	1
 𠙸	xiong'si	1
 𠙸	kan'si	1
 𠙷	xiong'shi	1
@@ -88899,6 +89843,7 @@
 𠙣	ji'ba	1
 𠙢	cao'you'ji	1
 𠙡	yao'you'ji'bai	1
+𠙠	ren'ren'ren'ren'ren'ji	1
 𠙠	ren'cong'cong'ji	1
 𠙟	xiao'ji	1
 𠙞	yao'ji	1
@@ -89190,6 +90135,10 @@
 𠕮	bao'er'mi'chi'yu	1
 𠕭	mi'er'zhao	1
 𠕭	bao'er'zhao	1
+𠕫	pie'tong'suo	1
+𠕫	pie'tong'rui	1
+𠕫	pie'jiong'suo	1
+𠕫	pie'jiong'rui	1
 𠕪	tong'ding	1
 𠕪	jiong'ding	1
 𠕨	jiong'yu	1
@@ -89322,6 +90271,7 @@
 𠔒	ba'pou	1
 𠔒	ba'ju	1
 𠔑	fen'fen	1
+𠔎	ba'ren'er'shu	1
 𠔍	ba'you	1
 𠔌	ba'ba'kou	1
 𠔋	ba'wei'yi	1
@@ -89572,6 +90522,8 @@
 𠐮	ren'hua	1
 𠐭	ren'rui'cao	1
 𠐬	ren'xiu'ye	1
+𠐪	ren'cao'xuan'er	1
+𠐪	ren'cao'song'er	1
 𠐩	ren'yan	1
 𠐨	kan'yan	1
 𠐧	ren'meng	1
@@ -89622,9 +90574,13 @@
 𠐈	ren'bian	1
 𠐇	lai'lai	1
 𠐄	ren'shun'tong'yi'po'you	1
+𠐄	ren'shun'tong'ren'po'you	1
 𠐄	ren'shun'jiong'yi'po'you	1
+𠐄	ren'shun'jiong'ren'po'you	1
 𠐄	ren'chuan'tong'yi'po'you	1
+𠐄	ren'chuan'tong'ren'po'you	1
 𠐄	ren'chuan'jiong'yi'po'you	1
+𠐄	ren'chuan'jiong'ren'po'you	1
 𠐃	xiao'xin	1
 𠐁	ren'meng	1
 𠐀	ren'ye	1
@@ -89760,6 +90716,8 @@
 𠎅	ren'xun	1
 𠎅	ren'xin	1
 𠎄	ren'dun	1
+𠎃	ren'heng'er'shu'ren'ren'ren'ren	1
+𠎃	ren'heng'er'shu'cong'cong	1
 𠎂	ren'yi'mu'heng'you	1
 𠎂	ren'tou'mu'heng'you	1
 𠎁	ren'hei	1
@@ -90140,6 +91098,8 @@
 𠇯	ren'qiu	1
 𠇮	ren'bing	1
 𠇭	ji'zhong	1
+𠇫	ren'ren'er'shu	1
+𠇪	ren'ren'er'shu	1
 𠇩	ren'mao	1
 𠇨	ren'ren'gan	1
 𠇧	jie'jiu	1
@@ -90518,6 +91478,7 @@
 𠂨	pie'ce	1
 𠂥	pie'cong	1
 𠂤	hu'zhe	1
+𠂡	ji'er'shu	1
 𠂠	pie'xiao'yu	1
 𠂠	pie'xiao'qiao	1
 𠂠	pie'xiao'kao	1
@@ -99025,6 +99986,7 @@
 貶	bei'fa	1
 貵	si'da'bei	1
 貴	zhong'heng'bei	1
+貴	chong'bei	1
 貳	yi'er'bei	1
 貳	er'bei	1
 貲	ci'bei	1
@@ -102662,6 +103624,8 @@
 芍	cao'shao	1
 芌	cao'kui	1
 芉	cao'gan	1
+芈	kuang'er'shu	1
+芈	guan'er'shu	1
 芈	cao'kuang'er'shu	1
 芈	cao'guan'er'shu	1
 芇	cao'jin	1
@@ -103982,7 +104946,9 @@
 羏	yang'san	1
 羍	da'yang	1
 羋	kuang'shu'gan	1
+羋	kuang'shu'er'shu	1
 羋	guan'shu'gan	1
+羋	guan'shu'er'shu	1
 羉	wang'luan	1
 羉	si'luan	1
 羉	mu'si'yan'si	1
@@ -106063,8 +107029,10 @@
 箈	zhu'zhi	1
 箇	zhu'gu	1
 箆	zhu'tong'yi'bi	1
+箆	zhu'tong'ren'bi	1
 箆	zhu'nei'bi	1
 箆	zhu'jiong'yi'bi	1
+箆	zhu'jiong'ren'bi	1
 箆	nei'bi	1
 箅	zhu'tian'qi	1
 箅	zhu'tian'ji	1
@@ -117684,6 +118652,7 @@
 寣	bao'pian'yan	1
 寢	bao'pian'shan'mi'you	1
 寢	bao'pian'shan'bao'you	1
+寢	bao'pian'jin	1
 寠	bao'lv	1
 寠	bao'lou	1
 寠	bao'lei	1
@@ -124055,6 +125024,8 @@
 䟮	zu'fu	1
 䟭	zu'zha	1
 䟬	zu'qiu	1
+䟫	xiao'mi'zu	1
+䟫	xiao'bao'zu	1
 䟪	zu'fa	1
 䟩	zu'qu	1
 䟨	zu'min	1
@@ -124905,6 +125876,7 @@
 䔥	cao'su	1
 䔤	cao'bai'bai	1
 䔣	cao'li	1
+䔢	cao'ren'ren'ren'ren'kui	1
 䔢	cao'cong'cong'kui	1
 䔡	cao'yu	1
 䔠	cao'shao	1
@@ -125145,6 +126117,7 @@
 䑗	jiu'yang	1
 䑖	jiu'qie	1
 䑖	jiu'jie	1
+䑕	jiu'ji'er'shu	1
 䑔	jiu'po	1
 䑔	jiu'fu	1
 䑒	zhi'ren	1
@@ -126492,6 +127465,7 @@
 䁡	mu'shan	1
 䁠	mu'jian	1
 䁟	mu'cha	1
+䁞	ren'ren'ren'ren'han'mu	1
 䁞	cong'cong'han'mu	1
 䁝	ying'mu	1
 䁜	mu'huang	1
@@ -128199,6 +129173,7 @@
 㫽	ri'lu	1
 㫼	ri'zhi	1
 㫻	ri'lun	1
+㫺	ren'ren'ren'ren'ri	1
 㫺	cong'cong'ri	1
 㫹	ri'suo	1
 㫸	ri'qie	1
@@ -128282,6 +129257,7 @@
 㪲	dou'zhe	1
 㪱	wen'huan	1
 㪰	wen'mi	1
+㪯	wen'er'shu	1
 㪮	ling'pu	1
 㪭	lv'pu	1
 㪭	lu'pu	1
@@ -128477,6 +129453,8 @@
 㨗	shou'heng'yu'shu'dian'ren	1
 㨗	shou'heng'yu'bu'ren	1
 㨗	shou'heng'yu'bo'ren	1
+㨗	shou'bu'shan'zou	1
+㨗	shou'bo'shan'zou	1
 㨗	cai'qie	1
 㨗	cai'jie	1
 㨗	cai'heng'yu'shu'na'ren	1
@@ -129137,6 +130115,7 @@
 㠬	gong'kou	1
 㠫	gong'fu	1
 㠪	gong'heng	1
+㠩	wang'chuan	1
 㠨	shan'yu	1
 㠧	shan'mi	1
 㠦	shan'feng	1
