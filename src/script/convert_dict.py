@@ -45,18 +45,7 @@ def gen_dict(
     file_header = f'''---
 name: {base_name}
 version: "{datetime.now().strftime("%Y.%m.%d")}"
-
 sort: original
-
-## 如果需要调整字频，注释掉上面一行（sort: original），然后取消注释下面两行
-
-# 简体字频
-# vocabulary: essay-zh-hans # 简体字频，需要安装 rime/essay-simp
-# max_phrase_length: 1 # 仅调整单字
-
-# 繁体字频
-# vocabulary: essay # 繁体字频，需要安装 rime/essay（多数平台预装）
-# max_phrase_length: 1 # 仅调整单字
 ...\n\n'''
 
     with open(output_file_path, 'w', encoding='utf-8') as output_file:
@@ -71,17 +60,21 @@ sort: original
                     continue
 
                 parts = line.split('\t')
-                if len(parts) == 2:
+                if len(parts) in (2, 3):
 
                     chinese_char = parts[0]
                     codes = [code.strip() for code in parts[1].split(separator)]
+                    weight = parts[2].strip() if len(parts) == 3 else None
 
                     # converting
                     converted_codes = [process_encoding(code,encoding_method,
                                                         separator) for code in codes]
 
                     # combining
-                    output_line = f"{chinese_char}\t{''.join(converted_codes)}\n"
+                    output_line = f"{chinese_char}\t{''.join(converted_codes)}"
+                    if weight is not None:
+                        output_line += f"\t{weight}"
+                    output_line += "\n"
 
                     # appending
                     output_file.write(output_line)

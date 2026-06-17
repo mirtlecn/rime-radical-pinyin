@@ -5,8 +5,6 @@
 [![License: GPL 3.0](https://img.shields.io/badge/license-GPLv3-red)](https://www.gnu.org/licenses/gpl-3.0.txt)
 [![GitHub Release](https://img.shields.io/github/v/release/mirtlecn/rime-radical-pinyin)](https://github.com/mirtlecn/rime-radical-pinyin/releases/latest)
 
-<!-- TOC -->
-
 - [简介](#简介)
 - [安装](#安装)
     - [1. 东风破 plum](#1-东风破-plum)
@@ -19,15 +17,11 @@
 - [Build & Contribute](#contribute)
 - [Credit](#credit)
 
-<!-- /TOC -->
-
 ## 简介
 
 用拼音输入一个汉字的每一个组成部分（偏旁、部首等部件），组合拼出字来，例如输入 `wu niao`（敄 鸟）或者 `mao wen niao`（矛 夂 鸟）得 `鹜`。
 
-适配各类双拼方案（例图为小鹤双拼）。
-
-不适于用作输入常用字，适于
+适配各类双拼方案（例图为小鹤双拼）。可以：
 
 - 应用于反查，便于打出不清楚读音的生僻字，演示（`禺+页=颙`，`王+炎=琰`，`讠+益=谥`）：（[配置方法](#作为反查方案挂载) -> ）
 
@@ -40,24 +34,6 @@
 ## 安装
 
 ### 1. 东风破 [plum](https://github.com/rime/plum)
-
-<details>
-
-<summary>请先安装 /plum/</summary>
-
-```bash
-# 请安装 git
-
-cd ~
-git clone https://github.com/rime/plum.git
-# 使用 plum
-cd ~/plum
-bash rime-install <recipe_name>
-```
-
-</details>
-<br>
-全拼 / 双拼用户请以下命令按安装：
 
 ```bash
 # 安装词典文件
@@ -94,13 +70,13 @@ bash rime-install mirtlecn/rime-radical-pinyin:flypy
 # radical_pinyin.custom.yaml
 patch:
   speller/algebra:
-    __include: radical_pinyin.schema.yaml:/algebra_flypy
+    __include: radical_pinyin.schema.yaml:/algebra_double_pinyin_flypy
     # __include: radical_pinyin.schema.yaml:/algebra_double_pinyin
-    # __include: radical_pinyin.schema.yaml:/algebra_mspy
-    # __include: radical_pinyin.schema.yaml:/algebra_abc
-    # __include: radical_pinyin.schema.yaml:/algebra_ziguang
-    # __include: radical_pinyin.schema.yaml:/algebra_sogou
-    # __include: radical_pinyin.schema.yaml:/algebra_jiajia
+    # __include: radical_pinyin.schema.yaml:/algebra_double_pinyin_mspy
+    # __include: radical_pinyin.schema.yaml:/algebra_double_pinyin_abc
+    # __include: radical_pinyin.schema.yaml:/algebra_double_pinyin_ziguang
+    # __include: radical_pinyin.schema.yaml:/algebra_double_pinyin_sogou
+    # __include: radical_pinyin.schema.yaml:/algebra_double_pinyin_jiajia
 ```
 
 ## 作为反查方案挂载
@@ -200,7 +176,7 @@ bash rime-install mirtlecn/rime-radical-pinyin:extra
 若要手动安装，请前往 Release 界面下载 extra.zip，解压后，在其中的 build 文件夹内有以下三个文件：
 
 - `kMandarin.reverse.bin`: 单字注最常用的一到两个读音（推荐）
-- `zdict.reverse.bin`：注音更全，无音者注 `n/a`
+- `zdict.reverse.bin`：汉典注音，无音者注 `n/a`
 - `pinyin.reverse.bin`: 单字注所有可能的读音（会包含异体字、通假字等音，不推荐）
 
 下载复制进 build 目录后。更改提示码词典指向它们，如下图所示：
@@ -225,6 +201,8 @@ radical_reverse_lookup:
 添字、修正拆分等请修改 `src/dict/radical.yaml`。
 
 修改注音，请修改 `src/script/gen_dict.py`。
+
+本仓库使用简体中文字频，繁体字频请 PR。
 
 [源文件和构建说明](./src/README.md)
 

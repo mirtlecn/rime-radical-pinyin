@@ -3,6 +3,8 @@
 pypinyin -> get pinyin
 pypinyin_dict -> load custom pinyin data
 """
+import csv
+import sys
 from datetime import datetime
 from itertools import product
 import re
@@ -22,6 +24,7 @@ kmandarin_8105.load()
 src_dict_file = 'dict/radical.yaml'
 src_dict_head_file = 'dict/dict-head-note.yaml'
 src_dict_append_file = 'dict/append-dict.yaml'
+src_weight_file = 'dict/zh-CN.weight.csv'
 # 生成文件路径
 des_dict_file = 'dict/temp.dict.yaml'
 des_error_file = 'dict/todo.yaml'
@@ -111,23 +114,71 @@ load_phrases_dict(custom_dict)
 HEADER = f'''---
 name: radical_pinyin
 version: "{datetime.now().strftime("%Y.%m.%d")}"
-
 sort: original
-
-## 如果需要调整字频，注释掉上面一行（sort: original），然后取消注释下面两行
-
-# 简体字频
-# vocabulary: essay-zh-hans # 简体字频，需要安装 rime/essay-simp
-# max_phrase_length: 1 # 仅调整单字
-
-# 繁体字频
-# vocabulary: essay # 繁体字频，需要安装 rime/essay（多数平台预装）
-# max_phrase_length: 1 # 仅调整单字
 ...\n\n'''
 
 def is_not_empty(s):
     "pinyin should not be null or empty"
     return s is not None and s.strip() != ''
+
+def load_weight_map(file_path):
+    weights = {}
+    with open(file_path, 'r', encoding='utf-8-sig', newline='') as f:
+        reader = csv.DictReader(f)
+        if reader.fieldnames is None or not {'character', 'weight'}.issubset(reader.fieldnames):
+            raise ValueError(f"{file_path} must contain character and weight columns")
+        for row_number, row in enumerate(reader, start=2):
+            character = (row.get('character') or '').strip()
+            weight_text = (row.get('weight') or '').strip()
+            if not character and not weight_text:
+                continue
+            if not character or not weight_text:
+                raise ValueError(f"{file_path}:{row_number} has incomplete weight data")
+            try:
+                weights[character] = int(weight_text)
+            except ValueError as exc:
+                raise ValueError(f"{file_path}:{row_number} has invalid weight: {weight_text}") from exc
+    return weights
+
+def get_weight(character, weights):
+    return weights.get(character, 1)
+
+def add_weighted_entry(entries, character, code, weights, weight=None):
+    entry_weight = get_weight(character, weights) if weight is None else weight
+    entries.add((entry_weight, f"{character}\t{code}\t{entry_weight}"))
+
+def add_append_entries(entries, comments, content, weights):
+    for raw_line in content.splitlines():
+        line = raw_line.strip()
+        if len(line) == 0 or line.startswith("#"):
+            comments.add(line)
+            continue
+
+        parts = line.split("\t")
+        if len(parts) == 2:
+            add_weighted_entry(entries, parts[0], parts[1], weights)
+        elif len(parts) == 3:
+            try:
+                weight = int(parts[2])
+            except ValueError as exc:
+                raise ValueError(f"invalid append entry weight: {line}") from exc
+            add_weighted_entry(entries, parts[0], parts[1], weights, weight)
+        else:
+            raise ValueError(f"invalid append entry: {line}")
+
+def parse_params(args):
+    params = {}
+    for arg in args:
+        key, value = arg.split('=', 1)
+        params[key] = value
+    return params
+
+params = parse_params(sys.argv[1:])
+src_weight_file = params.pop('weight_file_path', src_weight_file)
+if params:
+    raise ValueError(f"unknown arguments: {', '.join(sorted(params))}")
+
+weights = load_weight_map(src_weight_file)
 
 with open(src_dict_file, 'r', encoding='utf-8' ) as f:
     radical = f.readlines()
@@ -149,8 +200,7 @@ for line in radical:
                 error_line = line + ' >> ' + PINYIN
                 error.add(error_line)
                 continue
-            item = f"{char.strip()}\t{PINYIN}"
-            yaml.add(item)
+            add_weighted_entry(yaml, char.strip(), PINYIN, weights)
 
 with open(src_dict_head_file, 'r', encoding='utf-8') as f:
     extra_content = f.read()
@@ -177,12 +227,14 @@ with open(des_error_file, 'w', encoding='utf-8') as f:
 with open(src_dict_append_file, 'r', encoding='utf-8') as f:
     add = f.read()
 
-sorted_yaml = sorted(yaml,reverse=True)
+add_append_entries(yaml, comment, add, weights)
+
+sorted_yaml = [line for _, line in sorted(yaml, reverse=True)]
 
 # 此文件用于进一步的转换
 with open(des_dict_file,"w",encoding='utf-8') as f:
-    f.write("\n".join(sorted(comment)) + "\n" + "\n".join(sorted_yaml) + '\n\n' + add )
+    f.write("\n".join(sorted(comment)) + "\n" + "\n".join(sorted_yaml) + "\n")
 
 with open(des_pinyin_dict_file,"w",encoding='utf-8') as f:
-    f.write(extra_content + '\n'  + HEADER + "\n".join(sorted(comment)) + "\n" + "\n".join(sorted_yaml) + '\n\n' + add )
+    f.write(extra_content + '\n'  + HEADER + "\n".join(sorted(comment)) + "\n" + "\n".join(sorted_yaml) + "\n")
     print(f"拼音字典已写入 {des_pinyin_dict_file}")

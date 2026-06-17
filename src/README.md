@@ -37,6 +37,7 @@ make
 文件说明：
 
 - `dict/radical.yaml`: 拆字源数据，如需添加新子，请修改该文件
+- `dict/zh-CN.weight.csv`: 构建时默认使用的单字字频表，可通过 `python3 script/gen_dict.py weight_file_path=<csv>` 覆盖
 - `todo.yaml`：由脚本生成。包含未能注音的字，一般是拆分出的部件无法识别，需要人工校正
 
 ## History
