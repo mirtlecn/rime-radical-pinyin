@@ -1,14 +1,8 @@
 # RIME 辅助码反查滤镜 search.lua
 
-```txt
--- Copyright (C) [Mirtle](https://github.com/mirtlecn)
--- License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
--- Extending my gratitude to https://github.com/HowcanoeWang/rime-lua-aux-code for inspiring and serving as a valuable reference for this lua
-```
+> 灵感来自 [此脚本](https://github.com//rime-lua-aux-code)。
 
-使用此 lua ，你可以使用其他方案提供的编码反查候选。
-
-其效果类似某些输入法提供的候选内笔画、部件筛选。
+使用此 lua ，你可以使用其他方案提供的编码反查候选。其效果类似某些输入法提供的候选内笔画、部件筛选。
 
 ![image](https://raw.githubusercontent.com/mirtlecn/rime-radical-pinyin/master/res/fuma.gif)
 
@@ -154,10 +148,10 @@ search:
   tags:
     - abc # 检索特定 tag 的候选，默认为 abc
   # key: '`' # 辅码引导键，优先级低于 key_binder/search 设置，此按键需要加入 speller/alphabet 中。
-  code_pattern: [a-z] # 作为输入码的字符，默认 [a-z]，如使用了其他字符，在此处指定，例如 [a-z;]（添加分号）
+  code_pattern: [a-z;] # 作为输入码的字符，默认 [a-z]，如使用了其他字符，在此处指定，例如 [a-z;]（添加分号）
   show_other_cands: false # 候选不匹配辅助码时，仅将其置后，而非隐藏。
   schema: radical_pinyin # 方案反查，支持经过算法转换后的编码，检索大码表时较慢
-  schema_search_limit: 500 # 方案反查单词检索的数量限制，不设置时为 1000，设置为 0 则无限制。大码表（如五笔画 stroke）请设置合理的数值以保证不卡顿。
+  schema_search_limit: 1000 # 方案反查单词检索的数量限制，不设置时为 1000，设置为 0 则无限制。大码表（如五笔画 stroke）请设置合理的数值以保证不卡顿。
   wildcard: '~' # db 反查的通配符。此符号需要加入 speller/alphabet 表中。
   db: # db 反查，速度快，仅支持编入字典的硬编码。指定一个或多个 build 目录下的 reverse.bin 文件的文件名。
     - stroke # 指定五笔画作为 db 反查的数据库
@@ -186,7 +180,7 @@ engine:
 search:
   show_other_cands: true # 设置为 true 则仅执行排序，而不过滤掉不符合辅码的候选
   schema: radical_pinyin # 方案反查，建议小词库使用；
-  schema_search_limit: 1000 # 方案反查条目限制，越大越精确越卡
+  schema_search_limit: 3000 # 方案反查条目限制，越大越精确越卡
 ```
 
 数据库反查，以字查码（检索 reverse.bin），仅支持查编入词典（dict.yaml）的编码。消耗小，速度快，支持指定多个数据库。
