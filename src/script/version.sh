@@ -41,6 +41,10 @@ sed -i '' "s/version: \"[0-9][0-9]*\.[0-9][0-9]*\.[0-9][0-9]*\"/version: \"$NEW_
 # Record version history in dict-head-note.yaml
 echo "# v$NEW_VERSION -> $DATE" >> "$REPO_ROOT/src/dict/dict-head-note.yaml"
 
+# Build
+cd "$REPO_ROOT"
+make -C src
+
 # Commit
 cd "$REPO_ROOT"
 git add radical.schema.yaml radical_pinyin.schema.yaml src/dict/dict-head-note.yaml

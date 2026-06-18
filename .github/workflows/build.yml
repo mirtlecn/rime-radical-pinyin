@@ -3,15 +3,13 @@ name: Build and Release
 on:
   push:
     tags:
-      - '[0-9]+.*'
+      - 'v[0-9]+.*'
     branches:
       - master
     paths:
       - 'src/**'
       - 'radical.schema.yaml'
       - 'radical_pinyin.schema.yaml'
-
-  # 3. 允许手动触发
   workflow_dispatch:
 
 jobs:
