@@ -47,7 +47,7 @@ make -C src
 
 # Commit
 cd "$REPO_ROOT"
-git add radical.schema.yaml radical_pinyin.schema.yaml src/dict/dict-head-note.yaml
+git add --all
 git commit -m "chore: bump version to $NEW_VERSION"
 
 # Tag

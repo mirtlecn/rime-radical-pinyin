@@ -34,19 +34,6 @@ jobs:
 
       - name: Push and pack
         run: |
-          set -e
-          COMMIT_INFO=$(curl -s https://whatthecommit.com/index.txt)
-          echo "$(git status --porcelain)"
-          if [ -n "$(git status --porcelain)" ]; then
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            echo "Push to changes"
-            git add --all
-            git commit -m "$COMMIT_INFO"
-            git push origin HEAD:master
-          else
-            echo "No changes to commit"
-          fi
           zip radical_pinyin.zip radical_pinyin.schema.yaml radical_pinyin.dict.yaml
           zip radical_flypy.zip radical_flypy.dict.yaml radical.schema.yaml
           zip -r extra.zip lua build
