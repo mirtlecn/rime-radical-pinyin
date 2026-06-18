@@ -89,7 +89,7 @@
 
 ---
 name: radical_flypy
-version: "2026.06.17"
+version: "2026.06.18"
 sort: original
 ...
 
@@ -8848,6 +8848,7 @@ sort: original
 𳂉	viii	1
 𳂈	uiww	1
 𳂇	uixq	1
+𳂆	qudzqudz	1
 𳂆	lili	1
 𳂆	lifg	1
 𳂆	fgli	1
@@ -13555,6 +13556,7 @@ sort: original
 𱾫	ccvy	1
 𱾪	lzfu	1
 𱾨	ccee	1
+𱾧	ccqudz	1
 𱾧	ccli	1
 𱾧	ccfg	1
 𱾦	bwcd	1
@@ -18428,6 +18430,7 @@ sort: original
 𰶦	uiui	1
 𰶥	uier	1
 𰶤	uibi	1
+𰶣	qudzys	1
 𰶣	liys	1
 𰶣	fgys	1
 𰶢	dzxl	1
@@ -19799,8 +19802,10 @@ sort: original
 𰢖	whhcpppoppfu	1
 𰢖	whhcppfupppo	1
 𰢖	whhcppfuppfu	1
+𰢓	yuqudz	1
 𰢓	yuli	1
 𰢓	yufg	1
+𰢓	whqudz	1
 𰢓	whli	1
 𰢓	whfg	1
 𰢒	yhyu	1
@@ -24327,9 +24332,12 @@ sort: original
 𮙘	xsvukjvudz	1
 𮙘	kjvuxsvudz	1
 𮙘	kjvukjvudz	1
+𮙗	doqudz	1
 𮙗	doli	1
 𮙗	dofg	1
 𮙖	qidz	1
+𮙕	qudzuj	1
+𮙕	qudzsj	1
 𮙕	liuj	1
 𮙕	lisj	1
 𮙕	fguj	1
@@ -26094,6 +26102,7 @@ sort: original
 𭾙	mule	1
 𭾘	muba	1
 𭾗	muui	1
+𭾖	hequdz	1
 𭾖	heli	1
 𭾖	hefg	1
 𭾔	khmb	1
@@ -37960,6 +37969,7 @@ sort: original
 𫓓	jubcwfjb	1
 𫓒	jbns	1
 𫓑	jbcs	1
+𫓐	jbqudz	1
 𫓐	jbli	1
 𫓐	jbfg	1
 𫓏	jbgj	1
@@ -38519,6 +38529,7 @@ sort: original
 𫌖	yilm	1
 𫌕	yili	1
 𫌔	yiqy	1
+𫌓	yiqudz	1
 𫌓	yili	1
 𫌓	yifg	1
 𫌒	yits	1
@@ -38579,6 +38590,7 @@ sort: original
 𫋣	isqi	1
 𫋢	isii	1
 𫋡	viis	1
+𫋠	isqudz	1
 𫋠	isli	1
 𫋠	isfg	1
 𫋟	isxmmb	1
@@ -40400,6 +40412,7 @@ sort: original
 𪴃	muao	1
 𪴂	mumj	1
 𪴁	mutn	1
+𪴀	muqudz	1
 𪴀	muli	1
 𪴀	mufg	1
 𪳿	godu	1
@@ -41115,6 +41128,7 @@ sort: original
 𪩲	popp	1
 𪩲	fupp	1
 𪩱	balj	1
+𪩰	qudzji	1
 𪩰	liji	1
 𪩰	fgji	1
 𪩯	siij	1
@@ -41482,6 +41496,7 @@ sort: original
 𪤣	tuyu	1
 𪤢	tuzc	1
 𪤢	tuqn	1
+𪤡	tuqudz	1
 𪤡	tuli	1
 𪤡	tufg	1
 𪤠	tulw	1
@@ -43142,6 +43157,7 @@ sort: original
 𪏪	hlkl	1
 𪏪	hlgl	1
 𪏩	hldrho	1
+𪏨	hlqudz	1
 𪏨	hlli	1
 𪏨	hlfg	1
 𪏦	hluu	1
@@ -49371,6 +49387,7 @@ sort: original
 𩁔	nkvv	1
 𩁓	yuvv	1
 𩁒	yhvv	1
+𩁑	qudzvv	1
 𩁑	livv	1
 𩁑	fgvv	1
 𩁐	luvv	1
@@ -49689,6 +49706,7 @@ sort: original
 𨼸	eryi	1
 𨼸	ergc	1
 𨼸	erdu	1
+𨼷	erqudz	1
 𨼷	erli	1
 𨼷	erfg	1
 𨼶	erjixrxb	1
@@ -55219,17 +55237,21 @@ sort: original
 𧰥	kvdg	1
 𧰥	gvdg	1
 𧰣	vuxy	1
+𧰢	qudzlb	1
 𧰢	lilb	1
 𧰢	fglb	1
 𧰡	vuli	1
 𧰡	uidzli	1
 𧰠	vulp	1
+𧰟	qudzhe	1
 𧰟	lihe	1
 𧰟	fghe	1
+𧰞	qudzvj	1
 𧰞	livj	1
 𧰞	fgvj	1
 𧰝	yidc	1
 𧰛	erfhwadz	1
+𧰚	qudzhe	1
 𧰚	lihe	1
 𧰚	fghe	1
 𧰙	qiqi	1
@@ -55240,6 +55262,7 @@ sort: original
 𧰘	tjvu	1
 𧰘	tjuidz	1
 𧰗	dznk	1
+𧰖	lqqudz	1
 𧰖	lqli	1
 𧰖	lqfg	1
 𧰕	vudc	1
@@ -55257,6 +55280,7 @@ sort: original
 𧰈	mcdz	1
 𧰇	vuyu	1
 𧰆	dzbi	1
+𧰅	qudzui	1
 𧰅	liui	1
 𧰅	fgui	1
 𧰄	xlqi	1
@@ -55493,6 +55517,7 @@ sort: original
 𧬻	yjta	1
 𧬻	yjda	1
 𧬺	yjdi	1
+𧬹	yjqudz	1
 𧬹	yjli	1
 𧬹	yjfg	1
 𧬸	yjtg	1
@@ -60793,6 +60818,7 @@ sort: original
 𦡌	jubcyuyt	1
 𦡋	ytdy	1
 𦡋	ytdu	1
+𦡊	ytqudz	1
 𦡊	ytli	1
 𦡊	ytfg	1
 𦡉	mgyt	1
@@ -63988,6 +64014,7 @@ sort: original
 𥽍	mijb	1
 𥽌	midc	1
 𥽋	miqm	1
+𥽈	miqudz	1
 𥽈	mili	1
 𥽈	mifg	1
 𥽇	migj	1
@@ -64626,6 +64653,7 @@ sort: original
 𥴤	vujm	1
 𥴣	vufg	1
 𥴢	vuvi	1
+𥴡	vuqudz	1
 𥴡	vuli	1
 𥴡	vufg	1
 𥴟	vumuww	1
@@ -67262,6 +67290,7 @@ sort: original
 𥎖	mcer	1
 𥎕	yuuu	1
 𥎔	mcuiis	1
+𥎓	mcqudz	1
 𥎓	mcli	1
 𥎓	mcfg	1
 𥎒	mcmkxb	1
@@ -70802,6 +70831,7 @@ sort: original
 𤣃	qrlv	1
 𤣃	qrlu	1
 𤣂	lwqr	1
+𤣁	qrqudz	1
 𤣁	qrli	1
 𤣁	qrfg	1
 𤣀	qrvg	1
@@ -72871,6 +72901,7 @@ sort: original
 𤄢	uvsita	1
 𤄢	uvsida	1
 𤄠	uvpb	1
+𤄝	uvqudzqu	1
 𤄝	uvliqu	1
 𤄝	uvfgqu	1
 𤄜	uvfj	1
@@ -77560,6 +77591,7 @@ sort: original
 𣀆	qywf	1
 𣀅	yebiwf	1
 𣀃	lmpu	1
+𣀂	qudzpu	1
 𣀂	lipu	1
 𣀂	fgpu	1
 𣀁	vjpu	1
@@ -79740,6 +79772,7 @@ sort: original
 𢢭	yuxb	1
 𢢬	xbqb	1
 𢢫	xbiy	1
+𢢪	xbqudz	1
 𢢪	xbli	1
 𢢪	xbfg	1
 𢢩	xbjk	1
@@ -82686,6 +82719,7 @@ sort: original
 𡽏	drmm	1
 𡽎	ujqm	1
 𡽎	ujan	1
+𡽍	ujqudz	1
 𡽍	ujli	1
 𡽍	ujfg	1
 𡽌	guuj	1
@@ -84004,6 +84038,7 @@ sort: original
 𡫓	bcdm	1
 𡫐	bclm	1
 𡫌	bcmu	1
+𡫋	bcqudz	1
 𡫋	bcli	1
 𡫋	bcfg	1
 𡫈	bcybqr	1
@@ -89926,6 +89961,7 @@ sort: original
 𠙮	pifj	1
 𠙬	jiziis	1
 𠙬	jiyzis	1
+𠙫	qudzji	1
 𠙫	liji	1
 𠙫	fgji	1
 𠙪	qnji	1
@@ -90436,6 +90472,7 @@ sort: original
 𠓐	glrs	1
 𠓏	kevj	1
 𠓎	kedy	1
+𠓍	mmqudz	1
 𠓍	mmli	1
 𠓍	mmfg	1
 𠓌	gllm	1
@@ -92939,6 +92976,7 @@ sort: original
 鳣	yuyihvdj	1
 鳣	yutzhvdj	1
 鳣	yudj	1
+鳢	yuqudz	1
 鳢	yuli	1
 鳢	yufg	1
 鳡	yugj	1
@@ -93118,6 +93156,7 @@ sort: original
 鱪	yuuu	1
 鱩	yulw	1
 鱨	yuih	1
+鱧	yuqudz	1
 鱧	yuli	1
 鱧	yufg	1
 鱦	yumb	1
@@ -94597,6 +94636,7 @@ sort: original
 髗	gulw	1
 髖	gukr	1
 髕	gubb	1
+體	guqudz	1
 體	guli	1
 體	gufg	1
 髒	guzh	1
@@ -95833,6 +95873,7 @@ sort: original
 霼	yyxi	1
 霼	yyqimi	1
 霼	yyqi	1
+霻	yuqudz	1
 霻	yuli	1
 霻	yufg	1
 霺	yuww	1
@@ -96354,6 +96395,7 @@ sort: original
 闬	mfgj	1
 闩	mfhg	1
 闧	mfyr	1
+闦	mfqudz	1
 闦	mfli	1
 闦	mffg	1
 闥	mfta	1
@@ -97827,6 +97869,7 @@ sort: original
 醷	yzyi	1
 醶	yzqm	1
 醵	yzju	1
+醴	yzqudz	1
 醴	yzli	1
 醴	yzfg	1
 醳	yzze	1
@@ -98025,6 +98068,8 @@ sort: original
 鄹	juer	1
 鄸	mgyi	1
 鄸	mger	1
+鄷	qudzyi	1
+鄷	qudzer	1
 鄷	liyi	1
 鄷	lier	1
 鄷	fgyi	1
@@ -99433,6 +99478,7 @@ sort: original
 軉	ufbc	1
 軈	ufyk	1
 軇	ufuz	1
+軆	ufqudz	1
 軆	ufli	1
 軆	uffg	1
 軅	ufyj	1
@@ -100237,6 +100283,7 @@ sort: original
 豓	fgtdmb	1
 豓	fghe	1
 豒	fgdi	1
+豑	qudzdi	1
 豑	lidi	1
 豑	fgdi	1
 豐	ujfgfgdz	1
@@ -102479,6 +102526,7 @@ sort: original
 蘶	ccww	1
 蘵	ccvi	1
 蘵	ccte	1
+蘴	ccqudz	1
 蘴	ccli	1
 蘴	ccfg	1
 蘳	cchx	1
@@ -103745,6 +103793,7 @@ sort: original
 艸	ccie	1
 艸	cccc	1
 艷	fgse	1
+艶	qudzse	1
 艶	lise	1
 艶	fgse	1
 艵	bkse	1
@@ -107776,6 +107825,7 @@ sort: original
 禰	uier	1
 禯	uiquif	1
 禯	uins	1
+禮	uiqudz	1
 禮	uili	1
 禮	uifg	1
 禭	uisv	1
@@ -111514,6 +111564,8 @@ sort: original
 灐	uvjs	1
 灏	uvhc	1
 灏	hsye	1
+灎	uvqudzqumb	1
+灎	uvqudzhe	1
 灎	uvliqumb	1
 灎	uvlihe	1
 灎	uvfgqumb	1
@@ -111765,6 +111817,7 @@ sort: original
 澩	jqycbcuv	1
 澨	uvvuwu	1
 澨	uvui	1
+澧	uvqudz	1
 澧	uvli	1
 澧	uvfg	1
 澦	uvyu	1
@@ -122330,6 +122383,7 @@ sort: original
 僿	rfsd	1
 僾	rfai	1
 僽	rfiz	1
+僼	rfqudz	1
 僼	rfli	1
 僼	rffg	1
 僺	rfzc	1
@@ -123308,6 +123362,7 @@ sort: original
 䵇	mawf	1
 䵆	mdmg	1
 䵅	aomd	1
+䵄	mdqudz	1
 䵄	mdli	1
 䵄	mdfg	1
 䵃	mdhl	1
@@ -124265,6 +124320,7 @@ sort: original
 䪉	gelp	1
 䪈	geqm	1
 䪇	gepo	1
+䪆	gequdz	1
 䪆	geli	1
 䪆	gefg	1
 䪅	geuu	1
@@ -126620,8 +126676,10 @@ sort: original
 䌣	migr	1
 䌢	silk	1
 䌢	milk	1
+䌡	siqudz	1
 䌡	sili	1
 䌡	sifg	1
+䌡	miqudz	1
 䌡	mili	1
 䌡	mifg	1
 䌠	xmsi	1

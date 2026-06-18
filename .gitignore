@@ -6,3 +6,4 @@ __pycache__
 *.custom.yaml
 pyvenv.cfg
 .DS_Store
+temp.*.yaml

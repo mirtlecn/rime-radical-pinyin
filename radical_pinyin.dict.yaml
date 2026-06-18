@@ -88,7 +88,7 @@
 
 ---
 name: radical_pinyin
-version: "2026.06.17"
+version: "2026.06.18"
 sort: original
 ...
 
@@ -8847,6 +8847,7 @@ sort: original
 𳂉	zhi'chi	1
 𳂈	shi'wei	1
 𳂇	shi'xiu	1
+𳂆	qu'dou'qu'dou	1
 𳂆	li'li	1
 𳂆	li'feng	1
 𳂆	feng'li	1
@@ -13554,6 +13555,7 @@ sort: original
 𱾫	cao'zhun	1
 𱾪	lou'fu	1
 𱾨	cao'e	1
+𱾧	cao'qu'dou	1
 𱾧	cao'li	1
 𱾧	cao'feng	1
 𱾦	bei'cai	1
@@ -18427,6 +18429,7 @@ sort: original
 𰶦	shi'shi	1
 𰶥	shi'er	1
 𰶤	shi'bi	1
+𰶣	qu'dou'yong	1
 𰶣	li'yong	1
 𰶣	feng'yong	1
 𰶢	dou'xiang	1
@@ -19798,8 +19801,10 @@ sort: original
 𰢖	wang'hao'pie'po'pie'fu	1
 𰢖	wang'hao'pie'fu'pie'po	1
 𰢖	wang'hao'pie'fu'pie'fu	1
+𰢓	yu'qu'dou	1
 𰢓	yu'li	1
 𰢓	yu'feng	1
+𰢓	wang'qu'dou	1
 𰢓	wang'li	1
 𰢓	wang'feng	1
 𰢒	yang'yu	1
@@ -24326,9 +24331,12 @@ sort: original
 𮙘	xiong'zhu'kan'zhu'dou	1
 𮙘	kan'zhu'xiong'zhu'dou	1
 𮙘	kan'zhu'kan'zhu'dou	1
+𮙗	duo'qu'dou	1
 𮙗	duo'li	1
 𮙗	duo'feng	1
 𮙖	qi'dou	1
+𮙕	qu'dou'shan	1
+𮙕	qu'dou'san	1
 𮙕	li'shan	1
 𮙕	li'san	1
 𮙕	feng'shan	1
@@ -26093,6 +26101,7 @@ sort: original
 𭾙	mu'le	1
 𭾘	mu'ba	1
 𭾗	mu'shi	1
+𭾖	he'qu'dou	1
 𭾖	he'li	1
 𭾖	he'feng	1
 𭾔	kang'min	1
@@ -37959,6 +37968,7 @@ sort: original
 𫓓	ju'bao'wen'jin	1
 𫓒	jin'nong	1
 𫓑	jin'cong	1
+𫓐	jin'qu'dou	1
 𫓐	jin'li	1
 𫓐	jin'feng	1
 𫓏	jin'gan	1
@@ -38518,6 +38528,7 @@ sort: original
 𫌖	yi'lian	1
 𫌕	yi'li	1
 𫌔	yi'qun	1
+𫌓	yi'qu'dou	1
 𫌓	yi'li	1
 𫌓	yi'feng	1
 𫌒	yi'tong	1
@@ -38578,6 +38589,7 @@ sort: original
 𫋣	chong'qi	1
 𫋢	chong'chi	1
 𫋡	zhi'chong	1
+𫋠	chong'qu'dou	1
 𫋠	chong'li	1
 𫋠	chong'feng	1
 𫋟	chong'xian'min	1
@@ -40399,6 +40411,7 @@ sort: original
 𪴃	mu'ao	1
 𪴂	mu'man	1
 𪴁	mu'tiao	1
+𪴀	mu'qu'dou	1
 𪴀	mu'li	1
 𪴀	mu'feng	1
 𪳿	guo'du	1
@@ -41114,6 +41127,7 @@ sort: original
 𪩲	po'pie	1
 𪩲	fu'pie	1
 𪩱	ba'lan	1
+𪩰	qu'dou'ji	1
 𪩰	li'ji	1
 𪩰	feng'ji	1
 𪩯	si'chan	1
@@ -41481,6 +41495,7 @@ sort: original
 𪤣	tu'yu	1
 𪤢	tu'zao	1
 𪤢	tu'qiao	1
+𪤡	tu'qu'dou	1
 𪤡	tu'li	1
 𪤡	tu'feng	1
 𪤠	tu'lei	1
@@ -43141,6 +43156,7 @@ sort: original
 𪏪	huang'kuang	1
 𪏪	huang'guang	1
 𪏩	huang'duan'huo	1
+𪏨	huang'qu'dou	1
 𪏨	huang'li	1
 𪏨	huang'feng	1
 𪏦	huang'shu	1
@@ -49370,6 +49386,7 @@ sort: original
 𩁔	ning'zhui	1
 𩁓	yu'zhui	1
 𩁒	yang'zhui	1
+𩁑	qu'dou'zhui	1
 𩁑	li'zhui	1
 𩁑	feng'zhui	1
 𩁐	lu'zhui	1
@@ -49688,6 +49705,7 @@ sort: original
 𨼸	er'yi	1
 𨼸	er'gao	1
 𨼸	er'du	1
+𨼷	er'qu'dou	1
 𨼷	er'li	1
 𨼷	er'feng	1
 𨼶	er'ji'xuan'xin	1
@@ -55218,17 +55236,21 @@ sort: original
 𧰥	kui'deng	1
 𧰥	gui'deng	1
 𧰣	zhu'xun	1
+𧰢	qu'dou'lin	1
 𧰢	li'lin	1
 𧰢	feng'lin	1
 𧰡	zhu'li	1
 𧰡	shi'dou'li	1
 𧰠	zhu'lie	1
+𧰟	qu'dou'he	1
 𧰟	li'he	1
 𧰟	feng'he	1
+𧰞	qu'dou'zhan	1
 𧰞	li'zhan	1
 𧰞	feng'zhan	1
 𧰝	yi'dao	1
 𧰛	er'fang'wa'dou	1
+𧰚	qu'dou'he	1
 𧰚	li'he	1
 𧰚	feng'he	1
 𧰙	qi'qi	1
@@ -55239,6 +55261,7 @@ sort: original
 𧰘	tan'zhu	1
 𧰘	tan'shi'dou	1
 𧰗	dou'ning	1
+𧰖	liu'qu'dou	1
 𧰖	liu'li	1
 𧰖	liu'feng	1
 𧰕	zhu'dao	1
@@ -55256,6 +55279,7 @@ sort: original
 𧰈	mao'dou	1
 𧰇	zhu'yu	1
 𧰆	dou'bi	1
+𧰅	qu'dou'shi	1
 𧰅	li'shi	1
 𧰅	feng'shi	1
 𧰄	xiang'qi	1
@@ -55492,6 +55516,7 @@ sort: original
 𧬻	yan'ta	1
 𧬻	yan'da	1
 𧬺	yan'di	1
+𧬹	yan'qu'dou	1
 𧬹	yan'li	1
 𧬹	yan'feng	1
 𧬸	yan'teng	1
@@ -60792,6 +60817,7 @@ sort: original
 𦡌	ju'bao'yu'yue	1
 𦡋	yue'dun	1
 𦡋	yue'du	1
+𦡊	yue'qu'dou	1
 𦡊	yue'li	1
 𦡊	yue'feng	1
 𦡉	meng'yue	1
@@ -63987,6 +64013,7 @@ sort: original
 𥽍	mi'jin	1
 𥽌	mi'dao	1
 𥽋	mi'qian	1
+𥽈	mi'qu'dou	1
 𥽈	mi'li	1
 𥽈	mi'feng	1
 𥽇	mi'gan	1
@@ -64625,6 +64652,7 @@ sort: original
 𥴤	zhu'jian	1
 𥴣	zhu'feng	1
 𥴢	zhu'zhi	1
+𥴡	zhu'qu'dou	1
 𥴡	zhu'li	1
 𥴡	zhu'feng	1
 𥴟	zhu'mu'wei	1
@@ -67261,6 +67289,7 @@ sort: original
 𥎖	mao'er	1
 𥎕	yu'shu	1
 𥎔	mao'shi'chong	1
+𥎓	mao'qu'dou	1
 𥎓	mao'li	1
 𥎓	mao'feng	1
 𥎒	mao'ming'xin	1
@@ -70801,6 +70830,7 @@ sort: original
 𤣃	quan'lv	1
 𤣃	quan'lu	1
 𤣂	lei'quan	1
+𤣁	quan'qu'dou	1
 𤣁	quan'li	1
 𤣁	quan'feng	1
 𤣀	quan'zheng	1
@@ -72870,6 +72900,7 @@ sort: original
 𤄢	shui'si'ta	1
 𤄢	shui'si'da	1
 𤄠	shui'pin	1
+𤄝	shui'qu'dou'qu	1
 𤄝	shui'li'qu	1
 𤄝	shui'feng'qu	1
 𤄜	shui'fan	1
@@ -77559,6 +77590,7 @@ sort: original
 𣀆	qun'wen	1
 𣀅	ye'bi'wen	1
 𣀃	lian'pu	1
+𣀂	qu'dou'pu	1
 𣀂	li'pu	1
 𣀂	feng'pu	1
 𣀁	zhan'pu	1
@@ -79739,6 +79771,7 @@ sort: original
 𢢭	yu'xin	1
 𢢬	xin'qin	1
 𢢫	xin'chun	1
+𢢪	xin'qu'dou	1
 𢢪	xin'li	1
 𢢪	xin'feng	1
 𢢩	xin'jing	1
@@ -82685,6 +82718,7 @@ sort: original
 𡽏	duan'mian	1
 𡽎	shan'qian	1
 𡽎	shan'an	1
+𡽍	shan'qu'dou	1
 𡽍	shan'li	1
 𡽍	shan'feng	1
 𡽌	gu'shan	1
@@ -84003,6 +84037,7 @@ sort: original
 𡫓	bao'dian	1
 𡫐	bao'lian	1
 𡫌	bao'mu	1
+𡫋	bao'qu'dou	1
 𡫋	bao'li	1
 𡫋	bao'feng	1
 𡫈	bao'yin'quan	1
@@ -89925,6 +89960,7 @@ sort: original
 𠙮	pi'fan	1
 𠙬	ji'zi'chong	1
 𠙬	ji'you'chong	1
+𠙫	qu'dou'ji	1
 𠙫	li'ji	1
 𠙫	feng'ji	1
 𠙪	qiao'ji	1
@@ -90435,6 +90471,7 @@ sort: original
 𠓐	guang'rong	1
 𠓏	ke'zhan	1
 𠓎	ke'dun	1
+𠓍	mian'qu'dou	1
 𠓍	mian'li	1
 𠓍	mian'feng	1
 𠓌	guang'lian	1
@@ -92938,6 +92975,7 @@ sort: original
 鳣	yu'yi'hui'dan	1
 鳣	yu'tou'hui'dan	1
 鳣	yu'dan	1
+鳢	yu'qu'dou	1
 鳢	yu'li	1
 鳢	yu'feng	1
 鳡	yu'gan	1
@@ -93117,6 +93155,7 @@ sort: original
 鱪	yu'shu	1
 鱩	yu'lei	1
 鱨	yu'chang	1
+鱧	yu'qu'dou	1
 鱧	yu'li	1
 鱧	yu'feng	1
 鱦	yu'min	1
@@ -94596,6 +94635,7 @@ sort: original
 髗	gu'lei	1
 髖	gu'kuan	1
 髕	gu'bin	1
+體	gu'qu'dou	1
 體	gu'li	1
 體	gu'feng	1
 髒	gu'zang	1
@@ -95832,6 +95872,7 @@ sort: original
 霼	yun'xi	1
 霼	yun'qi'mi	1
 霼	yun'qi	1
+霻	yu'qu'dou	1
 霻	yu'li	1
 霻	yu'feng	1
 霺	yu'wei	1
@@ -96353,6 +96394,7 @@ sort: original
 闬	men'gan	1
 闩	men'heng	1
 闧	men'yuan	1
+闦	men'qu'dou	1
 闦	men'li	1
 闦	men'feng	1
 闥	men'ta	1
@@ -97826,6 +97868,7 @@ sort: original
 醷	you'yi	1
 醶	you'qian	1
 醵	you'ju	1
+醴	you'qu'dou	1
 醴	you'li	1
 醴	you'feng	1
 醳	you'ze	1
@@ -98024,6 +98067,8 @@ sort: original
 鄹	ju'er	1
 鄸	meng'yi	1
 鄸	meng'er	1
+鄷	qu'dou'yi	1
+鄷	qu'dou'er	1
 鄷	li'yi	1
 鄷	li'er	1
 鄷	feng'yi	1
@@ -99432,6 +99477,7 @@ sort: original
 軉	shen'bao	1
 軈	shen'ying	1
 軇	shen'shou	1
+軆	shen'qu'dou	1
 軆	shen'li	1
 軆	shen'feng	1
 軅	shen'yan	1
@@ -100236,6 +100282,7 @@ sort: original
 豓	feng'tai'min	1
 豓	feng'he	1
 豒	feng'di	1
+豑	qu'dou'di	1
 豑	li'di	1
 豑	feng'di	1
 豐	shan'feng'feng'dou	1
@@ -102478,6 +102525,7 @@ sort: original
 蘶	cao'wei	1
 蘵	cao'zhi	1
 蘵	cao'te	1
+蘴	cao'qu'dou	1
 蘴	cao'li	1
 蘴	cao'feng	1
 蘳	cao'hua	1
@@ -103744,6 +103792,7 @@ sort: original
 艸	cao'che	1
 艸	cao'cao	1
 艷	feng'se	1
+艶	qu'dou'se	1
 艶	li'se	1
 艶	feng'se	1
 艵	bing'se	1
@@ -107775,6 +107824,7 @@ sort: original
 禰	shi'er	1
 禯	shi'qu'chen	1
 禯	shi'nong	1
+禮	shi'qu'dou	1
 禮	shi'li	1
 禮	shi'feng	1
 禭	shi'sui	1
@@ -111513,6 +111563,8 @@ sort: original
 灐	shui'jiong	1
 灏	shui'hao	1
 灏	hong'ye	1
+灎	shui'qu'dou'qu'min	1
+灎	shui'qu'dou'he	1
 灎	shui'li'qu'min	1
 灎	shui'li'he	1
 灎	shui'feng'qu'min	1
@@ -111764,6 +111816,7 @@ sort: original
 澩	jiu'yao'bao'shui	1
 澨	shui'zhu'wu	1
 澨	shui'shi	1
+澧	shui'qu'dou	1
 澧	shui'li	1
 澧	shui'feng	1
 澦	shui'yu	1
@@ -122329,6 +122382,7 @@ sort: original
 僿	ren'sai	1
 僾	ren'ai	1
 僽	ren'chou	1
+僼	ren'qu'dou	1
 僼	ren'li	1
 僼	ren'feng	1
 僺	ren'zao	1
@@ -123307,6 +123361,7 @@ sort: original
 䵇	ma'wen	1
 䵆	mai'meng	1
 䵅	ao'mai	1
+䵄	mai'qu'dou	1
 䵄	mai'li	1
 䵄	mai'feng	1
 䵃	mai'huang	1
@@ -124264,6 +124319,7 @@ sort: original
 䪉	ge'lie	1
 䪈	ge'qian	1
 䪇	ge'po	1
+䪆	ge'qu'dou	1
 䪆	ge'li	1
 䪆	ge'feng	1
 䪅	ge'shu	1
@@ -126619,8 +126675,10 @@ sort: original
 䌣	mi'guan	1
 䌢	si'ling	1
 䌢	mi'ling	1
+䌡	si'qu'dou	1
 䌡	si'li	1
 䌡	si'feng	1
+䌡	mi'qu'dou	1
 䌡	mi'li	1
 䌡	mi'feng	1
 䌠	xian'si	1
