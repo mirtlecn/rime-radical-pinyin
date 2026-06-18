@@ -22,19 +22,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - name: Update tag
-        if: startsWith(github.ref, 'refs/tags/')
-        run: |
-          DATE=$(date +'%Y.%m.%d')
-          echo "${{ github.ref_name }}"
-          
-          # 将版本信息追加到 dict-head-note.yaml
-          echo "# v${{ github.ref_name }} -> $DATE" >> src/dict/dict-head-note.yaml
-          
-          # 更新 schema 文件中的版本信息
-          sed -i "s/version: \"[0-9]\.[0-9]\.[0-9]\"/version: \"${{ github.ref_name }}\"/g" radical.schema.yaml
-          sed -i "s/version: \"[0-9]\.[0-9]\.[0-9]\"/version: \"${{ github.ref_name }}\"/g" radical_pinyin.schema.yaml
-
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
@@ -68,7 +55,7 @@ jobs:
 
       - name: Create nightly release
         if: ${{ ! startsWith(github.ref, 'refs/tags/') }}
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           body: |
             ## 文件
@@ -88,7 +75,7 @@ jobs:
 
       - name: Create stable release
         if: startsWith(github.ref, 'refs/tags/')
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           body: |
             ## 文件

@@ -1,4 +1,4 @@
-.PHONY: all lint install gen 2fly 2ms 2py append fix
+.PHONY: all lint install gen 2fly 2ms 2py append fix version
 
 MAKE_ARGS := $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS))
 FROM_ARG := $(word 1,$(MAKE_ARGS))
@@ -28,11 +28,15 @@ append:
 	@if [ "$(words $(MAKE_ARGS))" -lt 2 ]; then echo 'Usage: make append "<字>" "<组件>"' >&2; exit 2; fi
 	python3 script/replace_error.py -f '$(FROM_ARG)' -t '$(TO_ARGS)' -a
 
+version:
+	@if [ -z "$(FROM_ARG)" ]; then echo 'Usage: make version major|minor|patch [no-tag]' >&2; exit 1; fi
+	bash script/version.sh $(FROM_ARG) $(if $(filter no-tag,$(TO_ARGS)),--no-tag,)
+
 fix:
 	@if [ "$(words $(MAKE_ARGS))" -lt 2 ]; then echo 'Usage: make fix "<字>" "<组件>"' >&2; exit 2; fi
 	python3 script/replace_error.py -f '$(FROM_ARG)' -t '$(TO_ARGS)'
 
-ifneq ($(filter append fix,$(firstword $(MAKECMDGOALS))),)
+ifneq ($(filter append fix version,$(firstword $(MAKECMDGOALS))),)
 %:
 	@:
 endif
