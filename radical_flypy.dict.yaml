@@ -497,6 +497,7 @@ sort: original
 西	hggoer	937
 叫	kzveuu	937
 叫	kzjq	937
+应	glxnhg	936
 应	glnanapphg	936
 应	glnadmpphg	936
 应	gldmnapphg	936
@@ -651,6 +652,7 @@ sort: original
 新	qbjb	649
 新	limujb	649
 兵	qqba	646
+兵	jbhgba	646
 物	nqwu	645
 离	yixsyitssi	643
 离	yixsyijssi	643
@@ -1600,6 +1602,7 @@ sort: original
 刺	mujsdc	207
 刺	cidc	207
 共	uiuuhgba	207
+共	nmhgba	207
 共	jkba	207
 共	eruuuuba	207
 负	dcbw	206
@@ -2796,6 +2799,7 @@ sort: original
 吼	kzks	80
 佩	rfjiza	80
 佩	rfjihgjb	80
+佩	rfjibi	80
 享	yikzzi	80
 享	tzkzzi	80
 销	jbxn	79
@@ -3341,7 +3345,13 @@ sort: original
 竞	lixs	52
 祸	uikznw	52
 祸	uigo	52
+爵	vxwhjt	52
+爵	vxwhgfcy	52
+爵	vxsijt	52
 爵	vxsigfcy	52
+爵	vcwhjt	52
+爵	vcwhgfcy	52
+爵	vcsijt	52
 爵	vcsigfcy	52
 允	sier	52
 黎	uubcpp	51
@@ -4169,6 +4179,8 @@ sort: original
 诀	yjgk	29
 葬	ccsins	29
 葬	ccsigs	29
+葬	ccnssi	29
+葬	ccgssi	29
 舟	pptshgnauu	29
 舟	pptshgnana	29
 舟	pptshgnadm	29
@@ -4860,6 +4872,8 @@ sort: original
 萝	ccwhxi	17
 萝	ccsixi	17
 萝	cclo	17
+莽	ccnsqr	17
+莽	ccgsqr	17
 莽	ccdans	17
 莽	ccdags	17
 芦	cchu	17
@@ -8912,6 +8926,8 @@ sort: original
 𳁔	wuxm	1
 𳁔	wujm	1
 𳁒	yciz	1
+𳁑	xijt	1
+𳁑	xigfcy	1
 𳁐	xifw	1
 𳁏	yiho	1
 𳁎	yilj	1
@@ -9157,6 +9173,7 @@ sort: original
 𲽫	ccjy	1
 𲽫	ccgv	1
 𲽪	yrnn	1
+𲽩	cckzfuhu	1
 𲽨	ccifgumb	1
 𲽧	bile	1
 𲽦	cchv	1
@@ -9604,6 +9621,8 @@ sort: original
 𲷶	mijl	1
 𲷴	sivd	1
 𲷴	mivd	1
+𲷳	sijibi	1
+𲷳	mijibi	1
 𲷲	siqu	1
 𲷲	miqu	1
 𲷱	silc	1
@@ -10400,6 +10419,10 @@ sort: original
 𲬿	vxuk	1
 𲬿	vcuk	1
 𲬾	vcmg	1
+𲬽	vxjt	1
+𲬽	vxgfcy	1
+𲬽	vcjt	1
+𲬽	vcgfcy	1
 𲬼	vcho	1
 𲬻	vcgv	1
 𲬺	wuwuwu	1
@@ -10429,6 +10452,8 @@ sort: original
 𲬥	kdmg	1
 𲬤	hoqn	1
 𲬣	laho	1
+𲬢	ykjt	1
+𲬢	ykgfcy	1
 𲬡	luujho	1
 𲬡	lusjho	1
 𲬠	yzyj	1
@@ -10822,6 +10847,7 @@ sort: original
 𲦦	mulbuj	1
 𲦦	mulbsj	1
 𲦥	mugsww	1
+𲦤	mucckzfu	1
 𲦣	bfjp	1
 𲦢	muuycs	1
 𲦢	muircs	1
@@ -11540,6 +11566,9 @@ sort: original
 𲜤	vxdzcy	1
 𲜤	vcdzcy	1
 𲜣	uzcy	1
+𲜢	hgvshgyk	1
+𲜢	hgvshgdz	1
+𲜢	hgvshgcy	1
 𲜡	bcwj	1
 𲜠	whcy	1
 𲜠	sicy	1
@@ -12765,6 +12794,7 @@ sort: original
 𲊠	gehj	1
 𲊟	gezi	1
 𲊞	geai	1
+𲊝	cckzuijibk	1
 𲊜	guge	1
 𲊛	gefj	1
 𲊚	jlmm	1
@@ -12789,6 +12819,8 @@ sort: original
 𲊅	yutn	1
 𲊄	bcji	1
 𲊂	yuiige	1
+𲊁	yujt	1
+𲊁	yugfcy	1
 𲊀	yuyi	1
 𲉿	yugj	1
 𲉾	yuwh	1
@@ -13386,6 +13418,9 @@ sort: original
 𲁆	yisu	1
 𲁅	ysyi	1
 𲁄	yicv	1
+𲁃	hgvsmiuiyi	1
+𲁃	hgvsbcuiyi	1
+𲁂	yiglnmmu	1
 𲁁	yivw	1
 𲁁	yive	1
 𲁁	yiyj	1
@@ -13555,11 +13590,15 @@ sort: original
 𱾫	ccvo	1
 𱾫	ccvy	1
 𱾪	lzfu	1
+𱾩	ccnshd	1
+𱾩	ccgshd	1
 𱾨	ccee	1
 𱾧	ccqudz	1
 𱾧	ccli	1
 𱾧	ccfg	1
 𱾦	bwcd	1
+𱾤	ccnsru	1
+𱾤	ccgsru	1
 𱾣	mfwj	1
 𱾢	cclu	1
 𱾡	ccmo	1
@@ -13581,6 +13620,8 @@ sort: original
 𱾑	ccpi	1
 𱾐	cclw	1
 𱾏	ccao	1
+𱾍	ccnsuiuiuu	1
+𱾍	ccgsuiuiuu	1
 𱾋	ccvu	1
 𱾊	cclv	1
 𱾇	hxzd	1
@@ -13607,6 +13648,8 @@ sort: original
 𱽰	ccff	1
 𱽯	ccge	1
 𱽮	ccjk	1
+𱽭	cchgbakl	1
+𱽭	cchgbagr	1
 𱽬	ccgz	1
 𱽫	ccpw	1
 𱽪	ccyr	1
@@ -13624,6 +13667,8 @@ sort: original
 𱽜	ccvi	1
 𱽛	ccya	1
 𱽚	ccle	1
+𱽙	ccnsrf	1
+𱽙	ccgsrf	1
 𱽘	cccs	1
 𱽗	cclu	1
 𱽖	ccuf	1
@@ -13672,6 +13717,7 @@ sort: original
 𱼫	rimivi	1
 𱼫	ribcvi	1
 𱼪	vitm	1
+𱼩	hgsierhggz	1
 𱼧	ppif	1
 𱼦	xmrz	1
 𱼦	xirz	1
@@ -14141,9 +14187,13 @@ sort: original
 𱶠	heji	1
 𱶟	yuyuli	1
 𱶞	helh	1
+𱶝	hewfjibi	1
 𱶜	heiz	1
+𱶛	hehgbarfjkuu	1
 𱶚	hezs	1
 𱶗	heyz	1
+𱶔	heqrhgyt	1
+𱶔	heqrhgri	1
 𱶓	heyzmu	1
 𱶒	hefu	1
 𱶑	hexm	1
@@ -14151,6 +14201,8 @@ sort: original
 𱶎	hehu	1
 𱶍	hehgxnjk	1
 𱶌	heze	1
+𱶋	hejqhgyt	1
+𱶋	hejqhgri	1
 𱶊	helq	1
 𱶇	dayche	1
 𱶆	helw	1
@@ -14535,6 +14587,8 @@ sort: original
 𱯽	whvuji	1
 𱯼	whxm	1
 𱯻	duxkyu	1
+𱯺	whxtuzhgba	1
+𱯺	whxtbdhgba	1
 𱯹	whyu	1
 𱯵	whgu	1
 𱯴	whqm	1
@@ -14591,6 +14645,7 @@ sort: original
 𱮽	whmz	1
 𱮻	vixiwh	1
 𱮺	whvf	1
+𱮹	whrfhgba	1
 𱮸	whxs	1
 𱮷	whui	1
 𱮵	whuu	1
@@ -14611,6 +14666,7 @@ sort: original
 𱮨	qrcvyi	1
 𱮧	qryexx	1
 𱮦	qruuqr	1
+𱮤	lqhgsiba	1
 𱮣	qrjb	1
 𱮢	qrla	1
 𱮠	qrrfyu	1
@@ -14968,6 +15024,8 @@ sort: original
 𱩟	uvujjx	1
 𱩛	uvbjdcsi	1
 𱩛	uvbjdcmi	1
+𱩚	uvyijkhgkzkx	1
+𱩚	uvtzjkhgkzkx	1
 𱩘	xilv	1
 𱩗	uvzs	1
 𱩖	uvxr	1
@@ -15052,6 +15110,7 @@ sort: original
 𱧻	uvklhx	1
 𱧻	uvgrhx	1
 𱧺	uvyebasi	1
+𱧹	uvvshgtm	1
 𱧹	uvistm	1
 𱧸	uvucxncy	1
 𱧷	uvccse	1
@@ -15256,6 +15315,8 @@ sort: original
 𱤩	muvc	1
 𱤨	muyj	1
 𱤧	duvu	1
+𱤦	hgvsmilrmu	1
+𱤦	hgvsbclrmu	1
 𱤥	muii	1
 𱤤	muyb	1
 𱤣	muvd	1
@@ -15402,6 +15463,7 @@ sort: original
 𱢔	risi	1
 𱢓	riuzyzer	1
 𱢓	riuzyber	1
+𱢒	rijkhgyi	1
 𱢑	tuui	1
 𱢐	uizi	1
 𱢏	riww	1
@@ -16081,6 +16143,8 @@ sort: original
 𱘰	dajm	1
 𱘯	keda	1
 𱘮	dafh	1
+𱘭	daxnna	1
+𱘭	daxndm	1
 𱘬	yimg	1
 𱘬	yjmg	1
 𱘬	yamg	1
@@ -16310,6 +16374,7 @@ sort: original
 𱕯	kzya	1
 𱕯	kzan	1
 𱕮	kzpj	1
+𱕭	cckzfucckzfu	1
 𱕬	kzmo	1
 𱕫	kzwg	1
 𱕪	kzbd	1
@@ -16397,6 +16462,8 @@ sort: original
 𱔡	kzjp	1
 𱔠	kzxl	1
 𱔟	kzug	1
+𱔞	xrjkhgyi	1
+𱔞	ssjkhgyi	1
 𱔝	kzha	1
 𱔜	kzee	1
 𱔛	glglkz	1
@@ -16627,6 +16694,8 @@ sort: original
 𱑆	klyh	1
 𱑅	yiyu	1
 𱑅	xmyu	1
+𱑄	biuyuj	1
+𱑄	biiruj	1
 𱑃	bcko	1
 𱑃	bckk	1
 𱑃	bchv	1
@@ -16839,6 +16908,7 @@ sort: original
 𱍹	nddm	1
 𱍸	ppgzna	1
 𱍩	uhxu	1
+𱍨	cckzfupi	1
 𱍧	xyxx	1
 𱍧	xbxx	1
 𱍦	uiph	1
@@ -17688,6 +17758,7 @@ sort: original
 𱁉	dzvv	1
 𱁈	xlvv	1
 𱁇	mcvv	1
+𱁆	vvhgsi	1
 𱁅	bavv	1
 𱁄	fuyi	1
 𱁂	vvty	1
@@ -18009,6 +18080,8 @@ sort: original
 𰼗	bmjk	1
 𰼖	yzuf	1
 𰼖	yzpj	1
+𰼕	yzxijt	1
+𰼕	yzxigfcy	1
 𰼔	yzjp	1
 𰼔	yzji	1
 𰼓	yzti	1
@@ -18218,7 +18291,9 @@ sort: original
 𰹡	iebo	1
 𰹠	jujr	1
 𰹠	iejr	1
+𰹟	juvshgtm	1
 𰹟	juistm	1
+𰹟	ievshgtm	1
 𰹟	ieistm	1
 𰹞	lwdaju	1
 𰹞	lwdaie	1
@@ -18708,6 +18783,7 @@ sort: original
 𰲡	huqpyz	1
 𰲠	jmhu	1
 𰲟	huwu	1
+𰲝	yihujb	1
 𰲜	huwu	1
 𰲛	hukz	1
 𰲚	yihurf	1
@@ -18786,6 +18862,7 @@ sort: original
 𰱕	bdyu	1
 𰱔	cckf	1
 𰱓	cchh	1
+𰱒	ccnmmu	1
 𰱑	ccvj	1
 𰱐	ccmd	1
 𰱏	ccxi	1
@@ -18920,6 +18997,14 @@ sort: original
 𰯒	ytujveui	1
 𰯑	ytkh	1
 𰯎	ytll	1
+𰯌	ytxpxnna	1
+𰯌	ytxpxndm	1
+𰯌	ytxxxnna	1
+𰯌	ytxxxndm	1
+𰯌	ytjxxnna	1
+𰯌	ytjxxndm	1
+𰯌	ytgaxnna	1
+𰯌	ytgaxndm	1
 𰯋	njrz	1
 𰯊	ytmcui	1
 𰯉	ytqi	1
@@ -19450,9 +19535,12 @@ sort: original
 𰧶	uiui	1
 𰧵	uirf	1
 𰧴	uijq	1
+𰧳	uihgyt	1
+𰧳	uihgri	1
 𰧲	hxui	1
 𰧱	uirj	1
 𰧰	uiyh	1
+𰧯	uihgsi	1
 𰧮	uiqi	1
 𰧮	uiji	1
 𰧭	uiui	1
@@ -19461,6 +19549,10 @@ sort: original
 𰧪	uizj	1
 𰧩	uihe	1
 𰧨	uiyzsh	1
+𰧦	uirfrfrfrfyt	1
+𰧦	uirfrfrfrfri	1
+𰧦	uicscsyt	1
+𰧦	uicscsri	1
 𰧥	uidg	1
 𰧤	uibi	1
 𰧣	siui	1
@@ -19682,6 +19774,10 @@ sort: original
 𰤉	nebn	1
 𰤈	vili	1
 𰤇	nejp	1
+𰤄	nerfrfrfrfyt	1
+𰤄	nerfrfrfrfri	1
+𰤄	necscsyt	1
+𰤄	necscsri	1
 𰤂	neic	1
 𰤀	neto	1
 𰣿	neue	1
@@ -19848,6 +19944,7 @@ sort: original
 𰢃	uhyu	1
 𰢁	jtbk	1
 𰢀	jtxi	1
+𰡿	yujiui	1
 𰡾	yuto	1
 𰡾	whto	1
 𰡽	yuuz	1
@@ -19997,6 +20094,7 @@ sort: original
 𰠁	ldvc	1
 𰠀	vxdd	1
 𰠀	vcdd	1
+𰟿	vckf	1
 𰟾	vxnwyz	1
 𰟾	vcnwyz	1
 𰟽	vctd	1
@@ -20297,6 +20395,8 @@ sort: original
 𰛘	uvui	1
 𰛗	uvbw	1
 𰛖	hghouv	1
+𰛕	hgytuv	1
+𰛕	hgriuv	1
 𰛔	uvtd	1
 𰛒	uvds	1
 𰛑	uvvu	1
@@ -20848,6 +20948,7 @@ sort: original
 𰓏	uzyz	1
 𰓎	uzke	1
 𰓍	uzgj	1
+𰓌	uzhgvs	1
 𰓊	uzbj	1
 𰓉	wfuz	1
 𰓈	uzhu	1
@@ -21062,6 +21163,10 @@ sort: original
 𰐕	bifu	1
 𰐔	gsdj	1
 𰐓	gsvi	1
+𰐒	yirfrfrfrfyt	1
+𰐒	yirfrfrfrfri	1
+𰐒	yicscsyt	1
+𰐒	yicscsri	1
 𰐑	yixi	1
 𰐐	yiyj	1
 𰐏	yijn	1
@@ -21415,6 +21520,8 @@ sort: original
 𰋅	tubu	1
 𰋄	tuyi	1
 𰋃	tuxp	1
+𰋂	tuccnahgsiwhuz	1
+𰋂	tuccdmhgsiwhuz	1
 𰋁	jxdztu	1
 𰋀	tuji	1
 𰊿	ycxkwftu	1
@@ -21458,6 +21565,7 @@ sort: original
 𰊜	tuvd	1
 𰊜	tuze	1
 𰊛	tukv	1
+𰊚	tucckzfu	1
 𰊙	qntu	1
 𰊘	tuxy	1
 𰊘	tusy	1
@@ -21630,6 +21738,7 @@ sort: original
 𰈋	kzdu	1
 𰈊	kzdm	1
 𰈉	kzbw	1
+𰈈	kzhujb	1
 𰈇	kzih	1
 𰈆	kzlj	1
 𰈅	hvkzbi	1
@@ -21760,6 +21869,8 @@ sort: original
 𰆊	gzuu	1
 𰆉	bucsyzer	1
 𰆉	bocsyzer	1
+𰆈	bujigstm	1
+𰆈	bojigstm	1
 𰆇	butsyzbutsyz	1
 𰆇	butsyzbujsyz	1
 𰆇	butsyzbotsyz	1
@@ -21776,6 +21887,10 @@ sort: original
 𰆇	bojsyzbujsyz	1
 𰆇	bojsyzbotsyz	1
 𰆇	bojsyzbojsyz	1
+𰆆	bujihgpo	1
+𰆆	bujihgfu	1
+𰆆	bojihgpo	1
+𰆆	bojihgfu	1
 𰆅	vjhgkz	1
 𰆄	buriuuih	1
 𰆄	boriuuih	1
@@ -21908,6 +22023,7 @@ sort: original
 𰄓	tuds	1
 𰄒	aoyu	1
 𰄑	ruao	1
+𰄐	jily	1
 𰄏	bklv	1
 𰄏	bklu	1
 𰄎	jkxn	1
@@ -22173,12 +22289,15 @@ sort: original
 𰀞	lwiz	1
 𰀝	qpqpqp	1
 𰀜	wdbi	1
+𰀛	hgxrjitu	1
 𰀚	buvg	1
 𰀙	tmbm	1
 𰀘	buanrf	1
 𰀗	uhuhuhuh	1
 𰀖	hggo	1
 𰀕	bkbk	1
+𰀔	hgytjitu	1
+𰀔	hgrijitu	1
 𰀓	hgliji	1
 𰀒	bkbk	1
 𰀑	dqcd	1
@@ -22731,6 +22850,8 @@ sort: original
 𮱾	iiqb	1
 𮱽	rfsi	1
 𮱽	iisi	1
+𮱼	rfjibi	1
+𮱼	iijibi	1
 𮱻	rfug	1
 𮱻	iiug	1
 𮱺	rfyi	1
@@ -22815,6 +22936,7 @@ sort: original
 𮰶	bhda	1
 𮰶	bjda	1
 𮰵	daji	1
+𮰴	xntm	1
 𮰳	jbqy	1
 𮰲	uivc	1
 𮰱	jicd	1
@@ -23435,6 +23557,7 @@ sort: original
 𮧐	mmvd	1
 𮧐	mmze	1
 𮧏	uimm	1
+𮧎	hgbauuytmm	1
 𮧍	mmna	1
 𮧋	iumm	1
 𮧊	mmqp	1
@@ -23541,7 +23664,10 @@ sort: original
 𮥔	erjb	1
 𮥓	erdgug	1
 𮥒	erjy	1
+𮥑	erhoxnna	1
+𮥑	erhoxndm	1
 𮥐	eryj	1
+𮥏	ervahgsi	1
 𮥍	erky	1
 𮥌	aaxx	1
 𮥊	ermm	1
@@ -23953,6 +24079,8 @@ sort: original
 𮞜	vidajs	1
 𮞛	viyu	1
 𮞚	viyc	1
+𮞙	vihgbarj	1
+𮞘	vihgbarjuu	1
 𮞗	viju	1
 𮞖	gogx	1
 𮞕	viyiyi	1
@@ -24532,12 +24660,15 @@ sort: original
 𮖣	yixs	1
 𮖢	vlyi	1
 𮖡	yiyb	1
+𮖠	yimbjkhg	1
+𮖠	yilbjkhg	1
 𮖟	yibajsyi	1
 𮖟	tzbajsyi	1
 𮖞	yill	1
 𮖝	yiqq	1
 𮖜	yiyu	1
 𮖛	uiyi	1
+𮖚	yicsjkhg	1
 𮖘	yipi	1
 𮖗	yiye	1
 𮖕	yiia	1
@@ -24573,6 +24704,7 @@ sort: original
 𮕴	yita	1
 𮕳	yisi	1
 𮕲	yimu	1
+𮕱	yijkhg	1
 𮕰	yiwa	1
 𮕯	yiyy	1
 𮕮	ffyi	1
@@ -24595,6 +24727,12 @@ sort: original
 𮕝	xtdc	1
 𮕜	hgxt	1
 𮕛	toky	1
+𮕚	ishgvsmimb	1
+𮕚	ishgvsmimm	1
+𮕚	ishgvsmimg	1
+𮕚	ishgvsbcmb	1
+𮕚	ishgvsbcmm	1
+𮕚	ishgvsbcmg	1
 𮕙	isbm	1
 𮕖	isni	1
 𮕖	ismi	1
@@ -24701,7 +24839,10 @@ sort: original
 𮓵	rfis	1
 𮓴	isui	1
 𮓳	ismf	1
+𮓱	ppvshg	1
 𮓱	ppis	1
+𮓰	vshgna	1
+𮓰	vshgdm	1
 𮓰	isna	1
 𮓰	isdm	1
 𮓯	hulb	1
@@ -24802,6 +24943,7 @@ sort: original
 𮒄	ccuu	1
 𮒃	ccli	1
 𮑿	cchgbauuytis	1
+𮑽	cchgcsjkhgyi	1
 𮑼	cchevr	1
 𮑻	ccpmfu	1
 𮑻	ccpmbi	1
@@ -24933,6 +25075,7 @@ sort: original
 𮏦	ccbdmu	1
 𮏥	mnri	1
 𮏤	hvtu	1
+𮏣	ccjkhgyi	1
 𮏡	biye	1
 𮏠	ccuvdd	1
 𮏟	ccuvba	1
@@ -24962,6 +25105,7 @@ sort: original
 𮏃	gsgf	1
 𮏀	ccmd	1
 𮎿	ccvetmba	1
+𮎾	cchgsitm	1
 𮎽	ccveif	1
 𮎼	ccklif	1
 𮎼	ccfhif	1
@@ -25093,6 +25237,7 @@ sort: original
 𮌯	ytxi	1
 𮌭	gcyt	1
 𮌬	diyr	1
+𮌫	yuhgsiir	1
 𮌪	ytjp	1
 𮌩	whkzytji	1
 𮌨	ytph	1
@@ -25273,6 +25418,10 @@ sort: original
 𮊙	whxi	1
 𮊙	sixi	1
 𮊘	whww	1
+𮊕	whyuhgyt	1
+𮊕	whyuhgri	1
+𮊕	siyuhgyt	1
+𮊕	siyuhgri	1
 𮊔	ghww	1
 𮊓	ghng	1
 𮊒	whyrsipppp	1
@@ -25450,7 +25599,9 @@ sort: original
 𮈪	midr	1
 𮈩	sisv	1
 𮈩	misv	1
+𮈨	sivshgyt	1
 𮈨	siisyt	1
+𮈨	mivshgyt	1
 𮈨	miisyt	1
 𮈧	siyj	1
 𮈧	miyj	1
@@ -25527,6 +25678,8 @@ sort: original
 𮇵	lirfmi	1
 𮇴	mijp	1
 𮇳	miai	1
+𮇲	midgxnna	1
+𮇲	midgxndm	1
 𮇱	midi	1
 𮇰	micche	1
 𮇯	miui	1
@@ -25875,6 +26028,8 @@ sort: original
 𮁽	uiyi	1
 𮁻	uixi	1
 𮁹	cjui	1
+𮁸	hgvsmiui	1
+𮁸	hgvsbcui	1
 𮁷	uihd	1
 𮁶	lqppuiuu	1
 𮁴	uixk	1
@@ -26247,6 +26402,8 @@ sort: original
 𭼂	jisidk	1
 𭼁	gskzpi	1
 𭼁	gskzdk	1
+𭻿	hgytzz	1
+𭻿	hgrizz	1
 𭻾	rfpi	1
 𭻾	rfdk	1
 𭻽	piyc	1
@@ -26518,6 +26675,8 @@ sort: original
 𭸾	yuju	1
 𭸾	whju	1
 𭸽	hgfuwh	1
+𭸼	xnmiyu	1
+𭸼	xnbcyu	1
 𭸻	yuui	1
 𭸻	whui	1
 𭸺	yuyc	1
@@ -26950,6 +27109,8 @@ sort: original
 𭲔	uvhgtmhgtm	1
 𭲓	uvuiwhxb	1
 𭲓	uvuisixb	1
+𭲒	uvhgsihgsibd	1
+𭲑	uvgsvshgba	1
 𭲑	uvgsisba	1
 𭲐	wwuv	1
 𭲏	uvtc	1
@@ -27617,6 +27778,8 @@ sort: original
 𭧥	ribi	1
 𭧥	ribf	1
 𭧥	ribj	1
+𭧢	hgvsmiui	1
+𭧢	hgvsbcui	1
 𭧡	ycbdycri	1
 𭧠	rikh	1
 𭧟	jkjq	1
@@ -28231,6 +28394,14 @@ sort: original
 𭝣	xbyu	1
 𭝢	fgppfgxb	1
 𭝡	hzxb	1
+𭝠	xpxnna	1
+𭝠	xpxndm	1
+𭝠	xxxnna	1
+𭝠	xxxndm	1
+𭝠	jxxnna	1
+𭝠	jxxndm	1
+𭝠	gaxnna	1
+𭝠	gaxndm	1
 𭝟	xbju	1
 𭝞	kkge	1
 𭝝	sivi	1
@@ -28274,6 +28445,8 @@ sort: original
 𭜱	xbveui	1
 𭜰	bcwfxb	1
 𭜯	bkxb	1
+𭜮	jrxnna	1
+𭜮	jrxndm	1
 𭜭	xbbcwf	1
 𭜬	xbzc	1
 𭜫	isxb	1
@@ -28294,6 +28467,8 @@ sort: original
 𭜜	xbmu	1
 𭜛	xbmb	1
 𭜚	xber	1
+𭜙	tubaxnna	1
+𭜙	tubaxndm	1
 𭜘	tuxb	1
 𭜗	xbdj	1
 𭜖	xbzi	1
@@ -28342,6 +28517,8 @@ sort: original
 𭛼	iiuz	1
 𭛻	rfqq	1
 𭛻	iiqq	1
+𭛺	rfhujb	1
+𭛺	iihujb	1
 𭛹	rfuuwfmu	1
 𭛹	iiuuwfmu	1
 𭛷	rffu	1
@@ -28855,6 +29032,7 @@ sort: original
 𭔢	bcndjm	1
 𭔠	hdks	1
 𭔟	bcjtbw	1
+𭔝	bcxbgz	1
 𭔜	bcnqnp	1
 𭔛	hdxk	1
 𭔛	hdjk	1
@@ -28882,6 +29060,7 @@ sort: original
 𭔂	bcyj	1
 𭔁	bcrfyk	1
 𭔁	bcrftd	1
+𭓿	bcjqhgba	1
 𭓾	bcyrwf	1
 𭓼	bcfa	1
 𭓻	bcmi	1
@@ -28894,6 +29073,7 @@ sort: original
 𭓸	bcgx	1
 𭓷	bcbu	1
 𭓶	bcvo	1
+𭓵	bcnmmu	1
 𭓴	bcdc	1
 𭓳	bclidk	1
 𭓲	bcjn	1
@@ -29023,6 +29203,7 @@ sort: original
 𭑵	yznv	1
 𭑴	nvmc	1
 𭑳	nvjs	1
+𭑲	vshgnv	1
 𭑲	isnv	1
 𭑱	nvjx	1
 𭑰	nvmu	1
@@ -29057,6 +29238,8 @@ sort: original
 𭑔	lpui	1
 𭑓	bwtd	1
 𭑒	rfla	1
+𭑑	vxhgsida	1
+𭑑	vchgsida	1
 𭑐	uimu	1
 𭑎	tzdz	1
 𭑍	lvda	1
@@ -29158,6 +29341,7 @@ sort: original
 𭏦	tugd	1
 𭏥	tuji	1
 𭏤	tuzc	1
+𭏣	tuyihujb	1
 𭏢	detu	1
 𭏡	tuya	1
 𭏠	tuth	1
@@ -29223,6 +29407,7 @@ sort: original
 𭎙	cckztu	1
 𭎘	tufz	1
 𭎗	zitu	1
+𭎖	tujibi	1
 𭎔	tuci	1
 𭎓	tuzc	1
 𭎒	tusi	1
@@ -29414,6 +29599,10 @@ sort: original
 𭌐	seva	1
 𭌎	kzdu	1
 𭌍	kzig	1
+𭌌	uixrmiyijkhg	1
+𭌌	uixrbcyijkhg	1
+𭌌	uissmiyijkhg	1
+𭌌	uissbcyijkhg	1
 𭌋	kzuu	1
 𭌊	xixm	1
 𭌊	xijm	1
@@ -29465,6 +29654,8 @@ sort: original
 𭋞	kzbh	1
 𭋝	kzfu	1
 𭋜	kzyr	1
+𭋛	gumiyijkhg	1
+𭋛	gubcyijkhg	1
 𭋚	neii	1
 𭋙	kzlu	1
 𭋘	ccjuccju	1
@@ -30543,6 +30734,8 @@ sort: original
 𬻪	vgwo	1
 𬻩	gfxx	1
 𬻨	duxx	1
+𬻧	hgvsmiqp	1
+𬻧	hgvsbcqp	1
 𬻦	kdmd	1
 𬻤	jldk	1
 𬻤	hsdk	1
@@ -30570,6 +30763,8 @@ sort: original
 𬻄	dkdkdk	1
 𬻃	hgppjiuuuu	1
 𬻁	xxtu	1
+𬺿	hgvsna	1
+𬺿	hgvsdm	1
 𬺾	kzgzhg	1
 𬺽	qierhg	1
 𬺼	dkye	1
@@ -31581,6 +31776,8 @@ sort: original
 𬬘	tusiytfjjb	1
 𬬗	jbjb	1
 𬬖	jbkv	1
+𬬕	jbwhjkhgyi	1
+𬬕	jbsijkhgyi	1
 𬬔	jbyi	1
 𬬓	jbbi	1
 𬬒	jbju	1
@@ -31738,6 +31935,7 @@ sort: original
 𬪀	yjer	1
 𬩾	lder	1
 𬩽	xyer	1
+𬩼	jibier	1
 𬩻	uaer	1
 𬩺	gsyi	1
 𬩹	saer	1
@@ -32043,6 +32241,7 @@ sort: original
 𬥰	uibwuibw	1
 𬥯	pbzs	1
 𬥯	pbcs	1
+𬥮	cckzfupb	1
 𬥬	pbnj	1
 𬥫	dvbw	1
 𬥪	gubw	1
@@ -32568,9 +32767,13 @@ sort: original
 𬝰	ccrfrfer	1
 𬝯	ccbb	1
 𬝮	ccln	1
+𬝭	ccnsye	1
+𬝭	ccgsye	1
 𬝫	ykhc	1
 𬝪	cctk	1
 𬝩	ciuz	1
+𬝧	ccnsjifh	1
+𬝧	ccgsjifh	1
 𬝦	cchebk	1
 𬝥	ccbche	1
 𬝥	ccbcfu	1
@@ -34137,6 +34340,7 @@ sort: original
 𬊇	yjyi	1
 𬊇	kdyi	1
 𬊅	hondxb	1
+𬊄	hojibi	1
 𬊃	hoci	1
 𬊂	hoiu	1
 𬊁	horj	1
@@ -34402,6 +34606,8 @@ sort: original
 𬅾	ifvi	1
 𬅼	civi	1
 𬅻	quvi	1
+𬅺	hgytvi	1
+𬅺	hgrivi	1
 𬅹	zavi	1
 𬅸	uhvi	1
 𬅷	dcvi	1
@@ -34431,19 +34637,35 @@ sort: original
 𬅞	yuqm	1
 𬅝	qmns	1
 𬅝	qmgs	1
+𬅜	muvuwhjt	1
+𬅜	muvuwhgfcy	1
+𬅜	muvusijt	1
+𬅜	muvusigfcy	1
 𬅛	lbsi	1
 𬅛	lbli	1
 𬅚	muls	1
 𬅙	fjwhlh	1
 𬅙	fjsilh	1
+𬅘	munvmuwhjt	1
+𬅘	munvmuwhgfcy	1
+𬅘	munvmusijt	1
+𬅘	munvmusigfcy	1
 𬅗	limumw	1
 𬅖	fjwhji	1
 𬅖	fjsiji	1
+𬅕	muximuwhjt	1
+𬅕	muximuwhgfcy	1
+𬅕	muximusijt	1
+𬅕	muximusigfcy	1
 𬅔	mufzmumiji	1
 𬅔	mufzmubcji	1
 𬅓	uulw	1
 𬅑	muxy	1
 𬅐	lbyi	1
+𬅏	munvmumijt	1
+𬅏	munvmumigfcy	1
+𬅏	munvmubcjt	1
+𬅏	munvmubcgfcy	1
 𬅎	muzg	1
 𬅍	mufzmudauz	1
 𬅋	muxb	1
@@ -35666,6 +35888,7 @@ sort: original
 𫳮	bcnvjb	1
 𫳭	bcng	1
 𫳭	bcls	1
+𫳬	bcxbzd	1
 𫳫	bchu	1
 𫳪	bcyb	1
 𫳩	bcrfgc	1
@@ -36726,6 +36949,7 @@ sort: original
 𫥡	bijibd	1
 𫥠	fjii	1
 𫥟	jihgnv	1
+𫥞	jiza	1
 𫥝	bkqk	1
 𫥝	bkqb	1
 𫥜	lgzu	1
@@ -37034,6 +37258,9 @@ sort: original
 𫡀	bhqi	1
 𫡀	bjqi	1
 𫠿	uhdg	1
+𫠾	hgvswwbw	1
+𫠾	hgvskzbw	1
+𫠾	hgvsgobw	1
 𫠽	uhqk	1
 𫠼	uhvo	1
 𫠻	buxb	1
@@ -37047,6 +37274,8 @@ sort: original
 𫠴	qqhv	1
 𫠳	xxly	1
 𫠲	buqu	1
+𫠱	hgytvg	1
+𫠱	hgrivg	1
 𫠰	xxwo	1
 𫠯	nsxx	1
 𫠮	vixx	1
@@ -39417,6 +39646,7 @@ sort: original
 𫁃	hevxxt	1
 𫁃	hevcxt	1
 𫁂	heba	1
+𫁁	hevshgtm	1
 𫁁	heistm	1
 𫁀	hejm	1
 𫀿	hetr	1
@@ -39493,6 +39723,7 @@ sort: original
 𫀃	uinw	1
 𫀂	uiruui	1
 𫀁	uinv	1
+𫀀	hgsiui	1
 𪿿	uivxyb	1
 𪿿	uivxkj	1
 𪿿	uivxan	1
@@ -40367,6 +40598,10 @@ sort: original
 𪴩	fhqm	1
 𪴨	yeye	1
 𪴧	mulj	1
+𪴦	muwfmuwhjt	1
+𪴦	muwfmuwhgfcy	1
+𪴦	muwfmusijt	1
+𪴦	muwfmusigfcy	1
 𪴥	mubc	1
 𪴤	mujt	1
 𪴤	mujn	1
@@ -41066,6 +41301,7 @@ sort: original
 𪪭	jmpk	1
 𪪬	ybyu	1
 𪪬	jmyu	1
+𪪫	cckzfuku	1
 𪪪	duii	1
 𪪩	nsuu	1
 𪪨	gllbmi	1
@@ -41475,6 +41711,7 @@ sort: original
 𪤴	yiyi	1
 𪤳	uivehscy	1
 𪤲	ugma	1
+𪤱	cckzfuvu	1
 𪤰	tulb	1
 𪤯	tuyilvyh	1
 𪤯	tutzlvyh	1
@@ -41816,6 +42053,7 @@ sort: original
 𪠟	cjyb	1
 𪠞	doqu	1
 𪠝	quni	1
+𪠜	tujibi	1
 𪠛	ihxrgj	1
 𪠛	ihssgj	1
 𪠚	litm	1
@@ -41936,6 +42174,7 @@ sort: original
 𪞸	xswu	1
 𪞷	iuns	1
 𪞷	iugs	1
+𪞵	jixt	1
 𪞴	jiji	1
 𪞳	gkji	1
 𪞲	jivj	1
@@ -42285,6 +42524,10 @@ sort: original
 𪙲	kyii	1
 𪙲	kfii	1
 𪙰	iige	1
+𪙮	iirfrfrfrfyt	1
+𪙮	iirfrfrfrfri	1
+𪙮	iicscsyt	1
+𪙮	iicscsri	1
 𪙭	iicg	1
 𪙬	vjii	1
 𪙫	iixu	1
@@ -43038,6 +43281,7 @@ sort: original
 𪑡	hwnm	1
 𪑠	hwli	1
 𪑟	cihw	1
+𪑞	hwnmmu	1
 𪑝	hwho	1
 𪑜	hwvi	1
 𪑛	ujhghwwf	1
@@ -43926,6 +44170,7 @@ sort: original
 𪅂	vhnn	1
 𪅁	isnn	1
 𪅀	jbnn	1
+𪄿	cckzfunn	1
 𪄽	qtmcnn	1
 𪄼	wwnn	1
 𪄻	nnis	1
@@ -44550,6 +44795,10 @@ sort: original
 𩻹	yuic	1
 𩻸	yudd	1
 𩻷	ugyu	1
+𩻶	yurfrfrfrfyt	1
+𩻶	yurfrfrfrfri	1
+𩻶	yucscsyt	1
+𩻶	yucscsri	1
 𩻵	yuxi	1
 𩻴	yuxtgg	1
 𩻳	yuli	1
@@ -44566,6 +44815,7 @@ sort: original
 𩻫	yuirmi	1
 𩻪	ihyu	1
 𩻩	yuse	1
+𩻨	yuvshghv	1
 𩻨	yuishv	1
 𩻧	yugo	1
 𩻦	yucj	1
@@ -44668,6 +44918,7 @@ sort: original
 𩺈	nayu	1
 𩺇	yuqm	1
 𩺆	yulc	1
+𩺅	yuvshgtm	1
 𩺅	yuistm	1
 𩺄	ytxkyu	1
 𩺃	iayu	1
@@ -44789,6 +45040,7 @@ sort: original
 𩸒	yugh	1
 𩸑	yuql	1
 𩸐	yuru	1
+𩸏	yunmmu	1
 𩸎	yudk	1
 𩸍	yumk	1
 𩸌	yuuc	1
@@ -45059,6 +45311,7 @@ sort: original
 𩴖	jrgv	1
 𩴕	vjgv	1
 𩴔	gvys	1
+𩴓	gvcckzfu	1
 𩴒	qlgv	1
 𩴒	jlgv	1
 𩴑	gvuf	1
@@ -45355,6 +45608,8 @@ sort: original
 𩰨	vcuikzihcy	1
 𩰦	muwhihyz	1
 𩰦	musiihyz	1
+𩰥	vcwhihyz	1
+𩰥	vcsiihyz	1
 𩰤	juih	1
 𩰢	ihli	1
 𩰡	ihui	1
@@ -45691,6 +45946,9 @@ sort: original
 𩮾	ujyi	1
 𩮾	pnyi	1
 𩮾	bnyi	1
+𩮽	ujcckzfu	1
+𩮽	pncckzfu	1
+𩮽	bncckzfu	1
 𩮼	ujwu	1
 𩮼	ujmc	1
 𩮼	pnwu	1
@@ -46155,6 +46413,12 @@ sort: original
 𩬸	bnpo	1
 𩬸	bnni	1
 𩬸	bnji	1
+𩬷	ujuyuj	1
+𩬷	ujiruj	1
+𩬷	pnuyuj	1
+𩬷	pniruj	1
+𩬷	bnuyuj	1
+𩬷	bniruj	1
 𩬶	ujyu	1
 𩬶	pnyu	1
 𩬶	bnyu	1
@@ -46406,6 +46670,7 @@ sort: original
 𩫌	gcjs	1
 𩫋	gcpi	1
 𩫊	gcbatu	1
+𩫉	dcdcgc	1
 𩫈	gcqr	1
 𩫇	bugc	1
 𩫆	gcug	1
@@ -46512,6 +46777,7 @@ sort: original
 𩩨	gupiir	1
 𩩧	guyj	1
 𩩦	guyu	1
+𩩥	gunmmu	1
 𩩤	guya	1
 𩩤	guee	1
 𩩣	guyu	1
@@ -46548,6 +46814,8 @@ sort: original
 𩩄	gujm	1
 𩩃	gudagj	1
 𩩂	guhe	1
+𩩀	guuyuj	1
+𩩀	guiruj	1
 𩨿	guhv	1
 𩨾	guww	1
 𩨽	gudv	1
@@ -46708,6 +46976,7 @@ sort: original
 𩦭	maue	1
 𩦬	majrzu	1
 𩦫	mann	1
+𩦪	mayibajkhg	1
 𩦩	mazv	1
 𩦩	majy	1
 𩦩	majr	1
@@ -46949,6 +47218,8 @@ sort: original
 𩣆	mayh	1
 𩣅	jqma	1
 𩣄	maihbibi	1
+𩣃	mauyuj	1
+𩣃	mairuj	1
 𩣂	xmma	1
 𩣁	manwqi	1
 𩣀	marz	1
@@ -47039,6 +47310,9 @@ sort: original
 𩡦	xluikzwwfzmu	1
 𩡦	xluikzkzfzmu	1
 𩡦	xluikzgofzmu	1
+𩡦	xlhgvswwfzmu	1
+𩡦	xlhgvskzfzmu	1
+𩡦	xlhgvsgofzmu	1
 𩡥	xlyivswwfzxn	1
 𩡥	xlyivskzfzxn	1
 𩡥	xlyivsgofzxn	1
@@ -47186,6 +47460,7 @@ sort: original
 𩟠	uime	1
 𩟞	uimg	1
 𩟝	uijb	1
+𩟜	ujuiiuhgsiir	1
 𩟛	uipo	1
 𩟚	guui	1
 𩟙	uijp	1
@@ -47238,6 +47513,7 @@ sort: original
 𩞱	uida	1
 𩞰	uida	1
 𩞯	uill	1
+𩞮	uivshghv	1
 𩞮	uiishv	1
 𩞭	uiyh	1
 𩞬	uidg	1
@@ -47266,6 +47542,7 @@ sort: original
 𩞔	uitugsui	1
 𩞓	uitu	1
 𩞓	uibi	1
+𩞒	uivshghv	1
 𩞒	uiishv	1
 𩞑	uihu	1
 𩞐	zsui	1
@@ -47465,6 +47742,8 @@ sort: original
 𩛎	uiujkz	1
 𩛍	uidv	1
 𩛌	uidanv	1
+𩛋	uiuyuj	1
+𩛋	uiiruj	1
 𩛊	uifz	1
 𩛈	eeui	1
 𩛇	uibd	1
@@ -47792,6 +48071,7 @@ sort: original
 𩖢	fggs	1
 𩖡	fgxi	1
 𩖠	fgnv	1
+𩖟	xnfg	1
 𩖞	fguj	1
 𩖜	fgxy	1
 𩖛	fgfj	1
@@ -48523,6 +48803,7 @@ sort: original
 𩍵	gevi	1
 𩍴	gezj	1
 𩍳	gemuuiciwf	1
+𩍱	gevckzlekzyz	1
 𩍰	gege	1
 𩍰	gegd	1
 𩍯	gcgegk	1
@@ -48687,6 +48968,7 @@ sort: original
 𩋡	geui	1
 𩋠	gemm	1
 𩋟	gefu	1
+𩋞	genmmu	1
 𩋝	gezd	1
 𩋜	geju	1
 𩋛	gelqfj	1
@@ -49035,6 +49317,9 @@ sort: original
 𩆘	yuuikzwwfz	1
 𩆘	yuuikzkzfz	1
 𩆘	yuuikzgofz	1
+𩆘	yuhgvswwfz	1
+𩆘	yuhgvskzfz	1
+𩆘	yuhgvsgofz	1
 𩆗	yutmtmri	1
 𩆖	lklk	1
 𩆕	lkxi	1
@@ -49404,6 +49689,10 @@ sort: original
 𩁇	yivv	1
 𩁇	gcvv	1
 𩁇	duvv	1
+𩁆	rfrfrfrfytvv	1
+𩁆	rfrfrfrfrivv	1
+𩁆	cscsytvv	1
+𩁆	cscsrivv	1
 𩁅	ivvv	1
 𩁄	uuvv	1
 𩁃	xuvv	1
@@ -49932,6 +50221,7 @@ sort: original
 𨹤	eris	1
 𨹣	erpa	1
 𨹣	erba	1
+𨹢	erhgxngs	1
 𨹡	eryzjqtu	1
 𨹠	wfhs	1
 𨹠	wfgs	1
@@ -50861,6 +51151,7 @@ sort: original
 𨫬	jbqm	1
 𨫫	jbqk	1
 𨫫	jbkv	1
+𨫪	jbcckzfu	1
 𨫩	jbsu	1
 𨫧	jbxi	1
 𨫥	jljb	1
@@ -51191,6 +51482,7 @@ sort: original
 𨦫	jbyu	1
 𨦪	jbyh	1
 𨦩	jbwh	1
+𨦨	jbjibi	1
 𨦧	jbnm	1
 𨦦	jbyu	1
 𨦥	jbii	1
@@ -51431,6 +51723,10 @@ sort: original
 𨣒	yzts	1
 𨣏	yzda	1
 𨣍	yzue	1
+𨣋	yzrfrfrfrfyt	1
+𨣋	yzrfrfrfrfri	1
+𨣋	yzcscsyt	1
+𨣋	yzcscsri	1
 𨣊	yzuz	1
 𨣊	yziz	1
 𨣉	yzjm	1
@@ -52204,6 +52500,8 @@ sort: original
 𨗵	viqituyh	1
 𨗴	viwhvv	1
 𨗴	visivv	1
+𨗳	dcxnna	1
+𨗳	dcxndm	1
 𨗲	viwo	1
 𨗱	vidg	1
 𨗰	viyzsi	1
@@ -52254,6 +52552,10 @@ sort: original
 𨗂	viqi	1
 𨗂	viji	1
 𨗁	viii	1
+𨗀	virfrfrfrfyt	1
+𨗀	virfrfrfrfri	1
+𨗀	vicscsyt	1
+𨗀	vicscsri	1
 𨖿	viww	1
 𨖾	visi	1
 𨖽	viyutu	1
@@ -52281,9 +52583,13 @@ sort: original
 𨖭	viya	1
 𨖬	viug	1
 𨖫	vituvv	1
+𨖪	iovcrins	1
+𨖪	iovcrigs	1
 𨖩	vijr	1
 𨖨	viyi	1
 𨖧	mcsu	1
+𨖦	vivcrins	1
+𨖦	vivcrigs	1
 𨖤	iowfyj	1
 𨖢	viqrjt	1
 𨖠	viyibm	1
@@ -52369,6 +52675,7 @@ sort: original
 𨕓	vissyu	1
 𨕒	vixx	1
 𨕒	viui	1
+𨕑	vihujb	1
 𨕐	vivimu	1
 𨕏	vidaxi	1
 𨕎	vidatukz	1
@@ -52386,6 +52693,7 @@ sort: original
 𨔾	vive	1
 𨔽	vijx	1
 𨔹	virippri	1
+𨔸	vijkhgrj	1
 𨔷	vige	1
 𨔶	vida	1
 𨔵	vitr	1
@@ -52429,6 +52737,7 @@ sort: original
 𨔎	vibctubave	1
 𨔎	vibctubagz	1
 𨔌	vigu	1
+𨔋	vinmmu	1
 𨔊	vizu	1
 𨔉	viwffg	1
 𨔈	vivi	1
@@ -52646,6 +52955,7 @@ sort: original
 𨐶	xbhx	1
 𨐵	xbbixb	1
 𨐴	pijx	1
+𨐲	vcsicsxb	1
 𨐱	xbytxb	1
 𨐰	xbffxb	1
 𨐯	piff	1
@@ -52714,6 +53024,14 @@ sort: original
 𨐃	xbie	1
 𨐁	judp	1
 𨐁	iedp	1
+𨐀	juhgythgytlu	1
+𨐀	juhgythgrilu	1
+𨐀	juhgrihgytlu	1
+𨐀	juhgrihgrilu	1
+𨐀	iehgythgytlu	1
+𨐀	iehgythgrilu	1
+𨐀	iehgrihgytlu	1
+𨐀	iehgrihgrilu	1
 𨏿	ybyb	1
 𨏿	jujujuju	1
 𨏿	jujujuie	1
@@ -52879,7 +53197,9 @@ sort: original
 𨎿	julw	1
 𨎿	ielw	1
 𨎾	juuikzhgbw	1
+𨎾	juhgvshgbw	1
 𨎾	ieuikzhgbw	1
+𨎾	iehgvshgbw	1
 𨎽	juyy	1
 𨎽	ieyy	1
 𨎼	ybyz	1
@@ -52971,6 +53291,8 @@ sort: original
 𨎖	thie	1
 𨎕	juwuhe	1
 𨎕	iewuhe	1
+𨎔	jucckzfu	1
+𨎔	iecckzfu	1
 𨎓	ybnq	1
 𨎒	juxi	1
 𨎒	iexi	1
@@ -53806,6 +54128,10 @@ sort: original
 𨅨	zuth	1
 𨅧	zuyjbagskz	1
 𨅧	zuwwbagskz	1
+𨅦	zurfrfrfrfyt	1
+𨅦	zurfrfrfrfri	1
+𨅦	zucscsyt	1
+𨅦	zucscsri	1
 𨅥	zubw	1
 𨅤	zuqi	1
 𨅤	zuji	1
@@ -53867,6 +54193,7 @@ sort: original
 𨄯	wwzu	1
 𨄮	zulv	1
 𨄬	mazu	1
+𨄪	zuyihujb	1
 𨄩	zufu	1
 𨄨	zuao	1
 𨄧	yizu	1
@@ -53991,6 +54318,7 @@ sort: original
 𨂹	zudctmdc	1
 𨂸	zuhz	1
 𨂷	zuli	1
+𨂶	zuhujb	1
 𨂵	zuia	1
 𨂴	zucs	1
 𨂳	zuxy	1
@@ -54033,6 +54361,7 @@ sort: original
 𨂒	zuye	1
 𨂑	zuhurf	1
 𨂐	zuld	1
+𨂏	zunmmu	1
 𨂎	zuyu	1
 𨂌	zudk	1
 𨂋	zuqi	1
@@ -54314,6 +54643,10 @@ sort: original
 𧾃	zzpu	1
 𧾂	zzji	1
 𧾁	zzza	1
+𧾀	zzrfrfrfrfyt	1
+𧾀	zzrfrfrfrfri	1
+𧾀	zzcscsyt	1
+𧾀	zzcscsri	1
 𧽿	zzts	1
 𧽾	zzsj	1
 𧽽	zzln	1
@@ -55074,6 +55407,8 @@ sort: original
 𧳃	viis	1
 𧳂	vifu	1
 𧳁	vido	1
+𧳀	viuyuj	1
+𧳀	viiruj	1
 𧲿	vihz	1
 𧲽	viju	1
 𧲻	vivi	1
@@ -55430,6 +55765,8 @@ sort: original
 𧮃	yjyj	1
 𧮂	yjti	1
 𧮁	yjccxixihgyz	1
+𧭿	whdcdcjk	1
+𧭿	sidcdcjk	1
 𧭾	yjgv	1
 𧭽	yjcczi	1
 𧭼	yjqk	1
@@ -55541,6 +55878,10 @@ sort: original
 𧬥	yjdz	1
 𧬤	yjts	1
 𧬣	viyj	1
+𧬢	yjrfrfrfrfyt	1
+𧬢	yjrfrfrfrfri	1
+𧬢	yjcscsyt	1
+𧬢	yjcscsri	1
 𧬡	yjiv	1
 𧬠	yjuu	1
 𧬞	yjyy	1
@@ -55674,6 +56015,8 @@ sort: original
 𧪙	yjli	1
 𧪘	yjia	1
 𧪕	yjjx	1
+𧪔	whdcdcyj	1
+𧪔	sidcdcyj	1
 𧪓	yjyu	1
 𧪒	yjqr	1
 𧪑	yjxl	1
@@ -55727,6 +56070,7 @@ sort: original
 𧩟	yjcs	1
 𧩞	quyj	1
 𧩝	yjuzyt	1
+𧩜	yjnmmu	1
 𧩛	yjxyyu	1
 𧩛	yjxyqn	1
 𧩛	yjxykc	1
@@ -56085,6 +56429,7 @@ sort: original
 𧤍	jndi	1
 𧤌	jnva	1
 𧤊	vijn	1
+𧤈	jnnmmu	1
 𧤇	jnyisimu	1
 𧤇	jntzsimu	1
 𧤆	jnmi	1
@@ -56789,6 +57134,8 @@ sort: original
 𧜔	yixp	1
 𧜓	yigu	1
 𧜒	yiccgc	1
+𧜑	yiyihgvspo	1
+𧜑	yiyihgvsfu	1
 𧜐	yigzdd	1
 𧜏	yifwyi	1
 𧜏	tzfwyi	1
@@ -56951,6 +57298,7 @@ sort: original
 𧙵	yilu	1
 𧙳	heyi	1
 𧙲	yikc	1
+𧙱	yijibi	1
 𧙰	yigsba	1
 𧙯	jryi	1
 𧙮	yiccjidc	1
@@ -57264,6 +57612,7 @@ sort: original
 𧕘	issv	1
 𧕗	islj	1
 𧕖	isxx	1
+𧕕	whvshgwhky	1
 𧕕	whiswhky	1
 𧕔	gcky	1
 𧕓	iscimb	1
@@ -57292,6 +57641,7 @@ sort: original
 𧕃	isij	1
 𧕂	isgeuyjq	1
 𧕂	isgeirjq	1
+𧕁	ishglkhgjkhg	1
 𧕀	isbi	1
 𧔿	isdn	1
 𧔾	istv	1
@@ -58165,6 +58515,7 @@ sort: original
 𧈕	yzlw	1
 𧈔	hulv	1
 𧈔	hulu	1
+𧈒	hujbxntu	1
 𧈑	huqi	1
 𧈑	huji	1
 𧈐	huui	1
@@ -58210,6 +58561,7 @@ sort: original
 𧇬	wohu	1
 𧇫	huqi	1
 𧇨	hulb	1
+𧇧	fuhujb	1
 𧇦	fahu	1
 𧇥	hulb	1
 𧇤	jubd	1
@@ -58241,6 +58593,7 @@ sort: original
 𧇊	xuyu	1
 𧇉	qmgu	1
 𧇈	qmqp	1
+𧇇	hujbqp	1
 𧇄	huzd	1
 𧇃	hulb	1
 𧇂	hubiwu	1
@@ -58270,6 +58623,7 @@ sort: original
 𧆨	hutm	1
 𧆦	qihu	1
 𧆥	hujx	1
+𧆤	hujbyz	1
 𧆣	hukk	1
 𧆢	hujq	1
 𧆡	jihu	1
@@ -58307,6 +58661,8 @@ sort: original
 𧆄	uuuo	1
 𧆄	uult	1
 𧆂	ccif	1
+𧆁	ccnscs	1
+𧆁	ccgscs	1
 𧆀	ccdi	1
 𧅿	ccriwhjbnn	1
 𧅼	ccrh	1
@@ -58365,6 +58721,10 @@ sort: original
 𧅑	ccwu	1
 𧅑	ccmg	1
 𧅐	ccuvdyho	1
+𧅏	ccnsli	1
+𧅏	ccgsli	1
+𧅎	ccnsmd	1
+𧅎	ccgsmd	1
 𧅌	mohw	1
 𧅊	viccyjir	1
 𧅉	ccxtufyi	1
@@ -58399,6 +58759,8 @@ sort: original
 𧄬	ccniyz	1
 𧄬	ccmiyz	1
 𧄬	cceryz	1
+𧄫	ccnsfj	1
+𧄫	ccgsfj	1
 𧄩	ccuvic	1
 𧄨	ccmuxu	1
 𧄧	ccwwwf	1
@@ -58434,6 +58796,7 @@ sort: original
 𧄋	ccsitsviboky	1
 𧄋	ccsijsvibuky	1
 𧄋	ccsijsviboky	1
+𧄊	cccckzfu	1
 𧄉	cczs	1
 𧄉	cccs	1
 𧄈	tdln	1
@@ -58447,6 +58810,10 @@ sort: original
 𧃽	ccyk	1
 𧃼	hrkz	1
 𧃼	grkz	1
+𧃻	ccnsse	1
+𧃻	ccgsse	1
+𧃺	ccnsmc	1
+𧃺	ccgsmc	1
 𧃹	kxye	1
 𧃹	kxuimu	1
 𧃹	hxye	1
@@ -58526,8 +58893,24 @@ sort: original
 𧂹	ccjm	1
 𧂸	ccbi	1
 𧂷	ccmaui	1
+𧂵	ccnsfj	1
+𧂵	ccgsfj	1
+𧂴	ccnshr	1
+𧂴	ccgshr	1
+𧂳	ccnsvj	1
+𧂳	ccnstj	1
+𧂳	ccnsuj	1
+𧂳	ccnsdj	1
+𧂳	ccnsij	1
+𧂳	ccgsvj	1
+𧂳	ccgstj	1
+𧂳	ccgsuj	1
+𧂳	ccgsdj	1
+𧂳	ccgsij	1
 𧂲	ccxkju	1
 𧂲	ccnpju	1
+𧂱	ccnsjt	1
+𧂱	ccgsjt	1
 𧂰	ccjb	1
 𧂯	ccyy	1
 𧂮	ccjk	1
@@ -58560,6 +58943,8 @@ sort: original
 𧂓	risjujjbyi	1
 𧂓	risjsjjbyi	1
 𧂒	ccjn	1
+𧂑	ccnsvi	1
+𧂑	ccgsvi	1
 𧂐	ccji	1
 𧂏	ccln	1
 𧂎	hcsi	1
@@ -58630,8 +59015,12 @@ sort: original
 𧁚	ccrvtu	1
 𧁙	ccyh	1
 𧁘	ccxb	1
+𧁗	ccnscs	1
+𧁗	ccgscs	1
 𧁖	cccczitm	1
 𧁖	ccccyztm	1
+𧁕	ccnspk	1
+𧁕	ccgspk	1
 𧁔	ccpumb	1
 𧁓	ccns	1
 𧁒	ccyh	1
@@ -58813,12 +59202,24 @@ sort: original
 𦿭	ccmf	1
 𦿭	ccmj	1
 𦿫	ccyjdari	1
+𦿪	ccnsfg	1
+𦿪	ccgsfg	1
+𦿩	ccnscc	1
+𦿩	ccgscc	1
 𦿨	cchezi	1
 𦿧	ccsvhg	1
 𦿦	cctsyiuj	1
 𦿦	cctsrfuj	1
 𦿦	ccjsyiuj	1
 𦿦	ccjsrfuj	1
+𦿥	ccnsyz	1
+𦿥	ccgsyz	1
+𦿤	ccnsiu	1
+𦿤	ccgsiu	1
+𦿣	ccnsgc	1
+𦿣	ccgsgc	1
+𦿠	ccnshu	1
+𦿠	ccgshu	1
 𦿟	ccyi	1
 𦿟	ccqi	1
 𦿞	cccs	1
@@ -58832,6 +59233,8 @@ sort: original
 𦿘	zumb	1
 𦿖	cclu	1
 𦿕	tvmu	1
+𦿔	ccnsbi	1
+𦿔	ccgsbi	1
 𦿓	ccji	1
 𦿒	ccvf	1
 𦿑	muxr	1
@@ -58935,7 +59338,15 @@ sort: original
 𦽾	cclq	1
 𦽽	ccffda	1
 𦽼	ccli	1
+𦽻	ccnsbc	1
+𦽻	ccgsbc	1
 𦽺	cceewf	1
+𦽹	ccnsmc	1
+𦽹	ccgsmc	1
+𦽸	ccnsjx	1
+𦽸	ccgsjx	1
+𦽷	ccnsjb	1
+𦽷	ccgsjb	1
 𦽶	ccye	1
 𦽵	ccerxbnv	1
 𦽴	ccjk	1
@@ -59085,9 +59496,31 @@ sort: original
 𦻮	fhhu	1
 𦻫	ccyiccyi	1
 𦻫	cctzccyi	1
+𦻪	ccnsww	1
+𦻪	ccnshv	1
+𦻪	ccgsww	1
+𦻪	ccgshv	1
 𦻩	ccmizc	1
 𦻩	ccbczc	1
+𦻨	ccnshu	1
+𦻨	ccgshu	1
+𦻧	ccnsvv	1
+𦻧	ccgsvv	1
+𦻦	ccnsyc	1
+𦻦	ccnstc	1
+𦻦	ccgsyc	1
+𦻦	ccgstc	1
+𦻥	ccnsfw	1
+𦻥	ccgsfw	1
 𦻤	ccxsxsri	1
+𦻣	ccnsld	1
+𦻣	ccgsld	1
+𦻢	ccnsdc	1
+𦻢	ccgsdc	1
+𦻡	ccnsqu	1
+𦻡	ccgsqu	1
+𦻟	ccnsvc	1
+𦻟	ccgsvc	1
 𦻝	ccji	1
 𦻜	ccxp	1
 𦻛	ccigho	1
@@ -59194,6 +59627,7 @@ sort: original
 𦺆	ccgc	1
 𦺄	ccqk	1
 𦺁	ccxp	1
+𦺀	ccmuhgsifu	1
 𦹿	ccrfmbersv	1
 𦹿	ccrflbersv	1
 𦹾	cchc	1
@@ -59240,11 +59674,19 @@ sort: original
 𦹐	ccgo	1
 𦹏	cchk	1
 𦹎	ccbccs	1
+𦹍	ccnsyu	1
+𦹍	ccgsyu	1
 𦹌	ccwwyiis	1
 𦹌	cckzyiis	1
 𦹌	ccgoyiis	1
 𦹋	ccwhfa	1
 𦹋	ccsifa	1
+𦹊	ccnswu	1
+𦹊	ccgswu	1
+𦹉	ccnsmc	1
+𦹉	ccgsmc	1
+𦹈	ccnsua	1
+𦹈	ccgsua	1
 𦹅	ccwj	1
 𦹄	ccuc	1
 𦹄	ccic	1
@@ -59263,6 +59705,8 @@ sort: original
 𦸶	iucc	1
 𦸵	cciu	1
 𦸴	ccdp	1
+𦸳	ccnsif	1
+𦸳	ccgsif	1
 𦸲	ccou	1
 𦸱	ccfu	1
 𦸰	ccij	1
@@ -59288,6 +59732,7 @@ sort: original
 𦸟	cceejpkd	1
 𦸞	biis	1
 𦸝	ccxi	1
+𦸜	ccvshghv	1
 𦸜	ccishv	1
 𦸛	ccic	1
 𦸚	ccxi	1
@@ -59397,9 +59842,17 @@ sort: original
 𦶳	ccyj	1
 𦶲	ccwjnv	1
 𦶱	ccneui	1
+𦶯	ccnsxt	1
+𦶯	ccgsxt	1
 𦶮	ccyy	1
+𦶭	ccnsxp	1
+𦶭	ccnslp	1
+𦶭	ccgsxp	1
+𦶭	ccgslp	1
 𦶬	ccjy	1
 𦶫	ccuicche	1
+𦶪	ccnser	1
+𦶪	ccgser	1
 𦶩	ccyi	1
 𦶧	cclqyi	1
 𦶦	ccnvna	1
@@ -59457,6 +59910,7 @@ sort: original
 𦵳	ccbcxk	1
 𦵲	ccvzyz	1
 𦵱	ccxp	1
+𦵰	ccvshgtm	1
 𦵰	ccistm	1
 𦵯	cchd	1
 𦵭	ccsv	1
@@ -59481,6 +59935,8 @@ sort: original
 𦵞	ccuivi	1
 𦵞	ccuivg	1
 𦵞	ccuitk	1
+𦵝	ccnsds	1
+𦵝	ccgsds	1
 𦵜	ccsa	1
 𦵛	ccuziu	1
 𦵚	ccnu	1
@@ -59520,9 +59976,15 @@ sort: original
 𦴴	ccyj	1
 𦴴	ccee	1
 𦴴	ccan	1
+𦴳	ccnsju	1
+𦴳	ccgsju	1
 𦴲	ccuumusv	1
+𦴰	ccnsvc	1
+𦴰	ccgsvc	1
 𦴯	cctu	1
 𦴯	ccba	1
+𦴮	ccnsfj	1
+𦴮	ccgsfj	1
 𦴭	cchf	1
 𦴬	cchv	1
 𦴬	cchu	1
@@ -59621,6 +60083,8 @@ sort: original
 𦳘	ccia	1
 𦳗	ccug	1
 𦳖	viqk	1
+𦳕	ccnszc	1
+𦳕	ccgszc	1
 𦳔	ccdu	1
 𦳓	ccfu	1
 𦳑	ccmz	1
@@ -59686,6 +60150,8 @@ sort: original
 𦲒	ccai	1
 𦲑	cctm	1
 𦲑	ccph	1
+𦲐	cchgvstsuu	1
+𦲐	cchgvsjsuu	1
 𦲏	ccfh	1
 𦲎	ccxi	1
 𦲌	ccyj	1
@@ -59693,6 +60159,10 @@ sort: original
 𦲋	ykir	1
 𦲊	cclu	1
 𦲉	ccxp	1
+𦲈	ccnsjp	1
+𦲈	ccgsjp	1
+𦲇	ccnswu	1
+𦲇	ccgswu	1
 𦲆	gjju	1
 𦲅	ccvz	1
 𦲄	ccqs	1
@@ -59726,11 +60196,17 @@ sort: original
 𦱰	ccsidc	1
 𦱯	ccihuihg	1
 𦱮	ccbk	1
+𦱭	ccnstmbi	1
+𦱭	ccnsjpbi	1
+𦱭	ccgstmbi	1
+𦱭	ccgsjpbi	1
 𦱬	ccdgtu	1
 𦱪	cciziz	1
 𦱩	ccjuyzhg	1
 𦱧	hvbf	1
 𦱧	hubf	1
+𦱤	ccnsri	1
+𦱤	ccgsri	1
 𦱣	mhmb	1
 𦱢	hvkzxm	1
 𦱢	hvkzjp	1
@@ -59800,12 +60276,16 @@ sort: original
 𦰬	ccbo	1
 𦰫	ccni	1
 𦰪	ccqq	1
+𦰨	cchgytyz	1
+𦰨	cchgriyz	1
 𦰦	ccgd	1
 𦰥	ccuzer	1
 𦰤	cclc	1
 𦰣	ccdi	1
 𦰢	ccyter	1
 𦰡	ccna	1
+𦰠	ccnsgs	1
+𦰠	ccgsgs	1
 𦰟	ccrr	1
 𦰝	ccpk	1
 𦰜	ccvi	1
@@ -59825,6 +60305,8 @@ sort: original
 𦰐	cclk	1
 𦰏	cctn	1
 𦰎	ccycxi	1
+𦰍	ccsvxnna	1
+𦰍	ccsvxndm	1
 𦰇	ccyj	1
 𦰆	ccyk	1
 𦰅	cczoyukz	1
@@ -59840,6 +60322,8 @@ sort: original
 𦯼	cchj	1
 𦯻	ccwf	1
 𦯹	ccqb	1
+𦯸	ccnsji	1
+𦯸	ccgsji	1
 𦯷	ccmn	1
 𦯶	ccjs	1
 𦯵	ccmc	1
@@ -59856,6 +60340,8 @@ sort: original
 𦯪	ccbn	1
 𦯩	ccmbwf	1
 𦯩	cclbwf	1
+𦯨	ccnsjm	1
+𦯨	ccgsjm	1
 𦯧	ccyisimu	1
 𦯧	cctzsimu	1
 𦯦	ccmc	1
@@ -59869,9 +60355,13 @@ sort: original
 𦯞	cczoys	1
 𦯝	vixn	1
 𦯜	ccmc	1
+𦯛	ccnstsyi	1
 𦯛	ccnstsrf	1
+𦯛	ccnsjsyi	1
 𦯛	ccnsjsrf	1
+𦯛	ccgstsyi	1
 𦯛	ccgstsrf	1
+𦯛	ccgsjsyi	1
 𦯛	ccgsjsrf	1
 𦯚	ccgx	1
 𦯙	ccya	1
@@ -59933,6 +60423,8 @@ sort: original
 𦮤	ccbixb	1
 𦮣	ccxu	1
 𦮢	ccvo	1
+𦮡	ccsixnna	1
+𦮡	ccsixndm	1
 𦮠	ccxu	1
 𦮟	ccuvnarf	1
 𦮟	ccuvdmrf	1
@@ -59942,6 +60434,8 @@ sort: original
 𦮜	ccbcdz	1
 𦮛	ccjq	1
 𦮚	ccxnhgsi	1
+𦮘	ccnsnd	1
+𦮘	ccgsnd	1
 𦮗	ccnj	1
 𦮖	gjjq	1
 𦮔	ccjl	1
@@ -60383,6 +60877,8 @@ sort: original
 𦧰	xiue	1
 𦧯	uexi	1
 𦧮	uehd	1
+𦧭	uetseryu	1
+𦧭	uejseryu	1
 𦧬	true	1
 𦧫	uetr	1
 𦧪	uiue	1
@@ -60392,6 +60888,7 @@ sort: original
 𦧧	ueui	1
 𦧦	ueuz	1
 𦧥	daue	1
+𦧤	uenmmu	1
 𦧣	uely	1
 𦧢	ueyisimu	1
 𦧢	uetzsimu	1
@@ -60566,6 +61063,8 @@ sort: original
 𦤵	yzvi	1
 𦤴	xswuhgtu	1
 𦤴	kjwuhgtu	1
+𦤳	hgsisjuu	1
+𦤳	hgsifg	1
 𦤲	jtzi	1
 𦤲	jnzi	1
 𦤱	izjb	1
@@ -60861,6 +61360,10 @@ sort: original
 𦠯	ytxm	1
 𦠭	ytsi	1
 𦠬	cirz	1
+𦠪	rfrfrfrfytrz	1
+𦠪	rfrfrfrfrirz	1
+𦠪	cscsytrz	1
+𦠪	cscsrirz	1
 𦠩	lirz	1
 𦠨	ytcj	1
 𦠦	ytuu	1
@@ -60929,6 +61432,7 @@ sort: original
 𦟭	lebihgbihgbihg	1
 𦟬	ytujuj	1
 𦟬	ytujsj	1
+𦟫	ytcckzfu	1
 𦟪	ytlm	1
 𦟪	ytlj	1
 𦟨	ytyizs	1
@@ -61035,6 +61539,8 @@ sort: original
 𦞉	rzjp	1
 𦞈	ythz	1
 𦞇	ytyu	1
+𦞃	ythghoxnna	1
+𦞃	ythghoxndm	1
 𦞂	ytta	1
 𦞂	ytda	1
 𦞁	ytzd	1
@@ -61117,6 +61623,7 @@ sort: original
 𦜯	yttyho	1
 𦜭	ytbf	1
 𦜬	ytrv	1
+𦜪	ytnmmu	1
 𦜩	ythu	1
 𦜨	ytkf	1
 𦜦	ytvs	1
@@ -61222,6 +61729,8 @@ sort: original
 𦛅	rzan	1
 𦛄	xsrz	1
 𦛃	rzge	1
+𦛁	ytuyuj	1
+𦛁	ytiruj	1
 𦚾	xsyt	1
 𦚽	ytkzsi	1
 𦚼	ytqu	1
@@ -61690,6 +62199,10 @@ sort: original
 𦔤	lwug	1
 𦔣	lwigmu	1
 𦔢	lwvori	1
+𦔡	lwrfrfrfrfyt	1
+𦔡	lwrfrfrfrfri	1
+𦔡	lwcscsyt	1
+𦔡	lwcscsri	1
 𦔠	lwbi	1
 𦔟	lwqb	1
 𦔝	lwii	1
@@ -61747,6 +62260,7 @@ sort: original
 𦓬	lwpk	1
 𦓫	wflw	1
 𦓪	lwqi	1
+𦓩	hgsilw	1
 𦓨	lwsi	1
 𦓧	lwba	1
 𦓦	lwbu	1
@@ -61868,6 +62382,7 @@ sort: original
 𦒈	hecsyu	1
 𦒇	izyu	1
 𦒆	xiyu	1
+𦒅	yucckzfu	1
 𦒄	yuhv	1
 𦒂	poriyu	1
 𦒂	niriyu	1
@@ -62950,6 +63465,10 @@ sort: original
 𦆓	miww	1
 𦆒	siyt	1
 𦆒	miyt	1
+𦆏	siccwwhgyt	1
+𦆏	siccwwhgri	1
+𦆏	miccwwhgyt	1
+𦆏	miccwwhgri	1
 𦆌	siyivoda	1
 𦆌	sitzvoda	1
 𦆌	miyivoda	1
@@ -63075,6 +63594,14 @@ sort: original
 𦅋	mihexb	1
 𦅋	mifuxb	1
 𦅋	mibjxb	1
+𦅊	sirfrfrfrfyt	1
+𦅊	sirfrfrfrfri	1
+𦅊	sicscsyt	1
+𦅊	sicscsri	1
+𦅊	mirfrfrfrfyt	1
+𦅊	mirfrfrfrfri	1
+𦅊	micscsyt	1
+𦅊	micscsri	1
 𦅉	siuu	1
 𦅉	miuu	1
 𦅈	sipg	1
@@ -63290,7 +63817,9 @@ sort: original
 𦃡	siwfmi	1
 𦃡	miwfsi	1
 𦃡	miwfmi	1
+𦃠	sivshgtm	1
 𦃠	siistm	1
+𦃠	mivshgtm	1
 𦃠	miistm	1
 𦃟	vxsi	1
 𦃟	vcsi	1
@@ -63529,6 +64058,8 @@ sort: original
 𦁞	xbxbsi	1
 𦁞	xbxbmi	1
 𦁝	lixi	1
+𦁜	sinmmu	1
+𦁜	minmmu	1
 𦁛	siyisimu	1
 𦁛	sitzsimu	1
 𦁛	miyisimu	1
@@ -63667,6 +64198,10 @@ sort: original
 𦀔	mipk	1
 𦀓	sixb	1
 𦀓	mixb	1
+𦀒	tseryu	1
+𦀒	tserou	1
+𦀒	jseryu	1
+𦀒	jserou	1
 𦀑	silq	1
 𦀑	milq	1
 𦀐	sivl	1
@@ -63903,6 +64438,8 @@ sort: original
 𥾠	mirfdm	1
 𥾟	qisi	1
 𥾟	qimi	1
+𥾞	sidcdc	1
+𥾞	midcdc	1
 𥾝	simm	1
 𥾝	mimm	1
 𥾜	xssi	1
@@ -64054,6 +64591,10 @@ sort: original
 𥼭	milb	1
 𥼬	mimi	1
 𥼫	mido	1
+𥼪	mirfrfrfrfyt	1
+𥼪	mirfrfrfrfri	1
+𥼪	micscsyt	1
+𥼪	micscsri	1
 𥼩	migv	1
 𥼨	miirmi	1
 𥼧	migo	1
@@ -64806,6 +65347,7 @@ sort: original
 𥲡	vuil	1
 𥲠	vuwh	1
 𥲟	vudn	1
+𥲞	vuvshghv	1
 𥲞	vuishv	1
 𥲝	vuujujpi	1
 𥲜	vuhumb	1
@@ -64899,6 +65441,7 @@ sort: original
 𥱑	vuyz	1
 𥱑	vuql	1
 𥱐	vukzli	1
+𥱏	vujkhgrj	1
 𥱎	vuuirj	1
 𥱍	vufj	1
 𥱌	vuhz	1
@@ -65317,6 +65860,10 @@ sort: original
 𥪹	lisv	1
 𥪸	lidg	1
 𥪷	vzli	1
+𥪶	lirfrfrfrfyt	1
+𥪶	lirfrfrfrfri	1
+𥪶	licscsyt	1
+𥪶	licscsri	1
 𥪵	iaqp	1
 𥪴	vhjl	1
 𥪳	lizv	1
@@ -65770,6 +66317,7 @@ sort: original
 𥤇	hecf	1
 𥤇	hecj	1
 𥤆	hejm	1
+𥤄	hemijkhgiy	1
 𥤃	xqxu	1
 𥤂	henn	1
 𥤁	hedy	1
@@ -66043,6 +66591,7 @@ sort: original
 𥟵	hejqyiri	1
 𥟵	hejqtzri	1
 𥟴	hehy	1
+𥟳	hevchgcy	1
 𥟲	rfuuhe	1
 𥟲	iiuuhe	1
 𥟱	hebk	1
@@ -66068,6 +66617,8 @@ sort: original
 𥟠	hejp	1
 𥟟	djujhe	1
 𥟟	djsjhe	1
+𥟞	hevcveqi	1
+𥟞	hevcveji	1
 𥟝	hevxqi	1
 𥟝	hevcqi	1
 𥟜	zahe	1
@@ -66336,6 +66887,10 @@ sort: original
 𥜃	uidu	1
 𥜁	uilm	1
 𥜀	wwzu	1
+𥛾	uirfrfrfrfyt	1
+𥛾	uirfrfrfrfri	1
+𥛾	uicscsyt	1
+𥛾	uicscsri	1
 𥛽	uilq	1
 𥛼	uiih	1
 𥛻	uipg	1
@@ -67000,6 +67555,8 @@ sort: original
 𥒧	uiyzzz	1
 𥒦	uidi	1
 𥒥	uido	1
+𥒤	uiuyuj	1
+𥒤	uiiruj	1
 𥒣	uiyzhs	1
 𥒣	uiyzgs	1
 𥒢	uili	1
@@ -67264,6 +67821,7 @@ sort: original
 𥎮	uifj	1
 𥎭	uiri	1
 𥎬	uibi	1
+𥎫	dcdcui	1
 𥎪	uiwf	1
 𥎩	viui	1
 𥎧	uiui	1
@@ -67298,6 +67856,10 @@ sort: original
 𥎑	mcjm	1
 𥎑	mccj	1
 𥎐	yuiu	1
+𥎏	mcrfrfrfrfyt	1
+𥎏	mcrfrfrfrfri	1
+𥎏	mccscsyt	1
+𥎏	mccscsri	1
 𥎎	mcjp	1
 𥎍	mcvd	1
 𥎍	mcze	1
@@ -67859,6 +68421,7 @@ sort: original
 𥆊	muij	1
 𥆈	mugsbi	1
 𥆇	gsmu	1
+𥆆	muhgsiir	1
 𥆅	jimu	1
 𥆄	mugl	1
 𥆃	muru	1
@@ -67914,11 +68477,16 @@ sort: original
 𥅓	muyi	1
 𥅑	muyi	1
 𥅐	wjyzmu	1
+𥅏	muhgyt	1
+𥅏	muhgri	1
 𥅎	mubakv	1
 𥅍	lkmu	1
+𥅌	vshgmu	1
 𥅌	ismu	1
 𥅋	muui	1
 𥅊	mupi	1
+𥅉	pptsermu	1
+𥅉	ppjsermu	1
 𥅈	muli	1
 𥅇	murfli	1
 𥅇	muiili	1
@@ -68288,6 +68856,10 @@ sort: original
 𥀢	bfpi	1
 𥀢	bjpi	1
 𥀠	pigv	1
+𥀟	rfrfrfrfytpi	1
+𥀟	rfrfrfrfripi	1
+𥀟	cscsytpi	1
+𥀟	cscsripi	1
 𥀞	xqpi	1
 𥀝	pisu	1
 𥀜	pitu	1
@@ -68303,6 +68875,7 @@ sort: original
 𥀕	bipi	1
 𥀔	lupi	1
 𥀓	lqpi	1
+𥀒	pivshgtm	1
 𥀒	piistm	1
 𥀏	zapi	1
 𥀍	ngpi	1
@@ -69045,6 +69618,8 @@ sort: original
 𤶈	nexi	1
 𤶇	nexy	1
 𤶇	nexr	1
+𤶆	neuyuj	1
+𤶆	neiruj	1
 𤶅	neuuui	1
 𤶄	nerf	1
 𤶃	nevc	1
@@ -69164,6 +69739,8 @@ sort: original
 𤴚	uudk	1
 𤴙	cspi	1
 𤴙	csdk	1
+𤴖	hgsipi	1
+𤴖	hgsidk	1
 𤴕	hgya	1
 𤴓	hgzz	1
 𤴒	lwhvnn	1
@@ -69259,6 +69836,7 @@ sort: original
 𤳌	tmuu	1
 𤳋	rfbkuubktm	1
 𤳊	zdbk	1
+𤳉	tmcckzfu	1
 𤳇	ldnj	1
 𤳆	njld	1
 𤳅	jxjxjx	1
@@ -70182,6 +70760,8 @@ sort: original
 𤨤	yuvuvf	1
 𤨤	whvuvf	1
 𤨣	jqwh	1
+𤨢	yucckzfu	1
+𤨢	whcckzfu	1
 𤨡	yulh	1
 𤨡	whlh	1
 𤨠	yuth	1
@@ -70622,6 +71202,10 @@ sort: original
 𤥀	whdo	1
 𤤿	yubd	1
 𤤿	whbd	1
+𤤼	yuuyuj	1
+𤤼	yuiruj	1
+𤤼	whuyuj	1
+𤤼	whiruj	1
 𤤻	jtdc	1
 𤤺	yuye	1
 𤤺	whye	1
@@ -70970,6 +71554,7 @@ sort: original
 𤡍	qruu	1
 𤡋	qrrr	1
 𤡊	qrlu	1
+𤡉	qrcckzfu	1
 𤡈	qrxu	1
 𤡈	qrhu	1
 𤡇	qrhc	1
@@ -71170,6 +71755,8 @@ sort: original
 𤞂	qrvi	1
 𤞀	qris	1
 𤝿	qrkl	1
+𤝾	qruyuj	1
+𤝾	qriruj	1
 𤝽	qryu	1
 𤝼	qrzi	1
 𤝻	qrdo	1
@@ -71767,6 +72354,8 @@ sort: original
 𤕅	lryc	1
 𤕅	lrtc	1
 𤕄	ycrijiri	1
+𤕃	vcmiffqr	1
+𤕃	vcbcffqr	1
 𤕂	xizz	1
 𤕂	xiiu	1
 𤕁	vxfzvxyi	1
@@ -71780,8 +72369,11 @@ sort: original
 𤔾	mgvc	1
 𤔽	vcmg	1
 𤔻	mgvc	1
+𤔺	vcsicscysi	1
 𤔹	vxbubugege	1
 𤔹	vcbubugege	1
+𤔸	vcwhjt	1
+𤔸	vcwhgfcy	1
 𤔷	ykvg	1
 𤔶	vcdh	1
 𤔵	vxwhyj	1
@@ -71792,6 +72384,8 @@ sort: original
 𤔴	vxsiji	1
 𤔴	vcwhji	1
 𤔴	vcsiji	1
+𤔳	vchgmisi	1
+𤔳	vchgmimi	1
 𤔲	lrsi	1
 𤔱	ycqu	1
 𤔰	vxuiyh	1
@@ -71804,6 +72398,7 @@ sort: original
 𤔩	vcgo	1
 𤔨	mavc	1
 𤔧	lrkv	1
+𤔦	vckzjs	1
 𤔥	ycmu	1
 𤔣	vxsz	1
 𤔣	vcsz	1
@@ -71827,6 +72422,7 @@ sort: original
 𤔓	vxbcxs	1
 𤔓	vcmixs	1
 𤔓	vcbcxs	1
+𤔒	vchgsifg	1
 𤔑	vclv	1
 𤔏	vcvu	1
 𤔎	jivc	1
@@ -71880,6 +72476,10 @@ sort: original
 𤓤	juiuho	1
 𤓤	iujuho	1
 𤓤	iuiuho	1
+𤓣	holbwhjt	1
+𤓣	holbwhgfcy	1
+𤓣	holbsijt	1
+𤓣	holbsigfcy	1
 𤓢	horixl	1
 𤓟	xtyj	1
 𤓞	boho	1
@@ -72213,6 +72813,10 @@ sort: original
 𤎹	jlifsiho	1
 𤎶	howw	1
 𤎵	viwuho	1
+𤎳	horfrfrfrfyt	1
+𤎳	horfrfrfrfri	1
+𤎳	hocscsyt	1
+𤎳	hocscsri	1
 𤎲	holl	1
 𤎱	hozv	1
 𤎱	hojy	1
@@ -72381,6 +72985,7 @@ sort: original
 𤌞	vyho	1
 𤌝	bcjbbcjbho	1
 𤌜	yjtm	1
+𤌛	hoyudcdc	1
 𤌚	hohv	1
 𤌙	hota	1
 𤌘	hoso	1
@@ -72555,6 +73160,8 @@ sort: original
 𤉵	hzho	1
 𤉵	guho	1
 𤉵	gzho	1
+𤉴	puhgyt	1
+𤉴	puhgri	1
 𤉳	hozs	1
 𤉲	ycho	1
 𤉰	huwfho	1
@@ -72667,6 +73274,7 @@ sort: original
 𤈅	whtzho	1
 𤈄	hoji	1
 𤈃	hohgrz	1
+𤈂	hgvshgho	1
 𤈁	houz	1
 𤈀	bkmuho	1
 𤇿	homi	1
@@ -72685,6 +73293,8 @@ sort: original
 𤇵	bcxiho	1
 𤇳	hoxu	1
 𤇲	rfho	1
+𤇱	houyuj	1
+𤇱	hoiruj	1
 𤇰	faho	1
 𤇯	yiho	1
 𤇮	hofa	1
@@ -73173,6 +73783,7 @@ sort: original
 𤀮	uvtzsisilb	1
 𤀭	uvxrhgbw	1
 𤀭	uvsshgbw	1
+𤀬	uvmijkhgda	1
 𤀫	uvbm	1
 𤀪	uvpo	1
 𤀪	uvpi	1
@@ -73483,6 +74094,7 @@ sort: original
 𣻷	uvww	1
 𣻳	uvqk	1
 𣻳	uvkv	1
+𣻲	uvvshghv	1
 𣻲	uvishv	1
 𣻱	uvvz	1
 𣻰	uvww	1
@@ -73553,6 +74165,8 @@ sort: original
 𣺪	uvyy	1
 𣺪	uvyr	1
 𣺩	uouv	1
+𣺧	uvvcmihguj	1
+𣺧	uvvcbchguj	1
 𣺦	uvvi	1
 𣺦	uvho	1
 𣺥	uvzz	1
@@ -73757,6 +74371,7 @@ sort: original
 𣷠	uvmk	1
 𣷟	uvxk	1
 𣷟	uvnp	1
+𣷞	uvnmmu	1
 𣷝	uvyc	1
 𣷜	uvuvwf	1
 𣷛	yzxiuv	1
@@ -73969,6 +74584,7 @@ sort: original
 𣴔	uvie	1
 𣴓	uvjm	1
 𣴒	uvjm	1
+𣴑	uvhgsiir	1
 𣴐	lcuv	1
 𣴏	ysys	1
 𣴎	rfuv	1
@@ -73987,8 +74603,11 @@ sort: original
 𣴀	uvli	1
 𣳿	uvyu	1
 𣳾	jruv	1
+𣳽	uvjibi	1
 𣳼	uvdo	1
 𣳻	ziuv	1
+𣳺	uvuyuj	1
+𣳺	uviruj	1
 𣳸	uvxs	1
 𣳵	uvlw	1
 𣳳	xiuv	1
@@ -74654,6 +75273,7 @@ sort: original
 𣪭	fgmuuu	1
 𣪬	uimiuunq	1
 𣪬	uibcuunq	1
+𣪫	uihgbahgbauu	1
 𣪪	nehgkzuu	1
 𣪩	wuwuvuuu	1
 𣪩	wuwuuuuu	1
@@ -74858,6 +75478,8 @@ sort: original
 𣨀	busi	1
 𣧿	ddlp	1
 𣧾	ddgf	1
+𣧽	dduyuj	1
+𣧽	ddiruj	1
 𣧼	ddww	1
 𣧻	ddrz	1
 𣧹	dder	1
@@ -75005,6 +75627,7 @@ sort: original
 𣥷	viwfvs	1
 𣥶	virita	1
 𣥵	vgvu	1
+𣥴	vikzdcdc	1
 𣥳	yuvi	1
 𣥲	ujtuvi	1
 𣥲	sjtuvi	1
@@ -75278,6 +75901,10 @@ sort: original
 𣡾	ixix	1
 𣡽	lblblblb	1
 𣡹	mutk	1
+𣡸	lbwhjtfz	1
+𣡸	lbwhgfcyfz	1
+𣡸	lbsijtfz	1
+𣡸	lbsigfcyfz	1
 𣡷	xiyzyzmu	1
 𣡷	xiyztnmu	1
 𣡷	xitnyzmu	1
@@ -75297,6 +75924,9 @@ sort: original
 𣡬	muhuuvqs	1
 𣡩	muwj	1
 𣡧	mulw	1
+𣡦	hgvswwmunk	1
+𣡦	hgvskzmunk	1
+𣡦	hgvsgomunk	1
 𣡤	munh	1
 𣡢	muiy	1
 𣡠	mujumj	1
@@ -75324,6 +75954,12 @@ sort: original
 𣡑	mumuximumiji	1
 𣡑	mumuximubcji	1
 𣡐	muxtvvjs	1
+𣡏	hgvswwmuxrkzhgxi	1
+𣡏	hgvswwmusskzhgxi	1
+𣡏	hgvskzmuxrkzhgxi	1
+𣡏	hgvskzmusskzhgxi	1
+𣡏	hgvsgomuxrkzhgxi	1
+𣡏	hgvsgomusskzhgxi	1
 𣡎	muihqb	1
 𣡍	jiji	1
 𣡍	cicicici	1
@@ -75353,6 +75989,10 @@ sort: original
 𣠸	mugr	1
 𣠷	mujm	1
 𣠶	vudu	1
+𣠵	muximumijt	1
+𣠵	muximumigfcy	1
+𣠵	muximubcjt	1
+𣠵	muximubcgfcy	1
 𣠴	qiujtsyzwf	1
 𣠴	qiujjsyzwf	1
 𣠳	rzvj	1
@@ -75594,6 +76234,10 @@ sort: original
 𣝮	uumj	1
 𣝭	lida	1
 𣝫	mujp	1
+𣝪	lbmijt	1
+𣝪	lbmigfcy	1
+𣝪	lbbcjt	1
+𣝪	lbbcgfcy	1
 𣝩	mukc	1
 𣝩	mugc	1
 𣝧	muni	1
@@ -75601,6 +76245,10 @@ sort: original
 𣝧	muer	1
 𣝦	mucv	1
 𣝤	muujjb	1
+𣝣	muwhjt	1
+𣝣	muwhgfcy	1
+𣝣	musijt	1
+𣝣	musigfcy	1
 𣝢	muyerfda	1
 𣝡	muyh	1
 𣝠	mujp	1
@@ -75621,6 +76269,8 @@ sort: original
 𣝑	yumu	1
 𣝐	uikzmijqmu	1
 𣝐	uikzbcjqmu	1
+𣝐	hgvsmijqmu	1
+𣝐	hgvsbcjqmu	1
 𣝏	muhc	1
 𣝎	muvuyj	1
 𣝍	mupo	1
@@ -75831,6 +76481,8 @@ sort: original
 𣚈	mucj	1
 𣚇	uikzmimubc	1
 𣚇	uikzbcmubc	1
+𣚇	hgvsmimubc	1
+𣚇	hgvsbcmubc	1
 𣚆	mutytyty	1
 𣚅	mude	1
 𣚄	simu	1
@@ -75920,6 +76572,10 @@ sort: original
 𣘳	humu	1
 𣘲	muzi	1
 𣘱	mude	1
+𣘯	hgvsmimuhs	1
+𣘯	hgvsmimugs	1
+𣘯	hgvsbcmuhs	1
+𣘯	hgvsbcmugs	1
 𣘮	mubi	1
 𣘭	muxx	1
 𣘬	ximu	1
@@ -76355,6 +77011,7 @@ sort: original
 𣑵	muyu	1
 𣑴	mujl	1
 𣑳	mulw	1
+𣑲	mujibi	1
 𣑱	wjmu	1
 𣑱	hrmu	1
 𣑯	muvc	1
@@ -76527,6 +77184,7 @@ sort: original
 𣏒	muwj	1
 𣏑	mujb	1
 𣏐	muxi	1
+𣏏	hgsimu	1
 𣏎	muya	1
 𣏍	zimu	1
 𣏌	musi	1
@@ -76534,6 +77192,7 @@ sort: original
 𣏊	mumc	1
 𣏉	rfmu	1
 𣏈	mume	1
+𣏇	muhgsi	1
 𣏆	mufj	1
 𣏅	tumu	1
 𣏄	tuee	1
@@ -76774,7 +77433,9 @@ sort: original
 𣌇	xsxsjtri	1
 𣌆	rivu	1
 𣌆	riiu	1
+𣌅	tserli	1
 𣌅	mierli	1
+𣌅	jserli	1
 𣌅	bcerli	1
 𣌃	wuhgbfwf	1
 𣌂	rivu	1
@@ -77171,6 +77832,7 @@ sort: original
 𣆌	yrri	1
 𣆌	wjri	1
 𣆋	rirfxn	1
+𣆊	vshgri	1
 𣆊	isri	1
 𣆈	riwu	1
 𣆇	uiri	1
@@ -77356,6 +78018,7 @@ sort: original
 𣃜	dzfh	1
 𣃛	fhho	1
 𣃚	fhkh	1
+𣃙	hgbafh	1
 𣃘	yjuu	1
 𣃗	fhdc	1
 𣃖	qujb	1
@@ -77383,6 +78046,10 @@ sort: original
 𣃄	jkjb	1
 𣃂	hxjb	1
 𣃁	uujb	1
+𣃀	rfrfrfrfytjb	1
+𣃀	rfrfrfrfrijb	1
+𣃀	cscsytjb	1
+𣃀	cscsrijb	1
 𣂿	whfajb	1
 𣂿	sifajb	1
 𣂾	zivgjb	1
@@ -77578,6 +78245,7 @@ sort: original
 𣀑	erpu	1
 𣀐	zixkwf	1
 𣀏	uhgjpu	1
+𣀎	vciuvexnpu	1
 𣀌	xrhgerwf	1
 𣀌	sshgerwf	1
 𣀊	lmwf	1
@@ -78370,6 +79038,10 @@ sort: original
 𢵇	uzkltuys	1
 𢵇	uzgrtuys	1
 𢵆	uzyy	1
+𢵄	uzrfrfrfrfyt	1
+𢵄	uzrfrfrfrfri	1
+𢵄	uzcscsyt	1
+𢵄	uzcscsri	1
 𢵃	uzxrxb	1
 𢵂	uzrfybbuujbu	1
 𢵂	uzrfybbuujbo	1
@@ -78457,6 +79129,7 @@ sort: original
 𢴄	uzwhyu	1
 𢴄	uzsiyu	1
 𢴂	uzbm	1
+𢴁	uzcckzfu	1
 𢴀	uzsu	1
 𢳿	uzjp	1
 𢳾	uzds	1
@@ -78846,6 +79519,7 @@ sort: original
 𢯱	uzsz	1
 𢯰	uzlv	1
 𢯰	cdlv	1
+𢯯	uzhujb	1
 𢯮	uzww	1
 𢯮	cdww	1
 𢯭	uzjr	1
@@ -79382,6 +80056,10 @@ sort: original
 𢨋	hoho	1
 𢨊	xlho	1
 𢨉	cgge	1
+𢨈	rfrfrfrfytge	1
+𢨈	rfrfrfrfrige	1
+𢨈	cscsytge	1
+𢨈	cscsrige	1
 𢨇	geyi	1
 𢨆	zdvefw	1
 𢨅	liigge	1
@@ -79486,6 +80164,7 @@ sort: original
 𢦠	gewu	1
 𢦟	gejb	1
 𢦞	gevc	1
+𢦝	dcdcge	1
 𢦜	csge	1
 𢦛	zdzo	1
 𢦚	geji	1
@@ -79819,6 +80498,10 @@ sort: original
 𢢀	xbjm	1
 𢡿	xbxm	1
 𢡾	xbso	1
+𢡽	xbrfrfrfrfyt	1
+𢡽	xbrfrfrfrfri	1
+𢡽	xbcscsyt	1
+𢡽	xbcscsri	1
 𢡼	xbxu	1
 𢡼	xber	1
 𢡻	mbxb	1
@@ -79911,6 +80594,7 @@ sort: original
 𢠪	xbgx	1
 𢠩	xbma	1
 𢠧	xbmj	1
+𢠦	xbcckzfu	1
 𢠥	xbqm	1
 𢠤	xbdj	1
 𢠣	xbvf	1
@@ -80419,6 +81103,8 @@ sort: original
 𢙌	hlxb	1
 𢙌	fgxb	1
 𢙊	xbci	1
+𢙉	xbuyuj	1
+𢙉	xbiruj	1
 𢙈	xbxr	1
 𢙈	xbss	1
 𢙇	xbyi	1
@@ -80489,6 +81175,8 @@ sort: original
 𢘉	xbjx	1
 𢘈	lkxb	1
 𢘇	djxb	1
+𢘆	xbhgyt	1
+𢘆	xbhgri	1
 𢘅	mcxb	1
 𢘄	xbqq	1
 𢘃	xbmu	1
@@ -81290,6 +81978,7 @@ sort: original
 𢐁	jlmi	1
 𢐀	jltm	1
 𢏿	gswj	1
+𢏼	gsnmmu	1
 𢏻	dcmajr	1
 𢏺	jlbk	1
 𢏹	gsdk	1
@@ -81762,6 +82451,7 @@ sort: original
 𢊏	glqp	1
 𢊎	glfwrf	1
 𢊌	glji	1
+𢊋	gljkhgbasv	1
 𢊉	glvihv	1
 𢊉	glvghv	1
 𢊉	gltkhv	1
@@ -81845,6 +82535,7 @@ sort: original
 𢈱	glli	1
 𢈰	ggui	1
 𢈯	gluf	1
+𢈮	glvshgba	1
 𢈮	glisba	1
 𢈭	glxn	1
 𢈫	glif	1
@@ -82011,6 +82702,8 @@ sort: original
 𢆛	qmbk	1
 𢆛	jmbk	1
 𢆚	kduu	1
+𢆙	dcdcqm	1
+𢆙	dcdcjm	1
 𢆘	nmqm	1
 𢆗	bkiz	1
 𢆖	wugj	1
@@ -83183,6 +83876,7 @@ sort: original
 𡶽	ujig	1
 𡶼	ujxi	1
 𡶻	ujzi	1
+𡶺	ujjibi	1
 𡶹	ujyckv	1
 𡶸	kziu	1
 𡶷	ujir	1
@@ -83930,6 +84624,7 @@ sort: original
 𡬟	hecy	1
 𡬞	yiyiyicy	1
 𡬜	hjhjhj	1
+𡬛	bcxbliliisis	1
 𡬚	kekeke	1
 𡬚	kehe	1
 𡬙	bcpmccwhmize	1
@@ -84037,6 +84732,7 @@ sort: original
 𡫔	bcpmujbcmu	1
 𡫓	bcdm	1
 𡫐	bclm	1
+𡫍	bcxbmm	1
 𡫌	bcmu	1
 𡫋	bcqudz	1
 𡫋	bcli	1
@@ -84088,6 +84784,8 @@ sort: original
 𡪘	bcpmcd	1
 𡪗	bcpmhghe	1
 𡪖	mixt	1
+𡪕	bcxbxrhg	1
+𡪕	bcxbsshg	1
 𡪔	zdmu	1
 𡪓	bcvibw	1
 𡪓	bcvgbw	1
@@ -84167,7 +84865,9 @@ sort: original
 𡩎	bcbimu	1
 𡩍	bcndig	1
 𡩌	bcjm	1
+𡩋	bcxbrj	1
 𡩊	bclz	1
+𡩉	bcxbdj	1
 𡩈	bcmumu	1
 𡩇	bcmuveir	1
 𡩆	uuta	1
@@ -84199,6 +84899,7 @@ sort: original
 𡨭	bcss	1
 𡨬	bcyzmbgz	1
 𡨫	bczs	1
+𡨪	bcxbyt	1
 𡨩	bchy	1
 𡨨	bchghoxi	1
 𡨧	bczu	1
@@ -84939,6 +85640,7 @@ sort: original
 𡞁	nvqm	1
 𡞀	nvuh	1
 𡝿	nvya	1
+𡝽	hgvskznv	1
 𡝼	uiuvnv	1
 𡝺	nvmw	1
 𡝹	nvmg	1
@@ -85497,6 +86199,9 @@ sort: original
 𡕀	uijijuho	1
 𡕀	uijiieho	1
 𡔿	kezz	1
+𡔽	uivevshgyk	1
+𡔽	uivevshgdz	1
+𡔽	uivevshgcy	1
 𡔽	uiveisyk	1
 𡔽	uiveisdz	1
 𡔽	uiveiscy	1
@@ -85551,6 +86256,10 @@ sort: original
 𡔖	tubm	1
 𡔕	gjtu	1
 𡔔	tulj	1
+𡔓	tuhgythgytlu	1
+𡔓	tuhgythgrilu	1
+𡔓	tuhgrihgytlu	1
+𡔓	tuhgrihgrilu	1
 𡔒	tunh	1
 𡔑	tulj	1
 𡔐	tunp	1
@@ -85564,6 +86273,7 @@ sort: original
 𡔊	iyjitu	1
 𡔉	tusi	1
 𡔉	tuli	1
+𡔈	hgbajiyktu	1
 𡔇	lwtu	1
 𡔆	ultu	1
 𡔆	lstu	1
@@ -85615,6 +86325,7 @@ sort: original
 𡓜	tuse	1
 𡓜	tuql	1
 𡓚	ujkf	1
+𡓙	tuyesijkhguz	1
 𡓘	tuho	1
 𡓖	ycig	1
 𡓕	tuxy	1
@@ -86635,6 +87346,9 @@ sort: original
 𡇘	wwdo	1
 𡇘	kzdo	1
 𡇘	godo	1
+𡇗	wwhgsiir	1
+𡇗	kzhgsiir	1
+𡇗	gohgsiir	1
 𡇖	wwif	1
 𡇖	kzif	1
 𡇖	goif	1
@@ -86844,6 +87558,8 @@ sort: original
 𡅵	kzui	1
 𡅳	kzqr	1
 𡅲	kznp	1
+𡅱	lwcckzfu	1
+𡅱	jicckzfu	1
 𡅯	kzwf	1
 𡅭	kzwj	1
 𡅭	kzgr	1
@@ -87312,6 +88028,7 @@ sort: original
 𠿘	kzjy	1
 𠿘	kzjr	1
 𠿗	kzse	1
+𠿖	kzhujbqm	1
 𠿕	qnkh	1
 𠿕	jnkh	1
 𠿔	kztrxb	1
@@ -87723,7 +88440,9 @@ sort: original
 𠹧	lijshx	1
 𠹦	kzbisi	1
 𠹦	kzbimi	1
+𠹥	kztseryu	1
 𠹥	kzmieryu	1
+𠹥	kzjseryu	1
 𠹥	kzbceryu	1
 𠹤	kzhv	1
 𠹣	xrgs	1
@@ -88486,6 +89205,8 @@ sort: original
 𠮋	zzqu	1
 𠮊	dequ	1
 𠮊	aiqu	1
+𠮉	buihhgbarfmuyz	1
+𠮉	boihhgbarfmuyz	1
 𠮇	yzwfjbyzwfjb	1
 𠮆	ulbd	1
 𠮄	vodv	1
@@ -88624,6 +89345,8 @@ sort: original
 𠬂	lbmiir	1
 𠬂	lbbcir	1
 𠬁	lwdatu	1
+𠬀	mbtmhgsi	1
+𠬀	lbtmhgsi	1
 𠫾	qudo	1
 𠫽	sjsj	1
 𠫸	sisiuuuusiuu	1
@@ -88662,6 +89385,7 @@ sort: original
 𠫞	lbji	1
 𠫝	siir	1
 𠫜	siyili	1
+𠫛	sihgsi	1
 𠫚	sieruu	1
 𠫙	vesirf	1
 𠫘	siui	1
@@ -88721,6 +89445,10 @@ sort: original
 𠪡	ihtu	1
 𠪠	ihlbyt	1
 𠪟	ihgffz	1
+𠪞	ihrfrfrfrfyt	1
+𠪞	ihrfrfrfrfri	1
+𠪞	ihcscsyt	1
+𠪞	ihcscsri	1
 𠪝	ihdm	1
 𠪜	ihqb	1
 𠪜	ihjb	1
@@ -89017,6 +89745,7 @@ sort: original
 𠦛	jbnm	1
 𠦘	gsui	1
 𠦗	uiyi	1
+𠦖	xnihui	1
 𠦕	gsjiui	1
 𠦔	sahg	1
 𠦓	mpui	1
@@ -89570,6 +90299,10 @@ sort: original
 𠟑	kzyiyjdc	1
 𠟑	goyiyjdc	1
 𠟐	chil	1
+𠟏	rfrfrfrfytdc	1
+𠟏	rfrfrfrfridc	1
+𠟏	cscsytdc	1
+𠟏	cscsridc	1
 𠟎	eedc	1
 𠟍	tsdc	1
 𠟌	pzcc	1
@@ -89588,6 +90321,7 @@ sort: original
 𠟀	dcnn	1
 𠞾	rfvc	1
 𠞾	iivc	1
+𠞽	qmdcdc	1
 𠞻	lvdc	1
 𠞺	lplb	1
 𠞹	xidc	1
@@ -89647,7 +90381,9 @@ sort: original
 𠞋	mucsdc	1
 𠞊	iadc	1
 𠞉	lidc	1
+𠞈	tseryudc	1
 𠞈	mieryudc	1
+𠞈	jseryudc	1
 𠞈	bceryudc	1
 𠞇	pidc	1
 𠞆	yadc	1
@@ -89688,6 +90424,7 @@ sort: original
 𠝩	iydc	1
 𠝨	rfua	1
 𠝨	iiua	1
+𠝧	ujujhgdcdc	1
 𠝦	ujrfujhgdc	1
 𠝦	ujrfsjhgdc	1
 𠝥	kvdc	1
@@ -90250,21 +90987,37 @@ sort: original
 𠕳	bcru	1
 𠕱	zdkj	1
 𠕱	zdjm	1
+𠕰	tserni	1
+𠕰	tsermi	1
+𠕰	tserer	1
 𠕰	mierni	1
 𠕰	miermi	1
 𠕰	mierer	1
+𠕰	jserni	1
+𠕰	jsermi	1
+𠕰	jserer	1
 𠕰	bcerni	1
 𠕰	bcermi	1
 𠕰	bcerer	1
+𠕮	tsersirfyu	1
+𠕮	tsersiiiyu	1
+𠕮	tsermirfyu	1
+𠕮	tsermiiiyu	1
 𠕮	miersirfyu	1
 𠕮	miersiiiyu	1
 𠕮	miermirfyu	1
 𠕮	miermiiiyu	1
+𠕮	jsersirfyu	1
+𠕮	jsersiiiyu	1
+𠕮	jsermirfyu	1
+𠕮	jsermiiiyu	1
 𠕮	bcersirfyu	1
 𠕮	bcersiiiyu	1
 𠕮	bcermirfyu	1
 𠕮	bcermiiiyu	1
+𠕭	tservc	1
 𠕭	miervc	1
+𠕭	jservc	1
 𠕭	bcervc	1
 𠕫	pptsso	1
 𠕫	pptsrv	1
@@ -90274,20 +91027,32 @@ sort: original
 𠕪	jsdk	1
 𠕨	jsyu	1
 𠕧	vijs	1
+𠕦	tseryu	1
 𠕦	mieryu	1
+𠕦	jseryu	1
 𠕦	bceryu	1
+𠕥	tserdc	1
 𠕥	mierdc	1
+𠕥	jserdc	1
 𠕥	bcerdc	1
+𠕤	tsertu	1
 𠕤	miertu	1
+𠕤	jsertu	1
 𠕤	bcertu	1
+𠕣	tserxm	1
 𠕣	mierxm	1
+𠕣	jserxm	1
 𠕣	bcerxm	1
 𠕡	tsdd	1
 𠕡	jsdd	1
+𠕠	tserig	1
 𠕠	mierig	1
+𠕠	jserig	1
 𠕠	bcerig	1
 𠕟	rjvj	1
+𠕝	tserdo	1
 𠕝	mierdo	1
+𠕝	jserdo	1
 𠕝	bcerdo	1
 𠕙	mcri	1
 𠕘	tsnananaxn	1
@@ -90306,7 +91071,9 @@ sort: original
 𠕘	jsdmnadmxn	1
 𠕘	jsdmdmnaxn	1
 𠕘	jsdmdmdmxn	1
+𠕖	tsermu	1
 𠕖	miermu	1
+𠕖	jsermu	1
 𠕖	bcermu	1
 𠕕	tsgx	1
 𠕕	jsgx	1
@@ -90390,6 +91157,7 @@ sort: original
 𠔠	ffji	1
 𠔟	bavi	1
 𠔟	baho	1
+𠔞	uihgba	1
 𠔝	nmwuwuhgba	1
 𠔛	xskzyzhgba	1
 𠔛	kjkzyzhgba	1
@@ -90402,6 +91170,7 @@ sort: original
 𠔒	bapz	1
 𠔒	baju	1
 𠔑	ffff	1
+𠔏	nmhgba	1
 𠔎	barferuu	1
 𠔍	bayz	1
 𠔌	babakz	1
@@ -90814,6 +91583,10 @@ sort: original
 𠎨	rfgw	1
 𠎧	rfjp	1
 𠎦	rfql	1
+𠎥	rfrfrfrfrfyt	1
+𠎥	rfrfrfrfrfri	1
+𠎥	rfcscsyt	1
+𠎥	rfcscsri	1
 𠎢	rffaxb	1
 𠎡	rfwwye	1
 𠎡	rfkzye	1
@@ -90903,6 +91676,7 @@ sort: original
 𠍐	lkhu	1
 𠍏	rfii	1
 𠍎	rfer	1
+𠍌	rfbcxbxb	1
 𠍊	rfsu	1
 𠍉	rfqm	1
 𠍈	rfioer	1
@@ -90953,6 +91727,7 @@ sort: original
 𠌒	rfwf	1
 𠌑	hehgbc	1
 𠌐	rfxiwupp	1
+𠌏	rfxnhgir	1
 𠌎	rfmiho	1
 𠌋	rfvf	1
 𠌋	rfjt	1
@@ -91019,6 +91794,7 @@ sort: original
 𠋅	rfbm	1
 𠋄	rfjl	1
 𠋃	rfgzyu	1
+𠋁	lyxn	1
 𠋀	rfys	1
 𠊿	rfxr	1
 𠊾	rfgv	1
@@ -91259,6 +92035,8 @@ sort: original
 𠇏	rfjb	1
 𠇎	rfkl	1
 𠇎	rfgr	1
+𠇍	rfxnna	1
+𠇍	rfxndm	1
 𠇌	yyrf	1
 𠇋	rfkd	1
 𠇈	rfvi	1
@@ -91608,6 +92386,7 @@ sort: original
 𠂫	bmnd	1
 𠂪	ndbm	1
 𠂨	ppce	1
+𠂧	pperhgsi	1
 𠂥	ppcs	1
 𠂤	huve	1
 𠂡	jieruu	1
@@ -95960,6 +96739,7 @@ sort: original
 雤	jqycmivv	1
 雤	jqycbcvv	1
 難	gedavv	1
+難	cckzfuvv	1
 離	livv	1
 雡	yuvfvv	1
 雡	yurfujvv	1
@@ -101810,7 +102590,9 @@ sort: original
 蠻	miyjmiis	1
 蠻	lris	1
 蠺	tmtmriisis	1
+蠹	hgvsmiuiky	1
 蠹	hgvsmiuiisis	1
+蠹	hgvsbcuiky	1
 蠹	hgvsbcuiisis	1
 蠸	ishr	1
 蠸	isgr	1
@@ -102006,6 +102788,8 @@ sort: original
 蟙	isybge	1
 蟘	iste	1
 蟘	isdd	1
+蟗	hgvsmiiuis	1
+蟗	hgvsbciuis	1
 蟗	hgkzuutsiuis	1
 蟗	hgkzuujsiuis	1
 蟖	issi	1
@@ -103236,8 +104020,10 @@ sort: original
 葌	ccjm	1
 葋	ccqu	1
 葊	ccyj	1
+葊	ccnshe	1
 葊	cchens	1
 葊	cchegs	1
+葊	ccgshe	1
 葉	ccye	1
 葉	ccuimu	1
 葈	tdmu	1
@@ -103799,6 +104585,7 @@ sort: original
 艵	bkse	1
 艴	fuse	1
 艱	gedagf	1
+艱	cckzfugf	1
 艮	vehghggzhggz	1
 艭	vzul	1
 艬	vzij	1
@@ -110281,6 +111068,8 @@ sort: original
 珯	whlc	1
 珮	yujiza	1
 珮	yujihgjb	1
+珮	yujibi	1
+珮	whjibi	1
 珬	yuxu	1
 珬	yuwuhg	1
 珬	whxu	1
@@ -111126,6 +111915,7 @@ sort: original
 熰	hokz	1
 熰	hogz	1
 熯	hogeda	1
+熯	hocckzfu	1
 熮	hoyuvf	1
 熮	hoyurfuj	1
 熮	hoyurfsj	1
@@ -112006,6 +112796,7 @@ sort: original
 漣	uvlm	1
 漣	uvlj	1
 漢	uvgeda	1
+漢	uvcckzfu	1
 漡	uvuh	1
 漡	uvrfythgwu	1
 漡	uvrfyh	1
@@ -113133,6 +113924,7 @@ sort: original
 歏	nmvssjqm	1
 歏	jbqm	1
 歎	gedaqm	1
+歎	cckzfuqm	1
 歍	yaqm	1
 歍	wuqm	1
 歋	siqm	1
@@ -113193,7 +113985,9 @@ sort: original
 欞	mulk	1
 欝	muycmuwhgfcy	1
 欝	muycmusigfcy	1
+欝	fjwhjt	1
 欝	fjwhgfcy	1
+欝	fjsijt	1
 欝	fjsigfcy	1
 欜	munh	1
 欛	muba	1
@@ -113220,7 +114014,9 @@ sort: original
 欏	mulo	1
 欎	muycmumigfcy	1
 欎	muycmubcgfcy	1
+欎	fjmijt	1
 欎	fjmigfcy	1
+欎	fjbcjt	1
 欎	fjbcgfcy	1
 欍	mujq	1
 欌	much	1
@@ -113306,7 +114102,9 @@ sort: original
 櫞	muyr	1
 櫝	mumd	1
 櫜	hgvstsiudd	1
+櫜	hgvsmijqmu	1
 櫜	hgvsjsiudd	1
+櫜	hgvsbcjqmu	1
 櫛	mujp	1
 櫚	mumflv	1
 櫚	mulv	1
@@ -114668,6 +115466,7 @@ sort: original
 暷	riur	1
 暶	rixr	1
 暵	rigeda	1
+暵	ricckzfu	1
 暳	rihv	1
 暳	rifgfguj	1
 暲	rivh	1
@@ -117175,6 +117974,7 @@ sort: original
 悪	yaxb	1
 悩	xbxnyixs	1
 悩	xbxnyikj	1
+悩	xbxnxs	1
 悧	xbli	1
 悥	yjxb	1
 悤	csxb	1
@@ -117640,6 +118440,7 @@ sort: original
 彀	uimihggsjiyz	1
 彀	uibchggsuu	1
 彀	uibchggsjiyz	1
+弿	bcjkhgbags	1
 弿	bcjkdags	1
 弾	gsdj	1
 弽	gsye	1
@@ -119121,6 +119922,7 @@ sort: original
 嫪	nvlu	1
 嫪	nvlq	1
 嫨	nvgeda	1
+嫨	nvcckzfu	1
 嫧	nvvd	1
 嫧	nvze	1
 嫥	nvvr	1
@@ -119412,6 +120214,7 @@ sort: original
 姶	nvhe	1
 姵	nvjiza	1
 姵	nvjihgjb	1
+姵	nvjibi	1
 姴	lpnv	1
 姳	nvmk	1
 姲	nvan	1
@@ -120643,6 +121446,7 @@ sort: original
 囐	kzxi	1
 囐	kzso	1
 囏	gedaxi	1
+囏	cckzfuxi	1
 囎	kzzg	1
 囍	xixi	1
 囍	uikzbahgkzuikzbahgkz	1
@@ -120947,6 +121751,7 @@ sort: original
 嘇	kzuf	1
 嘇	kzcj	1
 嘆	kzgeda	1
+嘆	kzcckzfu	1
 嘅	kzji	1
 嘄	kzxn	1
 嘃	kzys	1
@@ -121430,6 +122235,7 @@ sort: original
 叕	ulul	1
 叓	vikz	1
 叓	uikzyz	1
+叓	hgvsyz	1
 叒	yzyzyz	1
 叒	yzul	1
 叐	ppyz	1
@@ -122072,6 +122878,7 @@ sort: original
 凪	jivi	1
 凩	jimu	1
 凨	jiyy	1
+凨	fjhgsi	1
 凧	jijb	1
 処	wfji	1
 凥	uiji	1
@@ -122183,6 +122990,7 @@ sort: original
 冔	mcxu	1
 冔	jserxu	1
 冓	jkzd	1
+冓	jkhgrj	1
 冑	yzyt	1
 冑	yztser	1
 冑	yzmc	1
@@ -122509,6 +123317,7 @@ sort: original
 傾	rfkv	1
 傽	rfvh	1
 傼	rfgeda	1
+傼	rfcckzfu	1
 傺	rfji	1
 傹	rfjk	1
 傸	rful	1
@@ -122867,6 +123676,7 @@ sort: original
 佧	rfka	1
 佦	rfui	1
 佥	rfhgxnhg	1
+佥	jixnhg	1
 佤	rfwa	1
 佢	rfju	1
 佡	rfxm	1
@@ -124675,6 +125485,10 @@ sort: original
 䥙	jbvv	1
 䥙	jbsv	1
 䥙	jbdv	1
+䥘	jbrfrfrfrfyt	1
+䥘	jbrfrfrfrfri	1
+䥘	jbcscsyt	1
+䥘	jbcscsri	1
 䥗	jbkr	1
 䥖	jbdm	1
 䥕	jbbi	1
@@ -125035,6 +125849,8 @@ sort: original
 䡘	iedm	1
 䡗	gsju	1
 䡗	gsie	1
+䡖	juhgbatu	1
+䡖	iehgbatu	1
 䡕	juig	1
 䡕	ieig	1
 䡔	judo	1
@@ -126469,6 +127285,7 @@ sort: original
 䎱	lwba	1
 䎰	lwvo	1
 䎰	lwco	1
+䎯	lwcckzfu	1
 䎮	lwvd	1
 䎮	lwui	1
 䎮	lwdi	1
@@ -126977,6 +127794,7 @@ sort: original
 䊆	jqmi	1
 䊅	mimk	1
 䊄	gsmi	1
+䊃	mijibi	1
 䊂	mici	1
 䊁	mixm	1
 䊀	migu	1
@@ -127606,6 +128424,7 @@ sort: original
 䁪	muvj	1
 䁩	muyu	1
 䁨	mugo	1
+䁧	mucckzfu	1
 䁦	muco	1
 䁥	muni	1
 䁤	muvd	1
@@ -129715,6 +130534,7 @@ sort: original
 㧬	gsuz	1
 㧫	uzer	1
 㧪	uzww	1
+㧩	uzjibi	1
 㧨	uzhz	1
 㧧	uzlq	1
 㧦	uzxy	1
@@ -131209,6 +132029,7 @@ sort: original
 㔰	fhwd	1
 㔯	klyj	1
 㔯	fhyj	1
+㔮	cckzfung	1
 㔭	biui	1
 㔬	bizc	1
 㔫	zobi	1
@@ -131352,18 +132173,32 @@ sort: original
 㓀	mibo	1
 㓀	bcbu	1
 㓀	bcbo	1
+㒿	tserli	1
+㒿	tsergu	1
+㒿	tserii	1
 㒿	mierli	1
 㒿	miergu	1
 㒿	mierii	1
+㒿	jserli	1
+㒿	jsergu	1
+㒿	jserii	1
 㒿	bcerli	1
 㒿	bcergu	1
 㒿	bcerii	1
+㒾	tserui	1
 㒾	mierui	1
+㒾	jserui	1
 㒾	bcerui	1
+㒽	tserjr	1
 㒽	mierjr	1
+㒽	jserjr	1
 㒽	bcerjr	1
+㒻	tserxm	1
+㒻	tserjm	1
 㒻	mierxm	1
 㒻	mierjm	1
+㒻	jserxm	1
+㒻	jserjm	1
 㒻	bcerxm	1
 㒻	bcerjm	1
 㒹	vfvf	1
@@ -131529,6 +132364,7 @@ sort: original
 㐯	yilvxl	1
 㐯	tzlvxl	1
 㐮	yibajkhg	1
+㐮	lqjkhgyi	1
 㐭	yihv	1
 㐭	tzhv	1
 㐬	tuir	1
